@@ -17,7 +17,7 @@ tags:
 ---
 Brüche bzw. Stammbrüche könnten zunächst über einige Zeit nur als **Wörter** eingeführt werden. 
 
-Dies hätte den Vorteil, dass Grundvorstellungen der Addition, Subtraktion und Division (wenn Division entsprechend [[Division Brüche vs. Addition]] eingeführt wird) von Brüchen mit gleichen Nennern sehr intuitiv sind.
+Dies hätte den Vorteil, dass Grundvorstellungen der Addition, Subtraktion und Division (wenn Division entsprechend [Division Brüche vs. Addition](Division%20Br%C3%BCche%20vs.%20Addition.md) eingeführt wird) von Brüchen mit gleichen Nennern sehr intuitiv sind.
 Die Multiplikation von natürlichen Zahlen und Brüchen ist ebenfalls sehr intuitiv.
 
 Die Vorstellung, dass man nur Objekte gleichen Typs miteinander verrechnen kann, ist schon bekannt; oft in Form von: 

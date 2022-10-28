@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Division Brüche vs. Addition.md",
-                "mode": "preview",
+                "file": "content/_index.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Division Brüche vs. Addition.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Division Brüche vs. Addition.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Division Brüche vs. Addition.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -136,13 +136,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "be486855701a0dcf",
+  "active": "b00cd49974197310",
   "lastOpenFiles": [
-    "content/notes/Idee Einführung Brüche.md",
-    "content/notes/hosting.md",
-    "content/notes/ich.md",
-    "content/_index.md",
     "content/notes/setup.md",
+    "content/Idee Einführung Brüche.md",
+    "content/Division Brüche vs. Addition.md",
+    "content/notes/hosting.md",
+    "content/ich.md",
+    "content/_index.md",
     "content/notes/obsidian.md",
     "content/notes/philosophy.md"
   ]
