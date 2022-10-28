@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/ich.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/ich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/ich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/ich.md"
               }
             }
           }
@@ -137,5 +137,11 @@
     "collapsed": true
   },
   "active": "be486855701a0dcf",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "content/notes/setup.md",
+    "content/notes/ich.md",
+    "content/notes/obsidian.md",
+    "content/notes/philosophy.md",
+    "content/_index.md"
+  ]
 }
