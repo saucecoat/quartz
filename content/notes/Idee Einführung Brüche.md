@@ -1,19 +1,19 @@
 ---
 title: "Idee Einführung Brüche"
 tags:
-	- mathe 
-	- bruch 
-	- fraction 
-	- unterricht 
-	- einführung 
-	- didaktik 
-	- grundvorstellung 
-	- einstieg 
-	- podcast 
-	- makingmathmoments unit_fraction 
-	- stammbruch 
-	- aufteilen 
-	- verteilen
+- mathe 
+- bruch 
+- fraction 
+- unterricht 
+- einführung 
+- didaktik 
+- grundvorstellung 
+- einstieg 
+- podcast 
+- makingmathmoments unit_fraction 
+- stammbruch 
+- aufteilen 
+- verteilen
 ---
 Brüche bzw. Stammbrüche könnten zunächst über einige Zeit nur als **Wörter** eingeführt werden. 
 

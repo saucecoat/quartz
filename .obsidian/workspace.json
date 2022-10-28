@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Idee Einführung Brüche.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Idee Einführung Brüche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Idee Einführung Brüche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/Idee Einführung Brüche.md"
               }
             }
           }
@@ -138,9 +138,10 @@
   },
   "active": "be486855701a0dcf",
   "lastOpenFiles": [
+    "content/notes/hosting.md",
+    "content/notes/ich.md",
     "content/notes/Idee Einführung Brüche.md",
     "content/_index.md",
-    "content/notes/ich.md",
     "content/notes/setup.md",
     "content/notes/obsidian.md",
     "content/notes/philosophy.md"
