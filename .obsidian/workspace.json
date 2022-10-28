@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Division Brüche vs. Addition.md",
-                "mode": "source",
+                "file": "content/Division_Brüche_vs_Addition.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Division Brüche vs. Addition.md",
+                "file": "content/Division_Brüche_vs_Addition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Division Brüche vs. Addition.md",
+                "file": "content/Division_Brüche_vs_Addition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Division Brüche vs. Addition.md"
+                "file": "content/Division_Brüche_vs_Addition.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "be486855701a0dcf",
   "lastOpenFiles": [
-    "content/Idee Einführung Brüche.md",
-    "content/Division Brüche vs. Addition.md",
+    "content/Idee_Einführung_Brüche.md",
+    "content/Division_Brüche_vs_Addition.md",
     "content/ich.md",
     "content/_index.md",
     "content/notes/setup.md",
