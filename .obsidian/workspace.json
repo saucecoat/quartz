@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
+                "file": "content/Parabeln_basteln.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
+                "file": "content/Parabeln_basteln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
+                "file": "content/Parabeln_basteln.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md"
+                "file": "content/Parabeln_basteln.md"
               }
             }
           }
@@ -138,13 +139,13 @@
   },
   "active": "e9b71b683a2757e7",
   "lastOpenFiles": [
+    "content/Idee_Einführung_Brüche.md",
     "content/Parabeln_basteln.md",
     "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
     "content/_index.md",
     "content/ich.md",
     "content/How to fold a parabola in a piece of paper.md",
     "content/templates/post.md",
-    "content/Idee_Einführung_Brüche.md",
     "content/Division_Brüche_vs_Addition.md",
     "screenshot.png",
     "content/notes/updating.md"
