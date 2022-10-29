@@ -20,6 +20,8 @@ description:
 page_title:
   "Meistens Mathe"
 links:
+  - link_name: Impressum
+    link: https://meistensmathe.de/Impressum
   - link_name: Twitter
     link: https://twitter.com/RuedigerSimpson
   - link_name: Github
