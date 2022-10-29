@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Simon Koch
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -9,7 +9,7 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
 GitHubLink: https://github.com/saucecoat/quartz/tree/hugo/content
 enableSemanticSearch: false
