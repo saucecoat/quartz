@@ -21,7 +21,7 @@ tags:
 Geogebra: https://www.geogebra.org/m/MW8yC9Tv
 
 # Falten
-![images/fold_parabola.mp4](images/fold_parabola.mp4)
+![images/fold_parabola.gif](images/fold_parabola.gif)
 
 Quelle: [How to fold a parabola in a piece of paper](How%20to%20fold%20a%20parabola%20in%20a%20piece%20of%20paper.md)
 
