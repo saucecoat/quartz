@@ -23,5 +23,5 @@ Wenn man Brüche dividieren will, kann man sie auch auf den selben Nenner bringe
 Dies kann im Unterricht als [Division von Brüchen mit Gläsern](Division_von_Brüchen_mit_Gläsern.md) umgesetzt werden. 
 Besonders wenn man Brüche mit der [Idee Einführung Brüche](Idee_Einführung_Brüche.md) eingeführt hat.
 
-Thinkg Tasks: [Thinking Division Brüche](Thinking Division Brüche.md)
+Thinkg Tasks: [Thinking Division Brüche](Thinking_Division_Brüche.md)
 

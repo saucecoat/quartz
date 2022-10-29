@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Division_Brüche_vs_Addition.md",
-                "mode": "preview",
+                "file": "content/Parabeln basteln.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Division_Brüche_vs_Addition.md",
+                "file": "content/Parabeln basteln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Division_Brüche_vs_Addition.md",
+                "file": "content/Parabeln basteln.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Division_Brüche_vs_Addition.md"
+                "file": "content/Parabeln basteln.md"
               }
             }
           }
@@ -138,13 +138,15 @@
   },
   "active": "be486855701a0dcf",
   "lastOpenFiles": [
+    "content/images/Parabel-Faden-Lineal.png",
+    "content/images/Parabel_gerade_Strecken.png",
+    "content/images/github-actions.png",
+    "content/images/github-pages.png",
+    "content/Parabeln basteln.md",
+    "content/ich.md",
     "content/Idee_Einführung_Brüche.md",
     "content/Division_Brüche_vs_Addition.md",
-    "content/ich.md",
     "content/_index.md",
-    "content/notes/setup.md",
-    "content/notes/hosting.md",
-    "content/notes/obsidian.md",
-    "content/notes/philosophy.md"
+    "content/notes/setup.md"
   ]
 }
