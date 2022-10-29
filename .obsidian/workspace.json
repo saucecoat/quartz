@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Das_ist_ein_Test.md",
+                "file": "content/private/Das_ist_ein_Test.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Das_ist_ein_Test.md",
+                "file": "content/private/Das_ist_ein_Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Das_ist_ein_Test.md",
+                "file": "content/private/Das_ist_ein_Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Das_ist_ein_Test.md"
+                "file": "content/private/Das_ist_ein_Test.md"
               }
             }
           }
@@ -140,7 +140,7 @@
   "lastOpenFiles": [
     "content/Datenschutzerklärung.md",
     "content/Impressum.md",
-    "content/Das_ist_ein_Test.md",
+    "content/private/Das_ist_ein_Test.md",
     "content/Idee_Einführung_Brüche.md",
     "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
     "README.md",
