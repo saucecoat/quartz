@@ -13,26 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Parabeln falten und das Lösen von kubischen Gleichungen.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "2ab047fb49ee2b02",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c980bb0161c7ed1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
-                "mode": "preview",
                 "source": true
               }
             }
@@ -87,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1dc52949b1e6b056",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Parabeln falten und das Lösen von kubischen Gleichungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Parabeln falten und das Lösen von kubischen Gleichungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/Parabeln falten und das Lösen von kubischen Gleichungen.md"
               }
             }
           }
@@ -157,8 +138,8 @@
   },
   "active": "e9b71b683a2757e7",
   "lastOpenFiles": [
-    "content/Parabeln falten und das Lösen von kubischen Gleichungen.md",
     "content/_index.md",
+    "content/Parabeln falten und das Lösen von kubischen Gleichungen.md",
     "content/ich.md",
     "content/Parabeln basteln.md",
     "content/How to fold a parabola in a piece of paper.md",
