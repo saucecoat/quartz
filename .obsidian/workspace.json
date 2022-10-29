@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Parabeln basteln.md",
+                "file": "content/Parabeln falten und das Lösen von kubischen Gleichungen.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Parabeln basteln.md",
+                "file": "content/Parabeln falten und das Lösen von kubischen Gleichungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Parabeln basteln.md",
+                "file": "content/Parabeln falten und das Lösen von kubischen Gleichungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Parabeln basteln.md"
+                "file": "content/Parabeln falten und das Lösen von kubischen Gleichungen.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "e9b71b683a2757e7",
   "lastOpenFiles": [
-    "content/Folding parabolas and solving cubics and Lill's Method.md",
     "content/Parabeln basteln.md",
+    "content/Parabeln falten und das Lösen von kubischen Gleichungen.md",
     "content/How to fold a parabola in a piece of paper.md",
     "content/templates/post.md",
     "content/Idee_Einführung_Brüche.md",
