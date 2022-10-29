@@ -1,8 +1,8 @@
 [404_message]
-other = "Hey! You look a little lost. This page doesn't exist (or may be private)."
+other = "Hey! Hast du dich verirrt? Diese Seite existiert leider nicht (oder ist privat)."
 
 [404_back]
-other = "↳ Let's get you home."
+other = "↳ Zurück zur Startseite."
 
 [all_posts]
 other = "Alle {{.Title}}"
