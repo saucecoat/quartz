@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9e6e7c1ecc16cc9f",
+        "id": "fb889426c64ae785",
         "type": "tabs",
         "children": [
           {
-            "id": "4f741dff9c29f420",
+            "id": "252326d9303b8aff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9a0522c74a9ec408",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Das ist ein Test.md",
+                "file": "content/Das_ist_ein_Test.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Das ist ein Test.md",
+                "file": "content/Das_ist_ein_Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Das ist ein Test.md",
+                "file": "content/Das_ist_ein_Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Das ist ein Test.md"
+                "file": "content/Das_ist_ein_Test.md"
               }
             }
           }
@@ -149,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9a0522c74a9ec408",
+  "active": "252326d9303b8aff",
   "lastOpenFiles": [
     "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
     "content/Datenschutzerklärung.md",
-    "README.md",
     "content/Impressum.md",
+    "content/Das_ist_ein_Test.md",
+    "README.md",
     "content/Parabeln_basteln.md",
     "content/Idee_Einführung_Brüche.md",
     "content/_index.md",
     "content/ich.md",
-    "content/How to fold a parabola in a piece of paper.md",
-    "content/templates/post.md"
+    "content/How to fold a parabola in a piece of paper.md"
   ]
 }

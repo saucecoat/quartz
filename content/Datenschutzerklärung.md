@@ -1,6 +1,6 @@
 ---
 title: "Datenschutzerklärung"
-date: "2022-10-29"
+date: "2022-10-27"
 tags: []
 ---
 
