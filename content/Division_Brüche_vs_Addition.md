@@ -1,5 +1,6 @@
 ---
 title: "Division Brüche vs. Addition"
+date: "2022-10-29"
 tags:
 - mathe 
 - math 
