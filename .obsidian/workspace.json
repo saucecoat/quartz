@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Parabeln falten und das Lösen von kubischen Gleichungen.md",
-                "mode": "source",
+                "file": "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Parabeln falten und das Lösen von kubischen Gleichungen.md",
+                "file": "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Parabeln falten und das Lösen von kubischen Gleichungen.md",
+                "file": "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Parabeln falten und das Lösen von kubischen Gleichungen.md"
+                "file": "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md"
               }
             }
           }
@@ -138,10 +138,10 @@
   },
   "active": "e9b71b683a2757e7",
   "lastOpenFiles": [
-    "content/_index.md",
-    "content/Parabeln falten und das Lösen von kubischen Gleichungen.md",
-    "content/ich.md",
     "content/Parabeln basteln.md",
+    "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
+    "content/_index.md",
+    "content/ich.md",
     "content/How to fold a parabola in a piece of paper.md",
     "content/templates/post.md",
     "content/Idee_Einführung_Brüche.md",

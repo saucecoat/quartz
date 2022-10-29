@@ -14,7 +14,7 @@ Geogebra: https://www.geogebra.org/m/MW8yC9Tv
 Quelle: https://twitter.com/matthen2/status/1326031733913874432
 Erklärung: https://twitter.com/hagner_kyle/status/1536015559443288066#m
 
-Zum Lösen von kubischen Gleichungen durch Falten siehe auch: [Parabeln falten und das Lösen von kubischen Gleichungen](content/Parabeln%20falten%20und%20das%20Lösen%20von%20kubischen%20Gleichungen.md)
+Zum Lösen von kubischen Gleichungen durch Falten siehe auch: [Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen](content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md)
 
 # Strecken zwischen zwei parallelen Geraden zeichnen
 ![images/Parabel_gerade_Strecken.png](images/Parabel_gerade_Strecken.png)
