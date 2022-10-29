@@ -1,5 +1,6 @@
 ---
 title: "Parabeln basteln"
+date: "2022-10-29"
 tags:
 - math 
 - mathe 

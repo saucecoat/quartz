@@ -1,5 +1,6 @@
 ---
 title: "Idee Einführung Brüche"
+date: "2022-10-29"
 tags:
 - mathe 
 - bruch 
