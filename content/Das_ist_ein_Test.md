@@ -8,4 +8,4 @@ Das ist ein [Parabeln basteln](Parabeln_basteln.md). Geht das auch? [[Parabeln_b
 
 Das ist ein Bild:
 
-![[Parabel_gerade_Strecken.png]]
+![[images/Parabel_gerade_Strecken.png]]
