@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4acebd4c69974481",
+        "id": "478d165af5de75a9",
         "type": "tabs",
         "children": [
           {
-            "id": "2d9a09e3a82a37cd",
+            "id": "48b692682bd66341",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/Impressum.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -136,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d9a09e3a82a37cd",
+  "active": "48b692682bd66341",
   "lastOpenFiles": [
+    "content/Impressum.md",
     "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
     "content/Parabeln_basteln.md",
     "content/Idee_Einführung_Brüche.md",
@@ -146,7 +147,6 @@
     "content/How to fold a parabola in a piece of paper.md",
     "content/templates/post.md",
     "content/Division_Brüche_vs_Addition.md",
-    "screenshot.png",
-    "content/notes/updating.md"
+    "screenshot.png"
   ]
 }
