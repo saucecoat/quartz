@@ -22,5 +22,14 @@
       ],
       "key": "L"
     }
+  ],
+  "backlink:open": [],
+  "backlink:toggle-backlinks-in-document": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
   ]
 }

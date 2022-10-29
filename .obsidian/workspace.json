@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "341f59388944893d",
+            "id": "e9b71b683a2757e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Idee_Einführung_Brüche.md",
+                "file": "content/Parabeln basteln.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Idee_Einführung_Brüche.md",
+                "file": "content/Parabeln basteln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Idee_Einführung_Brüche.md",
+                "file": "content/Parabeln basteln.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Idee_Einführung_Brüche.md"
+                "file": "content/Parabeln basteln.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "341f59388944893d",
+  "active": "e9b71b683a2757e7",
   "lastOpenFiles": [
-    "content/Division_Brüche_vs_Addition.md",
-    "content/Idee_Einführung_Brüche.md",
+    "content/Folding parabolas and solving cubics and Lill's Method.md",
     "content/Parabeln basteln.md",
-    "screenshot.png",
-    "content/ich.md",
-    "content/_index.md",
-    "content/notes/updating.md",
-    "content/notes/callouts.md",
+    "content/How to fold a parabola in a piece of paper.md",
     "content/templates/post.md",
-    "content/notes/setup.md"
+    "content/Idee_Einführung_Brüche.md",
+    "content/Division_Brüche_vs_Addition.md",
+    "content/ich.md",
+    "screenshot.png",
+    "content/_index.md",
+    "content/notes/updating.md"
   ]
 }
