@@ -1,6 +1,6 @@
 baseURL = "https://meistensmathe.de/"
-defaultContentLanguage = "de-de"
-languageCode = "de-de"
+defaultContentLanguage = "de"
+languageCode = "de"
 googleAnalytics = ""
 relativeURLs = false
 disablePathToLower = true
