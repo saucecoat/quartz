@@ -1,6 +1,6 @@
 {
   "livePreview": false,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "newLinkFormat": "shortest",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
