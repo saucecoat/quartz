@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Distributivgesetz_beim_Skalarprodukt.md",
+                "file": "content/Pythagoras_mit_dem_Skalarprodukt.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Distributivgesetz_beim_Skalarprodukt.md",
+                "file": "content/Pythagoras_mit_dem_Skalarprodukt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Distributivgesetz_beim_Skalarprodukt.md",
+                "file": "content/Pythagoras_mit_dem_Skalarprodukt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Distributivgesetz_beim_Skalarprodukt.md"
+                "file": "content/Pythagoras_mit_dem_Skalarprodukt.md"
               }
             }
           }
@@ -138,13 +139,13 @@
   },
   "active": "31bc9002b08253e2",
   "lastOpenFiles": [
+    "content/Distributivgesetz_beim_Skalarprodukt.md",
+    "content/Pythagoras_mit_dem_Skalarprodukt.md",
     "content/Filmempfehlungen_mit_dem_Skalarprodukt.md",
     "content/Günther_Malle_Didaktisches_Vektorkonzept.md",
     "content/Henn_Filler_Vektorbegriff.md",
     "Untitled 1.md",
     "Untitled 2.md",
-    "content/Distributivgesetz_beim_Skalarprodukt.md",
-    "content/Pythagoras_mit_dem_Skalarprodukt.md",
     "content/Anwendungen_des_Skalarprodukts.md",
     "content/Katzen.md",
     "content/Das_kartesische_Koordinatensystem_als_Aspirin.md"
