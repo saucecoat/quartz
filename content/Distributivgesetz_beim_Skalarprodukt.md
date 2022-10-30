@@ -9,7 +9,7 @@ $$\vec{a}\cdot\vec{b}=|\vec{a}|\cdot|\vec{b}|\cdot cos(\vartheta)=|\vec{a}|\cdot
 
 The dot product of $\vec{a}$ with $\vec{b}+\vec{c}$ is just the magnitude of $\vec{a}$ times the scalar projection of $\vec{b}+\vec{c}$ onto $\vec{a}$. But that can be broken up into components, after which normal distribution takes over.
 
-$$\begin{aligned}\vec{a}\cdot\left(\vec{b}+\vec{c}\right)&=|\vec{a}|\cdot\left|\left(\vec{b}+\vec{c}\right)_{\vec{a}}\right|\\\\&=|\vec{a}|\cdot\left(|\vec{b}_\vec{a}|+|\vec{c}_\vec{a}|\right)\\\\&=|\vec{a}|\cdot|\vec{b}_\vec{a}|+|\vec{a}|\cdot|\vec{c}_\vec{a}|\\\\&=\vec{a}\cdot\vec{b}+\vec{a}\cdot\vec{c}\end{aligned}$$
+$$\begin{aligned}\vec{a}\cdot\left(\vec{b}+\vec{c}\right)&=|\vec{a}|\cdot\left|\left(\vec{b}+\vec{c}\right)\_{\vec{a}}\right|\\\\&=|\vec{a}|\cdot\left(|\vec{b}\_\vec{a}|+|\vec{c}\_\vec{a}|\right)\\\\&=|\vec{a}|\cdot|\vec{b}\_\vec{a}|+|\vec{a}|\cdot|\vec{c}\_\vec{a}|\\\\&=\vec{a}\cdot\vec{b}+\vec{a}\cdot\vec{c}\end{aligned}$$
 
 Quelle: https://math.stackexchange.com/questions/1215063/prove-the-distributive-property-of-the-dot-product-using-its-geometric-definitio
  
