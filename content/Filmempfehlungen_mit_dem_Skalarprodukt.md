@@ -15,6 +15,4 @@ Mithilfe des Skalarprodukts die Winkel zwischen eigenen Vorlieben und den einzel
 Der Film mit dem Vektor, der den kleinsten Winkel zum Vektor mit den eigenen Vorlieben hat, ist den eigenen Vorlieben am ähnlichsten und sollte deswegen empfohlen werden.
 ![[images/Filme Skalarprodukt Lösung.png]]
 
-**Excel-Datei:**
-![[Netflix Skalarprodukt.xlsx]]
  
