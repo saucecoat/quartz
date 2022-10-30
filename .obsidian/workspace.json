@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "26a26d999fe8f0ef",
+        "id": "3ed5f0aa2432a60e",
         "type": "tabs",
         "children": [
           {
-            "id": "476c34e8fbfb007f",
+            "id": "31bc9002b08253e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Das_kartesische_Koordinatensystem_als_Aspirin.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Das_kartesische_Koordinatensystem_als_Aspirin.md",
+                "file": "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Das_kartesische_Koordinatensystem_als_Aspirin.md",
+                "file": "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Das_kartesische_Koordinatensystem_als_Aspirin.md"
+                "file": "content/Warum_ist_das_Skalarprodukt_so_definiert.md"
               }
             }
           }
@@ -136,17 +132,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "476c34e8fbfb007f",
+  "active": "b00cd49974197310",
   "lastOpenFiles": [
-    "content/Math_anxiety_Math_Moments_194_Zusammenfassung.md",
-    "content/Parabeln_basteln.md",
-    "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
-    "content/Das_kartesische_Koordinatensystem_als_Aspirin.md",
-    "content/Funktion_Maschine.md",
-    "content/Bad_at_math_myth.md",
-    "content/Geradengleichung_mit_und_ohne_Vektoren.md",
+    "content/Filmempfehlungen_mit_dem_Skalarprodukt.md",
+    "content/Günther_Malle_Didaktisches_Vektorkonzept.md",
+    "content/Henn_Filler_Vektorbegriff.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "content/Distributivgesetz_beim_Skalarprodukt.md",
+    "content/Pythagoras_mit_dem_Skalarprodukt.md",
     "content/Anwendungen_des_Skalarprodukts.md",
-    "content/_index.md",
-    "CODE_OF_CONDUCT.md"
+    "content/Katzen.md",
+    "content/Das_kartesische_Koordinatensystem_als_Aspirin.md"
   ]
 }
