@@ -7,6 +7,6 @@ tags: [vektor, vektorbegriff, grundvorstellung, punkt, addition, punkt_vektoradd
 
 
 Wird angewendet in der [Einführung von Vektoren von Flip the Classroom](https://www.youtube.com/watch?v=707drstuWkc).
-Siehe auch [[Henn_Filler_Vektorbegriff]].
+Siehe auch [[Henn_Filler_Vektorbegriff|Henn & Filler - Vektorbegriff]].
 
  
