@@ -9,6 +9,7 @@ Die Geogebra-Links im Artikel funktionieren im Artikel selbst nicht mehr.
 Sie sind jedoch unter den folgenden Adressen zu finden.
 
 **Linear:** https://www.geogebra.org/m/nMDjGmYS
+
 **Sinus:** https://www.geogebra.org/m/UHU5hXfq
 
 Mehr zu Darstellung von Funktionen als Linien zwischen zwei Zahlengeraden in [diesem YouTube-Video](https://www.youtube.com/watch?v=Pp47xzf4wGg).

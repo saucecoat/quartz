@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b3ede3d29f80c9d1",
+        "id": "26a26d999fe8f0ef",
         "type": "tabs",
         "children": [
           {
-            "id": "164166006bc1de67",
+            "id": "476c34e8fbfb007f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Das_kartesische_Koordinatensystem_als_Aspirin.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -132,14 +136,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b00cd49974197310",
+  "active": "476c34e8fbfb007f",
   "lastOpenFiles": [
+    "content/Math_anxiety_Math_Moments_194_Zusammenfassung.md",
     "content/Parabeln_basteln.md",
     "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
     "content/Das_kartesische_Koordinatensystem_als_Aspirin.md",
     "content/Funktion_Maschine.md",
     "content/Bad_at_math_myth.md",
-    "content/Math_Moments_194_Zusammenfassung.md",
     "content/Geradengleichung_mit_und_ohne_Vektoren.md",
     "content/Anwendungen_des_Skalarprodukts.md",
     "content/_index.md",

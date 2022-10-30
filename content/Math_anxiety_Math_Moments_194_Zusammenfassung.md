@@ -7,7 +7,7 @@ tags: [math, mathe, angst, anxiety, trauma, unterricht, schule, make_math_moment
 	- siehe auch [[Bad_at_math_myth]]
 - viele Leute haben wirkliche Traumasymptome, wenn sie Mathe hören [Make Math Moments Podcast Ep. 194](https://yewtu.be/watch?v=LqmRa5PX3sQ&t=930)
 - mit Schülern **herausfinden, wovor sie wirklich Angst haben** durch iteratives Fragen [Make Math Moments Podcast Ep. 194](https://yewtu.be/watch?v=LqmRa5PX3sQ&t=1010)
-	- Relevantes [TikTok von Howie Hua](https://proxitok.herokuapp.com/@howie_hua/video/7154150035171593518) zum Thema *Mathe hassen*
+	- Relevantes [TikTok von Howie Hua](https://proxitok.pabloferreiro.es/@howie_hua/video/7154150035171593518) zum Thema *Mathe hassen*
 - mit solchen Schülern **Ziele** ausmachen, die nicht direkt mit Mathe zu tun haben, sondern mit dem Überkommen der eigenen Angst, z. B. vor der Klassenarbeit **aufschreiben**, dass das Ergebnis der Arbeit nicht so wichtig ist oder bei der nächsten Klassenarbeit nicht zu weinen [Make Math Moments Podcast Ep. 194](https://yewtu.be/watch?v=LqmRa5PX3sQ&t=1090)
 - Man muss die Mathematik im Unterricht nicht "attraktiv" machen, sondern die Idee gut in Mathe zu sein attraktiv machen [Make Math Moments Podcast Ep. 194](https://yewtu.be/watch?v=LqmRa5PX3sQ&t=1440)
 - **gut in Mathe werden, heißt** nicht, dass man direkt einen Mathe-Beruf machen muss, sondern dass wenn man es geschafft hat, **in der einen Sache gut zu werden, von der man sich immer eingeredet hat, dass man sie nicht kann**, dann kann man "alles" erreichen was man will [Make Math Moments Podcast Ep. 194](https://yewtu.be/watch?v=LqmRa5PX3sQ&t=690)
