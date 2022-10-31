@@ -1,70 +1,70 @@
 // Replace this with your own font imports!
 /* fira-code-regular - latin */
 @font-face {
-  font-family: "Fira Code";
+  font-family: 'Fira Code';
   font-style: normal;
   font-weight: 400;
-  src: url("assets/fonts/fira-code-v21-latin-regular.woff2") format("woff2"), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url("assets/fonts/fira-code-v21-latin-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: url('assets/fonts/fira-code-v21-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('assets/fonts/fira-code-v21-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* fira-code-700 - latin */
 @font-face {
-  font-family: "Fira Code";
+  font-family: 'Fira Code';
   font-style: normal;
   font-weight: 700;
-  src: url("assets/fonts/fira-code-v21-latin-700.woff2") format("woff2"), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url("assets/fonts/fira-code-v21-latin-700.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: url('assets/fonts/fira-code-v21-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('assets/fonts/fira-code-v21-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 
 /* inter-regular - latin */
 @font-face {
-  font-family: "Inter";
+  font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
-  src: url("assets/fonts/inter-v12-latin-regular.woff2") format("woff2"), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url("assets/fonts/inter-v12-latin-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: url('assets/fonts/inter-v12-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('assets/fonts/inter-v12-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* inter-600 - latin */
 @font-face {
-  font-family: "Inter";
+  font-family: 'Inter';
   font-style: normal;
   font-weight: 600;
-  src: url("assets/fonts/inter-v12-latin-600.woff2") format("woff2"), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url("assets/fonts/inter-v12-latin-600.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: url('assets/fonts/inter-v12-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('assets/fonts/inter-v12-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* inter-700 - latin */
 @font-face {
-  font-family: "Inter";
+  font-family: 'Inter';
   font-style: normal;
   font-weight: 700;
-  src: url("assets/fonts/inter-v12-latin-700.woff2") format("woff2"), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url("assets/fonts/inter-v12-latin-700.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: url('assets/fonts/inter-v12-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('assets/fonts/inter-v12-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 
 /* source-sans-pro-regular - latin */
 @font-face {
-  font-family: "Source Sans Pro";
+  font-family: 'Source Sans Pro';
   font-style: normal;
   font-weight: 400;
-  src: url("assets/fonts/source-sans-pro-v21-latin-regular.woff2") format("woff2"), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url("assets/fonts/source-sans-pro-v21-latin-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: url('assets/fonts/source-sans-pro-v21-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('assets/fonts/source-sans-pro-v21-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* source-sans-pro-600 - latin */
 @font-face {
-  font-family: "Source Sans Pro";
+  font-family: 'Source Sans Pro';
   font-style: normal;
   font-weight: 600;
-  src: url("assets/fonts/source-sans-pro-v21-latin-600.woff2") format("woff2"), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url("assets/fonts/source-sans-pro-v21-latin-600.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: url('assets/fonts/source-sans-pro-v21-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('assets/fonts/source-sans-pro-v21-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 
 :root {
-  --font-body: "Source Sans Pro";
-  --font-header: "Inter";
-  --font-mono: "Fira Code"
+  --font-body: 'Source Sans Pro';
+  --font-header: 'Inter';
+  --font-mono: 'Fira Code'
 }
 
 // typography
@@ -159,14 +159,14 @@ tbody, li, p {
       & > li {
         counter-increment: subsection;
         &::marker {
-          content: counter(section) "." counter(subsection) "  ";
+          content: counter(section) '.' counter(subsection) '  ';
         }
       }
     }
   }
 
   & > li::marker {
-    content: counter(section) "  ";
+    content: counter(section) '  ';
   }
 
   & > li::marker, & > li > ol > li::marker {
@@ -233,7 +233,7 @@ blockquote {
       background-color: transparent !important;
     }
 
-    & a[href$="#"], &.active a {
+    & a[href$='#'], &.active a {
       opacity: 0.2;
     }
   }
@@ -296,7 +296,7 @@ article {
     border: var(--outlinegray) 1px solid;
     padding: 0.2em 0.5em;
     &::before {
-      content: "#";
+      content: '#';
       margin-right: 0.3em;
       color: var(--outlinegray);
     }
