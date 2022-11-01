@@ -1,5 +1,5 @@
 <!-- set data/config yaml file based on website language -->
-{{ $config := cond (eq $.Site.Language.Lang "en") "config" (printf "config.%s" $.Site.Language.Lang) }}
+{{ $config := cond (eq $.Site.Language.Lang "de") "config" (printf "config.%s" $.Site.Language.Lang) }}
 {{ $data := index $.Site.Data $config }}
 <head>
   <!-- Meta tags -->
@@ -51,8 +51,8 @@
   {{end}}
   {{partial "katex.html" .}}
     
-  <script src="https://unpkg.com/@floating-ui/core@0.7.3"></script>
-  <script src="https://unpkg.com/@floating-ui/dom@0.5.4"></script>
+  <script src="./assets/js/core.js"></script>
+  <script src="./assets/js/dom.js"></script>
   {{ $popover := resources.Get "js/popover.js" | resources.Fingerprint "md5" |
   resources.Minify }}
   <script src="{{$popover.Permalink}}"></script>
