@@ -51,8 +51,8 @@
   {{end}}
   {{partial "katex.html" .}}
     
-  <script src="assets/js/core.js"></script>
-  <script src="assets/js/dom.js"></script>
+  <script src="../../assets/js/core.js"></script>
+  <script src="../../assets/js/dom.js"></script>
   {{ $popover := resources.Get "js/popover.js" | resources.Fingerprint "md5" |
   resources.Minify }}
   <script src="{{$popover.Permalink}}"></script>

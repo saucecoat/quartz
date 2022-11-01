@@ -72,12 +72,10 @@
        url('../fonts/source-sans-pro-v21-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
        url('../fonts/source-sans-pro-v21-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
-
-
 :root {
-  --font-body: 'Source Sans Pro';
-  --font-header: 'Inter';
-  --font-mono: 'Fira Code'
+  --font-body: "Source Sans Pro";
+  --font-header: "Inter";
+  --font-mono: "Fira Code"
 }
 
 // typography
