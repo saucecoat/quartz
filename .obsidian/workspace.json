@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
+                "file": "content/templates/video.md",
                 "mode": "source",
                 "source": true
               }
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
+                "file": "content/templates/video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
+                "file": "content/templates/video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md"
+                "file": "content/templates/video.md"
               }
             }
           }
@@ -164,10 +163,10 @@
   },
   "active": "1c94721bf3b80f4a",
   "lastOpenFiles": [
+    "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
     "content/Squaring_a_rectangle.md",
     "content/Parabeln_basteln.md",
     "content/templates/youtube.md",
-    "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
     "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
     "content/Sparplan_Berechnung.md",
     "content/Pythagoras_Wasser.md",
