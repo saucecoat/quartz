@@ -9,7 +9,6 @@ https://www.101qs.com/2859-circlesquare
 ## Video 
 
 ![[circlesquare.mp4]]
-%%{{< video "images/circlesquare.mp4" "my-5" >}}%%
 
 
 ## Aufgabenmöglichkeiten
