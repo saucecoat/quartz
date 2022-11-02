@@ -25,3 +25,4 @@ tags: [vektor, vektorbegriff, grundvorstellung, punkt, addition, punkt_vektoradd
 - Günther Malle - Didaktisches Vektorkonzept (URL: https://www.oemg.ac.at/DK/Didaktikhefte/2007%20Band%2040/VortragMalle.pdf)
 
 
+
