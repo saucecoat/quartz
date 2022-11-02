@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "f2da09c5fc1a7b11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/templates/video.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Circle-Square.md",
+                "file": "content/templates/video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Circle-Square.md",
+                "file": "content/templates/video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Circle-Square.md"
+                "file": "content/templates/video.md"
               }
             }
           }
@@ -136,9 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8c3c4289cd6bf4d4",
+  "active": "f2da09c5fc1a7b11",
   "lastOpenFiles": [
     "content/Circle-Square.md",
+    "content/templates/video.md",
     "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
     "content/Pythagoras_mit_dem_Skalarprodukt.md",
     "content/Filmempfehlungen_mit_dem_Skalarprodukt.md",
@@ -146,7 +160,6 @@
     "content/Anwendungen_des_Skalarprodukts.md",
     "content/Henn_Filler_Vektorbegriff.md",
     "content/_index.md",
-    "content/Test.md",
-    "content/templates/video.md"
+    "content/Test.md"
   ]
 }
