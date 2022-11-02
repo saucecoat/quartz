@@ -15,6 +15,8 @@ All das sind Sachen, die mir viel Spaß bereiten und darum würde ich dies gerne
 Die Struktur dieser Seite ist nicht die eines klassischen Blogs, sondern ähnelt eher einem Wiki, in dem verschiedene Seiten mit Links untereinander verknüpft sind. Die Verbindungen, die diese Links erzeugen, sind unter jeder Seite als interaktiver Graph dargestellt. Um Inhalte zu bestimmten Themen zu finden, bietet sich die <u>**Suchfunktion**</u> an.
 Diese Art Gedanken zu strukturieren nennt sich auch *Digital Garden*. Dieser [Artikel von Jacky Zhao](https://jzhao.xyz/posts/networked-thought/) erläutert dieses Konzept genauer.
 
+Damit ich in mehreren Jahren die Artikel finde, die ich suche, versehe ich alle meine Beiträge mit <u>**Tags**</u>. Hier findest du eine [Liste aller verwendeten Tags](https://meistensmathe.de/tags) mit den zugehörigen Artikeln.
+
 Also dann viel Spaß beim Durchforsten meines mathematischen Gartens.
 
 Ach und ich mag Katzen 🐈
