@@ -9,7 +9,7 @@ tags: [vektor, vektorbegriff, grundvorstellung, punkt, addition, punkt_vektoradd
 
 # Punkt-Vektor-Addition & Ortsvektor
 **Punkt-Vektor-Addition**: Die dafür übliche Schreibweise $A+\vec{u}=B$ ist weder „falsch“ noch „ungenau“, sie lässt sich in affinen Punkträumen exakt fundieren, siehe etwa (Filler, 2011, S. 203), wenngleich eine derartige Exaktifizierung in der Schule nicht erfolgen wird. (Hell & Finner, S. 106)
-- **Ortsvektor**: Um die Unterscheidung zwischen einer Vektoraddition und einer „Punkt-Vektor-Addition“ zu umgehen, wird letztere in vielen Schulbüchern vermieden und stattdessen das Hilfskonstrukt „Ortsvektor“ eingeführt. Dieses Konstrukt wurde mehrfach kritisiert, siehe etwa ([ Malle, 2005b, S. 12f.](https://www.oemg.ac.at/DK/Didaktikhefte/2007\%20Band\%2040/VortragMalle.pdf).  $\rightarrow$ Probleme mit dem Ortsvektor (Hell & Finner, S. 107 f.)
+- **Ortsvektor**: Um die Unterscheidung zwischen einer Vektoraddition und einer „Punkt-Vektor-Addition“ zu umgehen, wird letztere in vielen Schulbüchern vermieden und stattdessen das Hilfskonstrukt „Ortsvektor“ eingeführt. Dieses Konstrukt wurde mehrfach kritisiert, siehe etwa ([ Malle, 2005b, S. 12f.](https://www.oemg.ac.at/DK/Didaktikhefte/2007%20Band%2040/VortragMalle.pdf).  $\rightarrow$ Probleme mit dem Ortsvektor (Hell & Finner, S. 107 f.)
 
 # Die Stellung von Vektoren als $n$-Tupel im Unterricht
 - Die Art der **Einführung des Vektorbegriffs** und das dazu herangezogene Modell hat einen **recht geringen Einfluss** auf die individuellen Konzepte und Vorstellungen, die Schüler hinsichtlich von Vektoren aufbauen. **Einen größeren Einfluss haben die Kontexte**, innerhalb derer Schüler im Verlaufdes Unterrichts mit Vektoren arbeiten. (Hell & Finner, S. 118)
@@ -22,6 +22,6 @@ tags: [vektor, vektorbegriff, grundvorstellung, punkt, addition, punkt_vektoradd
 
 # Quellen:
 - Hell & Filler - Didaktik der Analytischen Geometrie und Linearen Algebra (ISBN: 978-3-662-43434-5)
-- Günther Malle - Didaktisches Vektorkonzept (URL: https://www.oemg.ac.at/DK/Didaktikhefte/2007\%20Band\%2040/VortragMalle.pdf)
+- Günther Malle - Didaktisches Vektorkonzept (URL: https://www.oemg.ac.at/DK/Didaktikhefte/2007%20Band%2040/VortragMalle.pdf)
 
 

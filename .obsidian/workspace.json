@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "content/Henn_Filler_Vektorbegriff.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a6c90aa2fd79e4f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "content/Circle-Square.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "31bc9002b08253e2",
+  "active": "a6c90aa2fd79e4f1",
   "lastOpenFiles": [
+    "content/templates/video.md",
+    "content/Henn_Filler_Vektorbegriff.md",
+    "content/Circle-Square.md",
     "content/images/circle_square_answer-graph.mp4",
     "content/images/fold_parabola.mp4",
     "content/images/circlesquare.mp4",
-    "content/Circle-Square.md",
-    "content/Henn_Filler_Vektorbegriff.md",
     "content/Sparplan_Berechnung.md",
     "content/European_language_flowchart.md",
     "content/Squaring_a_rectangle.md",
-    "content/Pythagoras_Wasser.md",
-    "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md"
+    "content/Pythagoras_Wasser.md"
   ]
 }
