@@ -8,7 +8,7 @@ https://www.101qs.com/2859-circlesquare
 
 ## Video 
 
-`{{< video src="/circlesquare.mp4" type="video/mp4" preload="true" >}}`
+`{{< video src="/circlesquare.mp4" type="video/mp4" >}}`
 
 
 
@@ -25,4 +25,4 @@ Zur Berechnung dieses Punktes, muss eine **quadratische Gleichung** gelöst werd
 ## Lösung
 
 >! $$x=\frac{2}{2+\sqrt{\pi}}\approx 0,53016 \quad \text{ für } x \in [0;1]$$
->! `{{< video src="/circle_square_answer-graph.mp4" type="video/mp4" preload="auto" >}}` 
+>! `{{< video src="/circle_square_answer-graph.mp4" type="video/mp4" >}}` 
