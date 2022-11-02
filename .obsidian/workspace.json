@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Circle-Square.md",
+                "file": "content/Quadratische_Ergänzung.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Circle-Square.md",
+                "file": "content/Quadratische_Ergänzung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Circle-Square.md",
+                "file": "content/Quadratische_Ergänzung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Circle-Square.md"
+                "file": "content/Quadratische_Ergänzung.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "cb71bf85988adf28",
   "lastOpenFiles": [
-    "content/Quadratische_Ergänzung.md",
     "content/Circle-Square.md",
+    "content/Quadratische_Ergänzung.md",
     "content/templates/iframe.md",
     "Quadratische_Ergänzung 1.md",
     "content/Sparplan_Berechnung.md",
