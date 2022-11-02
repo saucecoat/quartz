@@ -7,6 +7,7 @@ tags: [101questions, area, circle, dan_meyer, thinking_task, flächeninhalt, kre
 https://www.101qs.com/2859-circlesquare
 
 ## Video 
+< video autoplay="true" loop="true" src="https://meistensmathe.de/images/circlesquare.mp4" >
 ![[circlesquare.mp4]]
 
 ## Aufgabenmöglichkeiten

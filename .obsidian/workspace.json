@@ -15,7 +15,6 @@
               "state": {
                 "file": "content/Circle-Square.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": true
               }
             }
@@ -39,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -139,15 +138,15 @@
   },
   "active": "31bc9002b08253e2",
   "lastOpenFiles": [
+    "content/images/circle_square_answer-graph.mp4",
+    "content/images/fold_parabola.mp4",
+    "content/images/circlesquare.mp4",
+    "content/Circle-Square.md",
+    "content/Henn_Filler_Vektorbegriff.md",
     "content/Sparplan_Berechnung.md",
     "content/European_language_flowchart.md",
     "content/Squaring_a_rectangle.md",
     "content/Pythagoras_Wasser.md",
-    "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
-    "content/Länge_Leiter_Angriff_Burg.md",
-    "content/Distributivgesetz_beim_Skalarprodukt.md",
-    "content/Pythagoras_mit_dem_Skalarprodukt.md",
-    "content/Filmempfehlungen_mit_dem_Skalarprodukt.md",
-    "content/Henn_Filler_Vektorbegriff.md"
+    "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md"
   ]
 }
