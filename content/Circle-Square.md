@@ -7,13 +7,8 @@ tags: [101questions, area, circle, dan_meyer, thinking_task, flächeninhalt, kre
 https://www.101qs.com/2859-circlesquare
 
 ## Video 
-{{< rawhtml >}} 
 
-<video width=100% controls autoplay>
-    <source src="images/circlesquare.mp4" type="video/mp4"> 
-</video>
-
-{{< /rawhtml >}}
+{{< video autoplay="true" loop="true" src="images/circlesquare.mp4" >}}
 
 
 ## Aufgabenmöglichkeiten
