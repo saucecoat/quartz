@@ -12,7 +12,7 @@ In meinem Geogebra-Applet lassen sich zwei Regler $a$ und $b$ steuern, welche di
 $$x^2+2ax+b$$
 
 
-<iframe scrolling="no" title="Completing the Square" src="https://www.geogebra.org/material/iframe/id/NsZVkvJu/width/900/height/550/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="900px" height="550px" style="border:0px;"> </iframe>
+<iframe scrolling="no" title="Completing the Square" src="https://www.geogebra.org/material/iframe/id/NsZVkvJu/width/1100/height/550/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="900px" height="550px" style="border:0px;"> </iframe>
 
 # Anwendung
 
