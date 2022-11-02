@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7a001f36eddcd8ab",
+        "id": "b295a72b0b95c215",
         "type": "tabs",
         "children": [
           {
-            "id": "e3cd4db418201099",
+            "id": "cc2e2e08cdd928e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1c94721bf3b80f4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Henn_Filler_Vektorbegriff.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "10ce4b4cfa7bc7a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Squaring_a_rectangle.md",
+                "file": "content/Circle-Square.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Henn_Filler_Vektorbegriff.md",
+                "file": "content/Circle-Square.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Henn_Filler_Vektorbegriff.md",
+                "file": "content/Circle-Square.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Henn_Filler_Vektorbegriff.md"
+                "file": "content/Circle-Square.md"
               }
             }
           }
@@ -161,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c94721bf3b80f4a",
+  "active": "cc2e2e08cdd928e4",
   "lastOpenFiles": [
-    "content/Squaring_a_rectangle.md",
-    "content/Circle-Square.md",
     "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
+    "content/Squaring_a_rectangle.md",
+    "content/Henn_Filler_Vektorbegriff.md",
+    "content/Circle-Square.md",
     "content/templates/youtube.md",
     "content/templates/video.md",
     "content/Parabeln_basteln.md",
     "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
     "content/Sparplan_Berechnung.md",
-    "content/Pythagoras_Wasser.md",
-    "content/Pythagoras_mit_dem_Skalarprodukt.md"
+    "content/Pythagoras_Wasser.md"
   ]
 }
