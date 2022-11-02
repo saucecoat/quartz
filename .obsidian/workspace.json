@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ed35551217dae22f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Test.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Circle-Square.md",
+                "file": "content/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Circle-Square.md",
+                "file": "content/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Circle-Square.md"
+                "file": "content/Test.md"
               }
             }
           }
@@ -136,10 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b3e33505611e7491",
+  "active": "ed35551217dae22f",
   "lastOpenFiles": [
-    "content/templates/video.md",
     "content/Circle-Square.md",
+    "content/templates/video.md",
     "content/Parabeln_basteln.md",
     "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
     "content/Pythagoras_mit_dem_Skalarprodukt.md",
