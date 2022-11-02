@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Henn_Filler_Vektorbegriff.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Henn_Filler_Vektorbegriff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Henn_Filler_Vektorbegriff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/Henn_Filler_Vektorbegriff.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "3b2703f6a207e153",
   "lastOpenFiles": [
+    "content/_index.md",
     "content/Henn_Filler_Vektorbegriff.md",
     "content/Test.md",
     "content/Circle-Square.md",
@@ -159,7 +160,6 @@
     "content/images/fold_parabola.mp4",
     "content/images/circlesquare.mp4",
     "content/Sparplan_Berechnung.md",
-    "content/European_language_flowchart.md",
-    "content/Squaring_a_rectangle.md"
+    "content/European_language_flowchart.md"
   ]
 }
