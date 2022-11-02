@@ -8,7 +8,7 @@ https://www.101qs.com/2859-circlesquare
 
 ## Video 
 
-`{{< video src="images/circlesquare.mp4" type="video/mp4" preload="auto" >}}`
+`{{< video src="/circlesquare.mp4" type="video/mp4" preload="auto" >}}`
 
 
 
