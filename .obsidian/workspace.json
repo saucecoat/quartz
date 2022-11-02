@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b9602cb6b536ebb7",
+        "id": "7a001f36eddcd8ab",
         "type": "tabs",
         "children": [
           {
-            "id": "b3e33505611e7491",
+            "id": "e3cd4db418201099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1c94721bf3b80f4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +32,15 @@
             }
           },
           {
-            "id": "89b07853f667d18e",
+            "id": "10ce4b4cfa7bc7a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
+                "file": "content/Squaring_a_rectangle.md",
                 "mode": "source",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "ed35551217dae22f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -69,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "{{< you",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
+                "file": "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
+                "file": "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Warum_ist_das_Skalarprodukt_so_definiert.md"
+                "file": "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md"
               }
             }
           }
@@ -157,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89b07853f667d18e",
+  "active": "1c94721bf3b80f4a",
   "lastOpenFiles": [
     "content/Squaring_a_rectangle.md",
+    "content/Parabeln_basteln.md",
+    "content/templates/youtube.md",
+    "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
+    "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
     "content/Sparplan_Berechnung.md",
     "content/Pythagoras_Wasser.md",
     "content/Pythagoras_mit_dem_Skalarprodukt.md",
     "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
-    "content/Parabeln_basteln.md",
-    "content/Math_anxiety_Math_Moments_194_Zusammenfassung.md",
-    "content/Länge_Leiter_Angriff_Burg.md",
-    "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
-    "content/templates/youtube.md"
+    "content/Math_anxiety_Math_Moments_194_Zusammenfassung.md"
   ]
 }
