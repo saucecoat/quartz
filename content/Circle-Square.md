@@ -8,14 +8,16 @@ https://www.101qs.com/2859-circlesquare
 
 ## Video 
 < video autoplay="true" loop="true" src="https://meistensmathe.de/images/circlesquare.mp4" >
-![[circlesquare.mp4]]
+
 
 ## Aufgabenmöglichkeiten
 Großartige Aufgabe, um Flächeninhalte von Kreise und Quadraten miteinander in Beziehung zu setzen. 
+
 Je nachdem welche Fragen bei den Schülern aufkommen, können verschiedene Fragestellungen verfolgt werden.
 
 ## Beispiel
 An welchem Punkt $x$ haben beide Figuren denselben Flächeninhalt?
+
 Zur Berechnung dieses Punktes, muss eine **quadratische Gleichung** gelöst werden.
 
 > [!success]- Lösung
