@@ -1,7 +1,7 @@
 ---
 title: "Warum ist das Skalarprodukt so definiert?"
 date: "2022-10-30"
-tags: [math, mathe, lineare_algebra, analytische_geometrie, skalarprodukt, definition, reddit, wikipedia]
+tags: [math, mathe, lineare_algebra, analytische_geometrie, skalarprodukt, dot_product, definition, reddit, wikipedia]
 ---
 - Weder die geometrische Definition noch die Definition in kartesischen Koordinaten ist willkürlich. Beide folgen aus der geometrisch motivierten Forderung, dass das Skalarprodukt eines Vektors mit sich selbst das Quadrat seiner Länge ist, und der algebraisch motivierten Forderung, dass das Skalarprodukt die obigen Eigenschaften 1–3 erfüllt. (Quelle: https://de.wikipedia.org/wiki/Skalarprodukt#Eigenschaften)
 - It's defined like that because it's a useful definition. The dot product allows you to recover all geometric properties of vectors:

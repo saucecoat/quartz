@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c0ebeedbf81d900b",
+        "id": "ec702e82b343c198",
         "type": "tabs",
         "children": [
           {
-            "id": "69d7c0a1050fb436",
+            "id": "8c3c4289cd6bf4d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/Circle-Square.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3b2703f6a207e153",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Henn_Filler_Vektorbegriff.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Henn_Filler_Vektorbegriff.md",
+                "file": "content/Circle-Square.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Henn_Filler_Vektorbegriff.md",
+                "file": "content/Circle-Square.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Henn_Filler_Vektorbegriff.md"
+                "file": "content/Circle-Square.md"
               }
             }
           }
@@ -149,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3b2703f6a207e153",
+  "active": "8c3c4289cd6bf4d4",
   "lastOpenFiles": [
-    "content/_index.md",
-    "content/Henn_Filler_Vektorbegriff.md",
-    "content/Test.md",
     "content/Circle-Square.md",
-    "content/templates/video.md",
-    "content/images/circle_square_answer-graph.mp4",
-    "content/images/fold_parabola.mp4",
-    "content/images/circlesquare.mp4",
-    "content/Sparplan_Berechnung.md",
-    "content/European_language_flowchart.md"
+    "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
+    "content/Pythagoras_mit_dem_Skalarprodukt.md",
+    "content/Filmempfehlungen_mit_dem_Skalarprodukt.md",
+    "content/Distributivgesetz_beim_Skalarprodukt.md",
+    "content/Anwendungen_des_Skalarprodukts.md",
+    "content/Henn_Filler_Vektorbegriff.md",
+    "content/_index.md",
+    "content/Test.md",
+    "content/templates/video.md"
   ]
 }
