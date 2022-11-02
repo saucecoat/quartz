@@ -4,4 +4,6 @@ date: "2022-11-02"
 tags: [math, youtube, horizont, mathe, knorkator, lied, pythagoras, rechtwinkliges_dreieck]
 ---
 
-https://www.youtube.com/watch?v=iK9bhyl6B_E
+{{< youtube iK9bhyl6B_E >}}
+
+Quelle: https://www.youtube.com/watch?v=iK9bhyl6B_E
