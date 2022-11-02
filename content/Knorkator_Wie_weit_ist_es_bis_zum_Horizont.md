@@ -5,7 +5,6 @@ tags: [math, youtube, horizont, mathe, knorkator, lied, pythagoras, rechtwinklig
 ---
 
 
-%%%%
 {{< youtube iK9bhyl6B_E >}}
 
 Quelle: https://www.youtube.com/watch?v=iK9bhyl6B_E

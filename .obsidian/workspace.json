@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/templates/video.md",
+                "file": "content/Henn_Filler_Vektorbegriff.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/templates/video.md",
+                "file": "content/Henn_Filler_Vektorbegriff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/templates/video.md",
+                "file": "content/Henn_Filler_Vektorbegriff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/templates/video.md"
+                "file": "content/Henn_Filler_Vektorbegriff.md"
               }
             }
           }
@@ -163,15 +163,15 @@
   },
   "active": "1c94721bf3b80f4a",
   "lastOpenFiles": [
-    "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
     "content/Squaring_a_rectangle.md",
-    "content/Parabeln_basteln.md",
+    "content/Circle-Square.md",
+    "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
     "content/templates/youtube.md",
+    "content/templates/video.md",
+    "content/Parabeln_basteln.md",
     "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
     "content/Sparplan_Berechnung.md",
     "content/Pythagoras_Wasser.md",
-    "content/Pythagoras_mit_dem_Skalarprodukt.md",
-    "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
-    "content/Math_anxiety_Math_Moments_194_Zusammenfassung.md"
+    "content/Pythagoras_mit_dem_Skalarprodukt.md"
   ]
 }

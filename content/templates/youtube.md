@@ -1,2 +1,1 @@
-%%%%
 {{< youtube YOUTUBE_VIDEO_ID >}}
