@@ -8,7 +8,7 @@ https://www.101qs.com/2859-circlesquare
 
 ## Video 
 
-`{{< video src="/circlesquare.mp4" type="video/mp4" >}}`
+`{{< video src="/circlesquare.mp4" type="video/mp4" preload="true" >}}`
 
 
 
@@ -22,7 +22,6 @@ An welchem Punkt $x$ haben beide Figuren denselben Flächeninhalt?
 
 Zur Berechnung dieses Punktes, muss eine **quadratische Gleichung** gelöst werden.
 
-## Lösung
-
->! $$x=\frac{2}{2+\sqrt{\pi}}\approx 0,53016 \quad \text{ für } x \in [0;1]$$
->! `{{< video src="/circle_square_answer-graph.mp4" type="video/mp4" >}}` 
+> [!success]- Lösung
+> $$x=\frac{2}{2+\sqrt{\pi}}\approx 0,53016 \quad \text{ für } x \in [0;1]$$
+> `{{< video src="/circle_square_answer-graph.mp4" type="video/mp4" preload="true" >}}` 
