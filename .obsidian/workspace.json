@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "cb71bf85988adf28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quadratische_Ergänzung.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Circle-Square.md",
+                "file": "Quadratische_Ergänzung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Circle-Square.md",
+                "file": "Quadratische_Ergänzung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Circle-Square.md"
+                "file": "Quadratische_Ergänzung.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cc2e2e08cdd928e4",
+  "active": "cb71bf85988adf28",
   "lastOpenFiles": [
-    "content/Länge_Leiter_Angriff_Burg.md",
     "content/Circle-Square.md",
+    "content/Sparplan_Berechnung.md",
+    "content/Länge_Leiter_Angriff_Burg.md",
     "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
     "content/Squaring_a_rectangle.md",
     "content/Henn_Filler_Vektorbegriff.md",
     "content/templates/youtube.md",
     "content/templates/video.md",
     "content/Parabeln_basteln.md",
-    "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
-    "content/Sparplan_Berechnung.md"
+    "content/Warum_ist_das_Skalarprodukt_so_definiert.md"
   ]
 }
