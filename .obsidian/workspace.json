@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quadratische_Ergänzung.md",
+                "file": "content/Quadratische_Ergänzung.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quadratische_Ergänzung.md",
+                "file": "content/Quadratische_Ergänzung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quadratische_Ergänzung.md",
+                "file": "content/Quadratische_Ergänzung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quadratische_Ergänzung.md"
+                "file": "content/Quadratische_Ergänzung.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "cb71bf85988adf28",
   "lastOpenFiles": [
+    "content/templates/iframe.md",
+    "content/Quadratische_Ergänzung.md",
+    "Quadratische_Ergänzung 1.md",
     "content/Circle-Square.md",
     "content/Sparplan_Berechnung.md",
     "content/Länge_Leiter_Angriff_Burg.md",
     "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
     "content/Squaring_a_rectangle.md",
     "content/Henn_Filler_Vektorbegriff.md",
-    "content/templates/youtube.md",
-    "content/templates/video.md",
-    "content/Parabeln_basteln.md",
-    "content/Warum_ist_das_Skalarprodukt_so_definiert.md"
+    "content/templates/youtube.md"
   ]
 }
