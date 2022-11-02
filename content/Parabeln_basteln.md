@@ -9,7 +9,7 @@ tags: [math, mathe, basteln, parabel, parabola, lineal, faden, falten, folding, 
 Geogebra: https://www.geogebra.org/m/MW8yC9Tv
 
 # Falten
-![images/fold_parabola.gif](images/fold_parabola.gif)
+`{{< video src="/fold_parabola.mp4" type="video/mp4" preload="auto" >}}`
 
 Quelle: https://twitter.com/matthen2/status/1326031733913874432
 

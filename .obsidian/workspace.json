@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/templates/video.md",
-                "mode": "source",
+                "file": "content/Circle-Square.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/templates/video.md",
+                "file": "content/Circle-Square.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/templates/video.md",
+                "file": "content/Circle-Square.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/templates/video.md"
+                "file": "content/Circle-Square.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "f2da09c5fc1a7b11",
   "lastOpenFiles": [
+    "content/Parabeln_basteln.md",
     "content/Circle-Square.md",
     "content/templates/video.md",
     "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
@@ -159,7 +160,6 @@
     "content/Distributivgesetz_beim_Skalarprodukt.md",
     "content/Anwendungen_des_Skalarprodukts.md",
     "content/Henn_Filler_Vektorbegriff.md",
-    "content/_index.md",
-    "content/Test.md"
+    "content/_index.md"
   ]
 }
