@@ -6,7 +6,7 @@ tags: [alle, math, youtube, twitter, parabel, parabola, constant, konstante, pi,
 
 Genau wie Kreise haben auch [[Parabeln_basteln|Parabeln]] eine universelle Konstante.
 
-![[Universal_Parabolic_Constant.png]]
+![[images/Universal_Parabolic_Constant.png]]
 
 Quelle: https://twitter.com/TamasGorbe/status/1576559428450533377
 
