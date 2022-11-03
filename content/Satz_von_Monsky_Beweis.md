@@ -20,7 +20,9 @@ tags: [alle, math, mathe, p-adic_numbers, p-adische_zahlen, aigner, beweis, drei
 >- Die 2-adische Metrik wird jedoch nicht auf $\mathbb{Q}_{2}$ angewendet, sondern auf das Einheitsquadrat $[0;1]^2\subset \mathbb{R}^2$.
 >- Erklärung, wie $|\cdot|_{2}$ auf $\mathbb{R}$ übertragen werden kann auf [Math Stackexchange](https://math.stackexchange.com/questions/1348581/extending-2-adic-valuation-to-real-numbers), im [Aigner - Das Buch der Beweise, S. 156 ff.](https://link.springer.com/chapter/10.1007/978-3-642-02259-3_20) und bei [Schmitt](https://page.math.tu-berlin.de/~felsner/Lehre/TilingSlides/schmitt_100130_1.pdf#page=17).
 
->2. Mithilfe eines Arguments ähnlich [Sperners Lemma](https://yewtu.be/watch?v=7s-YM-kcKME) wird gezeigt, dass bei **jeder** Zerlegung des Einheitsquadrats in beliebige (nicht einmal notwendigerweise gleich große) Dreiecke, immer mindestens ein Dreieck mit drei verschiedenfarbigen Eckpunkten ("Regenbogendreieck") entsteht.^[In der Veranschaulichung von Aigner (siehe oben) werden Punkt 2 & 3 in umgekehrter Reihenfolge behandelt.]
+>2. Mithilfe eines Arguments ähnlich [Sperners Lemma](https://yewtu.be/watch?v=7s-YM-kcKME) wird gezeigt, dass bei **jeder** Zerlegung des Einheitsquadrats in beliebige (nicht einmal notwendigerweise gleich große) Dreiecke, immer mindestens ein Dreieck mit drei verschiedenfarbigen Eckpunkten ("Regenbogendreieck") entsteht.[^1]
 
 >3. Mithilfe der Determinante wird gezeigt, dass ein "Regenbogendreieck" bei ungeradem $n$ weder den Flächeninhalt $0$ noch den Flächeninhalt $\frac{1}{n}$ haben kann.
 >- Jede Zerlegung, die ein "Regenbogendreieck" beinhaltet, kann also keine gewünschte Zerlegung darstellen, da diese Zerlegung aus $n$ Dreiecke mit einem Flächeninhalt von je $\frac{1}{n}$ bestehen muss.
+
+[^1]: In der Veranschaulichung von Aigner (siehe oben) werden Punkt 2 & 3 in umgekehrter Reihenfolge behandelt.
