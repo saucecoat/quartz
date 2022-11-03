@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Sparplan_Berechnung.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Sparplan_Berechnung.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Sparplan_Berechnung.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Sparplan_Berechnung.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -138,10 +138,10 @@
   },
   "active": "37b0f6ceb10cac04",
   "lastOpenFiles": [
+    "content/Sparplan_Berechnung.md",
     "content/_index.md",
     "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
     "content/Squaring_a_rectangle.md",
-    "content/Sparplan_Berechnung.md",
     "content/Quadratische_Ergänzung.md",
     "content/Pythagoras_Wasser.md",
     "content/Pythagoras_mit_dem_Skalarprodukt.md",

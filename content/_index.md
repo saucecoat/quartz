@@ -1,6 +1,6 @@
 ---
 title: Meistens Mathe
-enableToc: true
+enableToc: false
 ---
 
 # Hallo 
