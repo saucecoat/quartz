@@ -1,7 +1,7 @@
 ---
 title: "Division Brüche vs. Addition"
 date: "2022-10-29"
-tags: [mathe, math, division, addition, bruch, fraction, glas, linkfehlt] 
+tags: [alle, mathe, math, division, addition, bruch, fraction, glas, linkfehlt] 
 ---
 
 ### Addition Brüche

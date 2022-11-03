@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Quadratische_Ergänzung.md",
+                "file": "content/Sparplan_Berechnung.md",
                 "mode": "source",
                 "source": true
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Quadratische_Ergänzung.md",
+                "file": "content/Sparplan_Berechnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Quadratische_Ergänzung.md",
+                "file": "content/Sparplan_Berechnung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Quadratische_Ergänzung.md"
+                "file": "content/Sparplan_Berechnung.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "37b0f6ceb10cac04",
   "lastOpenFiles": [
-    "content/Circle-Square.md",
-    "content/Quadratische_Ergänzung.md",
-    "content/templates/iframe.md",
-    "Quadratische_Ergänzung 1.md",
-    "content/Sparplan_Berechnung.md",
-    "content/Länge_Leiter_Angriff_Burg.md",
-    "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
+    "content/_index.md",
+    "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
     "content/Squaring_a_rectangle.md",
-    "content/Henn_Filler_Vektorbegriff.md",
-    "content/templates/youtube.md"
+    "content/Sparplan_Berechnung.md",
+    "content/Quadratische_Ergänzung.md",
+    "content/Pythagoras_Wasser.md",
+    "content/Pythagoras_mit_dem_Skalarprodukt.md",
+    "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
+    "content/Parabeln_basteln.md",
+    "content/Math_anxiety_Math_Moments_194_Zusammenfassung.md"
   ]
 }

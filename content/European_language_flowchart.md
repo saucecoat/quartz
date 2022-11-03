@@ -1,7 +1,7 @@
 ---
 title: "Welche Sprache ist das"
 date: "2022-11-02"
-tags: [reddit, sprache, language, buchstaben, letter, buchstabe, alphabet, flowchart]
+tags: [alle, reddit, sprache, language, buchstaben, letter, buchstabe, alphabet, flowchart]
 ---
 
 

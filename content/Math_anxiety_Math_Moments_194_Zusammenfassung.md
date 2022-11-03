@@ -1,7 +1,7 @@
 ---
 title: "Math Anxiety - Make Math Moments Podcast #194 Zusammenfassung"
 date: "2022-10-30"
-tags: [math, mathe, angst, anxiety, trauma, unterricht, schule, make_math_moments, podcast, youtube, psychology, schlecht, bad, tiktok, howie_hua]
+tags: [alle, math, mathe, angst, anxiety, trauma, unterricht, schule, make_math_moments, podcast, youtube, psychology, schlecht, bad, tiktok, howie_hua]
 ---
 - "Schlecht in Mathe" gibt es nicht [Make Math Moments Podcast Ep. 194](https://yewtu.be/watch?v=LqmRa5PX3sQ&t=300) 
 	- siehe auch [[Bad_at_math_myth]]

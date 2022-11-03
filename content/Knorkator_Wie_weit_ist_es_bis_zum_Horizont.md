@@ -1,7 +1,7 @@
 ---
 title: "Knorkator - Wie weit ist es bis zum Horizont (Pythagoras)"
 date: "2022-11-02"
-tags: [math, youtube, horizont, mathe, knorkator, lied, pythagoras, rechtwinkliges_dreieck]
+tags: [alle, math, youtube, horizont, mathe, knorkator, lied, pythagoras, rechtwinkliges_dreieck]
 ---
 
 

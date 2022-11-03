@@ -1,7 +1,7 @@
 ---
 title: "Filmempfehlungen mit dem Skalarprodukt"
 date: "2022-10-30"
-tags: [mathe, lineare_algebra, analytische_geometrie, skalarprodukt, netflix, film, empfehlung, recommendation, recommender_system, dot_product, vektor, vector, einstieg]
+tags: [alle, mathe, lineare_algebra, analytische_geometrie, skalarprodukt, netflix, film, empfehlung, recommendation, recommender_system, dot_product, vektor, vector, einstieg]
 ---
 Möglicher Einstieg zur analytischen Geometrie? Motivierend?
 

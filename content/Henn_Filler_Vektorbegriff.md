@@ -1,7 +1,7 @@
 ---
 title: "Henn & Filler - Vektorbegriff"
 date: "2022-10-30"
-tags: [vektor, vektorbegriff, grundvorstellung, punkt, addition, punkt_vektoraddtition, pfeilklassen, ortsvektor, malle, didaktik, lineare_algebra, analytische_geometrie , einführung, hell, filler, arithmetik]
+tags: [alle, vektor, vektorbegriff, grundvorstellung, punkt, addition, punkt_vektoraddtition, pfeilklassen, ortsvektor, malle, didaktik, lineare_algebra, analytische_geometrie , einführung, hell, filler, arithmetik]
 ---
 # Arithmetische Auffassung von Vektoren als $n$-Tupel
 - Um die Schwierigkeiten mit dem Pfeilklassenkonzept zu vermeiden, plädieren u. a. Günter Törner (1982) und Günther Malle (2005b) für eine primär arithmetisch-algebraisch orientierte Behandlung des Vektorbegriffs. (S. 89) Siehe: **[[Günther_Malle_Didaktisches_Vektorkonzept|Günther & Malle - Didaktisches Vektorkonzept]]**

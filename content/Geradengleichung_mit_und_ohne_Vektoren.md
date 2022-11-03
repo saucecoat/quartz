@@ -1,7 +1,7 @@
 ---
 title: "Geradengleichung mit und ohne Vektoren"
 date: "2022-10-30"
-tags: [mathe, analytische_geometrie, gerade, geradengleichung, vektor]
+tags: [alle, mathe, analytische_geometrie, gerade, geradengleichung, vektor]
 ---
 Geraden können im Zweidimensionalen sowohl mithilfe der Geradengleichung $y=mx+b$ (mit der Steigung $m$ und dem y-Achsenabschnitt $b$) als auch mithilfe von Vektoren dargestellt werden.
 

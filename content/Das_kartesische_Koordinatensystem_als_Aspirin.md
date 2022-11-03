@@ -1,7 +1,7 @@
 ---
 title: "Das kartesische Koordinatensystem ist das Aspirin"
 date: "2022-10-30"
-tags: [funktion, function, math, explainlearnrepeat, darstellung, headache, aspirin, dan_meyer, geogebra, graph, cartesian_coordinate, kartesisches_koordinatensystem, koordinatensystem, lineare_funktion, sinus]
+tags: [alle, funktion, function, math, explainlearnrepeat, darstellung, headache, aspirin, dan_meyer, geogebra, graph, cartesian_coordinate, kartesisches_koordinatensystem, koordinatensystem, lineare_funktion, sinus]
 ---
 In [diesem Artikel](https://web.archive.org/web/20180808224920/http://explainlearnrepeat.com/cartesian-coordinates-aspirin/2018/01/03) geht es darum, dass die Darstellung von Funktionen im kartesischen Koordinatensystem, den Zusammenhang von Input und Output einer Funktion auf elegante und simple Art visualisiert.
 

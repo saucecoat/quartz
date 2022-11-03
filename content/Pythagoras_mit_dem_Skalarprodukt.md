@@ -1,7 +1,7 @@
 ---
 title: "Pythagoras mit dem Skalarprodukt"
 date: "2022-10-30"
-tags: [mathe, vektor, skalarprodukt, dot_product, pythagoras, lineare_algebra, analytische_geometrie]
+tags: [alle, mathe, vektor, skalarprodukt, dot_product, pythagoras, lineare_algebra, analytische_geometrie]
 ---
 ![[images/Skalarprodukt Pythagoras.png]]
 

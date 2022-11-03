@@ -1,7 +1,7 @@
 ---
 title: "Sparplan Berechnung"
 date: "2022-11-02"
-tags: [geld, sparplan, monatlich, monat, exponentiell, exponentielles_wachstum, exponential_growth, teleskopsumme, geometrische_reihe, rente, rentenrechnung, anlage, anlegen, aktie, zinseszins]
+tags: [alle, geld, sparplan, monatlich, monat, exponentiell, exponentielles_wachstum, exponential_growth, teleskopsumme, geometrische_reihe, rente, rentenrechnung, anlage, anlegen, aktie, zinseszins]
 ---
 
 **Beispiel für 3 Monate:**

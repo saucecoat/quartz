@@ -1,7 +1,7 @@
 ---
 title: "Optimale Länge einer Leiter für einen Angriff auf eine Burg"
 date: "2022-11-02"
-tags: [math, mathe, podcast, length, länge, leiter, ladder, attack, burg, mittelalter, pythagoras, trigonometry, trigonometrie, dreieck, verhältnis, proportion]
+tags: [alle, math, mathe, podcast, length, länge, leiter, ladder, attack, burg, mittelalter, pythagoras, trigonometry, trigonometrie, dreieck, verhältnis, proportion]
 ---
 ## Quelle
 [Podcast *Opinionated History of Mathematics* (2022-10-11)](https://intellectualmathematics.com/blog/review-of-netzs-new-history-of-greek-mathematics/)

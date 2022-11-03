@@ -1,7 +1,7 @@
 ---
 title: "Circle-Square"
 date: "2022-11-02"
-tags: [101questions, area, circle, dan_meyer, thinking_task, flächeninhalt, kreis, math, quadrat, square, twitter, graph, schnittpunkt, intersection, parabel, parabola, quadratische_gleichung, quadratic]
+tags: [alle, 101questions, area, circle, dan_meyer, thinking_task, flächeninhalt, kreis, math, quadrat, square, twitter, graph, schnittpunkt, intersection, parabel, parabola, quadratische_gleichung, quadratic]
 ---
 ## Quelle
 https://www.101qs.com/2859-circlesquare

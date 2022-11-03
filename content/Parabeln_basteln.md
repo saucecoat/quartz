@@ -1,7 +1,7 @@
 ---
 title: "Parabeln basteln"
 date: "2022-10-29"
-tags: [math, mathe, basteln, parabel, parabola, lineal, faden, falten, folding, strecke, line, straight_line, gerade, zeichnen, cubic, kubische_gleichungen, kubisch] 
+tags: [alle, math, mathe, basteln, parabel, parabola, lineal, faden, falten, folding, strecke, line, straight_line, gerade, zeichnen, cubic, kubische_gleichungen, kubisch] 
 ---
 # Faden und Lineal
 ![images/Parabel-Faden-Lineal.png](images/Parabel-Faden-Lineal.png)

@@ -1,7 +1,7 @@
 ---
 title: "Distributivgesetz beim Skalarprodukt"
 date: "2022-10-30"
-tags: [math, mathe, skalarprodukt, dot_product, distributivgesetz, vector, vektor, lineare_algebra, analytische_geometrie, projektion, projection]
+tags: [alle, math, mathe, skalarprodukt, dot_product, distributivgesetz, vector, vektor, lineare_algebra, analytische_geometrie, projektion, projection]
 ---
 The geometric definition gives us the dot product as the magnitude of $\vec{a}$ multiplied by the scalar projection of $\vec{b}$ onto $\vec{a}$. This is given for any $\vec{a}$, $\vec{b}$ in n-space.
 
