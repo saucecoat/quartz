@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a41b006d653cd707",
+        "id": "bfb4e1c240ec2e83",
         "type": "tabs",
         "children": [
           {
-            "id": "0473b237b5a8a3be",
+            "id": "5f9add95ef856f77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Thinking_Task_Terme_Sushiteller.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5931cae3f18b9662",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Thinking_Task_Terme_Sushiteller.md",
+                "file": "content/Rechenübung_Terme_Lösungen.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Thinking_Task_Terme_Sushiteller.md",
+                "file": "content/Rechenübung_Terme_Lösungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Thinking_Task_Terme_Sushiteller.md",
+                "file": "content/Rechenübung_Terme_Lösungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Thinking_Task_Terme_Sushiteller.md"
+                "file": "content/Rechenübung_Terme_Lösungen.md"
               }
             }
           },
@@ -158,11 +145,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5931cae3f18b9662",
+  "active": "5f9add95ef856f77",
   "lastOpenFiles": [
+    "content/Thinking_Task_Terme_Sushiteller.md",
     "content/Rechenübung_Terme.md",
     "content/Rechenübung_Terme_Lösungen.md",
-    "content/Thinking_Task_Terme_Sushiteller.md",
     "content/Mathematischer Beweis Teilung Quadrat in Dreiecke.md",
     "Aigner - Das Buch der Beweise Kap. 20 Ein Quadrat und viele Dreiecke.pdf.md",
     "content/Mehrwertsteuersenkung_Corona_Prozent.md",
