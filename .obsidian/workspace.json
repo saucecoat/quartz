@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Universelle_Parabelkonstante.md",
+                "file": "content/The_Arctic_Circle_Theorem.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Universelle_Parabelkonstante.md",
+                "file": "content/The_Arctic_Circle_Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Universelle_Parabelkonstante.md",
+                "file": "content/The_Arctic_Circle_Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Universelle_Parabelkonstante.md"
+                "file": "content/The_Arctic_Circle_Theorem.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "7f892cb5b711a05b",
   "lastOpenFiles": [
-    "Universal Parabolic Constant.png.md",
     "content/Universelle_Parabelkonstante.md",
+    "Universal Parabolic Constant.png.md",
     "content/The_Arctic_Circle_Theorem.md",
     "content/_index.md",
     "content/Impressum.md",
