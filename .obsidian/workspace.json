@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Impressum.md",
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fb14b286d8faaee8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/The_Arctic_Circle_Theorem.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7f892cb5b711a05b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Universelle_Parabelkonstante.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Impressum.md",
+                "file": "content/Universelle_Parabelkonstante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Impressum.md",
+                "file": "content/Universelle_Parabelkonstante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Impressum.md"
+                "file": "content/Universelle_Parabelkonstante.md"
               }
             }
           }
@@ -136,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1b495603d7483ac9",
+  "active": "7f892cb5b711a05b",
   "lastOpenFiles": [
+    "Universal Parabolic Constant.png.md",
+    "content/Universelle_Parabelkonstante.md",
+    "content/The_Arctic_Circle_Theorem.md",
+    "content/_index.md",
     "content/Impressum.md",
     "content/Idee_Einführung_Brüche.md",
     "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
     "content/Squaring_a_rectangle.md",
     "content/Sparplan_Berechnung.md",
-    "content/Quadratische_Ergänzung.md",
-    "content/Pythagoras_Wasser.md",
-    "content/Pythagoras_mit_dem_Skalarprodukt.md",
-    "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
-    "content/Parabeln_basteln.md"
+    "content/Quadratische_Ergänzung.md"
   ]
 }
