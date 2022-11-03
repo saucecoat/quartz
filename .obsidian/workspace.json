@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "63228ff96074c7f8",
+        "id": "a41b006d653cd707",
         "type": "tabs",
         "children": [
           {
-            "id": "37b0f6ceb10cac04",
+            "id": "1b495603d7483ac9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Impressum.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Impressum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Impressum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/Impressum.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37b0f6ceb10cac04",
+  "active": "1b495603d7483ac9",
   "lastOpenFiles": [
-    "content/Sparplan_Berechnung.md",
-    "content/_index.md",
+    "content/Impressum.md",
+    "content/Idee_Einführung_Brüche.md",
     "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
     "content/Squaring_a_rectangle.md",
+    "content/Sparplan_Berechnung.md",
     "content/Quadratische_Ergänzung.md",
     "content/Pythagoras_Wasser.md",
     "content/Pythagoras_mit_dem_Skalarprodukt.md",
     "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
-    "content/Parabeln_basteln.md",
-    "content/Math_anxiety_Math_Moments_194_Zusammenfassung.md"
+    "content/Parabeln_basteln.md"
   ]
 }

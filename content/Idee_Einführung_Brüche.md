@@ -15,15 +15,19 @@ $$2 \text{ Äpfel} + 3 \text{ Eier}$$
 lassen sich nicht zusammenfassen.
 
 ### Addition 
+
 > $$1 \text{ Sechstel} + 4 \text{ Sechstel} = 5 \text{ Sechstel}$$
 
 ### Subtraktion
+
 > $$10 \text{ Zwölftel} - 3 \text{ Zwölftel} = 7 \text{ Zwölftel}$$
 
 ### Multiplikation (mit natürlicher Zahl)
+
 > $$2 \cdot 4 \text{ Neuntel} = 8 \text{ Neuntel}$$
 
 ### Division
+
 > $$10 \text{ Zwölftel} : 5 =2 \text{ Zwölftel} \quad \text{(Verteilen)}$$
 > 
 > $$10 \text{ Zwölftel} : 2 \text{ Zwölftel} = 5 \quad \text{(Aufteilen)}$$
