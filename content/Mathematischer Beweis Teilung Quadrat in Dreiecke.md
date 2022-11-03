@@ -1,5 +1,5 @@
 ---
-title: "Mathematischer Beweis Teilung Quadrat in Dreiecke"
+title: "Satz von Monsky - Teilung eines Quadrats in eine ungerade Zahl von Dreiecken"
 date: "2022-11-03"
 tags: [alle, math, mathe, p-adic_numbers, p-adische_zahlen, aigner, beweis, dreieck, quadrat, aufteilen, flächeninhalt, metric, metrik, sperners_lemma, math_stackexchange, farbe, monsky]
 ---

@@ -10,7 +10,7 @@ tags: [alle, mathe, math, term, sushi, teller, preis, variable, thinking, thinki
 
 **Anmerkungen:**
 
-Kurzer Einstieg mit [[Rechenübung_Terme]].
+Kurzer Einstieg mit [[Rechenübung_Terme|Rechenübung Terme]].
 
 Danach kurze Geschichte, von meiner Sushieskapade. Die Schülerinnen sollen herausfinden, wie viel mich der Sushiteller-Turm gekostet hat. (Die Aufgaben aus dem Buch am Ende habe ich nicht mehr geschafft).
 
