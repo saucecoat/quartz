@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pi on</title><link>https://meistensmathe.de/tags/pi/</link><description>Recent content in pi on</description><generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://meistensmathe.de/tags/pi/index.xml" rel="self" type="application/rss+xml"/><item><title>Universelle Parabelkonstante</title><link>https://meistensmathe.de/Universelle_Parabelkonstante/</link><pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate><guid>https://meistensmathe.de/Universelle_Parabelkonstante/</guid><description>Genau wie Kreise haben auch [[Parabeln_basteln|Parabeln]] eine universelle Konstante.
-![[Universal_Parabolic_Constant.png]]
+![[images/Universal_Parabolic_Constant.png]]
 Quelle: https://twitter.com/TamasGorbe/status/1576559428450533377
 function loadIframe_2e203bb529025187c12a121e9b737659() { var e1 = document.getElementById('info-2e203bb529025187c12a121e9b737659'); e1.parentNode.removeChild(e1); var e2 = document.</description></item></channel></rss>
