@@ -4,7 +4,7 @@ date: "2022-10-30"
 tags: [alle, math, mathe, angst, anxiety, trauma, unterricht, schule, make_math_moments, podcast, youtube, psychology, schlecht, bad, tiktok, howie_hua]
 ---
 - "Schlecht in Mathe" gibt es nicht [Make Math Moments Podcast Ep. 194](https://yewtu.be/watch?v=LqmRa5PX3sQ&t=300) 
-	- siehe auch [[Bad_at_math_myth]]
+	- siehe auch [[Bad_at_math_myth|Bad at math myth]]
 - viele Leute haben wirkliche Traumasymptome, wenn sie Mathe hören [Make Math Moments Podcast Ep. 194](https://yewtu.be/watch?v=LqmRa5PX3sQ&t=930)
 - mit Schülern **herausfinden, wovor sie wirklich Angst haben** durch iteratives Fragen [Make Math Moments Podcast Ep. 194](https://yewtu.be/watch?v=LqmRa5PX3sQ&t=1010)
 	- Relevantes [TikTok von Howie Hua](https://proxitok.pabloferreiro.es/@howie_hua/video/7154150035171593518) zum Thema *Mathe hassen*
