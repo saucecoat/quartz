@@ -6,17 +6,15 @@
     	e1.parentNode.removeChild(e1);
     	var e2 = document.getElementById('image-{{ safeJS (md5 (index .Params 0)) }}');
     	e2.parentNode.removeChild(e2);
-    	document.getElementById('container-{{ safeJS (md5 (index .Params 0)) }}').innerHTML = '{{ index .Params 0 }}';
+    	document.getElementById('container-{{ safeJS (md5 (index .Params 0)) }}').innerHTML = '<iframe scrolling="no" src="https://www.geogebra.org/material/iframe/id/{{ index .Params 0 }}/width/{{ index .Params 1 }}/height/{{ index .Params 2 }}/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="{{ index .Params 1 }}px" height="{{ index .Params 2 }}px" style="border:0px;">';
 	}</script>
 
 	<div id="info-{{ safeJS (md5 (index .Params 0)) }}" style="text-align: center; padding: 2em; position: absolute; top: 0; height: 100%; z-index: 10; background: rgba(255, 255, 255, .75); overflow: auto;">
 		<span style="font-weight: bold; display: block; margin: 1em;">Achtung! Externe Datenquelle!</span>
-<small><p>Das hier eingebettete Video wird durch den Anbieter "YouTube LLC", 901 Cherry Avenue, San Bruno, CA 94066, USA, vertreten durch Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA bereitgestellt.</p><p>Wenn Sie im Folgenden auf "Video laden" klicken, wird Ihre IP-Adresse an YouTube übermittelt und YouTube erfährt, dass Sie das Video angesehen haben. Sind Sie bei YouTube eingeloggt, wird diese Information auch Ihrem Benutzerkonto zugeordnet.</p>
+<small><p>Das hier eingebettete Applet wird durch den Anbieter GeoGebra GmbH, Altenbergerstraße 69, 4040 Linz, Österreich bereitgestellt.</p><p>Wenn Sie im Folgenden auf "Applet laden" klicken, wird Ihre IP-Adresse an Geogebra übermittelt. Sind Sie bei Geogebra eingeloggt, wird diese Information möglicherweise auch Ihrem Benutzerkonto zugeordnet.</p>
 
-<p>Von der dann möglichen Erhebung und Verwendung Ihrer Daten durch YouTube habe ich keine Kenntnis und darauf auch keinen Einfluss.</p><p>Nähere Informationen können Sie der Datenschutzerklärung von YouTube unter <a href="https://www.google.de/intl/de/policies/privacy/" target="_blank" rel="noopener">www.google.de/intl/de/policies/privacy/</a> entnehmen.</p></small>
-<span style="display: block; margin: 1em auto; padding: .25em; background: #E6324B; width: 25%; cursor: pointer;" onclick="loadIframe_{{ safeJS (md5 (index .Params 0)) }}();">Video laden</span>
-	</div>
-	<div id="image-{{ safeJS (md5 (index .Params 0)) }}" style="background:url('https://ytcache.flomei.de?i={{ safeJS (index .Params 0) }}'); background-repeat: no-repeat; background-size: cover; filter:blur(5px); height: 100%; width: 100%; background-position: center; position: relative; top: 0;">
+<p>Von der dann möglichen Erhebung und Verwendung Ihrer Daten durch Geogebra habe ich keine Kenntnis und darauf auch keinen Einfluss.</p><p>Nähere Informationen können Sie der Datenschutzerklärung von Geogebra unter <a href="https://www.geogebra.org/privacy" target="_blank" rel="noopener">https://www.geogebra.org/privacy</a> entnehmen.</p></small>
+<span style="display: block; margin: 1em auto; padding: .25em; background: #E6324B; width: 25%; cursor: pointer;" onclick="loadIframe_{{ safeJS (md5 (index .Params 0)) }}();">Applet laden</span>
 	</div>
 </div>
 </div>
