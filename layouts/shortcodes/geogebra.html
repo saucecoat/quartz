@@ -1,20 +1,20 @@
-<div id="wrapper-{{ safeJS (md5 (index .Params 0)) }}" class="youtube-dsgvo-embed" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; margin: 1em 0; overflow: hidden;">
-<div id="container-{{ safeJS (md5 (index .Params 0)) }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center;">
+<div id="wrapper-{{ safeJS safeJS (md5 (index .Params 0)(index .Params 1)(index .Params 2)) }}" class="geogebra-dsgvo-embed" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; margin: 1em 0; overflow: hidden;">
+<div id="container-{{ safeJS safeJS (md5 (index .Params 0)(index .Params 1)(index .Params 2)) }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center;">
 
-	<script>function loadIframe_{{ safeJS (md5 (index .Params 0)) }}() {
-		var e1 = document.getElementById('info-{{ safeJS (md5 (index .Params 0)) }}');
+	<script>function loadIframe_{{ safeJS safeJS (md5 (index .Params 0)(index .Params 1)(index .Params 2)) (md5 (index .Params 1)) (md5 (index .Params 2)) }}() {
+		var e1 = document.getElementById('info-{{ safeJS safeJS (md5 (index .Params 0)(index .Params 1)(index .Params 2)) }}');
     	e1.parentNode.removeChild(e1);
-    	var e2 = document.getElementById('image-{{ safeJS (md5 (index .Params 0)) }}');
+    	var e2 = document.getElementById('image-{{ safeJS safeJS (md5 (index .Params 0)(index .Params 1)(index .Params 2)) }}');
     	e2.parentNode.removeChild(e2);
-    	document.getElementById('container-{{ safeJS (md5 (index .Params 0)) }}').innerHTML = '<iframe scrolling="no" src="https://www.geogebra.org/material/iframe/id/{{ index .Params 0 }}/width/{{ index .Params 1 }}/height/{{ index .Params 2 }}/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="{{ index .Params 1 }}px" height="{{ index .Params 2 }}px" style="border:0px;">';
+    	document.getElementById('container-{{ safeJS safeJS (md5 (index .Params 0)(index .Params 1)(index .Params 2)) }}').innerHTML = '<iframe scrolling="no" src="https://www.geogebra.org/material/iframe/id/{{ index .Params 0 }}/width/{{ index .Params 1 }}/height/{{ index .Params 2 }}/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="{{ index .Params 1 }}px" height="{{ index .Params 2 }}px" style="border:0px;">';
 	}</script>
 
-	<div id="info-{{ safeJS (md5 (index .Params 0)) }}" style="text-align: center; padding: 2em; position: absolute; top: 0; height: 100%; z-index: 10; background: rgba(255, 255, 255, .75); overflow: auto;">
+	<div id="info-{{ safeJS safeJS (md5 (index .Params 0)(index .Params 1)(index .Params 2)) }}" style="text-align: center; padding: 2em; position: absolute; top: 0; height: 100%; z-index: 10; background: rgba(255, 255, 255, .75); overflow: auto;">
 		<span style="font-weight: bold; display: block; margin: 1em;">Achtung! Externe Datenquelle!</span>
 <small><p>Das hier eingebettete Applet wird durch den Anbieter GeoGebra GmbH, Altenbergerstraße 69, 4040 Linz, Österreich bereitgestellt.</p><p>Wenn Sie im Folgenden auf "Applet laden" klicken, wird Ihre IP-Adresse an Geogebra übermittelt. Sind Sie bei Geogebra eingeloggt, wird diese Information möglicherweise auch Ihrem Benutzerkonto zugeordnet.</p>
 
 <p>Von der dann möglichen Erhebung und Verwendung Ihrer Daten durch Geogebra habe ich keine Kenntnis und darauf auch keinen Einfluss.</p><p>Nähere Informationen können Sie der Datenschutzerklärung von Geogebra unter <a href="https://www.geogebra.org/privacy" target="_blank" rel="noopener">https://www.geogebra.org/privacy</a> entnehmen.</p></small>
-<span style="display: block; margin: 1em auto; padding: .25em; background: #E6324B; width: 25%; cursor: pointer;" onclick="loadIframe_{{ safeJS (md5 (index .Params 0)) }}();">Applet laden</span>
+<span style="display: block; margin: 1em auto; padding: .25em; background: #E6324B; width: 25%; cursor: pointer;" onclick="loadIframe_{{ safeJS safeJS (md5 (index .Params 0)(index .Params 1)(index .Params 2)) }}();">Applet laden</span>
 	</div>
 </div>
 </div>
