@@ -1,1 +1,1 @@
-{{< geogebra GEOGEBRA_ID WIDTH HEIGHT >}}
+{{< geogebra 'GEOGEBRA_IFRAME_CODE' >}}
