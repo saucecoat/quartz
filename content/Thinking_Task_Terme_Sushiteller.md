@@ -10,9 +10,9 @@ tags: [alle, mathe, math, term, sushi, teller, preis, variable, thinking, thinki
 
 **Anmerkungen:**
 
-Kurzer Einstieg mit [[Rechenübung_Terme|Rechenübung Terme]].
+Kurzer Einstieg mit [[Rechenübung_Terme|Rechenübung Terme]]. Definitionen von Term und Variable am Ende der Stunde verwenden.
 
-Danach kurze Geschichte, von meiner Sushieskapade. Die Schülerinnen sollen herausfinden, wie viel mich der Sushiteller-Turm gekostet hat. (Die Aufgaben aus dem Buch am Ende habe ich nicht mehr geschafft).
+Danach kurze Geschichte, von meiner Sushieskapade. Die Schülerinnen sollen herausfinden, wie viel mich der Sushiteller-Turm gekostet hat. 
 
 Wenn die Schülerinnen den ersten Turm berechnet haben, bekommen sie die Preise pro Teller von anderen Sushiläden (siehe Excel) eine nach der anderen. Also insgesamt 5 Level. Sie sollen herausfinden, welcher Laden der günstigste und welcher der teuerste ist.  
    

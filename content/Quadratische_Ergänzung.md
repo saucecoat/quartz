@@ -8,7 +8,7 @@ tags: [alle, math, mathe, blog, geogebra, quadratische_gleichung, quadratische_e
 
 Das Geogebra-Applet, das David Wees hat in [diesem Post](https://davidwees.com/content/how-to-use-technology-with-only-one-computer/) teilt, hat mich auf die Idee gebracht, dieses zur Visualisierung der *quadratischen Ergänzung* etwas zu erweitern.
 
-In meinem Geogebra-Applet lassen sich zwei Regler $a$ und $b$ steuern, welche die Parameter des folgenden Terms verändern:
+In [meinem Geogebra-Applet](https://www.geogebra.org/m/NsZVkvJu) lassen sich zwei Regler $a$ und $b$ steuern, welche die Parameter des folgenden Terms verändern:
 
 $$x^2+2ax+b$$
 

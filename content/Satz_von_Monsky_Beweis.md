@@ -23,6 +23,6 @@ tags: [alle, math, mathe, p-adic_numbers, p-adische_zahlen, aigner, beweis, drei
 >2. Mithilfe eines Arguments ähnlich [Sperners Lemma](https://yewtu.be/watch?v=7s-YM-kcKME) wird gezeigt, dass bei **jeder** Zerlegung des Einheitsquadrats in beliebige (nicht einmal notwendigerweise gleich große) Dreiecke, immer mindestens ein Dreieck mit drei verschiedenfarbigen Eckpunkten ("Regenbogendreieck") entsteht.[^1]
 
 >3. Mithilfe der Determinante wird gezeigt, dass ein "Regenbogendreieck" bei ungeradem $n$ weder den Flächeninhalt $0$ noch den Flächeninhalt $\frac{1}{n}$ haben kann.
->- Jede Zerlegung, die ein "Regenbogendreieck" beinhaltet, kann also keine gewünschte Zerlegung darstellen, da diese Zerlegung aus $n$ Dreiecke mit einem Flächeninhalt von je $\frac{1}{n}$ bestehen muss.
+>- Jede Zerlegung, die ein "Regenbogendreieck" beinhaltet, kann also keine gewünschte Zerlegung darstellen, da diese Zerlegung aus $n$ Dreiecken mit einem Flächeninhalt von je $\frac{1}{n}$ bestehen muss.
 
 [^1]: In der Veranschaulichung von Aigner (siehe oben) werden Punkt 2 & 3 in umgekehrter Reihenfolge behandelt.

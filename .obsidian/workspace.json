@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "13d67baf012b4cf1",
+        "id": "800ed0fe8a458d60",
         "type": "tabs",
         "children": [
           {
-            "id": "d867e2974deb1197",
+            "id": "99d373fff5b39b08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Satz_von_Monsky_Beweis.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Satz_von_Monsky_Beweis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Satz_von_Monsky_Beweis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Satz_von_Monsky_Beweis.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d867e2974deb1197",
+  "active": "99d373fff5b39b08",
   "lastOpenFiles": [
-    "content/Satz_von_Monsky_Beweis.md",
     "content/Thinking_Task_Terme_Sushiteller.md",
+    "content/Satz_von_Monsky_Beweis.md",
+    "content/Quadratische_Ergänzung.md",
+    "content/Mit_dem_Zug_durch_Europa.md",
     "content/Rechenübung_Terme.md",
     "content/Rechenübung_Terme_Lösungen.md",
     "Aigner - Das Buch der Beweise Kap. 20 Ein Quadrat und viele Dreiecke.pdf.md",
     "content/Mehrwertsteuersenkung_Corona_Prozent.md",
     "content/The_Arctic_Circle_Theorem.md",
-    "content/Universelle_Parabelkonstante.md",
-    "Universal Parabolic Constant.png.md",
-    "content/_index.md"
+    "content/Universelle_Parabelkonstante.md"
   ]
 }
