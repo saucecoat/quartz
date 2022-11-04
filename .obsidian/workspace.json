@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "753b97607989f176",
+        "id": "d2b1891e344b30f3",
         "type": "tabs",
         "children": [
           {
-            "id": "e37ad5ef58fa1045",
+            "id": "90d07d558e243f53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/p-adische_Zahlen.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/p-adische_Zahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/p-adische_Zahlen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/p-adische_Zahlen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e37ad5ef58fa1045",
+  "active": "90d07d558e243f53",
   "lastOpenFiles": [
-    "content/Präsentation_p-adische_Zahlen/Bilder/alice_mad_hatter_and_march_hare_crazy.jpg",
-    "content/Präsentation_p-adische_Zahlen/Bilder/alice_mirror.png",
-    "content/Präsentation_p-adische_Zahlen/Bilder/manhattan_metric_right.png",
-    "content/Präsentation_p-adische_Zahlen/Bilder/manhattan_seagull_pythagoras_1.png",
     "content/p-adische_Zahlen.md",
-    "content/Math_anxiety_Math_Moments_194_Zusammenfassung.md",
-    "content/Satz_von_Monsky_Beweis.md",
-    "content/Quadratische_Ergänzung.md",
-    "content/templates/iframe.md",
-    "content/templates/geogebra.md"
+    "content/Are p-adic numbers also real numbers.md",
+    "content/p-adic numbers visual representation of convergence of large numbers.md",
+    "content/p-adic numbers. Part 1 of 3 10-adic integers.md",
+    "content/Intuition for the p-adic metric.md",
+    "content/How to Wrangle Infinity (an intro to p-adic numbers).md",
+    "content/Applications of p-adic numbers.md",
+    "content/Introduction p-adic numbers Alice in Wonderland.md",
+    "content/An Infinite Universe of Number Systems p-adic numbers.md",
+    "content/Präsentation_p-adische_Zahlen/Bilder/alice_mad_hatter_and_march_hare_crazy.jpg"
   ]
 }
