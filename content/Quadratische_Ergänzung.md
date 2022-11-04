@@ -13,7 +13,7 @@ In [meinem Geogebra-Applet](https://www.geogebra.org/m/NsZVkvJu) lassen sich zwe
 $$x^2+2ax+b$$
 
 
-{{< geogebra "<iframe scrolling="no" title="Completing the Square" src="https://www.geogebra.org/material/iframe/id/NsZVkvJu/width/1100/height/550/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="900px" height="550px" style="border:0px;"> </iframe>" >}}
+{{< geogebra NsZVkvJu 900 550 >}}
 
 # Anwendung
 
