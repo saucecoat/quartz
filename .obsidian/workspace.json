@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "800ed0fe8a458d60",
+        "id": "0623207f04c20a13",
         "type": "tabs",
         "children": [
           {
-            "id": "99d373fff5b39b08",
+            "id": "b2b3fbf3648f7268",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Mehrwertsteuersenkung_Corona_Prozent.md",
+                "file": "content/Quadratische_Ergänzung.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "244232ef8ab73e09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Quadratische_Ergänzung.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Mehrwertsteuersenkung_Corona_Prozent.md",
+                "file": "content/Quadratische_Ergänzung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Mehrwertsteuersenkung_Corona_Prozent.md",
+                "file": "content/Quadratische_Ergänzung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Mehrwertsteuersenkung_Corona_Prozent.md"
+                "file": "content/Quadratische_Ergänzung.md"
               }
             }
           },
@@ -145,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "99d373fff5b39b08",
+  "active": "244232ef8ab73e09",
   "lastOpenFiles": [
-    "content/Thinking_Task_Terme_Sushiteller.md",
-    "content/Satz_von_Monsky_Beweis.md",
+    "content/The_Arctic_Circle_Theorem.md",
     "content/Quadratische_Ergänzung.md",
+    "content/templates/geogebra.md",
     "content/Mit_dem_Zug_durch_Europa.md",
+    "content/Thinking_Task_Terme_Sushiteller.md",
+    "content/Mehrwertsteuersenkung_Corona_Prozent.md",
+    "content/Satz_von_Monsky_Beweis.md",
     "content/Rechenübung_Terme.md",
     "content/Rechenübung_Terme_Lösungen.md",
-    "Aigner - Das Buch der Beweise Kap. 20 Ein Quadrat und viele Dreiecke.pdf.md",
-    "content/Mehrwertsteuersenkung_Corona_Prozent.md",
-    "content/The_Arctic_Circle_Theorem.md",
-    "content/Universelle_Parabelkonstante.md"
+    "Aigner - Das Buch der Beweise Kap. 20 Ein Quadrat und viele Dreiecke.pdf.md"
   ]
 }
