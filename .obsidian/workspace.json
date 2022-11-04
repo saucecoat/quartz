@@ -11,8 +11,12 @@
             "id": "90d07d558e243f53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/An_Infinite_Universe_of_Number_Systems_p-adic_numbers.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/An_Infinite_Universe_of_Number_Systems_p-adic_numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/An_Infinite_Universe_of_Number_Systems_p-adic_numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/An_Infinite_Universe_of_Number_Systems_p-adic_numbers.md"
+              }
             }
           },
           {
@@ -139,15 +147,15 @@
   },
   "active": "90d07d558e243f53",
   "lastOpenFiles": [
+    "content/Introduction_p-adic_numbers_Alice_in_Wonderland.md",
+    "content/Applications_of_p-adic_numbers.md",
+    "content/p-adic_numbers_visual_representation_of_convergence_of_large_numbers.md",
+    "content/Are_p-adic_numbers_also_real_numbers.md",
+    "content/How_to_Wrangle_Infinity.md",
+    "content/Intuition_for_the_p-adic_metric.md",
     "content/p-adische_Zahlen.md",
-    "content/Are p-adic numbers also real numbers.md",
-    "content/p-adic numbers visual representation of convergence of large numbers.md",
-    "content/p-adic numbers. Part 1 of 3 10-adic integers.md",
-    "content/Intuition for the p-adic metric.md",
-    "content/How to Wrangle Infinity (an intro to p-adic numbers).md",
-    "content/Applications of p-adic numbers.md",
-    "content/Introduction p-adic numbers Alice in Wonderland.md",
-    "content/An Infinite Universe of Number Systems p-adic numbers.md",
+    "content/p-adic_numbers_Part_1_of_3.md",
+    "content/An_Infinite_Universe_of_Number_Systems_p-adic_numbers.md",
     "content/Präsentation_p-adische_Zahlen/Bilder/alice_mad_hatter_and_march_hare_crazy.jpg"
   ]
 }

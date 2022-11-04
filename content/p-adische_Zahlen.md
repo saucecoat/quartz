@@ -25,18 +25,18 @@ Besonders stolz bin ich persönlich auf die folgende Präsentation :)
 
 # Artikel
 
-- [[Introduction p-adic numbers Alice in Wonderland]]
-- [[An Infinite Universe of Number Systems p-adic numbers]]
+- [[Introduction_p-adic_numbers_Alice_in_Wonderland|Introduction p-adic numbers Alice in Wonderland]]
+- [[An_Infinite_Universe_of_Number_Systems_p-adic_numbers|An Infinite Universe of Number Systems p-adic numbers]]
 
 # Videos
 
-- [[How to Wrangle Infinity (an intro to p-adic numbers)]]
-- [[Intuition for the p-adic metric]]
-- [[p-adic numbers. Part 1 of 3 10-adic integers]]
-- [[p-adic numbers visual representation of convergence of large numbers]]
+- [[How_to_Wrangle_Infinity|How to Wrangle Infinity (an intro to p-adic numbers)]]
+- [[Intuition_for_the_p-adic_metric|Intuition for the p-adic metric]]
+- [[p-adic_numbers_Part_1_of_3|p-adic numbers Part 1 of 3 10-adic integers]]
+- [[p-adic_numbers_visual_representation_of_convergence_of_large_numbers|p-adic numbers visual representation of convergence of large numbers]]
 
 # Diskussionen
 
-- [[Applications of p-adic numbers]]
-- [[Are p-adic numbers also real numbers]]
+- [[Applications_of_p-adic_numbers|Applications of p-adic numbers]]
+- [[Are_p-adic_numbers_also_real_numbers|Are p-adic numbers also real numbers]]
 
