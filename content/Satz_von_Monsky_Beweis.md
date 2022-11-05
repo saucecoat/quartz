@@ -16,7 +16,7 @@ tags: [alle, math, mathe, p-adic_numbers, p-adische_zahlen, aigner, beweis, drei
 
 ### Skizzierung Beweisidee
 
->1. Mithilfe der [2-adischen Metrik](p-adische_Zahlen.md) $|\cdot|_{2}$ wird das Einheitsquadrat auf eine ganz spezielle Weise mit 3 Farben eingefärbt. 
+>1. Mithilfe der [2-adischen Metrik](Übersicht_p-adische_Zahlen.md) $|\cdot|_{2}$ wird das Einheitsquadrat auf eine ganz spezielle Weise mit 3 Farben eingefärbt. 
 >- Die 2-adische Metrik wird jedoch nicht auf $\mathbb{Q}_{2}$ angewendet, sondern auf das Einheitsquadrat $[0;1]^2\subset \mathbb{R}^2$.
 >- Erklärung, wie $|\cdot|_{2}$ auf $\mathbb{R}$ übertragen werden kann auf [Math Stackexchange](https://math.stackexchange.com/questions/1348581/extending-2-adic-valuation-to-real-numbers), im [Aigner - Das Buch der Beweise, S. 156 ff.](https://link.springer.com/chapter/10.1007/978-3-642-02259-3_20) und bei [Schmitt](https://page.math.tu-berlin.de/~felsner/Lehre/TilingSlides/schmitt_100130_1.pdf#page=17).
 

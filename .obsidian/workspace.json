@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/p-adische_Zahlen.md",
-                "mode": "source",
+                "file": "content/Übersicht_Bruchrechnung.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "{{< you",
+                "query": "gläs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/p-adische_Zahlen.md",
+                "file": "content/Mathekrake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/p-adische_Zahlen.md",
+                "file": "content/Mathekrake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/p-adische_Zahlen.md"
+                "file": "content/Mathekrake.md"
               }
             }
           },
@@ -145,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8fe470e436e3dc18",
+  "active": "b00cd49974197310",
   "lastOpenFiles": [
-    "content/Are_p-adic_numbers_also_real_numbers.md",
-    "content/An_Infinite_Universe_of_Number_Systems_p-adic_numbers.md",
-    "content/Introduction_p-adic_numbers_Alice_in_Wonderland.md",
-    "content/Applications_of_p-adic_numbers.md",
-    "content/p-adic_numbers_visual_representation_of_convergence_of_large_numbers.md",
-    "content/How_to_Wrangle_Infinity.md",
-    "content/Intuition_for_the_p-adic_metric.md",
-    "content/p-adische_Zahlen.md",
-    "content/p-adic_numbers_Part_1_of_3.md",
-    "content/Präsentation_p-adische_Zahlen/Bilder/alice_mad_hatter_and_march_hare_crazy.jpg"
+    "content/Übersicht_Bruchrechnung.md",
+    "content/Division_Brüche_warum_mit_Kehrwert_multiplizieren.md",
+    "content/Thinking_Task_Division_Brüche.md",
+    "content/Division_von_Brüchen_mit_Gläsern.md",
+    "content/Thinking_Task_Multiplikation_Brüche.md",
+    "content/Multiplying_Fractions_Geogebra_Visualization.md",
+    "content/Open_Middle_adding_fractions_to_a_whole_number.md",
+    "content/Counting_by_mixed_numbers.md",
+    "content/Naive_fraction_sum_proof.md",
+    "content/How_To_Compare_Fractions.md"
   ]
 }
