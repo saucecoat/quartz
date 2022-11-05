@@ -5,7 +5,7 @@ tags: [alle, schule, unterricht, math, mathe, bruch, brüche, bruchrechnung, fra
 ---
 
 # Einführung Brüche
-- [[Idee_Einführung_Brüche]]
+- [[Idee_Einführung_Brüche|Idee Einführung Brüche]]
 - [[Fractions_Learning_Pathways|Lernpfad für die gesamte Bruchrechnung]]
 
 ---
@@ -18,7 +18,7 @@ tags: [alle, schule, unterricht, math, mathe, bruch, brüche, bruchrechnung, fra
 # Vergleichen
 - [[How_To_Compare_Fractions|Wie man didaktisch sinnvoll Brüche vergleicht]]
 - [[Naive_fraction_sum_proof|Bruch zwischen zwei gegebenen Brüchen finden]]
-- [[Why We Don’t Cross Multiply]]
+- [[Why_We_Dont_Cross_Multiply|Why We Don’t Cross Multiply]]
 
 ---
 # Gemischte Zahlen
@@ -27,20 +27,20 @@ tags: [alle, schule, unterricht, math, mathe, bruch, brüche, bruchrechnung, fra
 ---
 # Addition
 - [[Open_Middle_adding_fractions_to_a_whole_number|Open Middle Brüche addieren]]
-- [[Division_Brüche_vs_Addition]]
+- [[Division_Brüche_vs_Addition|Division Brüche vs. Addition]]
 
 ---
 # Multiplikation
-- [[Multiplying_Fractions_Geogebra_Visualization]]
-- [[Thinking_Task_Multiplikation_Brüche]]
+- [[Multiplying_Fractions_Geogebra_Visualization|Geogebra Visualization: Multiplying Fractions]]
+- [[Thinking_Task_Multiplikation_Brüche|Thinking Task Multiplikation Brüche]]
 
 ---
 # Division
-- [[Division_Brüche_vs_Addition]]
-- [[Division_von_Brüchen_mit_Gläsern]]
-- [[Thinking_Task_Division_Brüche]]
-- [[Division_Brüche_warum_mit_Kehrwert_multiplizieren]]
+- [[Division_Brüche_vs_Addition|Division Brüche vs. Addition]]
+- [[Division_von_Brüchen_mit_Gläsern|Division von Brüchen mit Gläsern]]
+- [[Thinking_Task_Division_Brüche|Thinking Task Division Brüche]]
+- [[Division_Brüche_warum_mit_Kehrwert_multiplizieren|Division Brüche - warum mit Kehrwert multiplizieren]]
 
 ---
 # Aufgaben
-- [[Mathekrake]]
+- [[Mathekrake|Mathekrake - Matheaufgaben für die tägliche Übung]]

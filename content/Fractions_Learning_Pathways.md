@@ -8,4 +8,4 @@ https://www.fractionslearningpathways.ca/
 
 Siehe auch: 
 1. [Making Math Moments Podcast Ep. 150](https://podcastaddict.com/episode/129680585) ab Min. 39 (Normale Geschwindigkeit)
-1. [[Idee_Einführung_Brüche]]
+1. [[Idee_Einführung_Brüche|Idee Einführung Brüche]]
