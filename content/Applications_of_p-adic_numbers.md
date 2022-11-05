@@ -9,7 +9,7 @@ tags: [alle, math, stackexchange, p-adic, p-adic_numbers, application, anwendung
 - https://mathoverflow.net/questions/81342/elementary-results-with-p-adic-numbers
 
 - https://gdaymath.com/lessons/explodingdots/10-5-really-cares-ten-adic-adic-number-systems/ 
-	- [[Satz_von_Monsky_Beweis]]
+	- [[Satz_von_Monsky_Beweis|Satz von Monsky - Teilung eines Quadrats in eine ungerade Zahl von Dreiecken]]
 
 - https://www.youtube.com/watch?v=3gyHKCDq1YA&t=1103
  
