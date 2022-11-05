@@ -1,5 +1,5 @@
 ---
-title: "p-adische_Zahlen"
+title: "p-adische Zahlen"
 date: "2022-11-04"
 tags: [alle, math, mathe, p-adic_numbers, p-adische_zahlen, zahl, zahlentheorie, number_theory, reelle_zahlen, real_numbers, rational_numbers, rationale_zahlen, betrag, value, abstand, distance, video, präsentation, alice]
 ---
