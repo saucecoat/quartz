@@ -11,8 +11,12 @@
             "id": "e5a2878f2b45292e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Counting_by_mixed_numbers.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Counting_by_mixed_numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Counting_by_mixed_numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/Counting_by_mixed_numbers.md"
+              }
             }
           },
           {
@@ -137,7 +145,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b00cd49974197310",
+  "active": "e5a2878f2b45292e",
   "lastOpenFiles": [
     "content/Übersicht_p-adische_Zahlen.md",
     "content/_index.md",

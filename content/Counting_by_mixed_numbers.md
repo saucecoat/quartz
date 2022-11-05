@@ -1,5 +1,5 @@
 ---
-title: "Counting by mixed numbers"
+title: "Mit gemischten Zahlen zählen"
 date: "2022-11-05"
 tags: [alle, math, twitter, counting, gemischte_zahl, gemischter_bruch, mixed_number, fraction, bruch, pattern, muster]
 ---
