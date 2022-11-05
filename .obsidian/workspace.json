@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3f3ff218adfc646a",
+        "id": "9d1591ec5ee77ca4",
         "type": "tabs",
         "children": [
           {
-            "id": "fb6a00e6d7e8931e",
+            "id": "e5a2878f2b45292e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "monsk",
+                "query": "übersich",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/_index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,8 +137,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fb6a00e6d7e8931e",
+  "active": "b00cd49974197310",
   "lastOpenFiles": [
+    "content/Übersicht_p-adische_Zahlen.md",
+    "content/_index.md",
     "content/Applications_of_p-adic_numbers.md",
     "content/Satz_von_Monsky_Beweis.md",
     "content/Übersicht_Bruchrechnung.md",
@@ -154,8 +148,6 @@
     "content/Counting_by_mixed_numbers.md",
     "content/Why_We_Dont_Cross_Multiply.md",
     "content/Division_Brüche_vs_Addition.md",
-    "content/Multiplying_Fractions_Geogebra_Visualization.md",
-    "content/Thinking_Task_Division_Brüche.md",
-    "content/Naive_fraction_sum_proof.md"
+    "content/Multiplying_Fractions_Geogebra_Visualization.md"
   ]
 }

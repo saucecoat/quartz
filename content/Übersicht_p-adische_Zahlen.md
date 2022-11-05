@@ -20,8 +20,9 @@ Besonders stolz bin ich persönlich auf die folgende Präsentation :)
 [Präsentation zur Einführung von p-adischen Zahlen](https://meistensmathe.de/Pr%C3%A4sentationen/Pr%C3%A4sentation_p-adische_Zahlen/index.html#/) anhand der 10-adischen bzw. dekadischen Zahlen $\mathbb{Z}_{10}$. 
 
 **Hinweise zur Bedienung:**
+- Sollte die Präsentation nicht direkt auftauchen, die Seite einfach erneut laden.
 - Sobald Pfeile nach unten zu sehen sind, nach unten gehen. Erst wenn keine Pfeile nach unten mehr zu sehen sind, nach rechts gehen.
-- Zum Anzeigen der Präsentationsnotizen die *S*-Taste drücken.
+- Zum Anzeigen der Präsentationsnotizen die *S*-Taste drücken. Eventuell müssen im Browser Pop-Ups erlaubt werden. 
 
 # Artikel
 
