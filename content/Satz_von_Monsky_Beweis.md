@@ -25,4 +25,7 @@ tags: [alle, math, mathe, p-adic_numbers, p-adische_zahlen, aigner, beweis, drei
 >3. Mithilfe der Determinante wird gezeigt, dass ein "Regenbogendreieck" bei ungeradem $n$ weder den Flächeninhalt $0$ noch den Flächeninhalt $\frac{1}{n}$ haben kann.
 >- Jede Zerlegung, die ein "Regenbogendreieck" beinhaltet, kann also keine gewünschte Zerlegung darstellen, da diese Zerlegung aus $n$ Dreiecken mit einem Flächeninhalt von je $\frac{1}{n}$ bestehen muss.
 
+### Video
+[YouTube-Video](https://www.youtube.com/watch?v=fpN-BgPb5RE) von Jim Fowler über den Satz und dessen Beweis
+
 [^1]: In der Veranschaulichung von Aigner (siehe oben) werden Punkt 2 & 3 in umgekehrter Reihenfolge behandelt.
