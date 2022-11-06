@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Counting_by_mixed_numbers.md",
-                "mode": "preview",
+                "file": "content/Division_Brüche_warum_mit_Kehrwert_multiplizieren.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "übersich",
+                "query": "kehrwert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Counting_by_mixed_numbers.md",
+                "file": "content/Division_Brüche_warum_mit_Kehrwert_multiplizieren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Counting_by_mixed_numbers.md",
+                "file": "content/Division_Brüche_warum_mit_Kehrwert_multiplizieren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Counting_by_mixed_numbers.md"
+                "file": "content/Division_Brüche_warum_mit_Kehrwert_multiplizieren.md"
               }
             }
           },
@@ -147,13 +148,13 @@
   },
   "active": "e5a2878f2b45292e",
   "lastOpenFiles": [
+    "content/Counting_by_mixed_numbers.md",
     "content/Übersicht_p-adische_Zahlen.md",
     "content/_index.md",
     "content/Applications_of_p-adic_numbers.md",
     "content/Satz_von_Monsky_Beweis.md",
     "content/Übersicht_Bruchrechnung.md",
     "content/Thinking_Task_Multiplikation_Brüche.md",
-    "content/Counting_by_mixed_numbers.md",
     "content/Why_We_Dont_Cross_Multiply.md",
     "content/Division_Brüche_vs_Addition.md",
     "content/Multiplying_Fractions_Geogebra_Visualization.md"

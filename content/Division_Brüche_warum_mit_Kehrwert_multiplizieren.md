@@ -6,9 +6,9 @@ tags: [alle, math, bruch, bruchrechnung, fraction, division, kehrwert, kehrbruch
 
 $$
 \begin{aligned}
-\frac{a}{b}:\frac{c}{d}&=\frac{\frac{a}{b}}{\frac{c}{d}}\\\\
-&=\frac{\frac{a}{b}\cdot \frac{d}{c}}{\frac{c}{d}\cdot \frac{d}{c}} \qquad \left(\text{mit } \frac{d}{c} \text{ erweitert} \right)\\\\
-&=\frac{\frac{a}{b}\cdot \frac{d}{c}}{1}\\\\
+\frac{a}{b}:\frac{c}{d}&=\frac{\frac{a}{b}}{\frac{c}{d}}\\\\\\
+&=\frac{\frac{a}{b}\cdot \frac{d}{c}}{\frac{c}{d}\cdot \frac{d}{c}} \qquad \left(\text{mit } \frac{d}{c} \text{ erweitert} \right)\\\\\\
+&=\frac{\frac{a}{b}\cdot \frac{d}{c}}{1}\\\\\\
 &=\frac{a}{b}\cdot \frac{d}{c}
 \end{aligned}
 $$
