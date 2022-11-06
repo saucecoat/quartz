@@ -41,3 +41,6 @@ Besonders stolz bin ich persönlich auf die folgende Präsentation :)
 - [[Applications_of_p-adic_numbers|Applications of p-adic numbers]]
 - [[Are_p-adic_numbers_also_real_numbers|Are p-adic numbers also real numbers]]
 
+# Literatur
+
+- [Fernando Q. Gouvêa - p-adic Numbers An Introduction](https://link.springer.com/book/10.1007/978-3-642-59058-0)
