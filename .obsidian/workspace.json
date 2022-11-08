@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "089cc6811e1f84fc",
+        "id": "a4f988b46c0e5d66",
         "type": "tabs",
         "children": [
           {
-            "id": "44560fd0d8ada3ad",
+            "id": "7fcdb93d858a6a36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Zahlenbereichserweiterungen.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "eeff0af92bd6def4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Division_von_Brüchen_mit_Gläsern.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Zahlenbereichserweiterungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Zahlenbereichserweiterungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Zahlenbereichserweiterungen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,10 +137,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44560fd0d8ada3ad",
+  "active": "7fcdb93d858a6a36",
   "lastOpenFiles": [
-    "content/Division_von_Brüchen_mit_Gläsern.md",
     "content/Zahlenbereichserweiterungen.md",
+    "content/Division_von_Brüchen_mit_Gläsern.md",
     "content/Übersicht_p-adische_Zahlen.md",
     "content/Are_p-adic_numbers_also_real_numbers.md",
     "content/Erklärung Modulo Multiplikation.md",
