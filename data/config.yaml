@@ -19,8 +19,6 @@ description:
 page_title:
   "Meistens Mathe"
 links:
-  - link_name: Impressum
-    link: https://meistensmathe.de/Impressum
   - link_name: Mastodon
     link: https://mathstodon.xyz/@pea_adic
   - link_name: Twitter
@@ -29,5 +27,7 @@ links:
     link: https://github.com/saucecoat
   - link_name: Geogebra
     link: https://www.geogebra.org/u/simon+koch
+  - link_name: Impressum
+    link: https://meistensmathe.de/Impressum
   - link_name: Datenschutzerklärung
     link: https://meistensmathe.de/Datenschutzerklärung
