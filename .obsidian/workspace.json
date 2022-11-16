@@ -11,8 +11,12 @@
             "id": "f9466c09b0224df2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Multiplikation_ganzer_Zahlen.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -34,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Zahlenbereichserweiterungen.md",
+                "file": "content/Multiplikation_ganzer_Zahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Zahlenbereichserweiterungen.md",
+                "file": "content/Multiplikation_ganzer_Zahlen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Zahlenbereichserweiterungen.md"
+                "file": "content/Multiplikation_ganzer_Zahlen.md"
               }
             }
           },
@@ -141,7 +145,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b00cd49974197310",
+  "active": "f9466c09b0224df2",
   "lastOpenFiles": [
     "content/Why_We_Dont_Cross_Multiply.md",
     "content/What_fraction_is_shaded_viral.md",
