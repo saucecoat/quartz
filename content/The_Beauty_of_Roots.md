@@ -8,6 +8,8 @@ Artikel über die faszinierenden fraktalähnlichen Strukturen, die die [[Parabel
 
 Auch die wunderschöne [[Drachenkurve]] hat einen Gastauftritt.
 
+![[images/icon.png|150]]
+
 Ebenso wie auch [[Julia-Mengen]] und die [[Mandelbrot-Menge]] nicht fehlen dürfen.
 
 **Link:** [Azimuth - The Beauty of Roots](https://johncarlosbaez.wordpress.com/2011/12/11/the-beauty-of-roots/)
