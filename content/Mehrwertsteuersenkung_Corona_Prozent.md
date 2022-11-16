@@ -4,14 +4,14 @@ date: "2022-11-03"
 tags: [alle, mathe, prozent, mwst, mehrwertsteuer, corona, temma, steuer, preis, verminderter_grundwert, vermehrter_grundwert, grundwert]
 ---
 
-# Problem
+## Problem
 
 Aufgrund der Coronapandemie wurde die MwSt. am 01.07.2020 von 19 % auf 16 % bzw. von 7 % auf 5 % gesenkt.
 
 >Wenn man nun etwas mit nur 16 % MwSt. einkauft, **wie viel Prozent** zum vorherigen Preis mit 19 % MwSt. **spart man? 
 >Es sind nicht 3 %.**
 
-# Lösung
+## Lösung
 
 
 Sei $A$ der alte Preis mit 19 % MwSt. und $N$ der neue Preis mit 16 % MwSt.
@@ -21,7 +21,7 @@ $$N=\frac{A}{119}\cdot116\approx0,9748\cdot A$$
 
 Dies entspricht also einer Ersparnis von etwa 2,52 %.
 
-# Erklärung
+## Erklärung
 
 Wie kann das sein?
 

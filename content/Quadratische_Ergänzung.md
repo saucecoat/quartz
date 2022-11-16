@@ -4,7 +4,7 @@ date: "2022-11-02"
 tags: [alle, math, mathe, blog, geogebra, quadratische_gleichung, quadratische_ergänzung, completing_the_square, square]
 ---
 
-# Geogebra-Applet
+## Geogebra-Applet
 
 Das Geogebra-Applet, das David Wees hat in [diesem Post](https://davidwees.com/content/how-to-use-technology-with-only-one-computer/) teilt, hat mich auf die Idee gebracht, dieses zur Visualisierung der *quadratischen Ergänzung* etwas zu erweitern.
 
@@ -14,7 +14,7 @@ $$x^2+2ax+b$$
 
 <iframe scrolling="no" src="https://www.geogebra.org/material/iframe/id/NsZVkvJu/width/1100/height/550/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="1100px" height="550px" style="border:0px;"> </iframe>
 
-# Anwendung
+## Anwendung
 
 Sei die Gleichung  $x^2+6x-16=0$  gegeben.
 

@@ -4,7 +4,7 @@ date: "2022-11-08"
 tags: [alle, mathe, buch, isbn9783761428849, mathematik_als_abenteuer, zahlenbereichserweiterung, natürliche_zahlen, ganze_zahlen, irrationale_zahlen, rationale_zahlen, reelle_zahlen, komplexe_zahlen, eigenschaften, körper, körpererweiterung, p-adische_zahlen, p-adic_numbers, p-adisch, p-adic]
 ---
 
-# Tabelle 
+## Tabelle 
 
 | Zahlenbereichserweiterung auf ...      | Was geht verloren?                                                                                                 |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -20,7 +20,7 @@ tags: [alle, mathe, buch, isbn9783761428849, mathematik_als_abenteuer, zahlenber
 
 Video zu Zahlenbereichserweiterungen: [Irrationale Zahlen | Mathewelten | ARTE](https://youtube.com/watch?v=P24tmohytXs)
 
-# Weitere Zahlenbereiche
+## Weitere Zahlenbereiche
 
 Die Zahlenbereichserweiterung von $\mathbb{Q}$ zu $\mathbb{R}$ kann über sogenannte [Cauchy-Folgen](https://de.wikipedia.org/wiki/Cauchy-Folge) erfolgen.
 

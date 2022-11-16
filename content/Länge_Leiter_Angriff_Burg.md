@@ -41,7 +41,3 @@ So now we have a scale model of what we want. The height down the middle of the 
 So if we are given that the height of the wall is for example 10 meters, then we divide the height of the triangle into ten equal parts. We take a blank ruler and mark those ten marks on it. Then we take this ruler, with this length unit, and measure the hypothenuse of the triangle. However many marks long it is, that’s how many meters our ladder needs to be.
 
 Piece of cake. Easy to improvise in the field without any specialized knowledge or tools. While Netz is busy trying to teach his carpenters the algebra of quadratic expressions and how to extract square roots, I have already scaled his walls using my much quicker methods.
-
-
-
- 

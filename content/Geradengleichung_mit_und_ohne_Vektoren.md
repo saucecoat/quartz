@@ -9,7 +9,7 @@ Die Darstellung ohne Vektoren beschreibt vor allem einen funktionalen Zusammenha
 
 Die Darstellung mit Vektoren hingegen beschreibt eine geradlinige Bewegung im Raum ausgehend von einem Startpunkt. Diese Darstellung bietet den Vorteil, sich auf höherdimensionale Räume verallgemeinern zu lassen.
 
-# Umwandlung ohne Vektoren $\rightarrow$ mit Vektoren (im $\mathbb{R}^{2}$)
+## Umwandlung ohne Vektoren $\rightarrow$ mit Vektoren (im $\mathbb{R}^{2}$)
 
 Sei die Gerade $y=-2x+7$ gegeben. 
 
@@ -19,7 +19,7 @@ Die Steigung $m=-2$ gibt uns einen möglichen Richtungsvektor $\begin{pmatrix}1\
 
 Die gegebene Gerade kann als durch die folgende Geradengleichung mit Vektoren beschrieben werden: $$X=\begin{pmatrix}0 \\\\ 7\end{pmatrix}+t \cdot \begin{pmatrix}1\\\\-2\end{pmatrix}$$
 
-# Umwandlung mit Vektoren $\rightarrow$ ohne Vektoren (im $\mathbb{R}^{2}$)
+## Umwandlung mit Vektoren $\rightarrow$ ohne Vektoren (im $\mathbb{R}^{2}$)
 
 Sei die Geradengleichung $X=\begin{pmatrix}2\\\\3\end{pmatrix}+t \cdot \begin{pmatrix}1\\\\-2\end{pmatrix}$ gegeben. Gesucht ist die Geradengleichung $y=mx+b$, die dieselbe Gerade beschriebt. 
 

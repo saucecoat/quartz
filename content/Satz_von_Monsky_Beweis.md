@@ -4,17 +4,17 @@ date: "2022-11-03"
 tags: [alle, math, mathe, p-adic_numbers, p-adische_zahlen, aigner, beweis, dreieck, quadrat, aufteilen, flächeninhalt, metric, metrik, sperners_lemma, math_stackexchange, farbe, monsky]
 ---
 
-### Satz von Monsky
+## Satz von Monsky
 
 >Ein Quadrat lässt sich nicht in eine ungerade Anzahl an Dreiecken mit gleichem Flächeninhalt zerlegen.
 
-### Vollständiger Beweis 
+## Vollständiger Beweis 
 
 - Anschauliche Version des Beweises: [Aigner - Das Buch der Beweise Kap. 20 Ein Quadrat und viele Dreiecke](https://link.springer.com/chapter/10.1007/978-3-642-02259-3_20)
 - Originalbeweis von Monsky: [Monsky - On Dividing a Square Into Triangles](https://www.jstor.org/stable/2317329)
 - Präsentation zum Beweis: [Schmitt - Über die Zerlegung eines Quadrats in Dreiecke gleicher Fläche](https://page.math.tu-berlin.de/~felsner/Lehre/TilingSlides/schmitt_100130_1.pdf)
 
-### Skizzierung Beweisidee
+## Skizzierung Beweisidee
 
 >1. Mithilfe der [2-adischen Metrik](Übersicht_p-adische_Zahlen.md) $|\cdot|_{2}$ wird das Einheitsquadrat auf eine ganz spezielle Weise mit 3 Farben eingefärbt. 
 >- Die 2-adische Metrik wird jedoch nicht auf $\mathbb{Q}_{2}$ angewendet, sondern auf das Einheitsquadrat $[0;1]^2\subset \mathbb{R}^2$.
@@ -25,7 +25,7 @@ tags: [alle, math, mathe, p-adic_numbers, p-adische_zahlen, aigner, beweis, drei
 >3. Mithilfe der Determinante wird gezeigt, dass ein "Regenbogendreieck" bei ungeradem $n$ weder den Flächeninhalt $0$ noch den Flächeninhalt $\frac{1}{n}$ haben kann.
 >- Jede Zerlegung, die ein "Regenbogendreieck" beinhaltet, kann also keine gewünschte Zerlegung darstellen, da diese Zerlegung aus $n$ Dreiecken mit einem Flächeninhalt von je $\frac{1}{n}$ bestehen muss.
 
-### Video
+## Video
 [YouTube-Video](https://www.youtube.com/watch?v=fpN-BgPb5RE) von Jim Fowler über den Satz und dessen Beweis
 
 [^1]: In der Veranschaulichung von Aigner (siehe oben) werden Punkt 2 & 3 in umgekehrter Reihenfolge behandelt.

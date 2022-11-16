@@ -4,7 +4,7 @@ date: "2022-11-16"
 tags: [alle, math, tiktok, howie_hua, negative_zahlen, negative_numbers, multiplication, multiplikation, ganze_zahlen]
 ---
 
-Quelle: https://proxitok.pabloferreiro.es/@howie_hua/video/7146356473768004906
+**Quelle:** https://proxitok.pabloferreiro.es/@howie_hua/video/7146356473768004906
 
 Eigentlich ist der im Video als zweites gezeigte Weg genau wie der am Anfang des Videos kein echter "Beweis".
 

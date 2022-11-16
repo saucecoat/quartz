@@ -4,12 +4,12 @@ date: "2022-10-29"
 tags: [alle, mathe, math, division, addition, bruch, fraction, glas, linkfehlt] 
 ---
 
-### Addition Brüche
+## Addition Brüche
 Wenn man Brüche addieren will, muss man sie auf den gleichen Nenner bringen:
 
 >$$\frac{1}{2}+\frac{1}{3}=\frac{3}{6}+\frac{2}{6}=\frac{5}{6}$$
 
-### Division Brüche
+## Division Brüche
 Wenn man Brüche dividieren will, kann man sie auch auf den selben Nenner bringen. Das Ergebnis der Division ist dann der Quotient beider Zähler:
 
 >$$\frac{1}{2}:\frac{1}{3}=\frac{3}{6}:\frac{2}{6}=\frac{3}{2}$$

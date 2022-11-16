@@ -4,13 +4,13 @@ date: "2022-11-05"
 tags: [alle, youtube, matt_parker, bruch, fraction, kleiner, größer, smaller, bigger, zwischen, addition, math, mathe]
 ---
 
-# Satz
+## Satz
 
 Man findet immer einen Bruch zwischen zwei gegebenen Brüchen, indem man jeweils die beiden Zähler bzw. Nenner getrennt voneinander addiert:
 
 >$$\frac{a}{b}<\frac{a+c}{b+d}<\frac{c}{d}$$
 
-# Beweis
+## Beweis
 
 >Linke Seite:
 >$$\begin{aligned}
