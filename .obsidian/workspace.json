@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e36f5cc1d5719aa",
+        "id": "d7c46a473b36bf61",
         "type": "tabs",
         "children": [
           {
-            "id": "859a0e5553127d91",
+            "id": "de7168660686e8be",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -34,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -137,11 +137,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "859a0e5553127d91",
+  "active": "de7168660686e8be",
   "lastOpenFiles": [
-    "content/The_Beauty_of_Roots.md",
     "content/Multiplikation_ganzer_Zahlen.md",
     "content/Howie_Hua_Minus_mal_minus.md",
+    "content/The_Beauty_of_Roots.md",
     "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
     "content/Multiplying_Fractions_Geogebra_Visualization.md",
     "content/images/icon.png",
