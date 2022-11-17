@@ -1,5 +1,5 @@
 ---
-title: "Datenschutzerklärung"
+title: "Datenschutzhinweise"
 date: "2022-10-27"
 ---
 
