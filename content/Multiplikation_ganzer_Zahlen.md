@@ -7,7 +7,7 @@ tags: [alle, math, mathe, rechengesetze, rechenregeln, kommutativgesetz, assozia
 ## Negative Zahlen
 
 
-Negative Zahlen wurden über Jahrhunderte hinweg von den besten Mathematikern seiner Zeit als suspekt betrachtet. Welchen Sinn soll etwas haben, dass weniger als nichts ist?
+Negative Zahlen wurden über Jahrhunderte hinweg von den besten Mathematikern seiner Zeit als suspekt betrachtet. Welchen Sinn soll etwas haben, das weniger als nichts ist?
 
 Die Kraft der Mathematik ist es jedoch, nichtsdestotrotz diese unglaublichen Dinge zu erdenken und zu schauen, wohin uns der Weg führt. 
 Wenn wir einfach hinnehmen, dass es negative Zahlen gibt und dass man mit ihnen rechnen kann, erweitern wir so unseren [[Zahlenbereichserweiterungen|Zahlenraum]] und damit auch unseren Horizont. 
