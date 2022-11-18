@@ -31,13 +31,13 @@ Die folgenden vier Axiome (Aussagen, die wir offensichtlich für wahr befinden u
 >$(\rm i)\quad a \leq a$
 >(**Reflexivität** = ein Element ist immer kleiner gleich sich selbst)
 >
->$(\rm ii)\quad a \leq b ~~~~\text{oder}~~~~ b \leq a$ 
+>$(\rm ii)\quad a \leq b \~\~\~\~\text{oder}\~\~\~\~ b \leq a$ 
 >(**Totalität** = jedes Paar von Elementen ist vergleichbar)
 >
->$(\rm iii)\quad \text{Wenn}~~ a \leq b ~~\text{und}~~ b \leq a, ~~\text{dann ist}~~ a=b$          
+>$(\rm iii)\quad \text{Wenn}\~\~ a \leq b \~\~\text{und}\~\~ b \leq a, \~\~\text{dann ist}\~\~ a=b$          
 >(**Antisymmetrie** = entweder ist ein Element kleiner als das andere oder beide gleich groß)
 >
->$(\rm iv)\quad \text{Wenn}~~ a \leq b ~~\text{und}~~ b \leq c, ~~\text{dann ist}~~ a \leq c$             
+>$(\rm iv)\quad \text{Wenn}\~\~ a \leq b \~\~\text{und}\~\~ b \leq c, \~\~\text{dann ist}\~\~ a \leq c$             
 >(**Transitivität** = kein "Schnick-Schnack-Schnuck")
 
   
@@ -72,10 +72,10 @@ In Bezug auf das Rechnen müssen wir für unsere Ordnungen also noch weitere For
 
 Wir wollen also, dass wir mit unserer Ordnung auch Rechnen können. Hierfür müssen die folgenden Eigenschaften gelten:
   
->$(\rm v)\quad \text{Wenn}~~ a \leq b, ~~\text{dann ist}~~ a+c \leq b+c$   
+>$(\rm v)\quad \text{Wenn}\~\~ a \leq b, \~\~\text{dann ist}\~\~ a+c \leq b+c$   
 >(*Addition*)
 >
->$(\rm vi)\quad \text{Wenn}~~ a \leq b ~~\text{und}~~ 0 \leq c, ~~\text{dann ist}~~ a \cdot c \leq b \cdot c$   
+>$(\rm vi)\quad \text{Wenn}\~\~ a \leq b \~\~\text{und}\~\~ 0 \leq c, \~\~\text{dann ist}\~\~ a \cdot c \leq b \cdot c$   
 >(*Multiplikation*)
 
 Erfüllt ein [Körper](https://de.wikipedia.org/wiki/K%C3%B6rper_(Algebra)) mit einer Ordnungsrelation alle 6 vorgestellten Axiome, nennt man ihn einen [geordneten Körper](https://de.wikipedia.org/wiki/Geordneter_K%C3%B6rper).
@@ -87,7 +87,7 @@ Die soeben vorgestellten Eigenschaften $(\rm v)$ und $(\rm vi)$ sollen am folgen
 Wenn $Alice$ kleiner ist als $Bob$, ...
 ![[images/Alice_Bob_Ordnung_1.png|500]]
 
-...dann ist $Alice~mit~Zylinder$ auch kleiner als $Bob~mit~demselben~Zylinder$.
+...dann ist $Alice\~mit\~Zylinder$ auch kleiner als $Bob\~mit\~demselben\~Zylinder$.
 ![[images/Alice_Bob_Ordnung_2.png|500]]
 
 >Wenn also $Alice \leq Bob$, dann gilt auch: $Alice + Zylinder \leq Bob + Zylinder$.
@@ -97,10 +97,10 @@ Wenn $Alice$ kleiner ist als $Bob$, ...
 Wenn $Alice$ kleiner ist als $Bob$, ...
 ![[images/Alice_Bob_Ordnung_1.png|500]]
 
-...dann sind auch $3-mal~Alice~übereinander$ kleiner als $3-mal~Bob~übereinander$.
+...dann sind auch $3-mal\~Alice\~übereinander$ kleiner als $3-mal\~Bob\~übereinander$.
 ![[images/Alice_Bob_Ordnung_3.png|500]]
 
->Wenn also $Alice \leq Bob$, dann ist auch $c-mal~Alice \leq c-mal~Bob$. 
+>Wenn also $Alice \leq Bob$, dann ist auch $c-mal\~Alice \leq c-mal\~Bob$. 
 >
 >Wobei $c$ hier eine positive Zahl ist.
 
