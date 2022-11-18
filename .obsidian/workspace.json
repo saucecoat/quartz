@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2256144f6df99b5",
+        "id": "fdde469edd0410b9",
         "type": "tabs",
         "children": [
           {
-            "id": "8fa126677613433a",
+            "id": "040ce121185842fb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,8 +137,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8fa126677613433a",
+  "active": "040ce121185842fb",
   "lastOpenFiles": [
+    "content/Ordnung_der_komplexen_Zahlen.md",
     "content/Zahlenbereichserweiterungen.md",
     "content/Multiplikation_ganzer_Zahlen.md",
     "content/Howie_Hua_Minus_mal_minus.md",
@@ -147,7 +148,6 @@
     "content/What_fraction_is_shaded_viral.md",
     "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
     "content/Universelle_Parabelkonstante.md",
-    "content/Übersicht_p-adische_Zahlen.md",
-    "content/Übersicht_Bruchrechnung.md"
+    "content/Übersicht_p-adische_Zahlen.md"
   ]
 }
