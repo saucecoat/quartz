@@ -72,11 +72,10 @@ In Bezug auf das Rechnen müssen wir für unsere Ordnungen also noch weitere For
 
 Wir wollen also, dass wir mit unserer Ordnung auch Rechnen können. Hierfür müssen die folgenden Eigenschaften gelten:
   
->$(\rm v)\quad \text{Wenn}\~\~ a \leq b, \~\~\text{dann ist}\~\~ a+c \leq b+c$ 
-> 
+>$(\rm v)\quad \text{Wenn}\~\~ a \leq b, \~\~\text{dann ist}\~\~ a+c \leq b+c$
 >(**Addition**)
 >
->$(\rm vi)\quad \text{Wenn}\~\~ a \leq b \~\~\text{und}\~\~ 0 \leq c, \~\~\text{dann ist}\~\~ a \cdot c \leq b \cdot c$ 
+>$(\rm vi)\quad \text{Wenn}\~\~ a \leq b \~\~\text{und}\~\~ 0 \leq c, \~\~\text{dann ist}\~\~ a \cdot c \leq b \cdot c$
 >(**Multiplikation**)
 
 Erfüllt ein [Körper](https://de.wikipedia.org/wiki/K%C3%B6rper_(Algebra)) mit einer Ordnungsrelation alle 6 vorgestellten Axiome, nennt man ihn einen [geordneten Körper](https://de.wikipedia.org/wiki/Geordneter_K%C3%B6rper).
