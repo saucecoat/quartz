@@ -29,9 +29,11 @@ Die folgenden vier Axiome (Aussagen, die wir offensichtlich für wahr befinden u
 ## Axiome $(\rm i)$-$(\rm iv)$
 
 >$(\rm i)\quad a \leq a$
+>
 >(**Reflexivität** = ein Element ist immer kleiner gleich sich selbst)
 >
 >$(\rm ii)\quad a \leq b \~\~\~\~\text{oder}\~\~\~\~ b \leq a$ 
+>
 >(**Totalität** = jedes Paar von Elementen ist vergleichbar)
 >
 >$(\rm iii)\quad \text{Wenn}\~\~ a \leq b \~\~\text{und}\~\~ b \leq a, \~\~\text{dann ist}\~\~ a=b$          
@@ -58,7 +60,7 @@ Würfel, würfel, würfel...tadaaa:
 
 Diese Ordnung der Zahlen ist augenscheinlich ziemlich sinnlos, aber alle unsere Axiome sind erfüllt und damit ist dies tatsächlich eine Ordnung.
 
-Case closed. Die komplexen Zahlen $\mathbb{C}$ lassen sich ordnen. Vielen Dank und tschüüü....Moment!
+Case closed. Die komplexen Zahlen $\mathbb{C}$ lassen sich ordnen. Vielen Dank und tschüüü...Moment!
 
 Ja, man könnte die komplexen Zahlen völlig willkürlich anordnen und dadurch eine Ordnung erhalten, aber das sieht nun so gar nicht mehr aus wie die uns bekannten komplexen Zahlen. Außerdem **wollen wir ja auch mit unseren Zahlen wie gewohnt rechnen** können.
 
@@ -73,10 +75,10 @@ In Bezug auf das Rechnen müssen wir für unsere Ordnungen also noch weitere For
 Wir wollen also, dass wir mit unserer Ordnung auch Rechnen können. Hierfür müssen die folgenden Eigenschaften gelten:
   
 >$(\rm v)\quad \text{Wenn}\~\~ a \leq b, \~\~\text{dann ist}\~\~ a+c \leq b+c$   
->(*Addition*)
+>(**Addition**)
 >
 >$(\rm vi)\quad \text{Wenn}\~\~ a \leq b \~\~\text{und}\~\~ 0 \leq c, \~\~\text{dann ist}\~\~ a \cdot c \leq b \cdot c$   
->(*Multiplikation*)
+>(**Multiplikation**)
 
 Erfüllt ein [Körper](https://de.wikipedia.org/wiki/K%C3%B6rper_(Algebra)) mit einer Ordnungsrelation alle 6 vorgestellten Axiome, nennt man ihn einen [geordneten Körper](https://de.wikipedia.org/wiki/Geordneter_K%C3%B6rper).
 
@@ -109,12 +111,12 @@ Wenn $Alice$ kleiner ist als $Bob$, ...
 
 Schaffen wir es also nun eine Ordnung für $\mathbb{C}$ zu finden, die alle 6 Axiome erfüllt, dann haben wir eine Ordnung gefunden, die dafür sorgt, dass wir auch weiterhin mit den komplexen Zahlen rechnen können, wie wir es gewohnt sind.
 
-Leider werden wir feststellen, dass egal welche Wahl wir für $i$ treffen, also entweder positiv oder negativ (eines von beiden muss sie schließlich sein), wir immer einen logischen Widerspruch erhalten werden.
+Leider werden wir feststellen, dass egal welche Wahl wir für $i$ treffen, wir immer einen logischen Widerspruch erhalten werden.
 
 ## Beweis
 
 Die Beweismethode, die wir im folgenden Beweis verwenden, nennt sich [Beweis durch Widerspruch](https://de.wikipedia.org/wiki/Reductio_ad_absurdum).
-Wir nehmen einfach an, dass es eine totale Ordnung der komplexen Zahlen gibt. Dann muss nach $(\rm ii)$ entweder $0 \leq i$ oder $i \leq 0$ gelten. Wir wissen noch nicht, wo $i$ liegt, entweder kleiner oder gleich $0$ (aka negativ) oder größer oder gleich $0$ (aka positiv). 
+Wir nehmen einfach an, dass es eine totale Ordnung der komplexen Zahlen gibt. Dann muss nach $(\rm ii)$ entweder $0 \leq i$ oder $i \leq 0$ gelten. Wir wissen noch nicht, wo $i$ liegt, entweder ist $i$ kleiner oder gleich $0$ (aka negativ), größer oder gleich $0$ (aka positiv) oder möglicherweise ist $i$ sogar gleich $0$.
 
   
 ### Fall 1: $0 \leq i$
@@ -138,6 +140,13 @@ Da $-i$ positiv ist, ergibt $(\rm vi)$, dass $0 \cdot(-i) \leq (-i) \cdot (-i) \
 Von hier an können wir der Argumentationskette aus Fall 1 folgen, um analog zum gleichen Widerspruch zu gelangen. 
 
 Der vollständige Beweis, sei in guter mathematischer Tradition dem Leser als Übung überlassen.
+
+### Fall 3: $i=0$
+
+Wenn $i=0$, dann können wir nach $(\rm vi)$ beide Seiten mit $i$ multiplizieren: $i \cdot i = 0 \cdot i \Rightarrow -1=0$.  Multiplizieren wir nun beide Seiten mit $-1$, dann gilt nach $(\rm vi)$:  $(-1) \cdot (-1) = 0 \cdot (-1) \Rightarrow 1=0$.
+
+Da $\mathbb{C}$ ein Körper ist, kann dies nicht sein, da das [neutrale Element](https://de.wikipedia.org/wiki/K%C3%B6rper_(Algebra)#Eigenschaften_und_Begriffe) der Addition und das neutrale Element der Multiplikation in einem Körper nicht dasselbe Element sein kann. Sprich $0$ ist nicht gleich $1$.
+
 
 ## Fazit
 

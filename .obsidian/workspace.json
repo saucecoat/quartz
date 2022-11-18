@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fdde469edd0410b9",
+        "id": "5971b37a1938c338",
         "type": "tabs",
         "children": [
           {
-            "id": "040ce121185842fb",
+            "id": "a7723333333a0826",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -145,7 +145,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "040ce121185842fb",
+  "active": "a7723333333a0826",
   "lastOpenFiles": [
     "content/Ordnung_der_komplexen_Zahlen.md",
     "content/Zahlenbereichserweiterungen.md",
