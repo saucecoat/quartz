@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ef45eddab9780d87",
+        "id": "b2256144f6df99b5",
         "type": "tabs",
         "children": [
           {
-            "id": "aebb53d245535b21",
+            "id": "8fa126677613433a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Multiplikation_ganzer_Zahlen.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Multiplikation_ganzer_Zahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Multiplikation_ganzer_Zahlen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Multiplikation_ganzer_Zahlen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aebb53d245535b21",
+  "active": "8fa126677613433a",
   "lastOpenFiles": [
     "content/Zahlenbereichserweiterungen.md",
     "content/Multiplikation_ganzer_Zahlen.md",
+    "content/Howie_Hua_Minus_mal_minus.md",
     "content/Datenschutzhinweise.md",
     "content/Why_We_Dont_Cross_Multiply.md",
     "content/What_fraction_is_shaded_viral.md",
     "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
     "content/Universelle_Parabelkonstante.md",
     "content/Übersicht_p-adische_Zahlen.md",
-    "content/Übersicht_Bruchrechnung.md",
-    "content/Thinking_Task_Terme_Sushiteller.md"
+    "content/Übersicht_Bruchrechnung.md"
   ]
 }

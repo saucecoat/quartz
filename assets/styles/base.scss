@@ -1,4 +1,15 @@
 // Replace this with your own font imports!
+/* euclid-math-two - latin */
+@font-face {
+  font-family: 'Euclid Math';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('fonts/euclid-math-two.ttf') format('ttf'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/euclid-math-two.ttf') format('ttf'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+
 /* fira-code-regular - latin */
 @font-face {
   font-family: 'Fira Code';
@@ -105,7 +116,7 @@
 
 :root {
   --font-body: "Source Sans Pro";
-  --font-header: "Inter";
+  --font-header: "Euclid Math";
   --font-mono: "Fira Code"
 }
 

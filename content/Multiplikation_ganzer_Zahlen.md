@@ -1,7 +1,7 @@
 ---
 title: "Multiplikation ganzer Zahlen"
 date: "2022-11-16"
-tags: [alle, math, mathe, rechengesetze, rechenregeln, kommutativgesetz, assoziativgesetz, distributivgesetz, minus, plus, vorzeichen]
+tags: [alle, math, mathe, rechengesetze, rechenregeln, kommutativgesetz, assoziativgesetz, distributivgesetz, minus, plus, vorzeichen, negative_zahlen, negative_numbers]
 ---
 
 ## Negative Zahlen

@@ -17,7 +17,7 @@ operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
   Meine kleine Ecke des Internets, indem ich meine Gedanken und Ideen - meistens über Mathe - teilen möchte.
 page_title:
-  "Meistens Mathe"
+  "MEISTENS MATHE"
 links:
   - link_name: Mastodon
     link: https://mathstodon.xyz/@pea_adic
