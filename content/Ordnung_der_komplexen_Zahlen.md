@@ -34,10 +34,10 @@ Die folgenden vier Axiome (Aussagen, die wir offensichtlich für wahr befinden u
 >$(\rm ii)\quad a \leq b \~\~\~\~\text{oder}\~\~\~\~ b \leq a$ <br>
 >(**Totalität** = jedes Paar von Elementen ist vergleichbar)
 >
->$(\rm iii)\quad \text{Wenn}\~\~ a \leq b \~\~\text{und}\~\~ b \leq a, \~\~\text{dann ist}\~\~ a=b$ <br>         
+>$(\rm iii)\quad \text{Wenn}\~\~ a \leq b \~\~\text{und}\~\~ b \leq a, \~\~\text{dann ist}\~\~ a=b$          
 >(**Antisymmetrie** = entweder ist ein Element kleiner als das andere oder beide gleich groß)
 >
->$(\rm iv)\quad \text{Wenn}\~\~ a \leq b \~\~\text{und}\~\~ b \leq c, \~\~\text{dann ist}\~\~ a \leq c$ <br>            
+>$(\rm iv)\quad \text{Wenn}\~\~ a \leq b \~\~\text{und}\~\~ b \leq c, \~\~\text{dann ist}\~\~ a \leq c$             
 >(**Transitivität** = kein "Schnick-Schnack-Schnuck")
 
   
@@ -75,7 +75,7 @@ Wir wollen also, dass wir mit unserer Ordnung auch Rechnen können. Hierfür mü
 >$(\rm v)\quad \text{Wenn}\~\~ a \leq b, \~\~\text{dann ist}\~\~ a+c \leq b+c$ <br>  
 >(**Addition**)
 >
->$(\rm vi)\quad \text{Wenn}\~\~ a \leq b \~\~\text{und}\~\~ 0 \leq c, \~\~\text{dann ist}\~\~ a \cdot c \leq b \cdot c$ <br>  
+>$(\rm vi)\quad \text{Wenn}\~\~ a \leq b \~\~\text{und}\~\~ 0 \leq c, \~\~\text{dann ist}\~\~ a \cdot c \leq b \cdot c$ 
 >(**Multiplikation**)
 
 Erfüllt ein [Körper](https://de.wikipedia.org/wiki/K%C3%B6rper_(Algebra)) mit einer Ordnungsrelation alle 6 vorgestellten Axiome, nennt man ihn einen [geordneten Körper](https://de.wikipedia.org/wiki/Geordneter_K%C3%B6rper).
