@@ -20,7 +20,7 @@ $2$ ist größer als $1$.
 $3$ ist größer als $2$ und so weiter. 
 Mathematisch gesehen können wir sagen: $0 < 1 < 2 < 3 < \ldots$ Von hier an werden wir das Symbol $\leq$ (kleiner gleich) zum Vergleichen zweier Elemente verwenden. Diese Forderung ist nicht so streng wie $<$ und reicht zum Ordnen völlig aus. 
 
-*Was muss eine Ordnung nun eigentlich leisten, um als Ordnung bezeichnet zu werden? *
+*Was muss eine Ordnung nun eigentlich leisten, um als Ordnung bezeichnet zu werden?*
 
 Nun, es gibt vier Eigenschaften, die wir von einer Ordnung fordern wollen. Einige davon mögen völlig offensichtlich erscheinen, sind aber dennoch notwendig, um die gesamte Bandbreite der Fälle abzudecken, in denen wir eine Ordnung verwenden möchten. 
 Die folgenden vier Axiome (Aussagen, die wir offensichtlich für wahr befinden und die nicht weiter bewiesen werden müssen) legen fest, wie sich unsere $\leq$-Beziehung beim Vergleich von Elementen verhalten soll:
