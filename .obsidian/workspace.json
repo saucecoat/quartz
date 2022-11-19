@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dffa7fef0aba36db",
+        "id": "78ca181189409d47",
         "type": "tabs",
         "children": [
           {
-            "id": "da5ed69e0f44aee7",
+            "id": "1fc8b0810ca4d5ee",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,8 +137,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da5ed69e0f44aee7",
+  "active": "1fc8b0810ca4d5ee",
   "lastOpenFiles": [
+    "content/How_To_Compare_Fractions.md",
+    "content/Übersicht_Bruchrechnung.md",
     "content/Multiplikation_ganzer_Zahlen.md",
     "content/Ordnung_der_komplexen_Zahlen.md",
     "content/Geradengleichung_mit_und_ohne_Vektoren.md",
@@ -146,8 +148,6 @@
     "content/Howie_Hua_Minus_mal_minus.md",
     "content/Idee_Einführung_Brüche.md",
     "content/Übersicht_p-adische_Zahlen.md",
-    "content/Zahlenbereichserweiterungen.md",
-    "content/Datenschutzhinweise.md",
-    "content/Why_We_Dont_Cross_Multiply.md"
+    "content/Zahlenbereichserweiterungen.md"
   ]
 }
