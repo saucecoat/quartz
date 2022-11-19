@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb8810f91b6ef6e6",
+        "id": "dffa7fef0aba36db",
         "type": "tabs",
         "children": [
           {
-            "id": "e24dbb45cfb220a8",
+            "id": "da5ed69e0f44aee7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,8 +137,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e24dbb45cfb220a8",
+  "active": "da5ed69e0f44aee7",
   "lastOpenFiles": [
+    "content/Multiplikation_ganzer_Zahlen.md",
     "content/Ordnung_der_komplexen_Zahlen.md",
     "content/Geradengleichung_mit_und_ohne_Vektoren.md",
     "content/Henn_Filler_Vektorbegriff.md",
@@ -146,7 +147,6 @@
     "content/Idee_Einführung_Brüche.md",
     "content/Übersicht_p-adische_Zahlen.md",
     "content/Zahlenbereichserweiterungen.md",
-    "content/Multiplikation_ganzer_Zahlen.md",
     "content/Datenschutzhinweise.md",
     "content/Why_We_Dont_Cross_Multiply.md"
   ]

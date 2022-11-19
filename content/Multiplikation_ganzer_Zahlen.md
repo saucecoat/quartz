@@ -24,7 +24,7 @@ Dabei müssen wir natürlich aufpassen, dass wir auf diesem Weg nicht das, was w
 
 ## Multiplikation in $\mathbb{Z}$
 
-Im Folgenden werden die Rechenregeln der Multiplikation durch Beispiele illustriert. Die Beweise bleiben dem Leser überlassen 😉
+Im Folgenden werden die Rechenregeln der Multiplikation durch Beispiele illustriert. Die Beweise, dass diese Regeln für beliebige ganze Zahlen gelten, bleiben dem Leser überlassen 😉
 
 Wichtig zu betonen ist, dass die folgenden Regeln menschengemachte Definitionen sind. **Sie sind eine aktive Wahl und nicht von den Göttern diktiert.**
 Man könnte die Multiplikation in $\mathbb{Z}$ auch anders definieren, aber dann würden unsere bekannten Rechenregeln aus $\mathbb{N}$ nicht mehr gelten; und das wäre ziemlich unpraktisch.
@@ -47,7 +47,7 @@ Damit diese Gleichung aufgeht, muss $2 \cdot (-3) = -6$ sein.
 
 ### Minus mal Plus
 
-Da auch das Kommutativgesetz weiter gelten soll, muss auch $(-3) \cdot 2 = 6$ gelten.
+Da auch das Kommutativgesetz weiter gelten soll, muss auch $(-3) \cdot 2 = -6$ gelten.
 
 > Minus mal Plus ist Minus
 
