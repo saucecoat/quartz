@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2f85f6dfe9522df1",
+        "id": "5971b37a1938c338",
         "type": "tabs",
         "children": [
           {
-            "id": "d938e7aa6d0b2f30",
+            "id": "a7723333333a0826",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/Ordnung_der_komplexen_Zahlen.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -145,7 +145,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d938e7aa6d0b2f30",
+  "active": "a7723333333a0826",
   "lastOpenFiles": [
     "content/Ordnung_der_komplexen_Zahlen.md",
     "content/Zahlenbereichserweiterungen.md",

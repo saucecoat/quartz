@@ -18,7 +18,7 @@ Eine Ordnung ist ein System, das unter den Elementen einer Menge eine bestimmte 
 $1$ ist z. B. größer als $0$. 
 $2$ ist größer als $1$.  
 $3$ ist größer als $2$ und so weiter. 
-Mathematisch gesehen können wir sagen: $0 < 1 < 2 < 3 < \ldots$ Von hier an werden wir das Symbol $\leq$ (größer oder gleich) zum Vergleichen zweier Elemente verwenden. Diese Forderung ist nicht so streng wie $<$ und reicht zum ordnen völlig aus. 
+Mathematisch gesehen können wir sagen: $0 < 1 < 2 < 3 < \ldots$ Von hier an werden wir das Symbol $\leq$ (kleiner gleich) zum Vergleichen zweier Elemente verwenden. Diese Forderung ist nicht so streng wie $<$ und reicht zum Ordnen völlig aus. 
 
 *Was muss eine Ordnung nun eigentlich leisten, um als Ordnung bezeichnet zu werden? *
 
@@ -42,7 +42,7 @@ Die folgenden vier Axiome (Aussagen, die wir offensichtlich für wahr befinden u
 
   
 Ich wette, die Axiome $(\rm i)$ bis $(\rm iii)$ scheinen ziemlich einleuchtend oder gar trivial zu sein. 
-Axiom $(\rm iv)$ besagt, dass wir keine Schleifen wie beim Spiel *Schnick-Schnack-Schnuck* wollen, sondern dass, wenn $b$ größer oder gleich $a$ ist und $c$ größer oder gleich $b$ ist, dass dann auch $c$ größer oder gleich $a$ sein muss. So wie wir sagen, dass $3$ größer als $2$ und $2$ größer als $1$ ist und das deswegen auch $3$ größer als $1$ sein muss. 
+Axiom $(\rm iv)$ besagt, dass wir keine Schleifen wie beim Spiel *Schnick-Schnack-Schnuck* wollen, sondern dass, wenn $b$ größer gleich $a$ ist und $c$ größer gleich $b$ ist, dass dann auch $c$ größer gleich $a$ sein muss. So wie wir sagen, dass $3$ größer als $2$ und $2$ größer als $1$ ist und das deswegen auch $3$ größer als $1$ sein muss. 
 
 Auch wenn dies bei Zahlen offensichtlich erscheinen mag, ist diese Logik in Wirklichkeit überhaupt nicht die Regel. Hierzu empfehle ich dieses großartige [Numberphile-Video mit Tadashi Tokieda](https://www.youtube.com/watch?v=zzKGnuvX6IQ), in dem er einen Satz von *nicht-transitiven Würfeln* zeigt, welche sich genau wie bei Schnick-Schnack-Schnuck gegenseitig im Kreis schlagen.
 
@@ -109,41 +109,36 @@ Wenn $Alice$ kleiner ist als $Bob$, ...
 
 Schaffen wir es also nun eine Ordnung für $\mathbb{C}$ zu finden, die alle 6 Axiome erfüllt, dann haben wir eine Ordnung gefunden, die dafür sorgt, dass wir auch weiterhin mit den komplexen Zahlen rechnen können, wie wir es gewohnt sind.
 
-Leider werden wir feststellen, dass egal welche Wahl wir für $i$ treffen, wir immer einen logischen Widerspruch erhalten werden.
+Leider werden wir feststellen, dass egal welche Wahl wir für $i$ treffen, also entweder kleiner gleich $0$ oder größer gleich $0$ (eines von beiden muss sie schließlich sein), wir immer einen logischen Widerspruch erhalten werden.
 
 ## Beweis
 
 Die Beweismethode, die wir im folgenden Beweis verwenden, nennt sich [Beweis durch Widerspruch](https://de.wikipedia.org/wiki/Reductio_ad_absurdum).
-Wir nehmen einfach an, dass es eine totale Ordnung der komplexen Zahlen gibt. Dann muss nach $(\rm ii)$ entweder $0 \leq i$ oder $i \leq 0$ gelten. Wir wissen noch nicht, wo $i$ liegt, entweder ist $i$ kleiner oder gleich $0$ (aka negativ), größer oder gleich $0$ (aka positiv) oder möglicherweise ist $i$ sogar gleich $0$.
+Wir nehmen einfach an, dass es eine totale Ordnung der komplexen Zahlen gibt. Dann muss nach $(\rm ii)$ entweder $0 \leq i$ oder $i \leq 0$ gelten. Wir wissen noch nicht, wo $i$ liegt, entweder kleiner gleich $0$ oder größer gleich $0$. 
 
   
 ### Fall 1: $0 \leq i$
-Nehmen wir an, dass $i$ positiv ist, also $0 \leq i$: 
+
+Nehmen wir an, dass $i$ größer gleich ist, also $0 \leq i$: 
 
 Nach $(\rm vi)$ bedeutet dies, dass $0 \cdot i \leq i \cdot i \Rightarrow 0 \leq -1$  ist. 
 
-Wenn also $i$ positiv ist, muss auch $-1$ positiv sein. In den uns vertrauten reellen Zahlen wäre dies bereits ein Widerspruch, aber Vorsicht, wir haben es hier mit komplexen Zahlen zu tun. Und soweit wir wissen, könnte deren Reihenfolge völlig anders sein. Und weil nun $-1$ positiv ist, also $0 \leq -1$ gilt, können wir wiederum mit Hilfe von $(\rm vi)$ schließen, dass $0 \cdot (-1) \leq (-1) \cdot (-1) \Rightarrow 0 \leq 1$. Das bedeutet, dass auch $1$ positiv sein muss. 
+Wenn also $i$ größer gleich $0$ ist, muss auch $-1$ größer gleich $0$ sein. In den uns vertrauten reellen Zahlen wäre dies bereits ein Widerspruch, aber Vorsicht, wir haben es hier mit komplexen Zahlen zu tun. Und soweit wir wissen, könnte deren Reihenfolge völlig anders sein. Und weil nun $0 \leq -1$ gilt, können wir wiederum mit Hilfe von $(\rm vi)$ schließen, dass $0 \cdot (-1) \leq (-1) \cdot (-1) \Rightarrow 0 \leq 1$. Das bedeutet, dass auch $1$ größer gleich $0$ sein muss. 
 
-Betrachtet man jedoch die Tatsache, dass $0 \leq -1$ ist, und addiert $1$ zu beiden Seiten, so muss die linke Seite immer noch kleiner oder gleich der rechten sein, gemäß $(\rm v)$. Also $0+1 \leq -1+1 \Rightarrow 1 \leq 0$, was bedeutet, dass $1$ negativ sein muss.
+Betrachtet man jedoch die Tatsache, dass $0 \leq -1$ ist, und addiert $1$ zu beiden Seiten, so muss die linke Seite immer noch kleiner gleich der rechten sein, gemäß $(\rm v)$. Also $0+1 \leq -1+1 \Rightarrow 1 \leq 0$, was bedeutet, dass $1$ kleiner gleich $0$ sein muss.
 
-Wir haben also, dass $0 \leq 1$ UND $1 \leq 0$, was nach $(\rm iii)$ bedeutet, dass $0=1$ ist, was jedoch selbst in den komplexen Zahlen eindeutig Unsinn ist. Da wir zu einer Aussage gekommen sind, die falsch ist, muss unsere Annahme, dass $0 \leq i$ ist, falsch gewesen sein.
+Wir haben also, dass $0 \leq 1$ <u>**und**</u> $1 \leq 0$, was nach $(\rm iii)$ bedeutet, dass $0=1$ ist, was jedoch selbst in den komplexen Zahlen eindeutig Unsinn ist. Da wir zu einer Aussage gekommen sind, die falsch ist, muss unsere Annahme, dass $0 \leq i$ ist, falsch gewesen sein.
 
 ### Fall 2: $i \leq 0$
 
-Nehmen wir also an, dass $i$ negativ ist; dass also $i \leq 0$: 
+Nehmen wir also an, dass $i$ kleiner gleich $0$ ist; dass also $i \leq 0$: 
 
 Nach $(\rm v)$ wissen wir, dass $i+(-i) \leq 0+(-i) \Rightarrow 0 \leq -i$.
 
-Da $-i$ positiv ist, ergibt $(\rm vi)$, dass $0 \cdot(-i) \leq (-i) \cdot (-i) \Rightarrow 0 \leq -1$. 
+Da $-i$ größer gleich $0$ ist, ergibt $(\rm vi)$, dass $0 \cdot(-i) \leq (-i) \cdot (-i) \Rightarrow 0 \leq -1$. 
 Von hier an können wir der Argumentationskette aus Fall 1 folgen, um analog zum gleichen Widerspruch zu gelangen. 
 
 Der vollständige Beweis, sei in guter mathematischer Tradition dem Leser als Übung überlassen.
-
-### Fall 3: $i=0$
-
-Wenn $i=0$, dann können wir nach $(\rm vi)$ beide Seiten mit $i$ multiplizieren: $i \cdot i = 0 \cdot i \Rightarrow -1=0$.  Multiplizieren wir nun beide Seiten mit $-1$, dann gilt nach $(\rm vi)$:  $(-1) \cdot (-1) = 0 \cdot (-1) \Rightarrow 1=0$.
-
-Da $\mathbb{C}$ ein Körper ist, kann dies nicht sein, da das [neutrale Element](https://de.wikipedia.org/wiki/K%C3%B6rper_(Algebra)#Eigenschaften_und_Begriffe) der Addition und das neutrale Element der Multiplikation in einem Körper nicht dasselbe Element sein kann. Sprich $0$ ist nicht gleich $1$.
 
 
 ## Fazit
