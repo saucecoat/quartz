@@ -24,7 +24,7 @@ Da $\mathrm{log}(nx)$ einer Streckung/Stauchung in $x$-Richtung entspricht, hei�
 
 ## Erklärung 
 
-Kramt man die Logarithmusgesetze heraus, wird (zumindest algebraisch) schnell klar warum:
+Kramt man die [[Eine_Frage_des_Maßstabes_Mathewelten_ARTE|Logarithmus]]gesetze heraus, wird (zumindest algebraisch) schnell klar warum:
 
 $$\mathrm{log}(nx)=\mathrm{log}(x)+\mathrm{log}(n)$$
 

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d3dbae422e3edd93",
+        "id": "15768ded533dc90e",
         "type": "tabs",
         "children": [
           {
-            "id": "feb14718d63fec06",
+            "id": "0d8bf4b8e007e007",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Muster_in_Logartihmusfunktionen.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ordnung",
+                "query": "{{< yo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Muster_in_Logartihmusfunktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Muster_in_Logartihmusfunktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Muster_in_Logartihmusfunktionen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "feb14718d63fec06",
+  "active": "0d8bf4b8e007e007",
   "lastOpenFiles": [
     "content/Muster_in_Logartihmusfunktionen.md",
+    "content/Eine_Frage_des_Maßstabes_Mathewelten_ARTE.md",
+    "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
     "content/Ordnung_der_komplexen_Zahlen.md",
     "content/How_To_Compare_Fractions.md",
     "content/Multiplikation_ganzer_Zahlen.md",
     "content/Übersicht_Bruchrechnung.md",
     "content/Geradengleichung_mit_und_ohne_Vektoren.md",
     "content/Henn_Filler_Vektorbegriff.md",
-    "content/Howie_Hua_Minus_mal_minus.md",
-    "content/Idee_Einführung_Brüche.md",
-    "content/Übersicht_p-adische_Zahlen.md"
+    "content/Howie_Hua_Minus_mal_minus.md"
   ]
 }
