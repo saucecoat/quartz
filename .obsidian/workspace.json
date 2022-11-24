@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "78ca181189409d47",
+        "id": "a75fa0287905d894",
         "type": "tabs",
         "children": [
           {
-            "id": "1fc8b0810ca4d5ee",
+            "id": "697e1348bb4d03b5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1fc8b0810ca4d5ee",
+  "active": "697e1348bb4d03b5",
   "lastOpenFiles": [
-    "content/How_To_Compare_Fractions.md",
-    "content/Übersicht_Bruchrechnung.md",
-    "content/Multiplikation_ganzer_Zahlen.md",
+    "content/Muster_in_Logartihmusfunktionen.md",
     "content/Ordnung_der_komplexen_Zahlen.md",
+    "content/How_To_Compare_Fractions.md",
+    "content/Multiplikation_ganzer_Zahlen.md",
+    "content/Übersicht_Bruchrechnung.md",
     "content/Geradengleichung_mit_und_ohne_Vektoren.md",
     "content/Henn_Filler_Vektorbegriff.md",
     "content/Howie_Hua_Minus_mal_minus.md",
     "content/Idee_Einführung_Brüche.md",
-    "content/Übersicht_p-adische_Zahlen.md",
-    "content/Zahlenbereichserweiterungen.md"
+    "content/Übersicht_p-adische_Zahlen.md"
   ]
 }
