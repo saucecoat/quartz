@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "06e71afc465ee12a",
+        "id": "fe43ed0924890ad0",
         "type": "tabs",
         "children": [
           {
-            "id": "d198836e7d0c875f",
+            "id": "1a02a251cd280afb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "{{< yo",
+                "query": "zahlenbere",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d198836e7d0c875f",
+  "active": "1a02a251cd280afb",
   "lastOpenFiles": [
+    "content/Quaternionen_mithilfe_von_Vektoren_mulitplizieren.md",
+    "content/Schlange_stehen_für_Sterne.md",
+    "content/Zahlenbereichserweiterungen.md",
     "Eisberg_zeichnen 1.md",
     "content/Eisberg_zeichnen.md",
-    "content/Multiplying_quaternions_with_vectors.md",
-    "content/Schlange_stehen_für_Sterne.md",
     "content/Roots_of_cubic_equations_with_triangle_and_circles.md",
     "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
     "content/Muster_in_Logartihmusfunktionen.md",
     "content/Henn_Filler_Vektorbegriff.md",
-    "content/Multiplikation_ganzer_Zahlen.md",
-    "content/Open_Middle_adding_fractions_to_a_whole_number.md"
+    "content/Multiplikation_ganzer_Zahlen.md"
   ]
 }

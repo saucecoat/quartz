@@ -12,6 +12,8 @@ Du stehst am Ende einer Schlange aus $n$ Personen. Die folgenden Schritte wieder
 
 > Bekommst du selbst irgendwann sicher einen Stern oder könntest du (abhängig von $n$) ewig ohne Stern bleiben?
 
-Quelle: https://mathstodon.xyz/@jsiehler/109382079957278549
-Präsentation: http://homepages.gac.edu/~jsiehler/Slides/fractional-2018-0423-slides.pdf
-Paper: https://arxiv.org/abs/1409.4113
+**Quelle:** https://mathstodon.xyz/@jsiehler/109382079957278549
+
+**Präsentation:** http://homepages.gac.edu/~jsiehler/Slides/fractional-2018-0423-slides.pdf
+
+**Paper:** https://arxiv.org/abs/1409.4113
