@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e2b1094d35525014",
+        "id": "06e71afc465ee12a",
         "type": "tabs",
         "children": [
           {
-            "id": "99c92195425e0767",
+            "id": "d198836e7d0c875f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "99c92195425e0767",
+  "active": "d198836e7d0c875f",
   "lastOpenFiles": [
+    "Eisberg_zeichnen 1.md",
+    "content/Eisberg_zeichnen.md",
+    "content/Multiplying_quaternions_with_vectors.md",
+    "content/Schlange_stehen_für_Sterne.md",
+    "content/Roots_of_cubic_equations_with_triangle_and_circles.md",
+    "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
     "content/Muster_in_Logartihmusfunktionen.md",
     "content/Henn_Filler_Vektorbegriff.md",
     "content/Multiplikation_ganzer_Zahlen.md",
-    "content/Open_Middle_adding_fractions_to_a_whole_number.md",
-    "content/Ordnung_der_komplexen_Zahlen.md",
-    "content/Parabeln_basteln.md",
-    "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
-    "content/Thinking_Task_Multiplikation_Brüche.md",
-    "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
-    "content/What_fraction_is_shaded_viral.md"
+    "content/Open_Middle_adding_fractions_to_a_whole_number.md"
   ]
 }
