@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "15768ded533dc90e",
+        "id": "e2b1094d35525014",
         "type": "tabs",
         "children": [
           {
-            "id": "0d8bf4b8e007e007",
+            "id": "99c92195425e0767",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0d8bf4b8e007e007",
+  "active": "99c92195425e0767",
   "lastOpenFiles": [
     "content/Muster_in_Logartihmusfunktionen.md",
-    "content/Eine_Frage_des_Maßstabes_Mathewelten_ARTE.md",
-    "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
-    "content/Ordnung_der_komplexen_Zahlen.md",
-    "content/How_To_Compare_Fractions.md",
-    "content/Multiplikation_ganzer_Zahlen.md",
-    "content/Übersicht_Bruchrechnung.md",
-    "content/Geradengleichung_mit_und_ohne_Vektoren.md",
     "content/Henn_Filler_Vektorbegriff.md",
-    "content/Howie_Hua_Minus_mal_minus.md"
+    "content/Multiplikation_ganzer_Zahlen.md",
+    "content/Open_Middle_adding_fractions_to_a_whole_number.md",
+    "content/Ordnung_der_komplexen_Zahlen.md",
+    "content/Parabeln_basteln.md",
+    "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
+    "content/Thinking_Task_Multiplikation_Brüche.md",
+    "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
+    "content/What_fraction_is_shaded_viral.md"
   ]
 }
