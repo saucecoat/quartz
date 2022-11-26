@@ -13,7 +13,7 @@ tags: [alle, mathe, buch, isbn9783761428849, mathematik_als_abenteuer, zahlenber
 | Rationale Zahlen $\mathbb{Q}$                                                    | [[Naive_fraction_sum_proof\|Die Nachfolgereigenschaft geht verloren.]] Man kann nicht mehr sinnvoll von der vorigen bzw. nächsten Zahl sprechen. |
 | Reelle Zahlen $\mathbb{R}$                                                       | Die Abzählbarkeit geht verloren.                                                                                                                 |
 | Komplexe Zahlen $\mathbb{C}$                                                     | [[Ordnung_der_komplexen_Zahlen\|Die Anordnung geht verloren.]] Man kann nicht mehr sinnvoll von einer kleineren bzw. größeren Zahl sprechen.     |
-| [[Quaternionen_mithilfe_von_Vektoren_mulitplizieren\|Quaternionen]] $\mathbb{H}$ | Die Kommutativität geht verloren. Es gilt also nicht mehr $a \cdot b = b \cdot a$.                                                               |
+| [[Quaternionen_mithilfe_von_Vektoren_multiplizieren\|Quaternionen]] $\mathbb{H}$ | Die Kommutativität geht verloren. Es gilt also nicht mehr $a \cdot b = b \cdot a$.                                                               |
 | Oktaven *oder* Oktonionen $\mathbb{O}$                                           | Die Assoziativität geht verloren. Es gilt also nicht mehr $a \cdot (b \cdot c) = (a \cdot b) \cdot c$.                                           |
 
 **Quelle:** Aus dem Kapitel Einführung Wurzel (Intervallschachtelung) des Buches [Mathematik als Abenteuer Band 2](https://www.friedrich-verlag.de/shop/mathematik-als-abenteuer-31004)

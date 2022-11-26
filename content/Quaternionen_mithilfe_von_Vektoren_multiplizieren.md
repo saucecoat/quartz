@@ -1,5 +1,5 @@
 ---
-title: "Quaternionen mithilfe von Vektoren mulitplizieren"
+title: "Quaternionen mithilfe von Vektoren multiplizieren"
 date: "2022-11-26"
 tags: [alle, math, mastodon, quaternion, vector, vektor, skalarprodukt, dot_product, cross_product, kreuzprodukt, multiplication, multiplikation]
 ---

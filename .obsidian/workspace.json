@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe43ed0924890ad0",
+        "id": "8760f34922bff448",
         "type": "tabs",
         "children": [
           {
-            "id": "1a02a251cd280afb",
+            "id": "1eab59520d6899ca",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,9 +137,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a02a251cd280afb",
+  "active": "1eab59520d6899ca",
   "lastOpenFiles": [
-    "content/Quaternionen_mithilfe_von_Vektoren_mulitplizieren.md",
+    "content/Quaternionen_mithilfe_von_Vektoren_multiplizieren.md",
     "content/Schlange_stehen_für_Sterne.md",
     "content/Zahlenbereichserweiterungen.md",
     "Eisberg_zeichnen 1.md",
