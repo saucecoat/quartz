@@ -119,7 +119,7 @@ Wir nehmen einfach an, dass es eine totale Ordnung der komplexen Zahlen gibt. Da
   
 ### Fall 1: $0 \leq i$
 
-Nehmen wir an, dass $i$ größer gleich ist, also $0 \leq i$: 
+Nehmen wir an, dass $i$ größer gleich $0$ ist, also $0 \leq i$: 
 
 Nach $(\rm vi)$ bedeutet dies, dass $0 \cdot i \leq i \cdot i \Rightarrow 0 \leq -1$  ist. 
 

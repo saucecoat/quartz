@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c642a66802cd2b04",
+        "id": "2eeee08059097a8a",
         "type": "tabs",
         "children": [
           {
-            "id": "c97d5cb2b0d2cc13",
+            "id": "0571a38591796bd6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,8 +137,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c97d5cb2b0d2cc13",
+  "active": "0571a38591796bd6",
   "lastOpenFiles": [
+    "content/Ordnung_der_komplexen_Zahlen.md",
     "content/_index.md",
     "content/Quaternionen_mithilfe_von_Vektoren_multiplizieren.md",
     "content/Schlange_stehen_für_Sterne.md",
@@ -147,7 +148,6 @@
     "content/Eisberg_zeichnen.md",
     "content/Roots_of_cubic_equations_with_triangle_and_circles.md",
     "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
-    "content/Muster_in_Logartihmusfunktionen.md",
-    "content/Henn_Filler_Vektorbegriff.md"
+    "content/Muster_in_Logartihmusfunktionen.md"
   ]
 }
