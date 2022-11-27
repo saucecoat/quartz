@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "285a76339c9b4bd3",
+        "id": "c642a66802cd2b04",
         "type": "tabs",
         "children": [
           {
-            "id": "366341e3f7121572",
+            "id": "c97d5cb2b0d2cc13",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,7 +137,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "366341e3f7121572",
+  "active": "c97d5cb2b0d2cc13",
   "lastOpenFiles": [
     "content/_index.md",
     "content/Quaternionen_mithilfe_von_Vektoren_multiplizieren.md",

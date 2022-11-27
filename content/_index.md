@@ -32,7 +32,7 @@ Diese Art Gedanken zu strukturieren nennt sich auch *Digital Garden*. Dieser [Ar
 >
 > Hier findest du eine [Liste aller verwendeten Tags](https://meistensmathe.de/tags) mit den zugehörigen Beiträgen.
 >
-> Solltest du einen Gesamtüberblick haben möchtest, schaue einfach in der [Liste aller veröffentlichten Beiträge](https://meistensmathe.de/tags/alle) nach.
+> Solltest du einen Gesamtüberblick haben wollen, schaue einfach in der [Liste aller veröffentlichten Beiträge](https://meistensmathe.de/tags/alle) nach.
 
 Also dann viel Spaß beim Durchforsten meines mathematischen Gartens.
 
