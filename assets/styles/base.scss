@@ -257,7 +257,7 @@ sup {
 
 blockquote {
   margin-left: 0em;
-  border-left: 3px solid var(--secondary);
+  border: 1px solid var(--secondary);
   padding-left: 1em;
   transition: border-color 0.2s ease;
 }
