@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8760f34922bff448",
+        "id": "285a76339c9b4bd3",
         "type": "tabs",
         "children": [
           {
-            "id": "1eab59520d6899ca",
+            "id": "366341e3f7121572",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/_index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,8 +137,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1eab59520d6899ca",
+  "active": "366341e3f7121572",
   "lastOpenFiles": [
+    "content/_index.md",
     "content/Quaternionen_mithilfe_von_Vektoren_multiplizieren.md",
     "content/Schlange_stehen_für_Sterne.md",
     "content/Zahlenbereichserweiterungen.md",
@@ -155,7 +148,6 @@
     "content/Roots_of_cubic_equations_with_triangle_and_circles.md",
     "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
     "content/Muster_in_Logartihmusfunktionen.md",
-    "content/Henn_Filler_Vektorbegriff.md",
-    "content/Multiplikation_ganzer_Zahlen.md"
+    "content/Henn_Filler_Vektorbegriff.md"
   ]
 }

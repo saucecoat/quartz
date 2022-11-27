@@ -19,7 +19,7 @@ Die Recherche nach Inhalten der höheren Mathematik, das Schauen von YouTube-Vid
 
 Die Struktur dieser Seite ist nicht die eines klassischen Blogs, sondern ähnelt eher einem Wiki, in dem verschiedene Seiten mit Links untereinander verknüpft sind. Die Verbindungen, die diese Links erzeugen, sind unter jeder Seite als <u>**interaktiver Graph**</u> dargestellt. 
 
-> Du kannst deine Reise also unten im interaktiven Graph starten und anschließend von Link zu Link zu verschiedenen Beiträgen springen. Um Inhalte zu bestimmten Themen zu finden, bietet sich die <u>**Suchfunktion**</u> oben an. 
+> Du kannst deine Reise also unten im interaktiven Graphen starten und anschließend von Link zu Link zu verschiedenen Beiträgen springen. Um Inhalte zu bestimmten Themen zu finden, bietet sich die <u>**Suchfunktion**</u> oben an. 
 
 Sollten Links nicht funktionieren, ist es immer ratsam, die URL einmal im [Internet Archive](https://web.archive.org) einzugeben. Ich versuche immer alle Links auch dort zu sichern, um sie vor dem Verschwinden zu bewahren. 
 
