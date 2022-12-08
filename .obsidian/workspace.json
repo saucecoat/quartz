@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2eeee08059097a8a",
+        "id": "9b1d327826e86c75",
         "type": "tabs",
         "children": [
           {
-            "id": "0571a38591796bd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/private/Drachenkurve.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "92ff009ee41dabf6",
+            "id": "8c9c6f4c530cbb0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,9 +145,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "92ff009ee41dabf6",
+  "active": "8c9c6f4c530cbb0e",
   "lastOpenFiles": [
     "content/private/Drachenkurve.md",
+    "content/Alternative_Dartellung_Drehmatrix.md",
     "content/Ordnung_der_komplexen_Zahlen.md",
     "content/_index.md",
     "content/Quaternionen_mithilfe_von_Vektoren_multiplizieren.md",
@@ -168,7 +156,6 @@
     "content/Zahlenbereichserweiterungen.md",
     "Eisberg_zeichnen 1.md",
     "content/Eisberg_zeichnen.md",
-    "content/Roots_of_cubic_equations_with_triangle_and_circles.md",
-    "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md"
+    "content/Roots_of_cubic_equations_with_triangle_and_circles.md"
   ]
 }
