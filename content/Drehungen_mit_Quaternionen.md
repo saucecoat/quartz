@@ -34,7 +34,7 @@ Der Punkt $(1|0|0)$ entspricht der Quaternion $i$.
 
 Die Drehung um $90°$ entspricht der Multiplikation von links mit $\cos(90°)+\sin(90°)\cdot \left( ai+bj+ck\right)$ und der Multiplikation von rechts mit $\cos(-90°)+\sin(-90°)\cdot \left( ai+bj+ck\right)$.
 
-Die (normierte) Drehachse entspricht dem Vektorteil $(a,b,c)$ der obigen Quaternionen. Für die Achse $\begin{pmatrix}1\\\\1\\\\0\end{pmatrix}$ ist dies $\frac{1}{\sqrt{2}}i+\frac{1}{\sqrt{2}}j$.
+Die (normierte) Drehachse entspricht dem Vektorteil $(a,b,c)$ der obigen Quaternionen. Für die Achse $\begin{pmatrix}1\\\\1\\\\0\end{pmatrix}$ ist dies $\frac{1}{\sqrt{2}}\cdot \left( 1i+1j+0k\right) = \frac{1}{\sqrt{2}}i+\frac{1}{\sqrt{2}}j$.
 
 ### Berechnung 
 
