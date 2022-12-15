@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e47622c8ec9bd76",
+        "id": "99c739bface2749e",
         "type": "tabs",
         "children": [
           {
-            "id": "542b8ea2ab4fb452",
+            "id": "dc9b8b031cce6544",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,7 +137,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "542b8ea2ab4fb452",
+  "active": "dc9b8b031cce6544",
   "lastOpenFiles": [
     "content/Drehungen_mit_Quaternionen.md",
     "content/Alternative_Dartellung_Drehmatrix.md",
