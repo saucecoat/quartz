@@ -16,7 +16,7 @@ tags: [alle, mathe, buch, isbn9783761428849, mathematik_als_abenteuer, zahlenber
 | [[Drehungen_mit_Quaternionen\|Quaternionen]] $\mathbb{H}$ | Die Kommutativität geht verloren. Es gilt also nicht mehr $a \cdot b = b \cdot a$.                                                               |
 | Oktaven *oder* Oktonionen $\mathbb{O}$                    | Die Assoziativität geht verloren. Es gilt also nicht mehr $a \cdot (b \cdot c) = (a \cdot b) \cdot c$.                                           |
 
-	**Quelle:** Aus dem Kapitel Einführung Wurzel (Intervallschachtelung) des Buches [Mathematik als Abenteuer Band 2](https://www.friedrich-verlag.de/shop/mathematik-als-abenteuer-31004)
+**Quelle:** Aus dem Kapitel Einführung Wurzel (Intervallschachtelung) des Buches [Mathematik als Abenteuer Band 2](https://www.friedrich-verlag.de/shop/mathematik-als-abenteuer-31004)
 
 Video zu Zahlenbereichserweiterungen: [Irrationale Zahlen | Mathewelten | ARTE](https://youtube.com/watch?v=P24tmohytXs)
 
