@@ -1,19 +1,19 @@
 ---
 title: "Drehungen mit Quaternionen"
 date: "2022-12-15"
-tags: [alle, math, mathe, quaternion, 3b1b, 3blue1brown, stereographische_projektion, drehung, 4d, 3d, 2d, komplexe_zahlen, complex_numbers, rotation]
+tags: [alle, math, mathe, quaternion, 3b1b, 3blue1brown, stereographische_projektion, drehung, 4d, 3d, 2d, komplexe_zahlen, complex_numbers, rotation, weitz]
 ---
 
 ## Dreidimensionale Zahlen gibt es nicht
 
 Dreidimensionale Zahlen sind nicht möglich, da der Fakt, dass z. B. der Punkt $(1|0|0)$ zu $(0|1|0)$ gedreht wurde, die Drehung im Dreidimensionalen nicht eindeutig beschreibt. 
-Es könnte z. B. eine Drehung um $\begin{pmatrix}0\\\\0\\\\1\end{pmatrix}$ um $90°$ gewesen sein oder eine Drehung um $\begin{pmatrix}1\\\\1\\\\0\end{pmatrix}$ um $180°$.
+Es könnte z. B. eine Drehung um $\begin{pmatrix}0\\\\0\\\\1\end{pmatrix}$ um $90°$ gewesen sein oder eine Drehung um $\begin{pmatrix}1\\\\1\\\\0\end{pmatrix}$ um $180°$. 
 
-Im Gegenzug dazu beschreibt eine komplexe Zahl eindeutig einen Punkt sowie eine Drehung im Zweidimensionalen.
+Im Gegenzug dazu beschreibt eine komplexe Zahl eindeutig einen Punkt sowie eine Drehung im Zweidimensionalen (vgl. auch: https://old.reddit.com/r/math/comments/9urjyx/why_there_is_no_complex_numbers_in_3_dimension/e96j4lg/).
 
-**Quellen:**
-- https://old.reddit.com/r/math/comments/9urjyx/why_there_is_no_complex_numbers_in_3_dimension/e96j4lg/
-- https://eater.net/quaternions/video/stereo3d (ab 4:00)
+Eine visuelle Veranschaulichung liefert [dieses interaktive Video von 3blue1brown](https://eater.net/quaternions/video/stereo3d) ab 4:00.
+
+Ein zahlentheoretischer Hinweis für die Unmöglichkeit dreidimensionaler Zahlen liefert [Weitz](https://www.youtube.com/watch?v=9AakzE0ZLaQ&t=273).
 
 ## Multiplikation von Quaternionen als Drehungen im Dreidimensionalen
 
