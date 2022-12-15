@@ -6,7 +6,7 @@ tags: [alle, math, mathe, quaternion, 3b1b, 3blue1brown, stereographische_projek
 
 ## Dreidimensionale Zahlen gibt es nicht
 
-Dreidimensionale Zahlen nicht möglich, da der Fakt, dass z. B. der Punkt $(1|0|0)$ zu $(0|1|0)$ gedreht wurde, die Drehung im Dreidimensionalen nicht eindeutig beschreibt. 
+Dreidimensionale Zahlen sind nicht möglich, da der Fakt, dass z. B. der Punkt $(1|0|0)$ zu $(0|1|0)$ gedreht wurde, die Drehung im Dreidimensionalen nicht eindeutig beschreibt. 
 Es könnte z. B. eine Drehung um $\begin{pmatrix}0\\\\0\\\\1\end{pmatrix}$ um $90°$ gewesen sein oder eine Drehung um $\begin{pmatrix}1\\\\1\\\\0\end{pmatrix}$ um $180°$.
 
 Im Gegenzug dazu beschreibt eine komplexe Zahl eindeutig einen Punkt sowie eine Drehung im Zweidimensionalen.
@@ -32,7 +32,7 @@ Anschließend dreht man durch eine Multiplikation von <u>**rechts**</u> die Dreh
 
 Der Punkt $(1|0|0)$ entspricht der Quaternion $i$.
 
-Die Drehung um $90°$ entspricht der Multiplikation von links mit $\cos(90°)+\sin(90°)\cdot \left( ai+bj+ck\right)$ und der Multiplikation von rechts mit $\cos(-90°)+\sin(-90°)\cdot \left( ai+bj+ck\right)$.
+Die Drehung um $180°$ entspricht der Multiplikation von links mit $\cos(90°)+\sin(90°)\cdot \left( ai+bj+ck\right)$ und der Multiplikation von rechts mit $\cos(-90°)+\sin(-90°)\cdot \left( ai+bj+ck\right)$.
 
 Die (normierte) Drehachse entspricht dem Vektorteil $(a,b,c)$ der obigen Quaternionen. Für die Achse $\begin{pmatrix}1\\\\1\\\\0\end{pmatrix}$ ist dies $\frac{1}{\sqrt{2}}\cdot \left( 1i+1j+0k\right) = \frac{1}{\sqrt{2}}i+\frac{1}{\sqrt{2}}j$.
 
