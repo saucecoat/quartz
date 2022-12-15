@@ -11,7 +11,7 @@ Es könnte z. B. eine Drehung um $\begin{pmatrix}0\\\\0\\\\1\end{pmatrix}$ um $9
 
 Im Gegenzug dazu beschreibt eine komplexe Zahl eindeutig einen Punkt sowie eine Drehung im Zweidimensionalen.
 
-**Quellen: **
+**Quellen:**
 - https://old.reddit.com/r/math/comments/9urjyx/why_there_is_no_complex_numbers_in_3_dimension/e96j4lg/
 - https://eater.net/quaternions/video/stereo3d (ab 4:00)
 

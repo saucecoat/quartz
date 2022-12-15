@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b94746e29eb7a3d0",
+        "id": "98628b096e6c50fe",
         "type": "tabs",
         "children": [
           {
-            "id": "f717426249934596",
+            "id": "a55f5f616d555a66",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,11 +137,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f717426249934596",
+  "active": "a55f5f616d555a66",
   "lastOpenFiles": [
-    "content/Zahlenbereichserweiterungen.md",
     "content/Drehungen_mit_Quaternionen.md",
     "content/Alternative_Dartellung_Drehmatrix.md",
+    "content/Zahlenbereichserweiterungen.md",
     "content/Quaternionen_mithilfe_von_Vektoren_multiplizieren.md",
     "Untitled.md",
     "content/private/Drachenkurve.md",
