@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9b1d327826e86c75",
+        "id": "96acf7dfbb19e191",
         "type": "tabs",
         "children": [
           {
-            "id": "8c9c6f4c530cbb0e",
+            "id": "94c3f83b6d3f3806",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Drehungen_mit_Quaternionen.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "78a173de80b95fef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Drehungen_mit_Quaternionen.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Drehungen_mit_Quaternionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Drehungen_mit_Quaternionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Drehungen_mit_Quaternionen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,11 +137,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "78a173de80b95fef",
+  "active": "94c3f83b6d3f3806",
   "lastOpenFiles": [
+    "content/Drehungen_mit_Quaternionen.md",
     "content/Zahlenbereichserweiterungen.md",
     "content/Alternative_Dartellung_Drehmatrix.md",
-    "content/Drehungen_mit_Quaternionen.md",
     "content/Quaternionen_mithilfe_von_Vektoren_multiplizieren.md",
     "Untitled.md",
     "content/private/Drachenkurve.md",
