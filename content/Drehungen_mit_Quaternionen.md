@@ -1,7 +1,7 @@
 ---
 title: "Drehungen mit Quaternionen"
 date: "2022-12-15"
-tags: [alle, math, mathe, quaternion, 3b1b, 3blue1brown, stereographische_projektion, drehung, 3d, 2d, komplexe_zahlen, complex_numbers, rotation]
+tags: [alle, math, mathe, quaternion, 3b1b, 3blue1brown, stereographische_projektion, drehung, 4d, 3d, 2d, komplexe_zahlen, complex_numbers, rotation]
 ---
 
 ## Dreidimensionale Zahlen gibt es nicht
