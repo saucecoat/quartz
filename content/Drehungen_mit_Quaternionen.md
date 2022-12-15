@@ -9,7 +9,7 @@ tags: [alle, math, mathe, quaternion, 3b1b, 3blue1brown, stereographische_projek
 Dreidimensionale Zahlen sind nicht möglich, da der Fakt, dass z. B. der Punkt $(1|0|0)$ zu $(0|1|0)$ gedreht wurde, die Drehung im Dreidimensionalen nicht eindeutig beschreibt. 
 Es könnte z. B. eine Drehung um $\begin{pmatrix}0\\\\0\\\\1\end{pmatrix}$ um $90°$ gewesen sein oder eine Drehung um $\begin{pmatrix}1\\\\1\\\\0\end{pmatrix}$ um $180°$. 
 
-Im Gegenzug dazu beschreibt eine komplexe Zahl eindeutig einen Punkt sowie eine Drehung im Zweidimensionalen (vgl. auch: https://old.reddit.com/r/math/comments/9urjyx/why_there_is_no_complex_numbers_in_3_dimension/e96j4lg/).
+Im Gegenzug dazu beschreibt eine komplexe Zahl eindeutig einen Punkt sowie eine Drehung im Zweidimensionalen (vgl. auch [Reddit-Post von tailcalled](https://old.reddit.com/r/math/comments/9urjyx/why_there_is_no_complex_numbers_in_3_dimension/e96j4lg/)).
 
 Eine visuelle Veranschaulichung liefert [dieses interaktive Video von 3blue1brown](https://eater.net/quaternions/video/stereo3d) ab 4:00.
 
