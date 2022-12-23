@@ -19,7 +19,7 @@ Bei dem Fall *Minus mal Minus* funktioniert das nicht mehr.
 
 Im Folgenden wird das Produkt $17 \cdot 18$ auf vier verschiedene Arten berechnet. 
 
-Multiplikation kann man sich als Flächenberechnung eines Rechtecks vorstellen, in unserem Fall mit den Seitenlängen $17$ und $18$. Wir werden die Seitenlängen im Folgenden unterschiedlich aufteilen, jedoch wird sich der Flächeninhalt dadurch nicht verändern.
+[[Terme_multiplizieren_mithilfe_von_Rechtecken|Multiplikation kann man sich als Flächenberechnung eines Rechtecks]] vorstellen, in unserem Fall mit den Seitenlängen $17$ und $18$. Wir werden die Seitenlängen im Folgenden unterschiedlich aufteilen, jedoch wird sich der Flächeninhalt dadurch nicht verändern.
 
 ### 1. Möglichkeit
 
