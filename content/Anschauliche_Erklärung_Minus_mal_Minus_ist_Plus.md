@@ -4,7 +4,7 @@ date: "2022-12-23"
 tags: [alle, math, mathe, unterricht, ganze_zahlen, negative_zahlen, negative_numbers, minus, plus, rechteck, rectangle, flächeninhalt, area, james_tanton]
 ---
 
-Die folgende anschauliche Erklärung, warum die Multiplikation zweier negativer Zahlen eine positive Zahl ergibt, habe ich im Rahmen des Make Math Moments Virtual Summit 2022* in einem Vortrag von James Tanton gehört.
+Die folgende anschauliche Erklärung, warum die Multiplikation zweier negativer Zahlen eine positive Zahl ergibt, habe ich im Rahmen des *Make Math Moments Virtual Summit 2022* in einem Vortrag von [James Tanton](https://www.jamestanton.com) gehört.
 
 Sie ist keine saubere mathematische Erklärung, bietet aber eine gute intuitive Erklärung, die gerade für Schüler zugänglicher ist, als die [[Multiplikation_ganzer_Zahlen|vollständige algebraische Erklärung]]. 
 

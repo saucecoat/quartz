@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "236a148634681aab",
+        "id": "b3f1b74bdd73f96b",
         "type": "tabs",
         "children": [
           {
-            "id": "595c05b1bf9f4e69",
+            "id": "456e46595fcf65c2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "595c05b1bf9f4e69",
+  "active": "456e46595fcf65c2",
   "lastOpenFiles": [
     "content/Anschauliche_Erklärung_Minus_mal_Minus_ist_Plus.md",
     "content/Multiplikation_ganzer_Zahlen.md",
