@@ -19,7 +19,7 @@ Bei dem Fall *Minus mal Minus* funktioniert das nicht mehr.
 
 Im Folgenden wird das Produkt $17 \cdot 18$ auf vier verschiedene Arten berechnet. 
 
-Multiplikation kann man sich als Flächenberechnung eines Rechtecks berechnen, in unserem Fall mit den Seitenlängen $17$ und $18$. Wir werden die Seitenlängen im folgenden unterschiedlich aufteilen, jedoch wird sich der Flächeninhalt dadurch nicht verändern.
+Multiplikation kann man sich als Flächenberechnung eines Rechtecks vorstellen, in unserem Fall mit den Seitenlängen $17$ und $18$. Wir werden die Seitenlängen im Folgenden unterschiedlich aufteilen, jedoch wird sich der Flächeninhalt dadurch nicht verändern.
 
 ### 1. Möglichkeit
 
@@ -45,4 +45,4 @@ Es folgt also, dass $(-3) \cdot (-2) = 6$.
 
 ## Aufgabe für Schüler
 
-Überzeuge mich, dass $(-4)\cdot (-5)=20$ ist. Fange vielleicht mit $16 \cdot 15$ an. 
+Überzeuge mich, dass $(-4)\cdot (-5)=20$ ist. Fange hierfür vielleicht mit $16 \cdot 15$ an. 
