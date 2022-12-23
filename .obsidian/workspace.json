@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c4838f5d21048e9",
+        "id": "236a148634681aab",
         "type": "tabs",
         "children": [
           {
-            "id": "e3bc463e8f53b852",
+            "id": "595c05b1bf9f4e69",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,17 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b00cd49974197310",
+  "active": "595c05b1bf9f4e69",
   "lastOpenFiles": [
-    "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
+    "content/Anschauliche_Erklärung_Minus_mal_Minus_ist_Plus.md",
+    "content/Multiplikation_ganzer_Zahlen.md",
+    "content/Ordnung_der_komplexen_Zahlen.md",
     "content/Drehungen_mit_Quaternionen.md",
+    "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
     "content/Alternative_Dartellung_Drehmatrix.md",
     "content/Zahlenbereichserweiterungen.md",
     "content/Quaternionen_mithilfe_von_Vektoren_multiplizieren.md",
     "Untitled.md",
-    "content/private/Drachenkurve.md",
-    "content/Ordnung_der_komplexen_Zahlen.md",
-    "content/_index.md",
-    "content/Schlange_stehen_für_Sterne.md"
+    "content/private/Drachenkurve.md"
   ]
 }
