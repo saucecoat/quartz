@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f2f245c8033c9676",
+        "id": "2d9f546f4ca2c33e",
         "type": "tabs",
         "children": [
           {
-            "id": "5c4289109b8d9db5",
+            "id": "320d69df16d18455",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Terme_multiplizieren_mithilfe_von_Rechtecken.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Terme_multiplizieren_mithilfe_von_Rechtecken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Terme_multiplizieren_mithilfe_von_Rechtecken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Terme_multiplizieren_mithilfe_von_Rechtecken.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,17 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c4289109b8d9db5",
+  "active": "320d69df16d18455",
   "lastOpenFiles": [
+    "content/The_Beautiful_Story_of_Non-Euclidean_Geometry.md",
+    "content/Intuition_Hyperbolische_Metrik.md",
+    "content/Hyperbolische_Ebene_häkeln.md",
     "content/Terme_multiplizieren_mithilfe_von_Rechtecken.md",
     "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
     "content/Anschauliche_Erklärung_Minus_mal_Minus_ist_Plus.md",
     "content/Multiplikation_ganzer_Zahlen.md",
     "content/Ordnung_der_komplexen_Zahlen.md",
     "content/Drehungen_mit_Quaternionen.md",
-    "content/Alternative_Dartellung_Drehmatrix.md",
-    "content/Zahlenbereichserweiterungen.md",
-    "content/Quaternionen_mithilfe_von_Vektoren_multiplizieren.md",
-    "Untitled.md"
+    "content/Alternative_Dartellung_Drehmatrix.md"
   ]
 }
