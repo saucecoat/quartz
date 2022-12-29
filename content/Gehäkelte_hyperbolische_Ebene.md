@@ -6,7 +6,7 @@ tags: [alle, math, hyperbolic, hyperbolisch, hyperbolic_geometry, hyperbolische_
 
 ## Parallelenaxiom
 
-![[Gehäkelte_hyperbolische_Fläche.png]]
+![[images/Gehäkelte_hyperbolische_Fläche.png]]
 - [Parallelenaxiom](https://de.wikipedia.org/wiki/Parallelenaxiom) gilt nicht in der hyperbolische Fläche: es gibt zu einer Geraden (im Bild unten) mehrere mehrere Parallelen, die durch denselben Punkt gehen (im Bild oben)
 
 
