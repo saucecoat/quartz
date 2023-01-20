@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf004d99964249d5",
+        "id": "4d6bd59b23f22bba",
         "type": "tabs",
         "children": [
           {
-            "id": "db93c21ce7a2909a",
+            "id": "6d044cb38d9a497f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "open",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,17 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db93c21ce7a2909a",
+  "active": "6d044cb38d9a497f",
   "lastOpenFiles": [
-    "content/Daten_mit_dem_geometrischen_Mittel_visualisieren.md",
+    "content/Thinking Task Schritte pro Tag.md",
     "content/Vergleich_arithmetisches_geometrisches_Mittel.md",
+    "content/Daten_mit_dem_geometrischen_Mittel_visualisieren.md",
+    "content/Open Middle mean median modus range.md",
+    "content/Open_Middle_adding_fractions_to_a_whole_number.md",
     "content/How_to_deliver_good_PowerPoint_Presentations.md",
     "content/Radio_aus_aller_Welt.md",
     "content/Statistik_Tutorial_Playlist_Matti_Saalkind.md",
     "content/Gehäkelte_hyperbolische_Ebene.md",
-    "content/Hyperbolische_Ebene_häkeln.md",
-    "content/Flächeninhalt_Dreieck_mit_der_Determinante.md",
-    "content/Berechnung Flächeninhalt mit der Shoelace Formula.md",
-    "content/The_Beautiful_Story_of_Non-Euclidean_Geometry.md"
+    "content/Hyperbolische_Ebene_häkeln.md"
   ]
 }
