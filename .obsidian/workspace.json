@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71ab944f8111c767",
+        "id": "7e9083c3594a8acc",
         "type": "tabs",
         "children": [
           {
-            "id": "1344f4c6fbb82957",
+            "id": "c61d1e9eeb1cab5b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b00cd49974197310",
+  "active": "c61d1e9eeb1cab5b",
   "lastOpenFiles": [
     "content/How_to_deliver_good_PowerPoint_Presentations.md",
     "content/Radio_aus_aller_Welt.md",

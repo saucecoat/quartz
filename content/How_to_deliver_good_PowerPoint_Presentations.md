@@ -1,7 +1,7 @@
 ---
 title: "How to deliver good PowerPoint Presentations"
 date: "2023-01-21"
-tags: [alle, youtube #ted #ppt #powerpoint #presentation #präsentation #vortrag]
+tags: [alle, youtube, ted, ppt, powerpoint, presentation, präsentation, vortrag]
 ---
 Source: https://yewtu.be/watch?v=Iwpi1Lm6dFo
 
