@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e9083c3594a8acc",
+        "id": "bf004d99964249d5",
         "type": "tabs",
         "children": [
           {
-            "id": "c61d1e9eeb1cab5b",
+            "id": "db93c21ce7a2909a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,8 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c61d1e9eeb1cab5b",
+  "active": "db93c21ce7a2909a",
   "lastOpenFiles": [
+    "content/Daten_mit_dem_geometrischen_Mittel_visualisieren.md",
+    "content/Vergleich_arithmetisches_geometrisches_Mittel.md",
     "content/How_to_deliver_good_PowerPoint_Presentations.md",
     "content/Radio_aus_aller_Welt.md",
     "content/Statistik_Tutorial_Playlist_Matti_Saalkind.md",
@@ -157,8 +159,6 @@
     "content/Hyperbolische_Ebene_häkeln.md",
     "content/Flächeninhalt_Dreieck_mit_der_Determinante.md",
     "content/Berechnung Flächeninhalt mit der Shoelace Formula.md",
-    "content/The_Beautiful_Story_of_Non-Euclidean_Geometry.md",
-    "content/Intuition_Hyperbolische_Metrik.md",
-    "content/Terme_multiplizieren_mithilfe_von_Rechtecken.md"
+    "content/The_Beautiful_Story_of_Non-Euclidean_Geometry.md"
   ]
 }
