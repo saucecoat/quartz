@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5899616590e3632e",
+        "id": "dc3c1d2f212b1866",
         "type": "tabs",
         "children": [
           {
-            "id": "b2d9ed7c6a844b89",
+            "id": "278db0536ee6587b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2d9ed7c6a844b89",
+  "active": "278db0536ee6587b",
   "lastOpenFiles": [
     "content/How_to_deliver_good_PowerPoint_Presentations.md",
     "content/Statistik_Tutorial_Playlist_Matti_Saalkind.md",
