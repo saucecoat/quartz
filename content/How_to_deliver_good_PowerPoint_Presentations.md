@@ -5,7 +5,8 @@ tags: [alle, youtube, ted, ppt, powerpoint, presentation, präsentation, vortrag
 ---
 Source: https://yewtu.be/watch?v=Iwpi1Lm6dFo
 
->**Key points from this video: **
+>**Key points from this video:**
+>
 [2:32](https://www.yewtu.be/watch?v=Iwpi1Lm6dFo&t=152s) Examples of bad slides.  
 [3:46](https://www.yewtu.be/watch?v=Iwpi1Lm6dFo&t=226s) "90% of what you said was gone in 30 seconds" if your slides looked like these bad examples.  
 [6:15](https://www.yewtu.be/watch?v=Iwpi1Lm6dFo&t=375s) One message per slide!  

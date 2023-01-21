@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4d6bd59b23f22bba",
+        "id": "5899616590e3632e",
         "type": "tabs",
         "children": [
           {
-            "id": "6d044cb38d9a497f",
+            "id": "b2d9ed7c6a844b89",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,16 +148,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d044cb38d9a497f",
+  "active": "b2d9ed7c6a844b89",
   "lastOpenFiles": [
-    "content/Thinking Task Schritte pro Tag.md",
+    "content/How_to_deliver_good_PowerPoint_Presentations.md",
+    "content/Statistik_Tutorial_Playlist_Matti_Saalkind.md",
     "content/Vergleich_arithmetisches_geometrisches_Mittel.md",
     "content/Daten_mit_dem_geometrischen_Mittel_visualisieren.md",
-    "content/Open Middle mean median modus range.md",
+    "content/Open_Middle_mean_median_modus_range.md",
+    "content/Thinking_Task_Schritte_pro_Tag.md",
     "content/Open_Middle_adding_fractions_to_a_whole_number.md",
-    "content/How_to_deliver_good_PowerPoint_Presentations.md",
     "content/Radio_aus_aller_Welt.md",
-    "content/Statistik_Tutorial_Playlist_Matti_Saalkind.md",
     "content/Gehäkelte_hyperbolische_Ebene.md",
     "content/Hyperbolische_Ebene_häkeln.md"
   ]
