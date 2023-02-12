@@ -8,4 +8,4 @@ Ein super Graph, um die Begriffe streng monoton und monoton mit dem Kurs zu disk
 
 Die strenge Monotonie ist bis auf die Wahl der Klammer, z. B. bei $(-\infty; -1)$ bzw. $(-\infty; -1]$, eindeutig.
 
-![[Monotonie Diskussion.png]]
+![[images/Monotonie Diskussion.png]]
