@@ -29,7 +29,7 @@ Das Ablesen von Intervallgrenzen kann trügerisch sein, da das Ablesen ungenau i
 
 Es braucht also eine rechnerische Methode zur Bestimmung der Intervallgrenzen.
 
-Aus dem Monotoniesatz folgt:
+Aus dem Mittelwertsatz folgt für stetige Funktion (also insbesondere für ganzrationale Funktionen):
 
 > Wenn an der Stelle $x_{0}$ ein Wechsel des Monotonieverhaltens stattfindet, dann gilt $f'(x_{0})=0$.
 
