@@ -4,7 +4,7 @@ date: "2023-02-12"
 tags: [alle, mathe, unterricht , analysis, ableitung, monotonie, streng_monoton, klammer]
 ---
 
-# Monotoniesatz
+## Monotoniesatz
 
 Der Monotoniesatz gilt <u>**nur**</u> in eine Richtung:
 
