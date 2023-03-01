@@ -44,10 +44,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "simon",
+                "query": "twitter",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
