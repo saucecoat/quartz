@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7ae42842365bdb99",
+        "id": "8e1738a1dd152835",
         "type": "tabs",
         "children": [
           {
-            "id": "714dd7bc5c48d037",
+            "id": "ddc076dfa9111056",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Monotoniesatz_und_Ableitung.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "open",
+                "query": "simon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Monotoniesatz_und_Ableitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Monotoniesatz_und_Ableitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Monotoniesatz_und_Ableitung.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +148,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "714dd7bc5c48d037",
+  "active": "b00cd49974197310",
   "lastOpenFiles": [
-    "content/Diskussion_strenge_Monotonie.md",
+    "content/_index.md",
     "content/Monotoniesatz_und_Ableitung.md",
+    "content/Diskussion_strenge_Monotonie.md",
     "content/Gehäkelte_hyperbolische_Ebene.md",
     "content/Radio_aus_aller_Welt.md",
     "content/Statistik_Tutorial_Playlist_Matti_Saalkind.md",

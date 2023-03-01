@@ -5,7 +5,6 @@ enableToc: false
 
 # Hallo 
 
-Ich bin Simon 👋 
 Willkommen auf meiner Seite namens **Meistens Mathe**. 
 
 Ich habe sie so genannt, da ich hier meine Gedanken zu Dingen, die mich beschäftigen oder interessante Links, die ich gefunden habe, teilen möchte...und diese drehen sich eben meistens um Mathematik.
