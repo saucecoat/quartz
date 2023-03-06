@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1c7ce5baf0afb4d",
+        "id": "58857ae06df69dcc",
         "type": "tabs",
         "children": [
           {
-            "id": "06a8e2d87327d484",
+            "id": "6d05cae77939ec37",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "twitter",
+                "query": "ableitung",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,11 +149,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06a8e2d87327d484",
+  "active": "6d05cae77939ec37",
   "lastOpenFiles": [
+    "content/Aufgabe_parallele_Tangente.md",
+    "content/Monotoniesatz_und_Ableitung.md",
+    "content/Muster_in_Logartihmusfunktionen.md",
+    "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
+    "content/images/Tangente_parallel.png",
     "content/Beliebige_Videogeschwindigkeit.md",
     "content/_index.md",
-    "content/Monotoniesatz_und_Ableitung.md",
     "content/Diskussion_strenge_Monotonie.md",
     "content/Gehäkelte_hyperbolische_Ebene.md",
     "content/Radio_aus_aller_Welt.md",
