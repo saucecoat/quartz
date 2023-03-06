@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c278cf72bf49064c",
+        "id": "d9cb0373984e6dea",
         "type": "tabs",
         "children": [
           {
-            "id": "ce32ce5bb97b37ca",
+            "id": "5afdf316c8bd3339",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b00cd49974197310",
+  "active": "5afdf316c8bd3339",
   "lastOpenFiles": [
     "content/Aufgabe_parallele_Tangente.md",
     "content/Monotoniesatz_und_Ableitung.md",

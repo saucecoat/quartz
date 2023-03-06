@@ -17,4 +17,4 @@ Abbildung.
 
 c) **Begründen** Sie, dass es keine Tangente  
 an den Graphen von $f$ gibt, die parallel  
-zur Tangente $t$ aus Aufgabenteil a) liegt
+zur Tangente $t$ aus Aufgabenteil a) liegt.
