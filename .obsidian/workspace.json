@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e1738a1dd152835",
+        "id": "e1c7ce5baf0afb4d",
         "type": "tabs",
         "children": [
           {
-            "id": "ddc076dfa9111056",
+            "id": "06a8e2d87327d484",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,8 +148,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b00cd49974197310",
+  "active": "06a8e2d87327d484",
   "lastOpenFiles": [
+    "content/Beliebige_Videogeschwindigkeit.md",
     "content/_index.md",
     "content/Monotoniesatz_und_Ableitung.md",
     "content/Diskussion_strenge_Monotonie.md",
