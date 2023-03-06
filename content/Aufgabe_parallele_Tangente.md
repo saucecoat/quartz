@@ -4,7 +4,7 @@ date: "2023-03-06"
 tags: [alle, mathe, unterricht, ef, tangente, tangentengleichung, parallel, aufgabe, ableitung, analysis, graphisches_ableiten]
 ---
 
-Die folgende Abbildung zeigt den Graphen der Funktion f mit der Gleichung $f(x)=\frac{1}{3}x^{3}-2x^{2}+ \frac{16}{3}$.
+Die folgende Abbildung zeigt den Graphen der Funktion $f$ mit der Gleichung $f(x)=\frac{1}{3}x^{3}-2x^{2}+ \frac{16}{3}$.
 
 ![[Tangente_parallel.png]]
 

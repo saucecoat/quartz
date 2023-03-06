@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58857ae06df69dcc",
+        "id": "c278cf72bf49064c",
         "type": "tabs",
         "children": [
           {
-            "id": "6d05cae77939ec37",
+            "id": "ce32ce5bb97b37ca",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ableitung",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d05cae77939ec37",
+  "active": "b00cd49974197310",
   "lastOpenFiles": [
     "content/Aufgabe_parallele_Tangente.md",
     "content/Monotoniesatz_und_Ableitung.md",
