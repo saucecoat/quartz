@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Aufgabe_parallele_Tangente.md",
+                "file": "content/Additionstheoreme_mithilfe_des_Skalarprodukts.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Aufgabe_parallele_Tangente.md",
+                "file": "content/Additionstheoreme_mithilfe_des_Skalarprodukts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Aufgabe_parallele_Tangente.md",
+                "file": "content/Additionstheoreme_mithilfe_des_Skalarprodukts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Aufgabe_parallele_Tangente.md"
+                "file": "content/Additionstheoreme_mithilfe_des_Skalarprodukts.md"
               }
             }
           },
@@ -158,9 +158,9 @@
   },
   "active": "5afdf316c8bd3339",
   "lastOpenFiles": [
+    "content/Aufgabe_parallele_Tangente.md",
     "content/Additionstheoreme_mithilfe_des_Skalarprodukts.md",
     "content/images/Skalarprodukt_Additionstheorem.png",
-    "content/Aufgabe_parallele_Tangente.md",
     "content/What_fraction_is_shaded_viral.md",
     "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
     "content/Why_We_Dont_Cross_Multiply.md",
