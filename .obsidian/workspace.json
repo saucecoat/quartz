@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c39cc588f809bf27",
+        "id": "56448ae59bea6574",
         "type": "tabs",
         "children": [
           {
-            "id": "def63b7220856aae",
+            "id": "6aa064fa87914a61",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b00cd49974197310",
+  "active": "6aa064fa87914a61",
   "lastOpenFiles": [
     "content/Monotoniesatz_und_Ableitung.md",
     "content/Additionstheoreme_mithilfe_des_Skalarprodukts.md",

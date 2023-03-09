@@ -17,8 +17,9 @@ Da für alle $x<x_{0}$ gilt, dass $f(x)<f(x_{0})$ und für alle $x>x_{0}$, dass 
 
 ## Monotonie ganzrationaler Funktionen 
 
-Eine Funktion ist also auf einem Intervall, auf dem sie mit Ausnahme von einzelnen isolierten $x$-Werten steigt, streng monoton steigend. 
-Hat sie für mehr als einen $x$-Wert "hintereinander" die Ableitung $0$, so ist sie nicht streng monoton steigend. Dieser Fall kommt bei ganzrationalen Funktionen (welcher heutzutage leider den einzig tiefer thematisierten Funktionstyp darstellt) allerdings nicht vor und ist deswegen in der heutigen Schulmathematik praktisch irrelevant. 
+Eine Funktion ist also auf einem Intervall, auf dem sie mit Ausnahme von einzelnen isolierten $x$-Werten steigt, streng monoton steigend. Hat sie für mehr als einen $x$-Wert "hintereinander" die Ableitung $0$, so ist sie nicht streng monoton steigend. 
+
+Dieser Fall kommt bei ganzrationalen Funktionen (welche heutzutage in der Schule leider den einzig tiefer thematisierten Funktionstyp darstellt) allerdings nicht vor und ist deswegen in der heutigen Schulmathematik praktisch irrelevant. 
 Ein Beispiel zur Besprechung des Unterschieds findet sich [[Diskussion_strenge_Monotonie|hier]].
 
 In der Schule ist es daher heutzutage eigentlich egal, ob man bei der Angabe von Monotonieintervallen runde oder eckige Klammern verwendet. Der Einfachheit halber kann man sich also auf den Gebrauch von runden Klammern beschränken, da diese auch im Fall $\pm \infty$ verwendet werden.
