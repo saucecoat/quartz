@@ -12,16 +12,16 @@ Der Monotoniesatz gilt <u>**nur**</u> in eine Richtung:
 
 Das heißt jedoch <u>**nicht**</u>, dass $f$ nicht streng monoton steigend sein kann, wenn $f'(x)=0$ in $I$. 
 
-So ist z. B. $f(x)=x^{3}$ auf ganz $\mathbb{R}$ streng monoton steigend, obwohl an der Stelle $x_{0}=0$ die Ableitung verschwindet. 
+So ist z. B. $f(x)=x^{3}$ <u>auf ganz $\mathbb{R}$ streng monoton steigend</u>, obwohl an der Stelle $x_{0}=0$ die Ableitung verschwindet. 
 Da für alle $x<x_{0}$ gilt, dass $f(x)<f(x_{0})$ und für alle $x>x_{0}$, dass $f(x)>f(x_{0})$, ist $f$ trotzdem streng monoton steigend.
 
-## Monotonie in der Schule 
+## Monotonie ganzrationaler Funktionen 
 
 Eine Funktion ist also auf einem Intervall, auf dem sie mit Ausnahme von einzelnen isolierten $x$-Werten steigt, streng monoton steigend. 
-Hat sie für mehr als einen $x$-Wert hintereinander die Ableitung $0$, so ist sie nicht streng monoton steigend. Dieser Fall kommt bei ganzrationalen Funktionen allerdings nicht vor und ist deswegen in der Schulmathematik praktisch irrelevant. 
+Hat sie für mehr als einen $x$-Wert "hintereinander" die Ableitung $0$, so ist sie nicht streng monoton steigend. Dieser Fall kommt bei ganzrationalen Funktionen (welcher heutzutage leider den einzig tiefer thematisierten Funktionstyp darstellt) allerdings nicht vor und ist deswegen in der heutigen Schulmathematik praktisch irrelevant. 
 Ein Beispiel zur Besprechung des Unterschieds findet sich [[Diskussion_strenge_Monotonie|hier]].
 
-In der Schule ist es daher eigentlich egal, ob man bei der Angabe von Monotonieintervallen runde oder eckige Klammern verwendet. Der Einfachheit halber kann man sich also auf den Gebrauch von runden Klammern beschränken, da diese auch im Fall $\pm \infty$ verwendet werden.
+In der Schule ist es daher heutzutage eigentlich egal, ob man bei der Angabe von Monotonieintervallen runde oder eckige Klammern verwendet. Der Einfachheit halber kann man sich also auf den Gebrauch von runden Klammern beschränken, da diese auch im Fall $\pm \infty$ verwendet werden.
 
 ## Monotonieintervalle mithilfe der Ableitung bestimmen
 

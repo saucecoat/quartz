@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4e7ee8f8117b368",
+        "id": "c39cc588f809bf27",
         "type": "tabs",
         "children": [
           {
-            "id": "7be2583f66ed98be",
+            "id": "def63b7220856aae",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,8 +148,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7be2583f66ed98be",
+  "active": "b00cd49974197310",
   "lastOpenFiles": [
+    "content/Monotoniesatz_und_Ableitung.md",
     "content/Additionstheoreme_mithilfe_des_Skalarprodukts.md",
     "content/Übersicht_p-adische_Zahlen.md",
     "content/Aufgabe_parallele_Tangente.md",
@@ -161,7 +162,6 @@
     "content/p-adic_numbers_Part_1_of_3.md",
     "content/p-adic_numbers_visual_representation_of_convergence_of_large_numbers.md",
     "content/Übersicht_Bruchrechnung.md",
-    "content/Monotoniesatz_und_Ableitung.md",
     "content/Muster_in_Logartihmusfunktionen.md",
     "content/images/Tangente_parallel.png",
     "content/Beliebige_Videogeschwindigkeit.md",
