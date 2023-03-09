@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1dc52949b1e6b056",
@@ -158,8 +159,9 @@
   },
   "active": "5afdf316c8bd3339",
   "lastOpenFiles": [
-    "content/Aufgabe_parallele_Tangente.md",
+    "content/Übersicht_p-adische_Zahlen.md",
     "content/Additionstheoreme_mithilfe_des_Skalarprodukts.md",
+    "content/Aufgabe_parallele_Tangente.md",
     "content/images/Skalarprodukt_Additionstheorem.png",
     "content/What_fraction_is_shaded_viral.md",
     "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
@@ -168,7 +170,6 @@
     "content/p-adic_numbers_Part_1_of_3.md",
     "content/p-adic_numbers_visual_representation_of_convergence_of_large_numbers.md",
     "content/Übersicht_Bruchrechnung.md",
-    "content/Übersicht_p-adische_Zahlen.md",
     "content/Monotoniesatz_und_Ableitung.md",
     "content/Muster_in_Logartihmusfunktionen.md",
     "content/images/Tangente_parallel.png",
