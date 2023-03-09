@@ -11,8 +11,12 @@
             "id": "5afdf316c8bd3339",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Aufgabe_parallele_Tangente.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Aufgabe_parallele_Tangente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Aufgabe_parallele_Tangente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/Aufgabe_parallele_Tangente.md"
+              }
             }
           },
           {
@@ -150,10 +158,19 @@
   },
   "active": "5afdf316c8bd3339",
   "lastOpenFiles": [
+    "content/Additionstheoreme_mithilfe_des_Skalarprodukts.md",
+    "content/images/Skalarprodukt_Additionstheorem.png",
     "content/Aufgabe_parallele_Tangente.md",
+    "content/What_fraction_is_shaded_viral.md",
+    "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
+    "content/Why_We_Dont_Cross_Multiply.md",
+    "content/Zahlenbereichserweiterungen.md",
+    "content/p-adic_numbers_Part_1_of_3.md",
+    "content/p-adic_numbers_visual_representation_of_convergence_of_large_numbers.md",
+    "content/Übersicht_Bruchrechnung.md",
+    "content/Übersicht_p-adische_Zahlen.md",
     "content/Monotoniesatz_und_Ableitung.md",
     "content/Muster_in_Logartihmusfunktionen.md",
-    "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
     "content/images/Tangente_parallel.png",
     "content/Beliebige_Videogeschwindigkeit.md",
     "content/_index.md",
