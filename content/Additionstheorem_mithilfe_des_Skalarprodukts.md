@@ -1,5 +1,5 @@
 ---
-title: "Additionstheoreme mithilfe des Skalarprodukts"
+title: "Additionstheorem mithilfe des Skalarprodukts"
 date: "2023-03-09"
 tags: [alle, mathe, math, trigonometrie, skalarprodukt, dot_product, additionstheorem, sinus, cosinus, winkel]
 ---

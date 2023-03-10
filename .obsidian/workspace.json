@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "56448ae59bea6574",
+        "id": "45a318547083b8b2",
         "type": "tabs",
         "children": [
           {
-            "id": "6aa064fa87914a61",
+            "id": "7036547e5ce9fb9c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6aa064fa87914a61",
+  "active": "7036547e5ce9fb9c",
   "lastOpenFiles": [
+    "content/Additionstheorem_mithilfe_des_Skalarprodukts.md",
     "content/Monotoniesatz_und_Ableitung.md",
-    "content/Additionstheoreme_mithilfe_des_Skalarprodukts.md",
     "content/Übersicht_p-adische_Zahlen.md",
     "content/Aufgabe_parallele_Tangente.md",
     "content/images/Skalarprodukt_Additionstheorem.png",
