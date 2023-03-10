@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45a318547083b8b2",
+        "id": "3020dc676646c553",
         "type": "tabs",
         "children": [
           {
-            "id": "7036547e5ce9fb9c",
+            "id": "989a6d5d8a3074f4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,8 +148,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7036547e5ce9fb9c",
+  "active": "b00cd49974197310",
   "lastOpenFiles": [
+    "content/Drehungen_mit_Quaternionen.md",
     "content/Additionstheorem_mithilfe_des_Skalarprodukts.md",
     "content/Monotoniesatz_und_Ableitung.md",
     "content/Übersicht_p-adische_Zahlen.md",

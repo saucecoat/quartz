@@ -13,7 +13,7 @@ Im Gegenzug dazu beschreibt eine komplexe Zahl eindeutig einen Punkt sowie eine 
 
 Eine visuelle Veranschaulichung liefert [dieses interaktive Video von 3blue1brown](https://eater.net/quaternions/video/stereo3d) ab 4:00.
 
-Ein zahlentheoretischer Hinweis für die Unmöglichkeit dreidimensionaler Zahlen liefert [Weitz](https://www.youtube.com/watch?v=9AakzE0ZLaQ&t=273).
+Einen zahlentheoretischen Hinweis für die Unmöglichkeit dreidimensionaler Zahlen liefert [Weitz](https://www.youtube.com/watch?v=9AakzE0ZLaQ&t=273).
 
 ## Multiplikation von Quaternionen als Drehungen im Dreidimensionalen
 
