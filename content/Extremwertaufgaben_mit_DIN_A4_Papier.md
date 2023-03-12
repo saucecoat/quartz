@@ -19,6 +19,7 @@ Es soll aus einem Blatt DIN A4-Papier durch das Herausschneiden eines Quadrats a
 ## Lösung
 
 > [!success]- Lösung
+> 
 > Bezeichnen wir die Länge des Quadrats mit $x$ so ergibt sich folgendes Bild:
 > 
 > ![[images/Extremwert_DINA4_Box_2.png]]
