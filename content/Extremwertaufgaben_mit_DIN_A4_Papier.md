@@ -4,9 +4,9 @@ date: "2023-03-12"
 tags: [alle, mathe, analysis, extremstelle, extremwertaufgabe, randwert, definitionsbereich, papier, box, rechteck, flächeninhalt, maximieren, minimieren, ableitung]
 ---
 
-# Box basteln 
+## Box basteln 
 
-## Aufgabe
+### Aufgabe
 
 Es soll aus einem Blatt DIN A4-Papier durch das Herausschneiden eines Quadrats an jeder Ecke, sowie das anschließende Hochklappen der Seiten eine möglichst große Box gebastelt werden.
 
@@ -16,7 +16,7 @@ Es soll aus einem Blatt DIN A4-Papier durch das Herausschneiden eines Quadrats a
 
 <u>**Hinweis:**</u> Im Folgenden wird der Einfachheit halber mit den Seitenlängen $21$ und $30$ gerechnet.
 
-## Lösung
+### Lösung
 
 > [!success]- Lösung
 > 
@@ -49,9 +49,9 @@ V'(x) &= 0\\\\
 >Das folgende Beispiel dient zur Bewusstmachung, dass die Extrema auch an den Rändern liegen können.
 
 
-# Kleinstes Rechteck finden
+## Kleinstes Rechteck finden
 
-## Aufgabe
+### Aufgabe
 
 Aus einem DIN A4-Blatt wird eine Ecke von je $15~cm$ auf beiden Seiten abgeschnitten.
 
@@ -63,7 +63,7 @@ Es soll nun mit zwei Schnitten, welche parallel zu den jeweiligen Seiten verlauf
 
 > Wo müssen sich die beiden Schnitte treffen, damit das entstehende Rechteck möglichst <u>klein</u> ist?
 
-## Lösung 
+### Lösung 
 
 > [!success]- Lösung
 > 
