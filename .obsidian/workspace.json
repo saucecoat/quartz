@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "362463b4b38eeb3a",
+        "id": "e1ca065266bd2f38",
         "type": "tabs",
         "children": [
           {
-            "id": "2de2a6562e89994b",
+            "id": "3d2fb5609517dba0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,8 +148,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2de2a6562e89994b",
+  "active": "3d2fb5609517dba0",
   "lastOpenFiles": [
+    "content/Sätze_generieren_Unterrichtsidee.md",
+    "content/Lokale_und_globale_Extremstellen.md",
+    "content/images/lokale_globale_Extrema.png",
+    "Generating inspirational quotes with Markov chains.md",
     "content/Grenzwert_und_Stetigkeit.md",
     "content/Extremwertaufgaben_mit_DIN_A4_Papier.md",
     "content/images/Extremwert_DINA4_Box_2.png",
@@ -179,10 +183,6 @@
     "content/Gehäkelte_hyperbolische_Ebene.md",
     "content/Radio_aus_aller_Welt.md",
     "content/Statistik_Tutorial_Playlist_Matti_Saalkind.md",
-    "content/Vergleich_arithmetisches_geometrisches_Mittel.md",
-    "content/Daten_mit_dem_geometrischen_Mittel_visualisieren.md",
-    "content/Open_Middle_mean_median_modus_range.md",
-    "content/Thinking_Task_Schritte_pro_Tag.md",
-    "content/How_to_deliver_good_PowerPoint_Presentations.md"
+    "content/Vergleich_arithmetisches_geometrisches_Mittel.md"
   ]
 }
