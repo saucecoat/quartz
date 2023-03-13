@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "85ae4f22622c2e0b",
+        "id": "362463b4b38eeb3a",
         "type": "tabs",
         "children": [
           {
-            "id": "304a9e3c94a60637",
+            "id": "2de2a6562e89994b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "304a9e3c94a60637",
+  "active": "2de2a6562e89994b",
   "lastOpenFiles": [
-    "content/Extremwertaufgaben_mit_DIN_A4_Papier.md",
     "content/Grenzwert_und_Stetigkeit.md",
+    "content/Extremwertaufgaben_mit_DIN_A4_Papier.md",
     "content/images/Extremwert_DINA4_Box_2.png",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_1.png",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_2.png",

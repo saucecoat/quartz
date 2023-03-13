@@ -21,3 +21,8 @@ Bei der Stetigkeit ist dieser <u>feste Wert der Funktionswert</u> $f(x_{0})$.
 Die Funktion $f$ ist also an der Stelle $x_{0}$ stetig, wenn gilt:
 
 $$\lim_{x\to x_{0}} f(x)=f(x_{0})$$ 
+
+<br>
+<br>
+
+<u>**Quelle:**</u> Wolfgang Walter - Analysis I (Springer Verlag)
