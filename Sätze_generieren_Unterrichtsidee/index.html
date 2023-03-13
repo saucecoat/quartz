@@ -1,5 +1,5 @@
 <!doctype html><html lang=de><head><meta charset=utf-8><meta name=description content="Unterrichtsidee Den Schülern soll anhand eines einfachen generativen Sprachmodells mithilfe von Markow-Ketten gezeigt werden, wie Computer Texte erstellen können.
-Zuerst wird der [[#Datensatz]] mit den Kindern erschlossen und anschließend anhand eines [[#Graph|Graphen]] analysiert, welche Wörter aufeinander folgen."><title>Sätze generieren Unterrichtsidee</title><meta name=viewport content="width=device-width,initial-scale=1"><link rel="shortcut icon" type=image/png href=https://meistensmathe.de//icon.png><link href=https://meistensmathe.de/styles.82e8be7c4c643714e775221d2bdb3b8b.min.css rel=stylesheet><link href=https://meistensmathe.de/styles/_light_syntax.86a48a52faebeaaf42158b72922b1c90.min.css rel=stylesheet id=theme-link><script src=https://meistensmathe.de/js/darkmode.907f7e8780743e74f7c3c9a385c79ff2.min.js></script>
+Zuerst wird der [[##Datensatz]] mit den Kindern erschlossen und anschließend anhand eines [[##Graph|Graphen]] analysiert, welche Wörter aufeinander folgen."><title>Sätze generieren Unterrichtsidee</title><meta name=viewport content="width=device-width,initial-scale=1"><link rel="shortcut icon" type=image/png href=https://meistensmathe.de//icon.png><link href=https://meistensmathe.de/styles.82e8be7c4c643714e775221d2bdb3b8b.min.css rel=stylesheet><link href=https://meistensmathe.de/styles/_light_syntax.86a48a52faebeaaf42158b72922b1c90.min.css rel=stylesheet id=theme-link><script src=https://meistensmathe.de/js/darkmode.907f7e8780743e74f7c3c9a385c79ff2.min.js></script>
 <script src=https://meistensmathe.de/js/util.9825137f5e7825e8553c68ce39ac9e44.min.js></script>
 <link rel=stylesheet href=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css integrity=sha384-R4558gYOUz8mP9YWpZJjofhk+zx0AS11p36HnD2ZKj/6JR5z27gSSULCNHIRReVs crossorigin=anonymous><script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js integrity=sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx crossorigin=anonymous></script>
 <script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js integrity=sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR crossorigin=anonymous></script>
@@ -10,7 +10,7 @@ Zuerst wird der [[#Datensatz]] mit den Kindern erschlossen und anschließend anh
 <script src=https://meistensmathe.de/js/code-title.b35124ad8db0ba37162b886afb711cbc.min.js></script>
 <script src=https://meistensmathe.de/js/clipboard.c20857734e53a3fb733b7443879efa61.min.js></script>
 <script src=https://meistensmathe.de/js/callouts.7723cac461d613d118ee8bb8216b9838.min.js></script>
-<script>const BASE_URL="https://meistensmathe.de/",fetchData=Promise.all([fetch("https://meistensmathe.de/indices/linkIndex.3d4bdba1651f1a908b1e800fc72a0b5f.min.json").then(e=>e.json()).then(e=>({index:e.index,links:e.links})),fetch("https://meistensmathe.de/indices/contentIndex.891bf61c0b4335640ccb024247eba7d4.min.json").then(e=>e.json())]).then(([{index:e,links:t},n])=>({index:e,links:t,content:n})),render=()=>{const e=new URL(BASE_URL),t=e.pathname,n=window.location.pathname,s=t==n;addCopyButtons(),addTitleToCodeBlocks(),addCollapsibleCallouts(),initPopover("https://meistensmathe.de",!0,!0);const o=document.getElementById("footer");if(o){const e=document.getElementById("graph-container");if(!e)return requestAnimationFrame(render);e.textContent="";const t=s&&!0;drawGraph("https://meistensmathe.de",t,[{"/moc":"#4388cc"}],t?{centerForce:1,depth:-1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.5,linkDistance:1,opacityScale:3,repelForce:1,scale:1.4}:{centerForce:1,depth:1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.6,linkDistance:1,opacityScale:3,repelForce:2,scale:1.2})}},init=(e=document)=>{addCopyButtons(),addTitleToCodeBlocks(),renderMathInElement(e.body,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1}],macros:{'’':"'"},throwOnError:!1})}</script><script type=module>
+<script>const BASE_URL="https://meistensmathe.de/",fetchData=Promise.all([fetch("https://meistensmathe.de/indices/linkIndex.c1758b6b7f179801a892dbcd42c2e921.min.json").then(e=>e.json()).then(e=>({index:e.index,links:e.links})),fetch("https://meistensmathe.de/indices/contentIndex.1064772e7a0306753a4c4b50221eda3f.min.json").then(e=>e.json())]).then(([{index:e,links:t},n])=>({index:e,links:t,content:n})),render=()=>{const e=new URL(BASE_URL),t=e.pathname,n=window.location.pathname,s=t==n;addCopyButtons(),addTitleToCodeBlocks(),addCollapsibleCallouts(),initPopover("https://meistensmathe.de",!0,!0);const o=document.getElementById("footer");if(o){const e=document.getElementById("graph-container");if(!e)return requestAnimationFrame(render);e.textContent="";const t=s&&!0;drawGraph("https://meistensmathe.de",t,[{"/moc":"#4388cc"}],t?{centerForce:1,depth:-1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.5,linkDistance:1,opacityScale:3,repelForce:1,scale:1.4}:{centerForce:1,depth:1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.6,linkDistance:1,opacityScale:3,repelForce:2,scale:1.2})}},init=(e=document)=>{addCopyButtons(),addTitleToCodeBlocks(),renderMathInElement(e.body,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1}],macros:{'’':"'"},throwOnError:!1})}</script><script type=module>
     import { attachSPARouting } from "https:\/\/meistensmathe.de\/js\/router.9d4974281069e9ebb189f642ae1e3ca2.min.js"
     attachSPARouting(init, render)
   </script></head><body><div id=search-container><div id=search-space><input autocomplete=off id=search-bar name=search type=text aria-label=Suche placeholder="Suche nach etwas ..."><div id=results-container></div></div></div><script src=https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js integrity="sha256-i3A0NZGkhsKjVMzFxv3ksk0DZh3aXqu0l49Bbh0MdjE=" crossorigin=anonymous defer></script>
@@ -19,55 +19,8 @@ Zuerst wird der [[#Datensatz]] mit den Kindern erschlossen und anschließend anh
 Mar 13, 2023
 <a href=https://github.com/saucecoat/quartz/tree/hugo/content/S%c3%a4tze_generieren_Unterrichtsidee.md rel=noopener>Quelldatei bearbeiten</a></p><aside class=mainTOC><details open><summary>Inhaltsverzeichnis</summary><nav id=TableOfContents><ol><li><a href=#unterrichtsidee>Unterrichtsidee</a></li><li><a href=#datensatz>Datensatz</a></li><li><a href=#graph>Graph</a></li><li><a href=#python-code>Python-Code</a><ol><li><a href=#online>Online</a></li><li><a href=#code-für-beliebigen-datensatz>Code für beliebigen Datensatz</a></li><li><a href=#code-für-den-oben-angegebenen-datensatz>Code für den oben angegebenen Datensatz</a></li></ol></li></ol></nav></details></aside><a href=#unterrichtsidee><h2 id=unterrichtsidee><span class=hanchor arialabel=Anchor># </span>Unterrichtsidee</h2></a><p>Den Schülern soll anhand eines einfachen generativen Sprachmodells mithilfe von Markow-Ketten gezeigt werden, wie Computer Texte erstellen können.</p><p>Zuerst wird der <a class="internal-link broken"></a> mit den Kindern erschlossen und anschließend anhand eines <a class="internal-link broken">Graphen</a> analysiert, welche Wörter aufeinander folgen. Das Sprachmodell &ldquo;lernt&rdquo; genau wie im Graphen dargestellt, welche Wörter einem bestimmten anderen Wort laut dem Datensatz folgen können und welche nicht.
 Durch zufällige Pfade durch den Graphen erstellt das Sprachmodell dann eigenständig neue Sätze.</p><p>Eine ähnliche Unterrichtsidee findet sich auch unter:
-<a href=https://www.herr-rau.de/wordpress/2019/06/markow-ketten-und-textgenerierung.htm rel=noopener>https://www.herr-rau.de/wordpress/2019/06/markow-ketten-und-textgenerierung.htm</a></p><a href=#datensatz><h2 id=datensatz><span class=hanchor arialabel=Anchor># </span>Datensatz</h2></a><p>Die Sätze, die das System als Datensatz bekommt sind die folgenden Sätze:</p><blockquote><p>Hallo, ich bin eine KI.
-Garfield ist eine Katze.
-Bernd ist ein Brot.
-Ich benutze eine Maus.
-Ich fahre gerne mit einem Fahrrad.
-Ich esse gerne Brot mit Erdnussbutter.</p></blockquote><a href=#graph><h2 id=graph><span class=hanchor arialabel=Anchor># </span>Graph</h2></a><p>Die Verbindungen der einzelnen Wörter untereinander können in Form eines Graphen dargestellt werden.
-Anfangswörter sind dabei kreisförmig, Endwörter rautenförmig.</p><p>Die Wörter können in der Schule auch mithilfe von Kärtchen im Klassenraum ausgelegt und verbunden werden.</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
-</span><span class=lnt> 2
-</span><span class=lnt> 3
-</span><span class=lnt> 4
-</span><span class=lnt> 5
-</span><span class=lnt> 6
-</span><span class=lnt> 7
-</span><span class=lnt> 8
-</span><span class=lnt> 9
-</span><span class=lnt>10
-</span><span class=lnt>11
-</span><span class=lnt>12
-</span><span class=lnt>13
-</span><span class=lnt>14
-</span><span class=lnt>15
-</span><span class=lnt>16
-</span><span class=lnt>17
-</span><span class=lnt>18
-</span><span class=lnt>19
-</span><span class=lnt>20
-</span><span class=lnt>21
-</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>graph LR
-</span></span><span class=line><span class=cl>Hallo((Hallo)) --&gt; ich
-</span></span><span class=line><span class=cl>ich((ich)) --&gt; bin &amp; benutze &amp; fahre &amp; esse
-</span></span><span class=line><span class=cl>bin --&gt; eine
-</span></span><span class=line><span class=cl>eine --&gt; KI &amp; Katze &amp; Maus
-</span></span><span class=line><span class=cl>KI{KI}
-</span></span><span class=line><span class=cl>Garfield((Garfield)) --&gt; ist
-</span></span><span class=line><span class=cl>ist --&gt; eine &amp; ein
-</span></span><span class=line><span class=cl>Katze{Katze}
-</span></span><span class=line><span class=cl>benutze --&gt; eine
-</span></span><span class=line><span class=cl>Maus{Maus}
-</span></span><span class=line><span class=cl>fahre --&gt; gerne
-</span></span><span class=line><span class=cl>gerne --&gt; mit &amp; Brot
-</span></span><span class=line><span class=cl>mit --&gt; einem &amp; Erdnussbutter
-</span></span><span class=line><span class=cl>einem --&gt; Fahrrad
-</span></span><span class=line><span class=cl>Fahrrad{Fahrrad}
-</span></span><span class=line><span class=cl>esse --&gt; gerne
-</span></span><span class=line><span class=cl>Brot{Brot} --&gt; mit
-</span></span><span class=line><span class=cl>Erdnussbutter{Erdnussbutter}
-</span></span><span class=line><span class=cl>Bernd((Bernd)) --&gt; ist
-</span></span><span class=line><span class=cl>ein --&gt; Brot
-</span></span></code></pre></td></tr></table></div></div><a href=#python-code><h2 id=python-code><span class=hanchor arialabel=Anchor># </span>Python-Code</h2></a><a href=#online><h3 id=online><span class=hanchor arialabel=Anchor># </span>Online</h3></a><p>Code für den gezeigten Datensatz ist online einsehbar und ausführbar unter:
+<a href=https://www.herr-rau.de/wordpress/2019/06/markow-ketten-und-textgenerierung.htm rel=noopener>https://www.herr-rau.de/wordpress/2019/06/markow-ketten-und-textgenerierung.htm</a></p><a href=#datensatz><h2 id=datensatz><span class=hanchor arialabel=Anchor># </span>Datensatz</h2></a><p>Die Sätze, die das System als Datensatz bekommt sind die folgenden Sätze:</p><blockquote><p>Hallo, ich bin eine KI.<br>Garfield ist eine Katze.<br>Bernd ist ein Brot.<br>Ich benutze eine Maus.<br>Ich fahre gerne mit einem Fahrrad.<br>Ich esse gerne Brot mit Erdnussbutter.<br></p></blockquote><a href=#graph><h2 id=graph><span class=hanchor arialabel=Anchor># </span>Graph</h2></a><p>Die Verbindungen der einzelnen Wörter untereinander können in Form eines Graphen dargestellt werden.
+Anfangswörter sind dabei kreisförmig, Endwörter rautenförmig.</p><p>Die Wörter können in der Schule auch mithilfe von Kärtchen im Klassenraum ausgelegt und verbunden werden.</p><p><img src=/markov_graph_sätze.png width=auto></p><a href=#python-code><h2 id=python-code><span class=hanchor arialabel=Anchor># </span>Python-Code</h2></a><a href=#online><h3 id=online><span class=hanchor arialabel=Anchor># </span>Online</h3></a><p>Code für den gezeigten Datensatz ist online einsehbar und ausführbar unter:
 <a href=https://replit.com/@nl_woorden/Satzegenerator rel=noopener>https://replit.com/@nl_woorden/Satzegenerator</a></p><p>Der Code für das Generieren von Sätzen aus eigenem Datensatz findet sich unter:
 <a href=https://replit.com/@nl_woorden/Satzegenerator-mit-Eingabe rel=noopener>https://replit.com/@nl_woorden/Satzegenerator-mit-Eingabe</a> (nicht für Mobilgeräte geeignet)</p><a href=#code-für-beliebigen-datensatz><h3 id=code-für-beliebigen-datensatz><span class=hanchor arialabel=Anchor># </span>Code für beliebigen Datensatz</h3></a><p>Basierend auf dem
 <a href=https://web.archive.org/web/20180101140330/http://www.ramtin.xyz/post/4/ rel=noopener>Blogartikel</a> von Ramtin Alami.</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
