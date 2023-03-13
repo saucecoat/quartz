@@ -32,7 +32,7 @@ Anfangswörter sind dabei kreisförmig, Endwörter rautenförmig.
 
 Die Wörter können in der Schule auch mithilfe von Kärtchen im Klassenraum ausgelegt und verbunden werden.
 
-![[markov_graph_sätze.png]]
+![[images/markov_graph_sätze.png]]
 
 ## Python-Code
 

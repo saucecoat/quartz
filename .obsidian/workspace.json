@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e6db84f2f3ab359",
+        "id": "2d74a48294e362f8",
         "type": "tabs",
         "children": [
           {
-            "id": "6995dd5c47039743",
+            "id": "077225eedfb43a6e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6995dd5c47039743",
+  "active": "077225eedfb43a6e",
   "lastOpenFiles": [
     "content/Sätze_generieren_Unterrichtsidee.md",
     "content/images/markov_graph_sätze.png",
