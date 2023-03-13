@@ -41,7 +41,7 @@ V'(x) &= 0\\\\
 \end{aligned}$$
 >
 >Aufgrund des eingeschränkten Definitionsbereichs kommt nur $x_{1}$ als Lösung infrage. 
->Mithilfe der hinreichenden Bedingung zeigt sich, dass sich bei $x_{1}$ in der Tat ein lokaler Hochpunkt befindet.
+>Mithilfe der hinreichenden Bedingung zeigt sich, dass sich bei $x_{1}$ in der Tat ein [[Lokale_und_globale_Extremstellen#Lokale Extremstellen|lokaler Hochpunkt]] befindet.
 >
 >Nun müssen noch die <u>Randwerte</u> betrachtet werden, die zeigen, dass sich bei $x_{1}$ auch der globale Hochpunkt befindet. 
 >
@@ -89,7 +89,7 @@ A'(x) &= 0\\\\
 >
 >Mithilfe der hinreichenden Bedingung zeigt sich, dass sich bei $x=12$ tatsächlich ein lokaler Hochpunkt befindet.
 >
-> Da wir allerdings nach einem Tiefpunkt suchen, bringt uns diese Entdeckung nicht weiter. Ein Blick auf den Graphen von $A$ zeigt uns, dass der kleinste Wert im Definitionsbereich $[0;~15]$ sich am linken Rand bei $x=0$ befindet.
+> Da wir allerdings nach einem [[Lokale_und_globale_Extremstellen#Globale Extremstellen|globalen Tiefpunkt]] suchen, bringt uns diese Entdeckung nicht weiter. Ein Blick auf den Graphen von $A$ zeigt uns, dass der kleinste Wert im Definitionsbereich $[0;~15]$ sich am linken Rand bei $x=0$ befindet.
 > 
 > ![[images/Extremwert_DINA4_Kleinstes_Rechteck_4.png]]
 > 

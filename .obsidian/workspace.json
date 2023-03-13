@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d74a48294e362f8",
+        "id": "2672b9e4b39fb67b",
         "type": "tabs",
         "children": [
           {
-            "id": "077225eedfb43a6e",
+            "id": "c45b5f638ff838e8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,15 +148,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "077225eedfb43a6e",
+  "active": "c45b5f638ff838e8",
   "lastOpenFiles": [
+    "content/Extremwertaufgaben_mit_DIN_A4_Papier.md",
     "content/Sätze_generieren_Unterrichtsidee.md",
     "content/images/markov_graph_sätze.png",
     "content/Lokale_und_globale_Extremstellen.md",
     "content/images/lokale_globale_Extrema.png",
     "Generating inspirational quotes with Markov chains.md",
     "content/Grenzwert_und_Stetigkeit.md",
-    "content/Extremwertaufgaben_mit_DIN_A4_Papier.md",
     "content/images/Extremwert_DINA4_Box_2.png",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_1.png",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_2.png",
