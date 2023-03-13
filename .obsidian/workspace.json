@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1ca065266bd2f38",
+        "id": "2e6db84f2f3ab359",
         "type": "tabs",
         "children": [
           {
-            "id": "3d2fb5609517dba0",
+            "id": "6995dd5c47039743",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,9 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d2fb5609517dba0",
+  "active": "6995dd5c47039743",
   "lastOpenFiles": [
     "content/Sätze_generieren_Unterrichtsidee.md",
+    "content/images/markov_graph_sätze.png",
     "content/Lokale_und_globale_Extremstellen.md",
     "content/images/lokale_globale_Extrema.png",
     "Generating inspirational quotes with Markov chains.md",

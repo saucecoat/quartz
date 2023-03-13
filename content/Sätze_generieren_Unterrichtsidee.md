@@ -8,7 +8,7 @@ tags: [alle, unterricht, informatik, ki, künstliche_intelligenz, ai, artificial
 
 Den Schülern soll anhand eines einfachen generativen Sprachmodells mithilfe von Markow-Ketten gezeigt werden, wie Computer Texte erstellen können.
 
-Zuerst wird der [[#Datensatz]] mit den Kindern erschlossen und anschließend anhand eines [[#Graph|Graphen]] analysiert, welche Wörter aufeinander folgen. Das Sprachmodell "lernt" genau wie im Graphen dargestellt, welche Wörter einem bestimmten anderen Wort laut dem Datensatz folgen können und welche nicht. 
+Zuerst wird der [[##Datensatz]] mit den Kindern erschlossen und anschließend anhand eines [[##Graph|Graphen]] analysiert, welche Wörter aufeinander folgen. Das Sprachmodell "lernt" genau wie im Graphen dargestellt, welche Wörter einem bestimmten anderen Wort laut dem Datensatz folgen können und welche nicht. 
 Durch zufällige Pfade durch den Graphen erstellt das Sprachmodell dann eigenständig neue Sätze.
 
 Eine ähnliche Unterrichtsidee findet sich auch unter: https://www.herr-rau.de/wordpress/2019/06/markow-ketten-und-textgenerierung.htm
@@ -17,12 +17,12 @@ Eine ähnliche Unterrichtsidee findet sich auch unter: https://www.herr-rau.de/w
 
 Die Sätze, die das System als Datensatz bekommt sind die folgenden Sätze:
 
->Hallo, ich bin eine KI.
-Garfield ist eine Katze.
-Bernd ist ein Brot.
-Ich benutze eine Maus.
-Ich fahre gerne mit einem Fahrrad.
-Ich esse gerne Brot mit Erdnussbutter.
+>Hallo, ich bin eine KI.<br>
+Garfield ist eine Katze.<br>
+Bernd ist ein Brot.<br>
+Ich benutze eine Maus.<br>
+Ich fahre gerne mit einem Fahrrad.<br>
+Ich esse gerne Brot mit Erdnussbutter.<br>
 
 
 ## Graph
@@ -32,29 +32,7 @@ Anfangswörter sind dabei kreisförmig, Endwörter rautenförmig.
 
 Die Wörter können in der Schule auch mithilfe von Kärtchen im Klassenraum ausgelegt und verbunden werden.
 
-```mermaid
-graph LR
-Hallo((Hallo)) --> ich
-ich((ich)) --> bin & benutze & fahre & esse
-bin --> eine
-eine --> KI & Katze & Maus
-KI{KI}
-Garfield((Garfield)) --> ist
-ist --> eine & ein
-Katze{Katze}
-benutze --> eine
-Maus{Maus}
-fahre --> gerne
-gerne --> mit & Brot
-mit --> einem & Erdnussbutter
-einem --> Fahrrad
-Fahrrad{Fahrrad}
-esse --> gerne
-Brot{Brot} --> mit
-Erdnussbutter{Erdnussbutter}
-Bernd((Bernd)) --> ist
-ein --> Brot
-```
+![[markov_graph_sätze.png]]
 
 ## Python-Code
 
