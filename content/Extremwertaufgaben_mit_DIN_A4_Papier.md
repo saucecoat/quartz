@@ -57,7 +57,7 @@ Aus einem DIN A4-Blatt wird eine Ecke von je $15~cm$ auf beiden Seiten abgeschni
 
 ![[images/Extremwert_DINA4_Kleinstes_Rechteck_1.png]]
 
-Es soll nun mit zwei Schnitten, welche parallel zu den jeweiligen Seiten verlaufen, ein neues Rechteck entstehen:
+Es soll nun mit zwei Schnitten, welche parallel zu den jeweiligen Seiten verlaufen und sich an der Schrägen treffen, ein neues Rechteck entstehen:
 
 ![[images/Extremwert_DINA4_Kleinstes_Rechteck_2.png]]
 

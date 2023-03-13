@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "77191850c3323d0e",
+        "id": "85ae4f22622c2e0b",
         "type": "tabs",
         "children": [
           {
-            "id": "ea1c08c6da9574ad",
+            "id": "304a9e3c94a60637",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea1c08c6da9574ad",
+  "active": "304a9e3c94a60637",
   "lastOpenFiles": [
     "content/Extremwertaufgaben_mit_DIN_A4_Papier.md",
     "content/Grenzwert_und_Stetigkeit.md",
