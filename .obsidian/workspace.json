@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37784946b28b8298",
+        "id": "501a9e77c2a4afde",
         "type": "tabs",
         "children": [
           {
-            "id": "77e110d89d8a6986",
+            "id": "ec1498c9721330f0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "schritt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Ein_interessantes_Wurzelmuster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Ein_interessantes_Wurzelmuster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/Ein_interessantes_Wurzelmuster.md"
+              }
             }
           },
           {
@@ -148,8 +152,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77e110d89d8a6986",
+  "active": "b00cd49974197310",
   "lastOpenFiles": [
+    "content/Thinking_Task_Schritte_pro_Tag.md",
     "content/Lokale_und_globale_Extremstellen.md",
     "content/Grenzwert_und_Stetigkeit.md",
     "content/Extremwertaufgaben_mit_DIN_A4_Papier.md",
