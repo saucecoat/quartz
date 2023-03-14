@@ -33,7 +33,7 @@ V(x) &= x \cdot (21-2x) \cdot (30-2x)\\\\
 >
 > Es ist wichtig zu beachten, dass für den <u>Definitionsbereich</u> von $V$ gilt, dass $x \in [0;~10,5]$, da die kürzere Seitenlänge des Blattes $21~cm$ beträgt.
 > 
-> Mithilfe der ersten Ableitung $V'(x)=12x^{2}-204x+630$ die lokalen Extrema:
+> Mithilfe der ersten Ableitung $V'(x)=12x^{2}-204x+630$ die lokalen Extrema berechnen:
 >  
 > $$\begin{aligned}
 V'(x) &= 0\\\\
