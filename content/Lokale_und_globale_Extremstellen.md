@@ -35,3 +35,5 @@ Falls Teile des Intervalls $(a,b)$ aus dem Definitionsbereich $I$ herausragen, w
 ![[images/lokale_globale_Extrema.png]]
 
 **Quelle:** https://de.wikipedia.org/wiki/Datei:Extrema_example_de.svg
+
+> <u>Weiterführende Frage:</u> Warum kann eine globale Extremstelle nur an den Stellen auftreten, an denen sich lokale Extremstellen befinden?

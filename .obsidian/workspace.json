@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "501a9e77c2a4afde",
+        "id": "c53855e79dc90eff",
         "type": "tabs",
         "children": [
           {
-            "id": "ec1498c9721330f0",
+            "id": "f74302628f71c666",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Ein_interessantes_Wurzelmuster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Ein_interessantes_Wurzelmuster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Ein_interessantes_Wurzelmuster.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,12 +148,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b00cd49974197310",
+  "active": "f74302628f71c666",
   "lastOpenFiles": [
-    "content/Thinking_Task_Schritte_pro_Tag.md",
     "content/Lokale_und_globale_Extremstellen.md",
-    "content/Grenzwert_und_Stetigkeit.md",
     "content/Extremwertaufgaben_mit_DIN_A4_Papier.md",
+    "content/Thinking_Task_Schritte_pro_Tag.md",
+    "content/Grenzwert_und_Stetigkeit.md",
     "content/Sätze_generieren_Unterrichtsidee.md",
     "content/images/markov_graph_sätze.png",
     "content/images/lokale_globale_Extrema.png",
