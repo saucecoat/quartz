@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c53855e79dc90eff",
+        "id": "672b4009721f11c8",
         "type": "tabs",
         "children": [
           {
-            "id": "f74302628f71c666",
+            "id": "db5638dcaf3d51be",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f74302628f71c666",
+  "active": "db5638dcaf3d51be",
   "lastOpenFiles": [
+    "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md",
     "content/Lokale_und_globale_Extremstellen.md",
-    "content/Extremwertaufgaben_mit_DIN_A4_Papier.md",
     "content/Thinking_Task_Schritte_pro_Tag.md",
     "content/Grenzwert_und_Stetigkeit.md",
     "content/Sätze_generieren_Unterrichtsidee.md",

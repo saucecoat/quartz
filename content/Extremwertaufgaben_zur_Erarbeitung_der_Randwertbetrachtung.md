@@ -1,8 +1,17 @@
 ---
-title: "Extremwertaufgaben mit DIN A4-Papier"
+title: "Extremwertaufgaben zur Erarbeitung der Randwertbetrachtung"
 date: "2023-03-12"
 tags: [alle, mathe, analysis, extremstelle, extremwertaufgabe, randwert, definitionsbereich, papier, box, rechteck, flächeninhalt, maximieren, minimieren, ableitung]
 ---
+
+## Erläuterung
+
+Die folgenden beiden Aufgaben, insbesondere die zweite, sollen der Hinführung der Randwertbetrachtung bei Extremwertproblemen dienen. 
+
+In der [[##Box basteln|ersten Aufgabe]] wird ein globales Maximum gesucht, wobei zunächst die lokalen Extremstellen mit Steigung $0$ berechnet werden. 
+Die Extremstellen an den Rändern werden in der Regel von Schülern nicht weiter beachtet, da diese im konkreten Fall zum einen offensichtlich nicht zum gewünschten Ziel führen und zum anderen die Betrachtung der Randwerte zur Findung von globalen Extremstellen nicht intuitiv klar ist.
+
+In der [[##Kleinstes Rechteck finden|zweiten Aufgabe]] ist ein globales Minimum gesucht. Die Berechnung der lokalen Extremstellen mithilfe der notwendigen und hinreichenden Kriterien liefert jedoch nur ein globales Maximum. Zum Finden des globalen Minimums ist deshalb die Betrachtung der Extremstellen an den Rändern notwendig.
 
 ## Box basteln 
 
