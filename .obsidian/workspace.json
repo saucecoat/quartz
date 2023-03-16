@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "672b4009721f11c8",
+        "id": "9844b1dd57666997",
         "type": "tabs",
         "children": [
           {
-            "id": "db5638dcaf3d51be",
+            "id": "250503acb7483767",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db5638dcaf3d51be",
+  "active": "250503acb7483767",
   "lastOpenFiles": [
     "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md",
     "content/Lokale_und_globale_Extremstellen.md",
