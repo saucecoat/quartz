@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "67b823d26b342e3c",
+        "id": "ed32c0993bd546b8",
         "type": "tabs",
         "children": [
           {
-            "id": "ad9b13983b17da16",
+            "id": "4c6e8c7c14879191",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,13 +148,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad9b13983b17da16",
+  "active": "4c6e8c7c14879191",
   "lastOpenFiles": [
+    "content/Sätze_generieren_Unterrichtsidee.md",
     "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md",
     "content/Lokale_und_globale_Extremstellen.md",
     "content/Thinking_Task_Schritte_pro_Tag.md",
     "content/Grenzwert_und_Stetigkeit.md",
-    "content/Sätze_generieren_Unterrichtsidee.md",
     "content/images/markov_graph_sätze.png",
     "content/images/lokale_globale_Extrema.png",
     "Generating inspirational quotes with Markov chains.md",

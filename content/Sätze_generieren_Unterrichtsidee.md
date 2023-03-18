@@ -32,7 +32,29 @@ Anfangswörter sind dabei kreisförmig, Endwörter rautenförmig.
 
 Die Wörter können in der Schule auch mithilfe von Kärtchen im Klassenraum ausgelegt und verbunden werden.
 
-![[images/markov_graph_sätze.png]]
+```mermaid
+graph LR
+Hallo((Hallo)) --> ich
+ich((ich)) --> bin & benutze & fahre & esse
+bin --> eine
+eine --> KI & Katze & Maus
+KI{KI}
+Garfield((Garfield)) --> ist
+ist --> eine & ein
+Katze{Katze}
+benutze --> eine
+Maus{Maus}
+fahre --> gerne
+gerne --> mit & Brot
+mit --> einem & Erdnussbutter
+einem --> Fahrrad
+Fahrrad{Fahrrad}
+esse --> gerne
+Brot{Brot} --> mit
+Erdnussbutter{Erdnussbutter}
+Bernd((Bernd)) --> ist
+ein --> Brot
+```
 
 ## Python-Code
 
