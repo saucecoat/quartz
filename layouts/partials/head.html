@@ -55,6 +55,8 @@
   <script src="{{$s.Permalink}}"></script>
   {{end}}
   {{partial "katex.html" .}}
+  
+  {{partial "mermaid.html" .}}
     
   <script src="assets/js/core.js"></script>
   <script src="assets/js/dom.js"></script>
@@ -150,7 +152,22 @@
 
         }
       {{end}}
+	  
+	
+      {{if $data.enableMermaid | default $.Site.Data.config.enableMermaid}}
+        var els = document.getElementsByClassName("mermaid");
+        if (els.length > 0) {
+          import('https://unpkg.com/mermaid@9/dist/mermaid.esm.min.mjs').then(
+            (obj) => {
+              // init forces mermaid to render mermaid markdown without waiting
+              // for DOMContentLoaded event
+              obj.default.init();
+            }
+          )
+        }
+      {{end}}
     }
+
 
     const init = (doc = document) => {
       // NOTE: everything within this callback will be executed for initial page navigation. This is a good place to put JavaScript that only replaces DOM nodes.
