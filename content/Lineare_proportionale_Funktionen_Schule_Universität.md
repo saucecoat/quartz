@@ -24,7 +24,7 @@ Auf meiner Seite werde ich vornehmlich die schulmathematischen Begriffe verwende
 
 ## Zusammenfassung
 
-|                 |    $f(x)=m \cdot x$    | $f(x)=m \cdot x + b \quad\text{mit}\phantom{x} b \neq 0$ | 
+|                 |    $f(x)=m \cdot x$    | $f(x)=m \cdot x + b$ mit $b \neq 0$ | 
 | --------------- |:----------------------:|:--------------------------------------------------------:|
 | **Schule**      | Proportionale Funktion |                     Lineare Funktion                     |
 | **Universität** |    Lineare Funktion    |                  Affin-lineare Funktion                  |
