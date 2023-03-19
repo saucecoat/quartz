@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ed32c0993bd546b8",
+        "id": "7fdee01584cd85f7",
         "type": "tabs",
         "children": [
           {
-            "id": "4c6e8c7c14879191",
+            "id": "87b474e77f586eba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Sätze_generieren_Unterrichtsidee.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "schritt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Sätze_generieren_Unterrichtsidee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Sätze_generieren_Unterrichtsidee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Sätze_generieren_Unterrichtsidee.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c6e8c7c14879191",
+  "active": "87b474e77f586eba",
   "lastOpenFiles": [
+    "content/Lines_Beyond_y=mx+b.md",
+    "content/Lineare_proportionale_Funktionen_Schule_Universität.md",
     "content/Sätze_generieren_Unterrichtsidee.md",
     "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md",
     "content/Lokale_und_globale_Extremstellen.md",
@@ -191,8 +185,6 @@
     "content/_index.md",
     "content/Diskussion_strenge_Monotonie.md",
     "content/Gehäkelte_hyperbolische_Ebene.md",
-    "content/Radio_aus_aller_Welt.md",
-    "content/Statistik_Tutorial_Playlist_Matti_Saalkind.md",
-    "content/Vergleich_arithmetisches_geometrisches_Mittel.md"
+    "content/Radio_aus_aller_Welt.md"
   ]
 }
