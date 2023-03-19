@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f46544badc81c6a",
+        "id": "582e68ea6f91ebda",
         "type": "tabs",
         "children": [
           {
-            "id": "be08150a3b972b29",
+            "id": "ae228d3978aeb58c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be08150a3b972b29",
+  "active": "ae228d3978aeb58c",
   "lastOpenFiles": [
     "content/Lineare_proportionale_Funktionen_Schule_Universität.md",
     "content/Lines_Beyond_y=mx+b.md",

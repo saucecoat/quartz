@@ -8,8 +8,8 @@ tags: [alle, mathe, schule, universität, begriff, name, lineare_funktion, linea
 In der Wissenschaft Mathematik heißt eine Funktion $f: \mathbb{R} \to \mathbb{R}$ <u>linear</u>, wenn die folgenden zwei Bedingungen erfüllt sind:
 
 $$\begin{aligned}
-&1. \quad f(x+y)=f(x)+f(y) &&\quad \text{für alle} \;\; x, y \in \mathbb{R}\\\\
-&2. \quad f(k \cdot x)=k \cdot f(x) &&\quad \text{für alle} \;\; x, k \in \mathbb{R}\\\\
+&1. \quad f(x+y)=f(x)+f(y) &&\quad \text{für alle} \phantom{x} x, y \in \mathbb{R}\\\\
+&2. \quad f(k \cdot x)=k \cdot f(x) &&\quad \text{für alle} \phantom{x} x, k \in \mathbb{R}\\\\
 \end{aligned}$$
 
 ## Lineare Funktionen 
@@ -24,9 +24,9 @@ Auf meiner Seite werde ich vornehmlich die schulmathematischen Begriffe verwende
 
 ## Zusammenfassung
 
-|                 |    $f(x)=m \cdot x$    | $f(x)=m \cdot x + b \quad\text{mit}\;\; b \neq 0$ |
-| --------------- |:----------------------:|:-------------------------------------------------:|
-| **Schule**      | Proportionale Funktion |                 Lineare Funktion                  |
-| **Universität** |    Lineare Funktion    |              Affin-lineare Funktion               |
+|                 |    $f(x)=m \cdot x$    | $f(x)=m \cdot x + b \quad\text{mit}\phantom{x} b \neq 0$ | 
+| --------------- |:----------------------:|:--------------------------------------------------------:|
+| **Schule**      | Proportionale Funktion |                     Lineare Funktion                     |
+| **Universität** |    Lineare Funktion    |                  Affin-lineare Funktion                  |
 
 <u>**Quelle:**</u> Humenberger, Schuppar: Mit Funktionen Zusammenhänge und Veränderungen beschreiben (ISBN: 978-3-662-58062-2)
