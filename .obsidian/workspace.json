@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6da033d796d776d5",
+        "id": "e438c9c94b758bad",
         "type": "tabs",
         "children": [
           {
-            "id": "073c0be47561a3aa",
+            "id": "5a965d1e3f103c48",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": ".gif",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1dc52949b1e6b056",
@@ -148,8 +149,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "073c0be47561a3aa",
+  "active": "5a965d1e3f103c48",
   "lastOpenFiles": [
+    "content/Funktionsscharen als 3D-Funktionen.md",
+    "content/images/mri_gehirn.gif",
+    "content/Pythagoras_Wasser.md",
+    "content/Universelle_Parabelkonstante.md",
+    "content/templates/youtube.md",
+    "content/Parabeln_basteln.md",
+    "content/Squaring_a_rectangle.md",
+    "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
+    "content/Eine_Frage_des_Maßstabes_Mathewelten_ARTE.md",
+    "content/private/Drachenkurve.md",
+    "content/Quadratische_Ergänzung.md",
+    "content/templates/iframe.md",
+    "content/templates/geogebra.md",
+    "Untitled.md",
     "content/Lineare_proportionale_Funktionen_Schule_Universität.md",
     "content/Lines_Beyond_y=mx+b.md",
     "content/Sätze_generieren_Unterrichtsidee.md",
@@ -171,20 +186,6 @@
     "content/Monotoniesatz_und_Ableitung.md",
     "content/Übersicht_p-adische_Zahlen.md",
     "content/Aufgabe_parallele_Tangente.md",
-    "content/images/Skalarprodukt_Additionstheorem.png",
-    "content/What_fraction_is_shaded_viral.md",
-    "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
-    "content/Why_We_Dont_Cross_Multiply.md",
-    "content/Zahlenbereichserweiterungen.md",
-    "content/p-adic_numbers_Part_1_of_3.md",
-    "content/p-adic_numbers_visual_representation_of_convergence_of_large_numbers.md",
-    "content/Übersicht_Bruchrechnung.md",
-    "content/Muster_in_Logartihmusfunktionen.md",
-    "content/images/Tangente_parallel.png",
-    "content/Beliebige_Videogeschwindigkeit.md",
-    "content/_index.md",
-    "content/Diskussion_strenge_Monotonie.md",
-    "content/Gehäkelte_hyperbolische_Ebene.md",
-    "content/Radio_aus_aller_Welt.md"
+    "content/images/Skalarprodukt_Additionstheorem.png"
   ]
 }
