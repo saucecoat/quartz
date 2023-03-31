@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e438c9c94b758bad",
+        "id": "a6aa959010d5be84",
         "type": "tabs",
         "children": [
           {
-            "id": "5a965d1e3f103c48",
+            "id": "6891319b3e59af1a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,7 +149,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a965d1e3f103c48",
+  "active": "6891319b3e59af1a",
   "lastOpenFiles": [
     "content/Funktionsscharen als 3D-Funktionen.md",
     "content/images/mri_gehirn.gif",
