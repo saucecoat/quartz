@@ -1,7 +1,7 @@
 .iframe-container {
   overflow: hidden;
-  /* 8:5 aspect ratio */
-  padding-top: 56.25%;
+  /* 8:5 aspect ratio (divide 5 by 8 = 0.625)*/
+  padding-top: 62.5%;
   position: relative;
 }
 .iframe-container iframe {
