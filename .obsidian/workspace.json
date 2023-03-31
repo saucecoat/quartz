@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a6aa959010d5be84",
+        "id": "2ea219ca62d5a9d0",
         "type": "tabs",
         "children": [
           {
-            "id": "6891319b3e59af1a",
+            "id": "55a5b0477e5185e6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".gif",
+                "query": "iframe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1dc52949b1e6b056",
@@ -149,8 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6891319b3e59af1a",
+  "active": "b00cd49974197310",
   "lastOpenFiles": [
+    "content/Quadratische_Ergänzung.md",
+    "content/templates/iframe.md",
     "content/Funktionsscharen als 3D-Funktionen.md",
     "content/images/mri_gehirn.gif",
     "content/Pythagoras_Wasser.md",
@@ -161,8 +162,6 @@
     "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
     "content/Eine_Frage_des_Maßstabes_Mathewelten_ARTE.md",
     "content/private/Drachenkurve.md",
-    "content/Quadratische_Ergänzung.md",
-    "content/templates/iframe.md",
     "content/templates/geogebra.md",
     "Untitled.md",
     "content/Lineare_proportionale_Funktionen_Schule_Universität.md",
