@@ -1,17 +1,7 @@
-.iframe-container {
-  overflow: hidden;
-  position: relative;
-
-  // Calculate the aspect ratio of the iframe
-  $iframe-ratio: attr(width) / attr(height);
-  padding-top: calc(1 / $iframe-ratio * 100%);
+.iframe {
+	aspect-ratio: 8 / 5;
+	height: 100%;
+	width: 100%;
 }
 
-.iframe-container iframe {
-  border: 0;
-  height: 100%;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 100%;
-}
+// source: https://gomakethings.com/responsive-iframes-with-the-css-aspect-ratio-property/

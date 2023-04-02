@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a5573d6e5e29a76",
+        "id": "24531b28671339e2",
         "type": "tabs",
         "children": [
           {
-            "id": "d9be98ff5b28e535",
+            "id": "35537a241b932404",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9be98ff5b28e535",
+  "active": "35537a241b932404",
   "lastOpenFiles": [
-    "content/Funktionsscharen als 3D-Funktionen.md",
     "content/Quadratische_Ergänzung.md",
+    "content/Funktionsscharen als 3D-Funktionen.md",
     "content/templates/iframe.md",
     "content/images/mri_gehirn.gif",
     "content/Pythagoras_Wasser.md",
