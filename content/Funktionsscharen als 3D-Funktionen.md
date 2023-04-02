@@ -18,9 +18,9 @@ Der Parameter ist dabei veränderlich jedoch für jede einzelne konkrete Funktio
 Grafisch lässt sich dies durch dynamische Geometrieprogramme wie Geogebra visualisieren. Verschiebt man den Schieberegler für den Parameter $a$, so verändert sich auch der Graph, z. B. wie unten bei der Funktionsschar $$f_{a}(x)=a \cdot x^{2}.$$
 
 
-
+<div class="iframe-container">
 <iframe scrolling="no" title="Funktionsschar in 2D" src="https://www.geogebra.org/material/iframe/id/rqwkaejb/width/1306/height/809/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="800px" height="496px" style="border:0px;"> </iframe>
-
+</div>
 
 **Quelle:** https://www.geogebra.org/m/rqwkaejb
 

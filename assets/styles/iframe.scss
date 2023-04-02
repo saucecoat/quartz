@@ -1,21 +1,14 @@
-// Trying out ChatGPT's iframe code
-iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-
-  // Calculate the aspect ratio of the iframe
-  $iframe-ratio: attr(width) / attr(height);
-
-  // Calculate the height based on the screen width and the iframe aspect ratio
-  @media (min-aspect-ratio: $iframe-ratio) {
-    height: calc(100vw / $iframe-ratio);
-  }
-
-  // Calculate the width based on the screen height and the iframe aspect ratio
-  @media (max-aspect-ratio: $iframe-ratio) {
-    width: calc(100vh * $iframe-ratio);
-  }
+.iframe-container {
+  overflow: hidden;
+  /* 8:5 aspect ratio (divide 5 by 8 = 0.625)*/
+  padding-top: 62.5%;
+  position: relative;
+}
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
 }
