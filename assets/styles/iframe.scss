@@ -1,14 +1,17 @@
 .iframe-container {
   overflow: hidden;
-  /* 8:5 aspect ratio (divide 5 by 8 = 0.625)*/
-  padding-top: 62.5%;
   position: relative;
+
+  // Calculate the aspect ratio of the iframe
+  $iframe-ratio: attr(width) / attr(height);
+  padding-top: calc(1 / $iframe-ratio * 100%);
 }
+
 .iframe-container iframe {
-   border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;
+  border: 0;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
 }
