@@ -18,9 +18,7 @@ Der Parameter ist dabei veränderlich jedoch für jede einzelne konkrete Funktio
 Grafisch lässt sich dies durch dynamische Geometrieprogramme wie Geogebra visualisieren. Verschiebt man den Schieberegler für den Parameter $a$, so verändert sich auch der Graph, z. B. wie unten bei der Funktionsschar $$f_{a}(x)=a \cdot x^{2}.$$
 
 
-<div class="iframe-container">
 <iframe scrolling="no" title="Funktionsschar in 2D" src="https://www.geogebra.org/material/iframe/id/rqwkaejb/width/1306/height/809/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="800px" height="496px" style="border:0px;"> </iframe>
-</div>
 
 **Quelle:** https://www.geogebra.org/m/rqwkaejb
 
@@ -29,9 +27,7 @@ Grafisch lässt sich dies durch dynamische Geometrieprogramme wie Geogebra visua
 Interpretieren wir die Variable $a$ stattdessen als Variable, so erhalten wir eine Fläche $f(a,x)$ im Dreidimensionalen.
 Visualisieren wir unsere Parabelfläche $$f(a,x)=a \cdot x^{2}$$ und tragen dabei die Werte für $a$ auf der roten Achse, die Werte für $x$ auf der grünen und die Funktionswerte $f(a,x)$ auf der blauen Achse ab, so erhalten wir die folgende Fläche.
 
-<div class="iframe-container">
 <iframe scrolling="no" title="Parabelfläche" src="https://www.geogebra.org/material/iframe/id/cg3wb4jt/width/1306/height/809/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/true/ctl/false" width="800px" height="496px" style="border:0px;"> </iframe>
-</div> 
 
 **Quelle:** https://www.geogebra.org/m/cg3wb4jt
 
@@ -39,9 +35,7 @@ Visualisieren wir unsere Parabelfläche $$f(a,x)=a \cdot x^{2}$$ und tragen dabe
 
 Die obige Fläche zeigt auf einen Blick das Verhalten unserer Parabelschar für alle $a$-Werte. Die Parabeln im Zweidimensionalen entdecken wir in dieser Fläche wieder, wenn wir diese mit einer zur $a$-Achse senkrecht stehenden Ebene schneiden. 
 
-<div class="iframe-container">
 <iframe scrolling="no" title="Funktionsschar in 3D" src="https://www.geogebra.org/material/iframe/id/emakbryz/width/1306/height/809/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/true/ctl/false" width="800px" height="496px" style="border:0px;"> </iframe>
-</div>
 
 **Quelle:** https://www.geogebra.org/m/emakbryz
 
