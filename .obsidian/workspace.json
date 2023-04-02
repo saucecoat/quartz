@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "66e496a6624d0d3d",
+        "id": "8c4b1008f093ef07",
         "type": "tabs",
         "children": [
           {
-            "id": "1f65434c7d99ceed",
+            "id": "aef6eb31ec025a0e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f65434c7d99ceed",
+  "active": "aef6eb31ec025a0e",
   "lastOpenFiles": [
     "content/Funktionsscharen als 3D-Funktionen.md",
     "content/Quadratische_Ergänzung.md",
