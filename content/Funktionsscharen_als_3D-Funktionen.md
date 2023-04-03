@@ -4,6 +4,7 @@ date: "2023-03-31"
 tags: [alle, mathe, funktionsschar, parabel, parabola, 3d, 2d, fläche, surface, gehirn, ebene, parameter, variable, geogebra]
 ---
 
+<div data-service="youtube" data-id="5cJK9VJ24hQ"></div>
 
 ## Funktionen mit mehreren Variablen
 
