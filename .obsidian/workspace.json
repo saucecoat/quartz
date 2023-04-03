@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a4ceaadf4f9432f",
+        "id": "898a2c8ffdfe776d",
         "type": "tabs",
         "children": [
           {
-            "id": "3b0e27823e11bd8e",
+            "id": "643cfae5e88b0ff5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iframe",
+                "query": "tag:#parameter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -148,16 +148,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b0e27823e11bd8e",
+  "active": "643cfae5e88b0ff5",
   "lastOpenFiles": [
-    "content/Funktionsscharen als 3D-Funktionen.md",
+    "content/Funktionsscharen_als_3D-Funktionen.md",
+    "content/Drehungen_mit_Quaternionen.md",
+    "content/Thinking_Task_Terme_Sushiteller.md",
     "content/Quadratische_Ergänzung.md",
+    "content/The_Beautiful_Story_of_Non-Euclidean_Geometry.md",
+    "content/Multiplying_Fractions_Geogebra_Visualization.md",
+    "content/Funktion_Maschine.md",
+    "content/Das_kartesische_Koordinatensystem_als_Aspirin.md",
+    "content/Intuition_Hyperbolische_Metrik.md",
+    "content/Gehäkelte_hyperbolische_Ebene.md",
+    "content/Universelle_Parabelkonstante.md",
+    "content/Parabeln_falten_und_das_Lösen_von_kubischen_Gleichungen.md",
+    "content/Parabeln_basteln.md",
+    "content/Circle-Square.md",
     "content/templates/iframe.md",
     "content/images/mri_gehirn.gif",
     "content/Pythagoras_Wasser.md",
-    "content/Universelle_Parabelkonstante.md",
     "content/templates/youtube.md",
-    "content/Parabeln_basteln.md",
     "content/Squaring_a_rectangle.md",
     "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
     "content/Eine_Frage_des_Maßstabes_Mathewelten_ARTE.md",
@@ -167,24 +177,14 @@
     "content/Lineare_proportionale_Funktionen_Schule_Universität.md",
     "content/Lines_Beyond_y=mx+b.md",
     "content/Sätze_generieren_Unterrichtsidee.md",
-    "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md",
-    "content/Lokale_und_globale_Extremstellen.md",
-    "content/Thinking_Task_Schritte_pro_Tag.md",
-    "content/Grenzwert_und_Stetigkeit.md",
     "content/images/markov_graph_sätze.png",
     "content/images/lokale_globale_Extrema.png",
-    "Generating inspirational quotes with Markov chains.md",
     "content/images/Extremwert_DINA4_Box_2.png",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_1.png",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_2.png",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_4.png",
     "content/images/Extremwert_DINA4_Box_1.png",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_3.png",
-    "content/Drehungen_mit_Quaternionen.md",
-    "content/Additionstheorem_mithilfe_des_Skalarprodukts.md",
-    "content/Monotoniesatz_und_Ableitung.md",
-    "content/Übersicht_p-adische_Zahlen.md",
-    "content/Aufgabe_parallele_Tangente.md",
     "content/images/Skalarprodukt_Additionstheorem.png"
   ]
 }
