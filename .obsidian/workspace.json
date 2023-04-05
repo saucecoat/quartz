@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76a40c7b825a8309",
+        "id": "38a166fbcf834bee",
         "type": "tabs",
         "children": [
           {
-            "id": "ef3b762eba95956f",
+            "id": "75fe4a669baf0cff",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -47,7 +47,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -148,8 +148,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef3b762eba95956f",
+  "active": "75fe4a669baf0cff",
   "lastOpenFiles": [
+    "content/Sätze_generieren_Unterrichtsidee.md",
     "content/Additionstheorem_mithilfe_des_Skalarprodukts.md",
     "content/Alternative_Dartellung_Drehmatrix.md",
     "content/Anwendungen_des_Skalarprodukts.md",
@@ -176,7 +177,6 @@
     "content/Circle-Square.md",
     "content/templates/iframe.md",
     "content/images/mri_gehirn.gif",
-    "content/Pythagoras_Wasser.md",
     "content/images/markov_graph_sätze.png",
     "content/images/lokale_globale_Extrema.png",
     "content/images/Extremwert_DINA4_Box_2.png",

@@ -8,7 +8,7 @@ tags: [alle, unterricht, informatik, ki, künstliche_intelligenz, ai, artificial
 
 Den Schülern soll anhand eines einfachen generativen Sprachmodells mithilfe von Markow-Ketten gezeigt werden, wie Computer Texte erstellen können.
 
-Zuerst wird der [[##Datensatz]] mit den Kindern erschlossen und anschließend anhand eines [[##Graph|Graphen]] analysiert, welche Wörter aufeinander folgen. Das Sprachmodell "lernt" genau wie im Graphen dargestellt, welche Wörter einem bestimmten anderen Wort laut dem Datensatz folgen können und welche nicht. 
+Zuerst wird der [[Sätze_generieren_Unterrichtsidee#Datensatz|Datensatz]] mit den Kindern erschlossen und anschließend anhand eines [[Sätze_generieren_Unterrichtsidee#Graph|Graphen]] analysiert, welche Wörter aufeinander folgen. Das Sprachmodell "lernt" genau wie im Graphen dargestellt, welche Wörter einem bestimmten anderen Wort laut dem Datensatz folgen können und welche nicht. 
 Durch zufällige Pfade durch den Graphen erstellt das Sprachmodell dann eigenständig neue Sätze.
 
 Eine ähnliche Unterrichtsidee findet sich auch unter: https://www.herr-rau.de/wordpress/2019/06/markow-ketten-und-textgenerierung.htm
