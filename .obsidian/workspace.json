@@ -11,12 +11,8 @@
             "id": "643cfae5e88b0ff5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Funktionsscharen_als_3D-Funktionen.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,10 +44,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "youtube",
+                "query": "tag:#parameter",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Funktionsscharen_als_3D-Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Funktionsscharen_als_3D-Funktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Funktionsscharen_als_3D-Funktionen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,10 +150,6 @@
   },
   "active": "643cfae5e88b0ff5",
   "lastOpenFiles": [
-    "content/private/Drachenkurve.md",
-    "assets/js/app.js",
-    "assets/styles/iframemanager.css",
-    "assets/js/iframemanager.js",
     "content/Funktionsscharen_als_3D-Funktionen.md",
     "content/Drehungen_mit_Quaternionen.md",
     "content/Thinking_Task_Terme_Sushiteller.md",
@@ -183,10 +171,12 @@
     "content/Squaring_a_rectangle.md",
     "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
     "content/Eine_Frage_des_Maßstabes_Mathewelten_ARTE.md",
+    "content/private/Drachenkurve.md",
     "content/templates/geogebra.md",
     "Untitled.md",
     "content/Lineare_proportionale_Funktionen_Schule_Universität.md",
     "content/Lines_Beyond_y=mx+b.md",
+    "content/Sätze_generieren_Unterrichtsidee.md",
     "content/images/markov_graph_sätze.png",
     "content/images/lokale_globale_Extrema.png",
     "content/images/Extremwert_DINA4_Box_2.png",
