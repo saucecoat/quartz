@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "898a2c8ffdfe776d",
+        "id": "76a40c7b825a8309",
         "type": "tabs",
         "children": [
           {
-            "id": "643cfae5e88b0ff5",
+            "id": "ef3b762eba95956f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#parameter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -148,12 +148,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "643cfae5e88b0ff5",
+  "active": "ef3b762eba95956f",
   "lastOpenFiles": [
+    "content/Additionstheorem_mithilfe_des_Skalarprodukts.md",
+    "content/Alternative_Dartellung_Drehmatrix.md",
+    "content/Anwendungen_des_Skalarprodukts.md",
+    "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
+    "content/Quaternionen_mithilfe_von_Vektoren_multiplizieren.md",
+    "content/Satz_von_Monsky_Beweis.md",
+    "content/Quadratische_Ergänzung.md",
+    "content/Filmempfehlungen_mit_dem_Skalarprodukt.md",
+    "content/Henn_Filler_Vektorbegriff.md",
+    "content/Pythagoras_mit_dem_Skalarprodukt.md",
+    "content/Distributivgesetz_beim_Skalarprodukt.md",
     "content/Funktionsscharen_als_3D-Funktionen.md",
     "content/Drehungen_mit_Quaternionen.md",
     "content/Thinking_Task_Terme_Sushiteller.md",
-    "content/Quadratische_Ergänzung.md",
     "content/The_Beautiful_Story_of_Non-Euclidean_Geometry.md",
     "content/Multiplying_Fractions_Geogebra_Visualization.md",
     "content/Funktion_Maschine.md",
@@ -167,16 +177,6 @@
     "content/templates/iframe.md",
     "content/images/mri_gehirn.gif",
     "content/Pythagoras_Wasser.md",
-    "content/templates/youtube.md",
-    "content/Squaring_a_rectangle.md",
-    "content/Knorkator_Wie_weit_ist_es_bis_zum_Horizont.md",
-    "content/Eine_Frage_des_Maßstabes_Mathewelten_ARTE.md",
-    "content/private/Drachenkurve.md",
-    "content/templates/geogebra.md",
-    "Untitled.md",
-    "content/Lineare_proportionale_Funktionen_Schule_Universität.md",
-    "content/Lines_Beyond_y=mx+b.md",
-    "content/Sätze_generieren_Unterrichtsidee.md",
     "content/images/markov_graph_sätze.png",
     "content/images/lokale_globale_Extrema.png",
     "content/images/Extremwert_DINA4_Box_2.png",

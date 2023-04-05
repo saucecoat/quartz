@@ -24,7 +24,7 @@ Da $\theta=\theta_{1}+\theta_{2}$ erhalten wir:
 
 $$\vec{v_1} \cdot \vec{v_2}=\cos(\theta_{1}+\theta_{2}) $$
 
-Da $\vec{v_1}$ und $\vec{v_2}$ auf dem Einheitskreis liegen, können ihre Koordinaten mithilfe der trigonometrischen Funktionen beschrieben werden:
+Da $\vec{v_1}$ und $\vec{v_2}$ auf dem Einheitskreis liegen, können ihre [[Alternative_Dartellung_Drehmatrix|Koordinaten mithilfe der trigonometrischen Funktionen]] beschrieben werden:
 
 $$\vec{v_1}=\begin{pmatrix}\cos\theta_{1}\\ \sin\theta_{1}\end{pmatrix}; \quad \vec{v_2}=\begin{pmatrix}\cos\theta_{2}\\ -\sin\theta_2\end{pmatrix}$$
 
