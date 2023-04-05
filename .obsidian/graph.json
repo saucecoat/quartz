@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "skalar -quaternion",
-  "showTags": false,
+  "search": "",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
