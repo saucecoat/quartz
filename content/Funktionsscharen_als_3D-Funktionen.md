@@ -8,6 +8,7 @@ tags: [alle, mathe, funktionsschar, parabel, parabola, 3d, 2d, fläche, surface,
 ## Funktionen mit mehreren Variablen
 
 Eine Funktion $f(x)$ mit einer Variablen $x$ kann man als 1-dimensionale Kurve in einem 2-dimensionalen Koordinatensystem visualisieren. 
+
 Eine Funktion $f(a,x)$ mit zwei Variablen $a$ & $x$ kann man als 2-dimensionale Fläche in einem 3-dimensionalen Koordinatensystem visualisieren.
 
 ## Parabelschar in 2D
