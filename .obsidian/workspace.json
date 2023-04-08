@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c3b4ef9d120a1a62",
+        "id": "54541ab91c64d001",
         "type": "tabs",
         "children": [
           {
-            "id": "716ed3aea1161e70",
+            "id": "0dbbe3c98063b7f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "640c5d3b6672baf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Funktionsscharen_als_3D-Funktionen.md",
                 "mode": "source",
                 "source": true
               }
@@ -168,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "716ed3aea1161e70",
+  "active": "0dbbe3c98063b7f3",
   "lastOpenFiles": [
     "content/Funktionsscharen_als_3D-Funktionen.md",
     "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",

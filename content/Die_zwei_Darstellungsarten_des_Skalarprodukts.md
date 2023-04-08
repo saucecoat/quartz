@@ -76,7 +76,7 @@ Die folgende Animation zeigt dies beispielhaft:
 Lineare Abbildungen lassen sich auf sehr einfache und elegante Weise mithilfe von Matrizen beschreiben. 
 Durch die einschränkenden Bedingungen einer linearen Abbildung (gleichbleibende Parallelität und gleichbleibender Abstand zwischen Geraden) sind nur wenige Eigenschaften nötig, um die Abbildung eindeutig zu beschreiben. 
 
-Es genügt bereits sich anzusehen, auf welche Vektoren die Einheitsvektoren $\vec{e}\_{1} = \begin{pmatrix}\textcolor{red}{1} \\\\ \textcolor{red}{0}\end{pmatrix}$ und $\vec{e}\_{2}=\begin{pmatrix} \textcolor{turquoise}{0} \\ \textcolor{turquoise}{1} \end{pmatrix}$ abgebildet werden.
+Es genügt bereits sich anzusehen, auf welche Vektoren die Einheitsvektoren $\vec{e}\_{1} = \begin{pmatrix}\textcolor{red}{1}\\\\\textcolor{red}{0}\end{pmatrix}$ und $\vec{e}\_{2}=\begin{pmatrix} \textcolor{turquoise}{0} \\ \textcolor{turquoise}{1} \end{pmatrix}$ abgebildet werden.
 
 Schauen wir uns die oben gezeigte Abbildung erneut an, sehen wir, dass $\vec{e}\_{1}$ auf den Vektor $\begin{pmatrix} \textcolor{red}{3} \\ \textcolor{red}{-1} \end{pmatrix}$ geschickt wird und der Vektor $\vec{e}\_{2}$ auf den Vektor $\begin{pmatrix} \textcolor{turquoise}{-1} \\ \textcolor{turquoise}{2} \end{pmatrix}$.
 
