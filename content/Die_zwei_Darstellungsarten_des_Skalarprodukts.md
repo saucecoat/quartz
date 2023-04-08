@@ -125,8 +125,8 @@ Dreht man den ersten Vektor des Skalarprodukts "auf die Seite" (mathematisch sag
 Rechnerisch sind Skalarprodukt und Matrix-Vektor-Produkt praktisch identisch:
 
 $$\begin{aligned}
-\text{Skalarprodukt:} &\quad \begin{pmatrix} 3 \\\\ 4 \end{pmatrix} \cdot \begin{pmatrix} 2 \\\\ 1 \end{pmatrix} = 3 \cdot 2 + 4 \cdot 1 = 10 \\\\
-\text{Matrix-Vektor-Produkt:} &\quad \begin{pmatrix} \textcolor{red}{3} & \textcolor{turquoise}{4} \end{pmatrix} \cdot \begin{pmatrix} 2 \\\\ 1 \end{pmatrix} = 2 \cdot (\textcolor{red}{3}) + 1 \cdot (\textcolor{turquoise}{4}) = ( 10 )
+\text{Skalarprodukt:} &\quad \begin{pmatrix}3\\\\4\end{pmatrix} \cdot \begin{pmatrix}2\\\\1\end{pmatrix} = 3 \cdot 2 + 4 \cdot 1 = 10 \\\\
+\text{Matrix-Vektor-Produkt:} &\quad \begin{pmatrix} \textcolor{red}{3} & \textcolor{turquoise}{4} \end{pmatrix} \cdot \begin{pmatrix}2\\\\1\end{pmatrix} = 2 \cdot (\textcolor{red}{3}) + 1 \cdot (\textcolor{turquoise}{4}) = ( 10 )
 \end{aligned}$$
 
 Die Matrix $\begin{pmatrix} 3 & 4 \end{pmatrix}$ drückt eine lineare Abbildung von $\mathbb{R}^{2}$ nach $\mathbb{R}$ aus, also von einer zweidimensionalen Fläche auf eine eindimensionale Gerade. 

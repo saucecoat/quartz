@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "62363ba7f4a94d06",
+        "id": "c3b4ef9d120a1a62",
         "type": "tabs",
         "children": [
           {
-            "id": "2c311cd2436e606f",
+            "id": "716ed3aea1161e70",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -150,7 +150,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c311cd2436e606f",
+  "active": "716ed3aea1161e70",
   "lastOpenFiles": [
     "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
     "content/Circle-Square.md",
