@@ -34,12 +34,12 @@ Interpretieren wir die beiden Vektoren $\vec{a}$ und $\vec{b}$ als [[Pythagoras_
 
 Nach dem [Kosinussatz](https://de.wikipedia.org/wiki/Kosinussatz) gilt:
 
-$$\lVert \vec{b}-\vec{a} \rVert^{2} = \lVert \vec{a} \rVert^{2} + \lVert \vec{b} \rVert^{2} - 2 \, \lVert \vec{a} \rVert \, \lVert \vec{b} \rVert \cos\theta$$
+$$\lVert \vec{b}-\vec{a} \rVert^{2} = \lVert \vec{a} \rVert^{2} + \lVert \vec{b} \rVert^{2} - 2 \\, \lVert \vec{a} \rVert \\, \lVert \vec{b} \rVert \cos\theta$$
 
 Daraus folgt:
 
 $$\begin{aligned}
-2 \, \lVert \vec{a} \rVert \, \lVert \vec{b} \rVert \cos\theta &= \lVert \vec{a} \rVert^{2} + \lVert \vec{b} \rVert^{2} - \lVert \vec{b}-\vec{a} \rVert^{2} \\\\
+2 \\, \lVert \vec{a} \rVert \\, \lVert \vec{b} \rVert \cos\theta &= \lVert \vec{a} \rVert^{2} + \lVert \vec{b} \rVert^{2} - \lVert \vec{b}-\vec{a} \rVert^{2} \\\\
 &= \sum\limits_{i=1}^{n}{a_{i}^{2}}+\sum\limits_{i=1}^{n}{b_{i}^{2}}-\sum\limits_{i=1}^{n}{(b_{i}-a_{i})^{2}} \\\\
 &= \sum\limits_{i=1}^{n}{a_{i}^{2}}+\sum\limits_{i=1}^{n}{b_{i}^{2}}- \sum\limits_{i=1}^{n}{\left(b_{i}^{2}-2a_{i}b_{i}+a_{i}^{2}\right)}\\\\
 &= \sum\limits_{i=1}^{n}{a_{i}^{2}}+\sum\limits_{i=1}^{n}{b_{i}^{2}}- \sum\limits_{i=1}^{n}{b_{i}^{2}} + 2 \cdot \sum\limits_{i=1}^{n}{a_{i}b_{i}} - \sum\limits_{i=1}^{n}{a_{i}^{2}}\\\\

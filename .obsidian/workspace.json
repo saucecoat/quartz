@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "54541ab91c64d001",
+        "id": "c4daa916564e4bd0",
         "type": "tabs",
         "children": [
           {
-            "id": "0dbbe3c98063b7f3",
+            "id": "667e9df433bb7463",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0dbbe3c98063b7f3",
+  "active": "667e9df433bb7463",
   "lastOpenFiles": [
-    "content/Funktionsscharen_als_3D-Funktionen.md",
     "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
+    "content/Funktionsscharen_als_3D-Funktionen.md",
     "content/Circle-Square.md",
     "content/images/Skalarprodukt_Einheitsvektor.png",
     "content/Sätze_generieren_Unterrichtsidee.md",
