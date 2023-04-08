@@ -69,7 +69,7 @@ An dieser Stelle reicht uns jedoch folgende Anschauung:
 
 Die folgende Animation zeigt dies beispielhaft:
 
-![[images/Matrix1.mp4]]
+{{< video src="/Matrix1.mp4" type="video/mp4" preload="true" style="height:100%;width:100%" >}}
 
 ### Abbildungsmatrizen
 
@@ -80,7 +80,7 @@ Es genügt bereits sich anzusehen, auf welche Vektoren die Einheitsvektoren $\ve
 
 Schauen wir uns die oben gezeigte Abbildung erneut an, sehen wir, dass $\vec{e}\_{1}$ auf den Vektor $\begin{pmatrix} \textcolor{red}{3} \\ \textcolor{red}{-1} \end{pmatrix}$ geschickt wird und der Vektor $\vec{e}\_{2}$ auf den Vektor $\begin{pmatrix} \textcolor{turquoise}{-1} \\ \textcolor{turquoise}{2} \end{pmatrix}$.
 
-![[images/Matrix0.mp4]]
+{{< video src="/Matrix0.mp4" type="video/mp4" preload="true" style="height:100%;width:100%" >}}
 
 Die gesamt lineare Abbildung lässt sich dann mithilfe der Matrix $\begin{pmatrix} \textcolor{red}{3} & \textcolor{turquoise}{-1} \\ \textcolor{red}{-1} & \textcolor{turquoise}{2} \end{pmatrix}$ beschreiben.
 
@@ -110,8 +110,7 @@ Wollen wir z. B. herausfinden, was mit dem Vektor $\begin{pmatrix} 2 \\ 1 \end{p
 
 $$\begin{pmatrix} \textcolor{red}{3} & \textcolor{turquoise}{-1} \\ \textcolor{red}{-1} & \textcolor{turquoise}{2} \end{pmatrix} \cdot \begin{pmatrix} 2 \\ 1 \end{pmatrix} = 2 \cdot \begin{pmatrix} \textcolor{red}{3} \\ \textcolor{red}{-1} \end{pmatrix} + 1 \cdot \begin{pmatrix} \textcolor{turquoise}{-1} \\ \textcolor{turquoise}{2} \end{pmatrix} = \begin{pmatrix} 5 \\ 0 \end{pmatrix}$$
 
-
-![[images/Matrix2.mp4]]
+{{< video src="/Matrix2.mp4" type="video/mp4" preload="true" style="height:100%;width:100%" >}}
 
 Durch die lineare Abbildung wird der Vektor $\begin{pmatrix} 2 \\ 1 \end{pmatrix}$ also auf den Vektor $\begin{pmatrix} 5 \\ 0 \end{pmatrix}$ geschickt.
 
@@ -130,8 +129,6 @@ $$\begin{aligned}
 \text{Matrix-Vektor-Produkt:} &\quad \begin{pmatrix} \textcolor{red}{3} & \textcolor{turquoise}{4} \end{pmatrix} \cdot \begin{pmatrix} 2 \\\\ 1 \end{pmatrix} = 2 \cdot (\textcolor{red}{3}) + 1 \cdot (\textcolor{turquoise}{4}) = ( 10 )
 \end{aligned}$$
 
-%% Vektor (3 4) der einfacheren Referenz wegen einen Namen geben?%%
-
 Die Matrix $\begin{pmatrix} 3 & 4 \end{pmatrix}$ drückt eine lineare Abbildung von $\mathbb{R}^{2}$ nach $\mathbb{R}$ aus, also von einer zweidimensionalen Fläche auf eine eindimensionale Gerade. 
 Die gesamte Ebene wird gewissermaßen auf eine Zahlengerade "zusammengequetscht" – und zwar so, dass der Basisvektor $\begin{pmatrix} 1 \\ 0 \end{pmatrix}$ auf die Zahl $3$ geschickt wird und der Basisvektor $\begin{pmatrix} 0 \\ 1 \end{pmatrix}$ auf die Zahl $4$.
 
@@ -146,7 +143,7 @@ Um zu verstehen, warum die lineare Abbildung $\begin{pmatrix} 3 & 4 \end{pmatrix
 
 Legen wir eine Gerade in das zweidimensionale Koordinatensystem, die in Richtung des Vektors $\begin{pmatrix}3\\\\4\end{pmatrix}$ verläuft. Untersuchen wir nun die lineare Abbildung, die alle Punkte der Ebene auf diese Gerade projiziert. 
 
-![[images/Matrix3.mp4]]
+{{< video src="/Matrix3.mp4" type="video/mp4" preload="true" style="height:100%;width:100%" >}}
 
 Um diese Abbildung mithilfe einer Matrix auszudrücken, müssen wir, wie oben gesehen, lediglich herausfinden, auf welche Vektoren die Abbildung die beiden Basisvektoren $\vec{e}\_{1}$ und $\vec{e}\_{2}$ schickt.
 

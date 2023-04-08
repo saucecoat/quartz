@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c780c9bef2022ffb",
+        "id": "62363ba7f4a94d06",
         "type": "tabs",
         "children": [
           {
-            "id": "d3ad7d452b95396a",
+            "id": "2c311cd2436e606f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e17288b866dca6ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Circle-Square.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,10 +150,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3ad7d452b95396a",
+  "active": "2c311cd2436e606f",
   "lastOpenFiles": [
-    "content/Circle-Square.md",
     "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
+    "content/Circle-Square.md",
     "content/images/Skalarprodukt_Einheitsvektor.png",
     "content/Funktionsscharen_als_3D-Funktionen.md",
     "content/Sätze_generieren_Unterrichtsidee.md",
