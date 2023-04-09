@@ -177,7 +177,7 @@ Als kurzen Realitycheck schauen wir uns einmal an, was mit unserem Vektor $\begi
 
 Rechnerisch gilt:
 
-$$\begin{pmatrix} \textcolor{red}{{}^3{\mskip -5mu/\mskip -3mu}_5} & \textcolor{turquoise}{{}^4{\mskip -5mu/\mskip -3mu}_5} \end{pmatrix} \cdot \begin{pmatrix} 2 \\ 1 \end{pmatrix} = 2 \cdot (\textcolor{red}{{}^3{\mskip -5mu/\mskip -3mu}_5}) + 1 \cdot (\textcolor{turquoise}{{}^4{\mskip -5mu/\mskip -3mu}_5}) = ( 2 )$$
+$$\begin{pmatrix} \textcolor{red}{{}^3{\mskip -5mu/\mskip -3mu}_5} & \textcolor{turquoise}{{}^4{\mskip -5mu/\mskip -3mu}_5} \end{pmatrix} \cdot \begin{pmatrix} 2 \\ 1 \end{pmatrix} = 2 \cdot \left(\textcolor{red}{{}^3{\mskip -5mu/\mskip -3mu}_5}\right) + 1 \cdot \left(\textcolor{turquoise}{{}^4{\mskip -5mu/\mskip -3mu}_5}\right) = ( 2 )$$
 
 Der Vektor müsste also nach der Projektion auf die Zahlengerade auf der $2$ landen. 
 
