@@ -1,0 +1,1 @@
+`{{< gif src="/VIDEONAME.mp4" type="video/mp4" preload="true" >}}`
