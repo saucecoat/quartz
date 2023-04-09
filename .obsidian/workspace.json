@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4daa916564e4bd0",
+        "id": "3ce3587609d78a49",
         "type": "tabs",
         "children": [
           {
-            "id": "667e9df433bb7463",
+            "id": "aec33975e3e555ea",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "667e9df433bb7463",
+  "active": "aec33975e3e555ea",
   "lastOpenFiles": [
     "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
     "content/Funktionsscharen_als_3D-Funktionen.md",

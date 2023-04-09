@@ -173,6 +173,16 @@ Mit dem gleichen Symmetrieargument lässt sich zeigen, dass $\vec{e}\_{2}$ auf $
 >
 >Dies entspricht dem transponierten Einheitsvektor $\vec{u}$.
 
+Als kurzen Realitycheck schauen wir uns einmal an, was mit unserem Vektor $\begin{pmatrix}2\\\\1\end{pmatrix}$ passiert.
+
+Rechnerisch gilt:
+
+$$\begin{pmatrix} \textcolor{red}{{}^3{\mskip -5mu/\mskip -3mu}_5} & \textcolor{turquoise}{{}^4{\mskip -5mu/\mskip -3mu}_5} \end{pmatrix} \cdot \begin{pmatrix} 2 \\ 1 \end{pmatrix} = 2 \cdot (\textcolor{red}{{}^3{\mskip -5mu/\mskip -3mu}_5}) + 1 \cdot (\textcolor{turquoise}{{}^4{\mskip -5mu/\mskip -3mu}_5}) = ( 2 )$$
+
+Der Vektor müsste also nach der Projektion auf die Zahlengerade auf der $2$ landen. 
+
+<iframe  title="Matrix 4" src="/images/Matrix4.mp4" width="800px" height="500px" style="border:0px;"> </iframe>
+
 ### Streckung
 
 Multipliziert man eine Abbildungsmatrix mit einem Faktor, so entspricht das grafisch einer gleichmäßigen Streckung in alle Richtungen um eben diesen Faktor.
