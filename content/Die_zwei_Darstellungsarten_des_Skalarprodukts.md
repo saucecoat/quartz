@@ -30,7 +30,7 @@ Wir zeigen nun mit rein algebraischen Mitteln, dass beide Darstellungen des Skal
 
 Interpretieren wir die beiden Vektoren $\vec{a}$ und $\vec{b}$ als [[Pythagoras_mit_dem_Skalarprodukt|zwei Seiten eines Dreiecks]], die den Winkel $\theta$ einschließen und den Vektor $\vec{b}-\vec{a}$ als dritte Seite. 
 
-![[images/images/Skalarprodukt_Dreieck.png]]
+![[images/Skalarprodukt_Dreieck.png]]
 
 Nach dem [Kosinussatz](https://de.wikipedia.org/wiki/Kosinussatz) gilt:
 
@@ -65,7 +65,7 @@ Machen wir hierfür zunächst einen Crashkurs zum Thema *lineare Abbildungen*.
 
 Lineare Abbildungen sind Abbildungen zwischen zwei Vektorräumen, die [[Lineare_proportionale_Funktionen_Schule_Universität|bestimmte Eigenschaften]] erfüllen. 
 An dieser Stelle reicht uns jedoch folgende Anschauung: 
->Parallele Geraden, die jeweils den gleichen Abstand zueinander haben, bleiben nach der linearen Abbildung weiterhin parallel und haben weiterhin den gleichen Abstand zueinander.
+>Der Nullpunkt bleibt fix und parallele Geraden, die jeweils den gleichen Abstand zueinander haben, bleiben nach der linearen Abbildung weiterhin parallel und haben weiterhin den gleichen Abstand zueinander.
 
 Die folgende Animation zeigt dies beispielhaft:
 
@@ -170,6 +170,7 @@ Der Basisvektor $\vec{e}\_{1}$ wird also auf ${}^3{\mskip -5mu/\mskip -3mu}_5$ a
 Mit dem gleichen Symmetrieargument lässt sich zeigen, dass $\vec{e}\_{2}$ auf ${}^4{\mskip -5mu/\mskip -3mu}_5$ abgebildet wird.
 
 >Die Matrix, die die Projektion auf die Zahlengerade in Richtung $\begin{pmatrix} 3 \\ 4 \end{pmatrix}$ beschreibt, ist damit $\begin{pmatrix} {}^3{\mskip -5mu/\mskip -3mu}_5 & {}^4{\mskip -5mu/\mskip -3mu}_5 \end{pmatrix}$. 
+>
 >Dies entspricht dem transponierten Einheitsvektor $\vec{u}$.
 
 ### Streckung
