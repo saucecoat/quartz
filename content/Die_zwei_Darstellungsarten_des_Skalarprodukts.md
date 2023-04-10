@@ -160,7 +160,7 @@ Projizieren wir nun also zunächst $\vec{e}\_{1}$ auf die Zahlengerade:
 
 Der Basisvektor $\vec{e}\_{1}$ wird auf eine Zahl auf der Zahlengerade projiziert. Um diese zu bestimmen, nutzen wir ein wundervolles Symmetrieargument.
 
-Jetzt kommt unser zuvor berechneten Vektor $\vec{u}$ ins Spiel. Da beide Vektoren $\vec{e}\_{1}$ und $\vec{u}$ die Länge $1$ haben, sieht die Projektion von $\vec{e}\_{1}$ auf die Zahlengerade komplett symmetrisch aus zur Projektion von $\vec{u}$ auf die $x$-Achse. 
+Jetzt kommt unser zuvor berechneter Vektor $\vec{u}$ ins Spiel. Da beide Vektoren $\vec{e}\_{1}$ und $\vec{u}$ die Länge $1$ haben, sieht die Projektion von $\vec{e}\_{1}$ auf die Zahlengerade komplett symmetrisch aus zur Projektion von $\vec{u}$ auf die $x$-Achse. 
 
 ![[images/Projektion_Skalarprodukt_2.png]]
 
