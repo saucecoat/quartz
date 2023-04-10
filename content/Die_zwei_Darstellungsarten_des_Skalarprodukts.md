@@ -4,6 +4,8 @@ date: "2023-04-08"
 tags: [alle, math, mathe, analytische_geometrie, lineare_algebra, vektor, vector, dot_product, skalarprodukt, berechnen, cosinus, 3blue1brown]
 ---
 
+> **HINWEIS:** Bitte die Seite <u>**ein zweites Mal laden**</u>. Die Animationen laden momentan leider noch nicht, wie sie sollen.
+
 ## Zwei Darstellungsarten
 
 Betrachten wir zwei Vektoren $\vec{a}$ und $\vec{b}$ aus dem $\mathbb{R}^{n}$, welche einen Winkel von $\theta$ einschließen. Das *Skalarprodukt* dieser beiden Vektoren lässt sich auf zwei verschiedene Arten darstellen und berechnen:
