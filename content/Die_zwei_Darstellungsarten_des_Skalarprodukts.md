@@ -202,7 +202,7 @@ Den einen Vektor auf den anderen projizieren und anschließend die Länge der Pr
 
 ## Fazit
 
-Wenn wir das Skalarprodukt durch die Brille der linearen Abbildung betrachten, wird klar, dass die zwei vermeintlich vollkommen unzusammenhängenden Darstellungsarten des Skalarprodukts, tatsächlich lediglich unterschiedliche Blickwinkel auf den gleichen Prozesses sind. 
+Wenn wir das Skalarprodukt durch die Brille der linearen Abbildung betrachten, wird klar, dass die zwei vermeintlich vollkommen unzusammenhängenden Darstellungsarten des Skalarprodukts, tatsächlich lediglich unterschiedliche Blickwinkel auf den gleichen Prozess sind. 
 Sie beschreiben auf algebraisch bzw. geometrische Art die lineare Abbildung, die entsteht, wenn man einen der beiden Vektoren transponiert und als Abbildungsmatrix auffasst.
 
 An dieser Stelle möchte ich wärmstens die untenstehenden Quellen empfehlen, allen voran das Video von [3blue1brown](https://youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) zum Skalarprodukt, durch das ich zum ersten Mal auf die Dualität von Skalarprodukt und linearen Abbildungen aufmerksam geworden bin.
