@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a457ea75a12d2468",
+        "id": "4eac4b0cccde572d",
         "type": "tabs",
         "children": [
           {
-            "id": "1df9b10d21beabf8",
+            "id": "8fe2b01ddf3ed0c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Rätsel_Kürzester_Weg_zwischen_zwei_Punkten.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Rätsel_Kürzester_Weg_zwischen_zwei_Punkten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Rätsel_Kürzester_Weg_zwischen_zwei_Punkten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/Rätsel_Kürzester_Weg_zwischen_zwei_Punkten.md"
+              }
             }
           },
           {
@@ -148,8 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1df9b10d21beabf8",
+  "active": "8fe2b01ddf3ed0c3",
   "lastOpenFiles": [
+    "content/Rätsel_Kürzester_Weg_zwischen_zwei_Punkten.md",
+    "content/images/Kürzester_Weg_Rätsel_3.png",
+    "content/images/Kürzester_Weg_Rätsel_2.png",
+    "content/images/Kürzester_Weg_Rätsel_1.png",
     "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
     "Untitled.md",
     "content/templates/gif.md",
@@ -176,15 +188,11 @@
     "content/Das_kartesische_Koordinatensystem_als_Aspirin.md",
     "content/Intuition_Hyperbolische_Metrik.md",
     "content/Gehäkelte_hyperbolische_Ebene.md",
-    "content/Universelle_Parabelkonstante.md",
     "content/images/mri_gehirn.gif",
     "content/images/markov_graph_sätze.png",
     "content/images/lokale_globale_Extrema.png",
     "content/images/Extremwert_DINA4_Box_2.png",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_1.png",
-    "content/images/Extremwert_DINA4_Kleinstes_Rechteck_2.png",
-    "content/images/Extremwert_DINA4_Kleinstes_Rechteck_4.png",
-    "content/images/Extremwert_DINA4_Box_1.png",
-    "content/images/Extremwert_DINA4_Kleinstes_Rechteck_3.png"
+    "content/images/Extremwert_DINA4_Kleinstes_Rechteck_2.png"
   ]
 }
