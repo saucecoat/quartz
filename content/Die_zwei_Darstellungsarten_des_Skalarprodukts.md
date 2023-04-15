@@ -76,7 +76,7 @@ Die folgende Animation zeigt dies beispielhaft:
 ### Abbildungsmatrizen
 
 Lineare Abbildungen lassen sich auf sehr einfache und elegante Weise mithilfe von Matrizen beschreiben. 
-Durch die einschränkenden Bedingungen einer linearen Abbildung (gleichbleibende Parallelität und gleichbleibender Abstand zwischen Geraden) sind nur wenige Eigenschaften nötig, um die Abbildung eindeutig zu beschreiben. 
+Durch die einschränkenden Bedingungen einer linearen Abbildung (fixer Nullpunkt, gleichbleibende Parallelität und gleichbleibender Abstand zwischen Geraden) sind nur wenige Eigenschaften nötig, um die Abbildung eindeutig zu beschreiben. 
 
 Es genügt bereits sich anzusehen, auf welche Vektoren die Einheitsvektoren $\vec{e}\_{1} = \begin{pmatrix}\textcolor{red}{1}\\\\\textcolor{red}{0}\end{pmatrix}$ und $\vec{e}\_{2}=\begin{pmatrix} \textcolor{turquoise}{0} \\ \textcolor{turquoise}{1} \end{pmatrix}$ abgebildet werden.
 
@@ -158,7 +158,7 @@ Projizieren wir nun also zunächst $\vec{e}\_{1}$ auf die Zahlengerade:
 
 ![[images/Projektion_Skalarprodukt_1.png]]
 
-Der Basisvektor $\vec{e}\_{1}$ wird auf eine Zahl auf der Zahlengerade projiziert. Um diese zu bestimmen, nutzen wir ein wundervolles Symmetrieargument.
+Der Basisvektor $\vec{e}\_{1}$ wird auf eine Zahl auf der Zahlengeraden projiziert. Um diese zu bestimmen, nutzen wir ein wundervolles Symmetrieargument.
 
 Jetzt kommt unser zuvor berechneter Vektor $\vec{u}$ ins Spiel. Da beide Vektoren $\vec{e}\_{1}$ und $\vec{u}$ die Länge $1$ haben, sieht die Projektion von $\vec{e}\_{1}$ auf die Zahlengerade komplett symmetrisch aus zur Projektion von $\vec{u}$ auf die $x$-Achse. 
 
@@ -203,7 +203,7 @@ Den einen Vektor auf den anderen projizieren und anschließend die Länge der Pr
 ## Fazit
 
 Wenn wir das Skalarprodukt durch die Brille der linearen Abbildung betrachten, wird klar, dass die zwei vermeintlich vollkommen unzusammenhängenden Darstellungsarten des Skalarprodukts, tatsächlich lediglich unterschiedliche Blickwinkel auf den gleichen Prozess sind. 
-Sie beschreiben auf algebraisch bzw. geometrische Art die lineare Abbildung, die entsteht, wenn man einen der beiden Vektoren transponiert und als Abbildungsmatrix auffasst.
+Sie beschreiben auf algebraische bzw. geometrische Art die lineare Abbildung, die entsteht, wenn man einen der beiden Vektoren transponiert und als Abbildungsmatrix auffasst.
 
 An dieser Stelle möchte ich wärmstens die untenstehenden Quellen empfehlen, allen voran das Video von [3blue1brown](https://youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) zum Skalarprodukt, durch das ich zum ersten Mal auf die Dualität von Skalarprodukt und linearen Abbildungen aufmerksam geworden bin.
 
