@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "98f2f828336ce0ec",
+        "id": "3a0607a68529b5ae",
         "type": "tabs",
         "children": [
           {
-            "id": "592704ab53062c84",
+            "id": "fb8407d427fbb86c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Unterrichtsstunde_Erwartungswert.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,10 +44,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "iframe",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Unterrichtsstunde_Erwartungswert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Unterrichtsstunde_Erwartungswert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Unterrichtsstunde_Erwartungswert.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,12 +148,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "592704ab53062c84",
+  "active": "fb8407d427fbb86c",
   "lastOpenFiles": [
     "content/Briefumschlagparadoxon.md",
-    "content/Unterrichtsstunde_Erwartungswert.md",
-    "content/Riemannscher_Umordnungssatz.md",
     "content/Gegenüberstellung_Grundbegriffe_Stochastik.md",
+    "content/Unterrichtsstunde_Erwartungswert_Zufallsvariable.md",
+    "content/Funktion_Maschine.md",
+    "content/Riemannscher_Umordnungssatz.md",
     "content/Cereal_Box_Problem_Thinking_Task.md",
     "content/templates/geogebra.md",
     "Untitled.md",
@@ -183,7 +176,6 @@
     "content/Radio_aus_aller_Welt.md",
     "content/Additionstheorem_mithilfe_des_Skalarprodukts.md",
     "content/Aufgabe_parallele_Tangente.md",
-    "content/Daten_mit_dem_geometrischen_Mittel_visualisieren.md",
     "content/images/Kürzester_Weg_Rätsel_3.png",
     "content/images/Kürzester_Weg_Rätsel_2.png",
     "content/images/Kürzester_Weg_Rätsel_1.png",

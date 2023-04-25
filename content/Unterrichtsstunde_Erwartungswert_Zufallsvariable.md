@@ -1,5 +1,5 @@
 ---
-title: "Unterrichtsstunde Erwartungswert"
+title: "Unterrichtsstunde Erwartungswert & Zufallsvariable"
 date: "2023-04-25"
 tags: [alle, mathe, unterricht, stochastik, erwartungswert, zufallsvariable, fair, glücksrad, einführung, arithmetisches_mittel]
 ---
@@ -66,7 +66,6 @@ $$\bar{x} = \frac{3}{25} \cdot 1 + \frac{8}{25} \cdot 2 + \frac{7}{25} \cdot 3 +
 >Er gibt an, welcher Wert im Durchschnitt zu erwarten ist.
 >Je nach Wahl der Zufallsvariable verändert sich auch der zugehörige Erwartungswert.
 
-![[Gegenüberstellung_Grundbegriffe_Stochastik]]
 
 ### Berechnung am Beispiel Glücksrad
 
@@ -96,6 +95,15 @@ $$\bar{x} = \frac{3}{25} \cdot 1 + \frac{8}{25} \cdot 2 + \frac{7}{25} \cdot 3 +
 ### Aufgabe
 
 Wie muss die Zahl auf dem roten Feld des Glücksrads verändert werden, damit das Glücksspiel fair ist?
+
+--- 
+## Gegenüberstellung Grundbegriffe Stochastik
+
+| Empirische Daten<br><br>("Experiment wurde durchgeführt") | Schätzungen für große Versuchsanzahlen<br><br>("Experiment wurde (noch) nicht durchgeführt") |
+|:---------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
+|                                                           |                                                                                              |
+|                  relative Häufigkeit $h$                  |                                    Wahrscheinlichkeit $p$                                    |
+|              arithmetisches Mittel $\bar{x}$              |                                     Erwartungswert $\mu$                                     |
 
 ## Weiterführendes Projekt
 
