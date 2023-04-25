@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3121de3e7d57ae1b",
+        "id": "98f2f828336ce0ec",
         "type": "tabs",
         "children": [
           {
-            "id": "8142fa491105e08d",
+            "id": "592704ab53062c84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Unterrichtsstunde_Erwartungswert.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Unterrichtsstunde_Erwartungswert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Unterrichtsstunde_Erwartungswert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/Unterrichtsstunde_Erwartungswert.md"
+              }
             }
           },
           {
@@ -148,38 +156,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8142fa491105e08d",
+  "active": "592704ab53062c84",
   "lastOpenFiles": [
-    "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
+    "content/Briefumschlagparadoxon.md",
+    "content/Unterrichtsstunde_Erwartungswert.md",
+    "content/Riemannscher_Umordnungssatz.md",
+    "content/Gegenüberstellung_Grundbegriffe_Stochastik.md",
+    "content/Cereal_Box_Problem_Thinking_Task.md",
+    "content/templates/geogebra.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "content/Funktionsscharen_als_3D-Funktionen.md",
+    "content/Vergleich_arithmetisches_geometrisches_Mittel.md",
     "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
-    "content/Rätsel_Kürzester_Weg_zwischen_zwei_Punkten.md",
+    "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
+    "content/Lineare_proportionale_Funktionen_Schule_Universität.md",
+    "content/Thinking_Task_Multiplikation_Brüche.md",
+    "content/Thinking_Task_Terme_Sushiteller.md",
+    "content/Zahlenbereichserweiterungen.md",
+    "content/What_fraction_is_shaded_viral.md",
+    "content/p-adic_numbers_Part_1_of_3.md",
+    "content/Why_We_Dont_Cross_Multiply.md",
+    "content/p-adic_numbers_visual_representation_of_convergence_of_large_numbers.md",
+    "content/Übersicht_Bruchrechnung.md",
+    "content/Statistik_Tutorial_Playlist_Matti_Saalkind.md",
+    "content/Radio_aus_aller_Welt.md",
+    "content/Additionstheorem_mithilfe_des_Skalarprodukts.md",
+    "content/Aufgabe_parallele_Tangente.md",
+    "content/Daten_mit_dem_geometrischen_Mittel_visualisieren.md",
     "content/images/Kürzester_Weg_Rätsel_3.png",
     "content/images/Kürzester_Weg_Rätsel_2.png",
     "content/images/Kürzester_Weg_Rätsel_1.png",
-    "Untitled.md",
-    "content/templates/gif.md",
-    "content/Funktionsscharen_als_3D-Funktionen.md",
-    "content/Circle-Square.md",
     "content/images/Skalarprodukt_Einheitsvektor.png",
-    "content/Sätze_generieren_Unterrichtsidee.md",
-    "content/Additionstheorem_mithilfe_des_Skalarprodukts.md",
-    "content/Alternative_Dartellung_Drehmatrix.md",
-    "content/Anwendungen_des_Skalarprodukts.md",
-    "content/Quaternionen_mithilfe_von_Vektoren_multiplizieren.md",
-    "content/Satz_von_Monsky_Beweis.md",
-    "content/Quadratische_Ergänzung.md",
-    "content/Filmempfehlungen_mit_dem_Skalarprodukt.md",
-    "content/Henn_Filler_Vektorbegriff.md",
-    "content/Pythagoras_mit_dem_Skalarprodukt.md",
-    "content/Distributivgesetz_beim_Skalarprodukt.md",
-    "content/Drehungen_mit_Quaternionen.md",
-    "content/Thinking_Task_Terme_Sushiteller.md",
-    "content/The_Beautiful_Story_of_Non-Euclidean_Geometry.md",
-    "content/Multiplying_Fractions_Geogebra_Visualization.md",
-    "content/Funktion_Maschine.md",
-    "content/Das_kartesische_Koordinatensystem_als_Aspirin.md",
-    "content/Intuition_Hyperbolische_Metrik.md",
-    "content/Gehäkelte_hyperbolische_Ebene.md",
     "content/images/mri_gehirn.gif",
     "content/images/markov_graph_sätze.png",
     "content/images/lokale_globale_Extrema.png",

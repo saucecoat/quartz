@@ -24,9 +24,9 @@ Auf meiner Seite werde ich vornehmlich die schulmathematischen Begriffe verwende
 
 ## Zusammenfassung
 
-|                 |    $f(x)=m \cdot x$    | $f(x)=m \cdot x + b$ mit $b \neq 0$ | 
-| --------------- |:----------------------:|:--------------------------------------------------------:|
-| **Schule**      | Proportionale Funktion |                     Lineare Funktion                     |
-| **Universität** |    Lineare Funktion    |                  Affin-lineare Funktion                  |
+|                 |    $f(x)=m \cdot x$    | $f(x)=m \cdot x + b$ mit $b \neq 0$ |
+| --------------- |:----------------------:|:-----------------------------------:|
+| **Schule**      | Proportionale Funktion |          Lineare Funktion           |
+| **Universität** |    Lineare Funktion    |       Affin-lineare Funktion        |
 
 <u>**Quelle:**</u> Humenberger, Schuppar: Mit Funktionen Zusammenhänge und Veränderungen beschreiben (ISBN: 978-3-662-58062-2)

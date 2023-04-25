@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Wasp"
+  "cssTheme": "Wasp",
+  "enabledCssSnippets": [],
+  "baseFontSizeAction": true
 }
