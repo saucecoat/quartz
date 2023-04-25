@@ -23,7 +23,7 @@ page_title:
   "Meistens Mathe"
 links:
   - link_name: Mastodon
-    link: https://mathstodon.xyz/@pea_adic
+    link: <a rel="me" href="https://mathstodon.xyz/@pea_adic">Mastodon</a>
   - link_name: Github
     link: https://github.com/saucecoat
   - link_name: Geogebra
