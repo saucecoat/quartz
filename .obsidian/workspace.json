@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "588a7c94f048e855",
+        "id": "e867c3d7b118b054",
         "type": "tabs",
         "children": [
           {
-            "id": "7f0fe2758195263e",
+            "id": "28efe0a0bf6f3b95",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f0fe2758195263e",
+  "active": "28efe0a0bf6f3b95",
   "lastOpenFiles": [
-    "content/Unterrichtsstunde_Erwartungswert_Zufallsvariable.md",
     "content/Briefumschlagparadoxon.md",
+    "content/Unterrichtsstunde_Erwartungswert_Zufallsvariable.md",
     "content/Gegenüberstellung_Grundbegriffe_Stochastik.md",
     "content/Funktion_Maschine.md",
     "content/Riemannscher_Umordnungssatz.md",

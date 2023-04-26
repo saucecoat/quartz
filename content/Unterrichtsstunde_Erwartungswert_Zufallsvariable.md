@@ -44,6 +44,7 @@ $$\bar{x} = \frac{3}{25} \cdot 1 + \frac{8}{25} \cdot 2 + \frac{7}{25} \cdot 3 +
 ### Definition Zufallsvariable
 
 >Eine Zufallsvariable ist eine Größe, die vom Zufall abhängt. 
+>
 >Je nach Wahl der Zufallsvariable verändert sich auch die zugehörige Ergebnismenge.
 
 ### Bestimmung am Beispiel Glücksrad
@@ -63,7 +64,9 @@ $$\bar{x} = \frac{3}{25} \cdot 1 + \frac{8}{25} \cdot 2 + \frac{7}{25} \cdot 3 +
 ### Definition Erwartungswert
 
 >Der Erwartungswert ist eine Schätzung des arithmetischen Mittels bei hinreichend großer Versuchsanzahl.
+>
 >Er gibt an, welcher Wert im Durchschnitt zu erwarten ist.
+>
 >Je nach Wahl der Zufallsvariable verändert sich auch der zugehörige Erwartungswert.
 
 
@@ -77,12 +80,14 @@ $$\bar{x} = \frac{3}{25} \cdot 1 + \frac{8}{25} \cdot 2 + \frac{7}{25} \cdot 3 +
 | Wahrscheinlichkeit $p$ | $\frac{1}{2}$  | $\frac{1}{4}$  | $\frac{1}{8}$ | $\frac{1}{8}$ |
 
 - Berechnung Erwartungswerte:
-	- $\mu_{X} = \frac{1}{2} \cdot \text{blau} + \frac{1}{4} \cdot \text{grün} + \frac{1}{8} \cdot \text{gelb} + \frac{1}{8} \cdot \text{rot}$ 
-		- $\rightarrow$ keine sinnvolle Zuordnung eines Erwartungswertes möglich für diese Zufallsvariable (siehe auch [[Briefumschlagparadoxon]])
-	- $\mu_{Y} = \frac{1}{2} \cdot 0~€ + \frac{1}{4} \cdot 1~€ + \frac{1}{8} \cdot 2~€ + \frac{1}{8} \cdot 6~€ = 1,25~€$ 
-	- $\mu_{Z} = \frac{1}{2} \cdot \left( -2~€ \right) + \frac{1}{4} \cdot \left( -1~€ \right) + \frac{1}{8} \cdot 0~€ + \frac{1}{8} \cdot 4~€ = -0,75~€$
-
-- Es ist demnach ein Gewinn von durchschnittlich $-0,75~€$ pro Spiel zu erwarten. Man verliert also auf lange Sicht jede Runde $0,75~€$.
+	$$\mu_{X} = \frac{1}{2} \cdot \text{blau} + \frac{1}{4} \cdot \text{grün} + \frac{1}{8} \cdot \text{gelb} + \frac{1}{8} \cdot \text{rot}$$ 
+	- keine sinnvolle Zuordnung eines Erwartungswertes möglich für diese Zufallsvariable (siehe auch [[Briefumschlagparadoxon]])
+	
+	$$\mu_{Y} = \frac{1}{2} \cdot 0~€ + \frac{1}{4} \cdot 1~€ + \frac{1}{8} \cdot 2~€ + \frac{1}{8} \cdot 6~€ = 1,25~€$$
+	-  Es ist demnach eine Auszahlung von durchschnittlich $1,25~€$ pro Spiel zu erwarten. 
+	
+	$$\mu_{Z} = \frac{1}{2} \cdot \left( -2~€ \right) + \frac{1}{4} \cdot \left( -1~€ \right) + \frac{1}{8} \cdot 0~€ + \frac{1}{8} \cdot 4~€ = -0,75~€$$
+	- Es ist demnach ein Gewinn von durchschnittlich $-0,75~€$ pro Spiel zu erwarten. Man verliert also auf lange Sicht jede Runde $0,75~€$.
 
 ## Faire Spiele
 
