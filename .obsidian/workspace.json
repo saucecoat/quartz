@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e867c3d7b118b054",
+        "id": "24c56f7b60e589a8",
         "type": "tabs",
         "children": [
           {
-            "id": "28efe0a0bf6f3b95",
+            "id": "c745d8e1fecb0b05",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iframe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -58,6 +58,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "40599915332fa42e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -148,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28efe0a0bf6f3b95",
+  "active": "b00cd49974197310",
   "lastOpenFiles": [
+    "content/Übersicht_p-adische_Zahlen.md",
     "content/Briefumschlagparadoxon.md",
     "content/Unterrichtsstunde_Erwartungswert_Zufallsvariable.md",
     "content/Gegenüberstellung_Grundbegriffe_Stochastik.md",
@@ -175,7 +184,6 @@
     "content/Statistik_Tutorial_Playlist_Matti_Saalkind.md",
     "content/Radio_aus_aller_Welt.md",
     "content/Additionstheorem_mithilfe_des_Skalarprodukts.md",
-    "content/Aufgabe_parallele_Tangente.md",
     "content/images/Kürzester_Weg_Rätsel_3.png",
     "content/images/Kürzester_Weg_Rätsel_2.png",
     "content/images/Kürzester_Weg_Rätsel_1.png",

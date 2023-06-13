@@ -35,6 +35,7 @@ Besonders stolz bin ich persönlich auf die folgende Präsentation :)
 - [[Intuition_for_the_p-adic_metric|Intuition for the p-adic metric]]
 - [[p-adic_numbers_Part_1_of_3|p-adic numbers Part 1 of 3 10-adic integers]]
 - [[p-adic_numbers_visual_representation_of_convergence_of_large_numbers|p-adic numbers visual representation of convergence of large numbers]]
+- [Veritasium - A totally different way to do math](https://youtube.com/watch?v=tRaq4aYPzCc)
 
 ## Diskussionen
 
