@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24c56f7b60e589a8",
+        "id": "bd714cdbcf89b9c3",
         "type": "tabs",
         "children": [
           {
-            "id": "c745d8e1fecb0b05",
+            "id": "1351c17a8d684ab7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,10 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c745d8e1fecb0b05",
+  "active": "1351c17a8d684ab7",
   "lastOpenFiles": [
-    "content/Vorlagen Boxen basteln.md",
     "content/Unterrichtsmaterial_Fake_News.md",
+    "content/Vorlagen Boxen basteln.md",
     "content/Übersicht_p-adische_Zahlen.md",
     "content/Briefumschlagparadoxon.md",
     "content/Unterrichtsstunde_Erwartungswert_Zufallsvariable.md",
