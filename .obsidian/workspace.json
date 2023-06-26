@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd714cdbcf89b9c3",
+        "id": "69fcc9974de441fb",
         "type": "tabs",
         "children": [
           {
-            "id": "1351c17a8d684ab7",
+            "id": "4aa7f8fb5e16ff23",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,13 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1351c17a8d684ab7",
+  "active": "4aa7f8fb5e16ff23",
   "lastOpenFiles": [
+    "content/Unterrichtsstunde_Erwartungswert_Zufallsvariable.md",
+    "content/Briefumschlagparadoxon.md",
     "content/Unterrichtsmaterial_Fake_News.md",
     "content/Vorlagen Boxen basteln.md",
     "content/Übersicht_p-adische_Zahlen.md",
-    "content/Briefumschlagparadoxon.md",
-    "content/Unterrichtsstunde_Erwartungswert_Zufallsvariable.md",
     "content/Gegenüberstellung_Grundbegriffe_Stochastik.md",
     "content/Funktion_Maschine.md",
     "content/Riemannscher_Umordnungssatz.md",

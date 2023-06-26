@@ -37,27 +37,27 @@ $$\bar{x} = \frac{3}{25} \cdot 1 + \frac{8}{25} \cdot 2 + \frac{7}{25} \cdot 3 +
 ## Ergebnismenge & Zufallsvariable
 
 - Schüler sollen Ergebnismenge für das einmalige Drehen des Glücksrads aufschreiben
-- Viele Schüler werden die folgende Ergebnismenge aufschreiben: $\Omega = \\{ 0~€, 1~€, 2~€, 6~€ \\}$
-- Folgende Ergebnismenge wird an die Tafel geschrieben: $\Omega = \\{ \text{blau}, \text{grün}, \text{gelb}, \text{rot} \\}$
+- Viele Schüler werden die folgende Ergebnismenge aufschreiben: <br> $\Omega = \\{ 0~€, 1~€, 2~€, 6~€ \\}$
+- Folgende Ergebnismenge wird an die Tafel geschrieben: <br> $\Omega = \\{ -2~€, -1~€, 0~€, 4~€ \\}$
 - Beide Ergebnismengen sind richtig, beziehen sich allerdings auf unterschiedliche **<u>Zufallsvariablen</u>**
 
 ### Definition Zufallsvariable
 
 >Eine Zufallsvariable ist eine Größe, die vom Zufall abhängt. 
 >
->Je nach Wahl der Zufallsvariable verändert sich auch die zugehörige Ergebnismenge.
+>Je nach Wahl der Zufallsvariable verändert sich auch die zugehörige Ergebnismenge. 
+
+Die Ergebnismenge besteht dabei immer aus reellen Zahlen. Das bedeutet, dass z.&nbsp;B. die Farbe keine Zufallsvariable sein kann.
 
 ### Bestimmung am Beispiel Glücksrad
 
-- Aus obigem Glücksspiel kann man z. B. folgende drei Zufallsvariablen betrachten:
-	- $X = \text{Farbe}$
-	- $Y = \text{Auszahlung}$
-	- $Z = \text{Gewinn}$
+- Aus obigem Glücksspiel kann man z.&nbsp;B. folgende zwei Zufallsvariablen betrachten:
+	- $X = \text{Auszahlung}$
+	- $Y = \text{Gewinn}$
 
 - Diesen lassen sich folgende Ergebnismengen zuordnen:
-	- $\Omega_{X} = \\{ \text{blau}, \text{grün}, \text{gelb}, \text{rot} \\}$
-	- $\Omega_{Y} = \\{ 0~€, 1~€, 2~€, 6~€ \\}$
-	- $\Omega_{Z} = \\{ -2~€, -1~€, 0~€, 4~€ \\}$
+	- $\Omega_{X} = \\{ 0~€, 1~€, 2~€, 6~€ \\}$
+	- $\Omega_{Y} = \\{ -2~€, -1~€, 0~€, 4~€ \\}$
 
 ## Erwartungswert
 
@@ -72,28 +72,24 @@ $$\bar{x} = \frac{3}{25} \cdot 1 + \frac{8}{25} \cdot 2 + \frac{7}{25} \cdot 3 +
 
 ### Berechnung am Beispiel Glücksrad
 
-| Glücksrad              |                |                |               |               |
-| ---------------------- |:--------------:|:--------------:|:-------------:|:-------------:|
-| $X$=Farbe              |      blau      |      grün      |     gelb      |      rot      |
-| $Y$=Auszahlung         | $0~€$  | $1~€$  | $2~€$ | $6~€$ |
-| $Z$=Gewinn             | $-2~€$ | $-1~€$ | $0~€$ | $4~€$ |
-| Wahrscheinlichkeit $p$ | $\frac{1}{2}$  | $\frac{1}{4}$  | $\frac{1}{8}$ | $\frac{1}{8}$ |
+| Glücksrad              |               |               |               |               |
+| ---------------------- |:-------------:|:-------------:|:-------------:|:-------------:|
+| $X$=Auszahlung         |     $0~€$     |     $1~€$     |     $2~€$     |     $6~€$     |
+| $Y$=Gewinn             |    $-2~€$     |    $-1~€$     |     $0~€$     |     $4~€$     |
+| Wahrscheinlichkeit $p$ | $\frac{1}{2}$ | $\frac{1}{4}$ | $\frac{1}{8}$ | $\frac{1}{8}$ |
 
 - Berechnung Erwartungswerte:
-	$$\mu_{X} = \frac{1}{2} \cdot \text{blau} + \frac{1}{4} \cdot \text{grün} + \frac{1}{8} \cdot \text{gelb} + \frac{1}{8} \cdot \text{rot}$$ 
-	- keine sinnvolle Zuordnung eines Erwartungswertes möglich für diese Zufallsvariable (siehe auch [[Briefumschlagparadoxon]])
-	
-	$$\mu_{Y} = \frac{1}{2} \cdot 0~€ + \frac{1}{4} \cdot 1~€ + \frac{1}{8} \cdot 2~€ + \frac{1}{8} \cdot 6~€ = 1,25~€$$
+	$$\mu_{X} = \frac{1}{2} \cdot 0~€ + \frac{1}{4} \cdot 1~€ + \frac{1}{8} \cdot 2~€ + \frac{1}{8} \cdot 6~€ = 1,25~€$$
 	-  Es ist demnach eine Auszahlung von durchschnittlich $1,25~€$ pro Spiel zu erwarten. 
 	
-	$$\mu_{Z} = \frac{1}{2} \cdot \left( -2~€ \right) + \frac{1}{4} \cdot \left( -1~€ \right) + \frac{1}{8} \cdot 0~€ + \frac{1}{8} \cdot 4~€ = -0,75~€$$
+	$$\mu_{Y} = \frac{1}{2} \cdot \left( -2~€ \right) + \frac{1}{4} \cdot \left( -1~€ \right) + \frac{1}{8} \cdot 0~€ + \frac{1}{8} \cdot 4~€ = -0,75~€$$
 	- Es ist demnach ein Gewinn von durchschnittlich $-0,75~€$ pro Spiel zu erwarten. Man verliert also auf lange Sicht jede Runde $0,75~€$.
 
 ## Faire Spiele
 
 ### Definition faires Spiel
 
->Ein Spiel wird als fair bezeichnet, wenn der zu erwartende Gewinn genau $0$ beträgt. Es gilt also:
+>Ein Spiel wird als fair bezeichnet, wenn der zu erwartende <u>**Gewinn**</u> genau $0$ beträgt. Es gilt also:
 >
 >$$\text{Das Spiel ist fair.} \quad \Leftrightarrow \quad \mu_{\text{Gewinn}}=0$$
 
