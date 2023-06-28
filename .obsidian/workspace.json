@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "69fcc9974de441fb",
+        "id": "5b4a6dc24dad2ebd",
         "type": "tabs",
         "children": [
           {
-            "id": "4aa7f8fb5e16ff23",
+            "id": "1afd121f9e3686ff",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,8 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4aa7f8fb5e16ff23",
+  "active": "1afd121f9e3686ff",
   "lastOpenFiles": [
+    "content/Beliebige_Münzen_simulieren.md",
+    "content/images/Münze_Baumdiagramm.png",
     "content/Unterrichtsstunde_Erwartungswert_Zufallsvariable.md",
     "content/Briefumschlagparadoxon.md",
     "content/Unterrichtsmaterial_Fake_News.md",
@@ -182,8 +184,6 @@
     "content/Why_We_Dont_Cross_Multiply.md",
     "content/p-adic_numbers_visual_representation_of_convergence_of_large_numbers.md",
     "content/Übersicht_Bruchrechnung.md",
-    "content/Statistik_Tutorial_Playlist_Matti_Saalkind.md",
-    "content/Radio_aus_aller_Welt.md",
     "content/images/Kürzester_Weg_Rätsel_3.png",
     "content/images/Kürzester_Weg_Rätsel_2.png",
     "content/images/Kürzester_Weg_Rätsel_1.png",
@@ -192,7 +192,6 @@
     "content/images/markov_graph_sätze.png",
     "content/images/lokale_globale_Extrema.png",
     "content/images/Extremwert_DINA4_Box_2.png",
-    "content/images/Extremwert_DINA4_Kleinstes_Rechteck_1.png",
-    "content/images/Extremwert_DINA4_Kleinstes_Rechteck_2.png"
+    "content/images/Extremwert_DINA4_Kleinstes_Rechteck_1.png"
   ]
 }
