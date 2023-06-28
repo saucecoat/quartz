@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b4a6dc24dad2ebd",
+        "id": "6b20020ebe4ba58f",
         "type": "tabs",
         "children": [
           {
-            "id": "1afd121f9e3686ff",
+            "id": "6117196261c853b3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1afd121f9e3686ff",
+  "active": "6117196261c853b3",
   "lastOpenFiles": [
     "content/Beliebige_Münzen_simulieren.md",
     "content/images/Münze_Baumdiagramm.png",

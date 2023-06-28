@@ -77,9 +77,9 @@ $$
 Wir wollen nun zeigen, dass dies auch genau die Wahrscheinlichkeit ist, mit der gezinkten Münze eine $\textcolor{red}{0}$ zu werfen. 
 
 Mit dem oben genannten Verfahren können wir mit der simulierten gezinkten Münze nur eine $\textcolor{red}{0}$ bekommen, wenn die Binärfolge eine $1$ zeigt. Dies ist nur beim 2. Wurf, 5. Wurf. 8. Wurf, 11. Wurf etc. der Fall.<br>
-Wollen wir im 2. Wurf eine $\textcolor{cyan}{0}$ werfen, so muss auch der Wurf davor eine $\textcolor{cyan}{0}$ sein (ansonsten wäre der erste Wurf eine $\textcolor{red}{1}$ sein müssen). Die Wahrscheinlichkeit hierfür ist $\left(\frac{1}{2}\right)^{2}$.<br>
-Wir könnten auch im 5. Wurf eine $\textcolor{cyan}{0}$ werfen. Auch hier müssten alle vorhergegangenen Würfe eine $\textcolor{cyan}{0}$ gewesen sein. Die Wahrscheinlichkeit für eine $\textcolor{cyan}{0}$ im 5. Wurf beträgt also $\left(\frac{1}{2}\right)^{5}$.<br>
-Die Wahrscheinlichkeit für eine $\textcolor{cyan}{0}$ im 8. Wurf beträgt also $\left(\frac{1}{2}\right)^{8}$ usw.
+Wollen wir im 2. Wurf eine $\textcolor{cyan}{0}$ werfen, so muss auch der Wurf davor eine $\textcolor{cyan}{0}$ sein (ansonsten hätte der erste Wurf eine $\textcolor{red}{1}$ sein müssen). Die Wahrscheinlichkeit hierfür ist $\left(\frac{1}{2}\right)^{2}$.<br>
+Wir könnten auch im 5. Wurf eine $\textcolor{cyan}{0}$ werfen. Auch hier müssten alle vorhergegangenen Würfe $\textcolor{cyan}{0}$ gewesen sein. Die Wahrscheinlichkeit für eine $\textcolor{cyan}{0}$ im 5. Wurf beträgt also $\left(\frac{1}{2}\right)^{5}$.<br>
+Die Wahrscheinlichkeit für eine $\textcolor{cyan}{0}$ im 8. Wurf beträgt $\left(\frac{1}{2}\right)^{8}$ usw.
 
 Die Wahrscheinlichkeit für eine $\textcolor{red}{0}$ beträgt also wie gewollt:
 
