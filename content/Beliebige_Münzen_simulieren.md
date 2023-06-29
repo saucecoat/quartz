@@ -97,7 +97,7 @@ P(\textcolor{red}{0})&=P(\textcolor{cyan}{0}\text{ im 2. Wurf}) + P(\textcolor{c
 
 Bringen wir beide Verfahren zusammen so können wir mit einer gezinkten Münze zunächst eine faire Münze simulieren, um mit dieser anschließend eine beliebige Münze zu simulieren.
 
->Wir können also mit jeder beliebigen Münze jede andere belibiege Münze simulieren.[^1]
+>Wir können also mit jeder beliebigen Münze jede andere beliebige Münze simulieren.[^1]
 
 ### Diagramm
 
