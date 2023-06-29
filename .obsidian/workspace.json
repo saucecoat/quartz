@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "633873361f895aca",
+        "id": "ea3d61de96771b22",
         "type": "tabs",
         "children": [
           {
-            "id": "272ec0653ba33531",
+            "id": "a63660e5947ec22f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,9 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "272ec0653ba33531",
+  "active": "a63660e5947ec22f",
   "lastOpenFiles": [
     "content/Sammlung_Integralaufgaben.md",
+    "Integration_durch_Substitution_Notiz.md",
     "content/Beliebige_Münzen_simulieren.md",
     "content/images/Münze_Baumdiagramm.png",
     "content/Unterrichtsstunde_Erwartungswert_Zufallsvariable.md",
@@ -184,7 +185,6 @@
     "content/p-adic_numbers_Part_1_of_3.md",
     "content/Why_We_Dont_Cross_Multiply.md",
     "content/p-adic_numbers_visual_representation_of_convergence_of_large_numbers.md",
-    "content/Übersicht_Bruchrechnung.md",
     "content/images/Kürzester_Weg_Rätsel_3.png",
     "content/images/Kürzester_Weg_Rätsel_2.png",
     "content/images/Kürzester_Weg_Rätsel_1.png",

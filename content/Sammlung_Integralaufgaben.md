@@ -1,7 +1,7 @@
 ---
 title: "Sammlung Integralaufgaben"
 date: "2023-06-29"
-tags: [alle, math, aufgaben, calculus, differentialrechnung, partial_fraction, partialbruchzerlegung, substitution, integral]
+tags: [alle, math, aufgaben, analysis, calculus, differentialrechnung, partial_fraction, partialbruchzerlegung, substitution, partielle_integration, integral]
 ---
 
 ## Verschiedenste Aufgaben (Manan Shah)
