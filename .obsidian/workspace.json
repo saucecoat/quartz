@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb73eefaa23684a7",
+        "id": "633873361f895aca",
         "type": "tabs",
         "children": [
           {
-            "id": "2e6b57144f1d066e",
+            "id": "272ec0653ba33531",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e6b57144f1d066e",
+  "active": "272ec0653ba33531",
   "lastOpenFiles": [
+    "content/Sammlung_Integralaufgaben.md",
     "content/Beliebige_Münzen_simulieren.md",
     "content/images/Münze_Baumdiagramm.png",
     "content/Unterrichtsstunde_Erwartungswert_Zufallsvariable.md",
