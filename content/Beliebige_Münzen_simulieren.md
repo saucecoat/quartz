@@ -40,7 +40,7 @@ $$\frac{2}{7}=0,0100100100100\ldots_{2}$$
 
 Nun wirft man die faire Münze und vergleicht das Ergebnis des 1. Wurfs mit der 1. Nachkommastelle der Binärfolge.<br>
 Ist sie gleich, so geht man zur nächsten Nachkommastelle und vergleicht diese mit dem Ergebnis des folgenden Münzwurfs.<br>
-Dies wiederholt man solange bis sich Nachkommastelle und Münzwurf unterscheiden. Das Ergebnis dieses Münzwurfs ist dann das Ergebnis der simulierten gezinkten Münzwurfs.
+Dies wiederholt man solange bis sich Nachkommastelle und Münzwurf unterscheiden. Das Ergebnis dieses Münzwurfs ist dann das Ergebnis des simulierten gezinkten Münzwurfs.
 In unserem Beispiel erhält man so das Ergebnis $0$ (also $Kopf$) mit einer Wahrscheinlichkeit von $\frac{2}{7}$.
 
 
