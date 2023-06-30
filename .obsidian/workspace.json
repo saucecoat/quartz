@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ea3d61de96771b22",
+        "id": "410f1e0e2bcdffb9",
         "type": "tabs",
         "children": [
           {
-            "id": "a63660e5947ec22f",
+            "id": "947e3b6f758c9d46",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,9 +158,12 @@
   },
   "active": "b00cd49974197310",
   "lastOpenFiles": [
+    "content/Günther_Malle_Didaktisches_Vektorkonzept.md",
+    "content/Datenschutzhinweise.md",
+    "content/Approaches_to_the_Pink_Triangle_Problem.md",
+    "content/Beliebige_Münzen_simulieren.md",
     "content/Sammlung_Integralaufgaben.md",
     "content/Integration_durch_Substitution_Notiz.md",
-    "content/Beliebige_Münzen_simulieren.md",
     "content/images/Münze_Baumdiagramm.png",
     "content/Unterrichtsstunde_Erwartungswert_Zufallsvariable.md",
     "content/Briefumschlagparadoxon.md",
@@ -182,9 +185,6 @@
     "content/Thinking_Task_Terme_Sushiteller.md",
     "content/Zahlenbereichserweiterungen.md",
     "content/What_fraction_is_shaded_viral.md",
-    "content/p-adic_numbers_Part_1_of_3.md",
-    "content/Why_We_Dont_Cross_Multiply.md",
-    "content/p-adic_numbers_visual_representation_of_convergence_of_large_numbers.md",
     "content/images/Kürzester_Weg_Rätsel_3.png",
     "content/images/Kürzester_Weg_Rätsel_2.png",
     "content/images/Kürzester_Weg_Rätsel_1.png",
