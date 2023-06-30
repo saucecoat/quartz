@@ -26,4 +26,4 @@ $$11.\quad \int \frac{x}{\sqrt{1-x^{2}}}~\mathrm{d}x$$
 $$12.\quad \int \frac{x}{\sqrt{1+x^{2}}}~\mathrm{d}x$$
 $$13.\quad \int \frac{x}{\sqrt{1+x}}~\mathrm{d}x$$
 
-<u>**Quelle:**</u> https://twitter.com/mrsvibbermath/status/1099876933469433856
+<u>**Quelle:**</u> https://nitter.net/mrsvibbermath/status/1099876933469433856

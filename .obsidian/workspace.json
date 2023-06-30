@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "410f1e0e2bcdffb9",
+        "id": "5b3a18f807b38dee",
         "type": "tabs",
         "children": [
           {
-            "id": "947e3b6f758c9d46",
+            "id": "f060512263261733",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,14 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b00cd49974197310",
+  "active": "f060512263261733",
   "lastOpenFiles": [
+    "content/Sammlung_Integralaufgaben.md",
+    "content/Integration_durch_Substitution_Notiz.md",
+    "content/Beliebige_Münzen_simulieren.md",
     "content/Günther_Malle_Didaktisches_Vektorkonzept.md",
     "content/Datenschutzhinweise.md",
     "content/Approaches_to_the_Pink_Triangle_Problem.md",
-    "content/Beliebige_Münzen_simulieren.md",
-    "content/Sammlung_Integralaufgaben.md",
-    "content/Integration_durch_Substitution_Notiz.md",
     "content/images/Münze_Baumdiagramm.png",
     "content/Unterrichtsstunde_Erwartungswert_Zufallsvariable.md",
     "content/Briefumschlagparadoxon.md",
