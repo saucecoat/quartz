@@ -56,7 +56,7 @@ An verschiedenen $x$-Werten ergeben sich nun folgende Steigungen:
 
 >Welche Gleichung beschreibt wohl den Verlauf dieser Kurve $y$?
 
-Die Höhe $y$ an einer beliebigen Stelle ergibt sich durch die Summe aller kleinen $\mathrm{d}y$ bis zu dieser Stelle, also $$\int\mathrm{d}y=y.$$
+Die Höhe $y$ an einer beliebigen Stelle ergibt sich durch die Summe aller kleinen $\mathrm{d}y$ bis zu dieser Stelle, also $$y=\int\mathrm{d}y.$$
 
 Wegen 
 $$\frac{\mathrm{d}y}{\mathrm{d}x}=\frac{1}{5}x$$
@@ -66,14 +66,18 @@ gilt:
 
 $$y=\int \frac{1}{5}x~\mathrm{d}x.$$
 
-Wir suchen also eine Funktion, deren Ableitung $\frac{1}{5}x$ ist. Nach ein wenig Tüfteln oder beim "Rückwärtsgehen" der Ableitungsregeln findet man:
+Die Kurve $y$ ist genau die Kurve, deren Steigung durch $\frac{\mathrm{d}y}{\mathrm{d}x}=\frac{1}{5}x$ beschrieben wird. Nach ein wenig Tüfteln oder beim "Rückwärtsrechnen" der Ableitungsregeln findet man:
 
 $$y=\frac{1}{10}x^{2}.$$
 
 Da abermals nichts über den $y$-Achsenabschnitt bekannt ist und dieser an den Steigungen nichts ändern würde, ergibt sich:
 
-$$y=\frac{1}{10}x^{2}+C.$$
+>$$y=\frac{1}{10}x^{2}+C.$$
 
+Das Integral $\int \frac{1}{5}x~\mathrm{d}x$ beschreibt also den entgegengesetzten Prozess des Differenzierens; aus den Steigungen stellt es die ursprüngliche Kurve wieder her.
 
+$$\int \frac{1}{5}x~\mathrm{d}x=\frac{1}{10}x^{2}+C$$
 
-<u>**Quelle:**</u> [Calculus made easy (Silvanus Thompson)](https://www.gutenberg.org/ebooks/33283)
+Erstaunlicherweise lassen sich Integrale auch dafür einsetzen, um [Flächeninhalte unter Kurven zu bestimmen](https://www.gutenberg.org/files/33283/33283-pdf.pdf#page=215).
+
+<u>**Quelle:**</u> [Calculus made easy (Silvanus Thompson)](https://www.gutenberg.org/files/33283/33283-pdf.pdf#page=191)

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "05ba9057996ee96a",
+        "id": "7b17d55e3a3d4709",
         "type": "tabs",
         "children": [
           {
-            "id": "de40ec2036c40bf2",
+            "id": "282162d922e2eb54",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de40ec2036c40bf2",
+  "active": "282162d922e2eb54",
   "lastOpenFiles": [
     "content/Integration_als_Gegenteil_der_Differenzierung.md",
     "content/Sammlung_Integralaufgaben.md",
