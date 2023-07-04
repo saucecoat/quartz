@@ -1,7 +1,7 @@
 ---
-title: "Ableitung √x mit Infinitesimalen und Differentialquotient"
+title: "Ableitung √x mit Infinitesimalen und h-Methode"
 date: "2023-07-04"
-tags: [alle, mathe, analysis, infinitesimalrechnung, differentialrechnung, ableitung, differentialquotient, wurzel, grenzwert]
+tags: [alle, mathe, analysis, infinitesimalrechnung, differentialrechnung, ableitung, differentialquotient, wurzel, grenzwert, h_methode]
 ---
 
 >Bestimme die Ableitungsfunktion $f'$ von $f(x)=\sqrt{x}$.
@@ -26,7 +26,7 @@ $$
 >$$\frac{\mathrm{d}f}{\mathrm{d}x}=\frac{1}{2\sqrt{x}}$$
 
 
-## Differentialquotient
+## h-Methode
 
 $$
 \begin{align*}
