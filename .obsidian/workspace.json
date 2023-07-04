@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2521cd860d70e1ae",
+        "id": "bee0f13e1bac5691",
         "type": "tabs",
         "children": [
           {
-            "id": "0465a465ee3ee42b",
+            "id": "39df00092409b397",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0465a465ee3ee42b",
+  "active": "39df00092409b397",
   "lastOpenFiles": [
+    "content/Ableitung_Wurzel_x.md",
     "content/Integration_als_Gegenteil_des_Ableitens.md",
     "content/Sammlung_Integralaufgaben.md",
     "content/Integration_durch_Substitution_Notiz.md",
@@ -184,7 +185,6 @@
     "content/Lineare_proportionale_Funktionen_Schule_Universität.md",
     "content/Thinking_Task_Multiplikation_Brüche.md",
     "content/Thinking_Task_Terme_Sushiteller.md",
-    "content/Zahlenbereichserweiterungen.md",
     "content/images/Kürzester_Weg_Rätsel_3.png",
     "content/images/Kürzester_Weg_Rätsel_2.png",
     "content/images/Kürzester_Weg_Rätsel_1.png",
