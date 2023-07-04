@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b17d55e3a3d4709",
+        "id": "2521cd860d70e1ae",
         "type": "tabs",
         "children": [
           {
-            "id": "282162d922e2eb54",
+            "id": "0465a465ee3ee42b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,9 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "282162d922e2eb54",
+  "active": "0465a465ee3ee42b",
   "lastOpenFiles": [
-    "content/Integration_als_Gegenteil_der_Differenzierung.md",
+    "content/Integration_als_Gegenteil_des_Ableitens.md",
     "content/Sammlung_Integralaufgaben.md",
     "content/Integration_durch_Substitution_Notiz.md",
     "content/Beliebige_Münzen_simulieren.md",

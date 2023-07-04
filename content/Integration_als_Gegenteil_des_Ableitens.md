@@ -1,7 +1,7 @@
 ---
-title: "Integration als Gegenteil der Differenzierung"
+title: "Integration als Gegenteil des Ableitens"
 date: "2023-07-03"
-tags: [alle, mathe, analysis, integral, integralrechnung, stammfunktion, differenzierung, differentialrechnung, steigung, steigungsdreieck]
+tags: [alle, mathe, analysis, integral, integralrechnung, stammfunktion, ableitung differentialrechnung, steigung, steigungsdreieck]
 ---
 
 ## Integration
@@ -74,7 +74,7 @@ Da abermals nichts über den $y$-Achsenabschnitt bekannt ist und dieser an den S
 
 >$$y=\frac{1}{10}x^{2}+C.$$
 
-Das Integral $\int \frac{1}{5}x~\mathrm{d}x$ beschreibt also den entgegengesetzten Prozess des Differenzierens; aus den Steigungen stellt es die ursprüngliche Kurve wieder her.
+Das Integral $\int \frac{1}{5}x~\mathrm{d}x$ beschreibt also den entgegengesetzten Prozess des Ableitens; aus den Steigungen stellt es die ursprüngliche Kurve wieder her.
 
 $$\int \frac{1}{5}x~\mathrm{d}x=\frac{1}{10}x^{2}+C$$
 
