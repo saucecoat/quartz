@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "30a2bcd02edb0960",
+        "id": "8440b28d0086150a",
         "type": "tabs",
         "children": [
           {
-            "id": "7e9b09d64cf7dbb0",
+            "id": "87012162660c3808",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Entdeckung_Obersumme_Untersumme.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Entdeckung_Obersumme_Untersumme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Entdeckung_Obersumme_Untersumme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/Entdeckung_Obersumme_Untersumme.md"
+              }
             }
           },
           {
@@ -156,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e9b09d64cf7dbb0",
+  "active": "87012162660c3808",
   "lastOpenFiles": [
+    "content/Entdeckung_Obersumme_Untersumme.md",
     "content/Ableitung_Wurzel_x.md",
     "content/Integration_als_Gegenteil_des_Ableitens.md",
     "content/Sammlung_Integralaufgaben.md",
@@ -184,7 +193,6 @@
     "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
     "content/Lineare_proportionale_Funktionen_Schule_Universität.md",
     "content/Thinking_Task_Multiplikation_Brüche.md",
-    "content/Thinking_Task_Terme_Sushiteller.md",
     "content/images/Kürzester_Weg_Rätsel_3.png",
     "content/images/Kürzester_Weg_Rätsel_2.png",
     "content/images/Kürzester_Weg_Rätsel_1.png",
