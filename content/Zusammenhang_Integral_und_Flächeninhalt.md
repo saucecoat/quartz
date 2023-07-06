@@ -47,7 +47,7 @@ $$f(x)=\int 2x~\mathrm{d}x$$
 
 ## Integral am Ableitungsgraphen
 
-Das Integral hat auch eine schöne graphische Bedeutung beim Ableitungsgraphen.
+Das Integral hat auch eine schöne graphische Bedeutung am Ableitungsgraphen.
 
 Nehmen wir die obige Gleichung für das Integral und "erweitern" mit $\mathrm{d}x$, so erhalten wir:
 

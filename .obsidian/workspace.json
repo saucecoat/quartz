@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f863b11c7e84dadf",
+        "id": "3edb7f2035b570cf",
         "type": "tabs",
         "children": [
           {
-            "id": "7dba134d4edc133b",
+            "id": "943496ac27ebbc3d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7dba134d4edc133b",
+  "active": "943496ac27ebbc3d",
   "lastOpenFiles": [
     "content/Zusammenhang_Integral_und_Flächeninhalt.md",
     "content/Integration_als_Gegenteil_des_Ableitens.md",
