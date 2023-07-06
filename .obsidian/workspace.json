@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab9a1fcff1d27ce2",
+        "id": "f863b11c7e84dadf",
         "type": "tabs",
         "children": [
           {
-            "id": "6ff481651811b424",
+            "id": "7dba134d4edc133b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,11 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ff481651811b424",
+  "active": "7dba134d4edc133b",
   "lastOpenFiles": [
+    "content/Zusammenhang_Integral_und_Flächeninhalt.md",
     "content/Integration_als_Gegenteil_des_Ableitens.md",
     "content/Integration_durch_Substitution_Notiz.md",
-    "content/Zusammenhang_Integral_und_Flächeninhalt.md",
     "content/images/Integral_fläche_Funktion.png",
     "content/images/Integral_fläche_Ableitung.png",
     "content/images/Integral_fläche_beide_2.png",

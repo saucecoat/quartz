@@ -38,7 +38,10 @@ Rechnerisch ausgedrückt besagt obiges Bild demnach:
 
 >$$f(x) = \int \mathrm{d}f$$
 
-Da $\frac{\mathrm{d}f}{\mathrm{d}x}=2x \Rightarrow \mathrm{d}f = 2x~\mathrm{d}x$ ergibt sich in unserem Beispiel:
+![[images/Integral_fläche_Funktion_2.png|600]]
+
+Die Ableitung $f'(x)$ schreibt sich in Leibniz-Schreibweise $\frac{\mathrm{d}f}{\mathrm{d}x}$. Dieser Quotient beschreibt die Steigung des unendlich kleinen Steigungsdreiecks.<br> 
+Da  $\frac{\mathrm{d}f}{\mathrm{d}x}=2x \Rightarrow \mathrm{d}f = 2x~\mathrm{d}x$ ergibt sich in unserem Beispiel:
 
 $$f(x)=\int 2x~\mathrm{d}x$$
 
@@ -75,5 +78,5 @@ Je feiner die Rechtecke sind, desto genauer wird die Fläche unter dem Ableitung
 
 >$$f(x) = \int \mathrm{d}f = \int f'(x)~\mathrm{d}x$$
 
-![[images/Integral_fläche_beide_2.png|400]]
+![[images/Integral_fläche_beide_2.png|800]]
  
