@@ -4,7 +4,7 @@ date: "2023-07-06"
 tags: [alle, mathe, analysis, integral, integralrechnung, stammfunktion, ableitung , differentialrechnung, steigung, steigungsdreieck, flächeninhalt, leibniz, newton, nichtstandardanalysis, hyperreelle_zahlen]
 ---
 
-# Fachliche und geschichtliche Einordnung
+## Fachliche und geschichtliche Einordnung
 
 Auch wenn die folgenden Überlegungen nicht dem heutigen Maßstab der mathematischen Strenge entsprechen, so geben sie doch ein intuitives Verständnis dafür, wie Integrale und der Flächeninhalt unter Graphen zusammenhängen. 
 
@@ -16,7 +16,7 @@ Dies erklärt auch, warum Leibniz und Newton mit ihren intuitiven, jedoch schwam
 Als intuitives Mittel sind diese Überlegungen jedoch gerade wegen ihrer suggestiven Art, die Teils an einfache Bruchrechnung erinnern lässt, sowie ihrer bildlichen Verständlichkeit gerade für Lernende der Analysis gut geeignet, um die Integral- und Differentialrechnung zu begreifen.
 
 
-# Funktionsgraph und Ableitungsgraph
+## Funktionsgraph und Ableitungsgraph
 
 Im Folgenden werden die zwei graphischen Interpretationen des Integrals an einem Funktionsgraphen bzw. an dessen Ableitungsgraphen dargestellt. 
 Exemplarisch dienen hierzu die Graphen der Funktionen $f(x)=x^{2}$ und $f'(x)=2x$.
@@ -24,7 +24,7 @@ Exemplarisch dienen hierzu die Graphen der Funktionen $f(x)=x^{2}$ und $f'(x)=2x
 ![[images/Integral_fläche_beide.png|400]]
 
 
-# Integral am Funktionsgraphen
+## Integral am Funktionsgraphen
 
 Mithilfe der Steigungen eines Graphen lässt sich der ursprüngliche Graph rekonstruieren (genauer bereits [[Integration_als_Gegenteil_des_Ableitens|hier]] behandelt).
 
@@ -42,7 +42,7 @@ Da $\frac{\mathrm{d}f}{\mathrm{d}x}=2x \Rightarrow \mathrm{d}f = 2x~\mathrm{d}x$
 
 $$f(x)=\int 2x~\mathrm{d}x$$
 
-# Integral am Ableitungsgraphen
+## Integral am Ableitungsgraphen
 
 Das Integral hat auch eine schöne graphische Bedeutung beim Ableitungsgraphen.
 
@@ -71,7 +71,7 @@ Je feiner die Rechtecke sind, desto genauer wird die Fläche unter dem Ableitung
 
 >Das Integral beschreibt die Fläche unter dem Ableitungsgraphen $f'(x)$.
 
-# Zusammenfassung in einem Bild
+## Zusammenfassung in einem Bild
 
 >$$f(x) = \int \mathrm{d}f = \int f'(x)~\mathrm{d}x$$
 

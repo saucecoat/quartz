@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0a94bb395634de35",
+        "id": "8d740355f793ff31",
         "type": "tabs",
         "children": [
           {
-            "id": "b7c9ea7960eed49f",
+            "id": "71f59bde84133513",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Zusammenhang_Integral_und_Flächeninhalt.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Zusammenhang_Integral_und_Flächeninhalt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Zusammenhang_Integral_und_Flächeninhalt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Zusammenhang_Integral_und_Flächeninhalt.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7c9ea7960eed49f",
+  "active": "71f59bde84133513",
   "lastOpenFiles": [
     "content/Zusammenhang_Integral_und_Flächeninhalt.md",
     "content/images/Integral_fläche_Funktion.png",
