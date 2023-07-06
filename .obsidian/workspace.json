@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8d740355f793ff31",
+        "id": "ab9a1fcff1d27ce2",
         "type": "tabs",
         "children": [
           {
-            "id": "71f59bde84133513",
+            "id": "6ff481651811b424",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,8 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71f59bde84133513",
+  "active": "6ff481651811b424",
   "lastOpenFiles": [
+    "content/Integration_als_Gegenteil_des_Ableitens.md",
+    "content/Integration_durch_Substitution_Notiz.md",
     "content/Zusammenhang_Integral_und_Flächeninhalt.md",
     "content/images/Integral_fläche_Funktion.png",
     "content/images/Integral_fläche_Ableitung.png",
@@ -166,9 +168,7 @@
     "content/images/Integral_fläche_beide.png",
     "content/Entdeckung_Obersumme_Untersumme.md",
     "content/Ableitung_Wurzel_x.md",
-    "content/Integration_als_Gegenteil_des_Ableitens.md",
     "content/Sammlung_Integralaufgaben.md",
-    "content/Integration_durch_Substitution_Notiz.md",
     "content/Beliebige_Münzen_simulieren.md",
     "content/Günther_Malle_Didaktisches_Vektorkonzept.md",
     "content/Datenschutzhinweise.md",

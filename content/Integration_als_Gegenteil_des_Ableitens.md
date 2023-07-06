@@ -78,6 +78,6 @@ Das Integral $\int \frac{1}{5}x~\mathrm{d}x$ beschreibt also den entgegengesetzt
 
 $$\int \frac{1}{5}x~\mathrm{d}x=\frac{1}{10}x^{2}+C$$
 
-Erstaunlicherweise lassen sich Integrale auch dafür einsetzen, um [Flächeninhalte unter Kurven zu bestimmen](https://www.gutenberg.org/files/33283/33283-pdf.pdf#page=215).
+Erstaunlicherweise lassen sich Integrale auch dafür einsetzen, um [[Zusammenhang_Integral_und_Flächeninhalt|Flächeninhalte unter Kurven zu bestimmen]]. Siehe hierzu auch das entsprechende Kapitel in [Calculus made easy](https://www.gutenberg.org/files/33283/33283-pdf.pdf#page=215).
 
 <u>**Quelle:**</u> [Calculus made easy (Silvanus Thompson)](https://www.gutenberg.org/files/33283/33283-pdf.pdf#page=191)
