@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3edb7f2035b570cf",
+        "id": "07f5e7d1035c9df5",
         "type": "tabs",
         "children": [
           {
-            "id": "943496ac27ebbc3d",
+            "id": "434d7615a226c4d7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1dc52949b1e6b056",
@@ -156,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "943496ac27ebbc3d",
+  "active": "434d7615a226c4d7",
   "lastOpenFiles": [
     "content/Zusammenhang_Integral_und_Flächeninhalt.md",
     "content/Integration_als_Gegenteil_des_Ableitens.md",
