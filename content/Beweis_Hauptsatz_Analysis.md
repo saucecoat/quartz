@@ -73,9 +73,9 @@ Für $h \to 0$ gilt:
 
 >[!task]- Aufgabe
 >
->Begründen Sie, warum für $h\to 0$ gilt: $\frac{F(x_{0}+h)-F(x_{0})}{h} = F'(x_{0}).$
->
 >Begründen Sie, warum für $h\to 0$ gilt: $f(x_{0}+h)=f(x_{0}).$
+>
+>Begründen Sie, warum für $h\to 0$ gilt: $\frac{F(x_{0}+h)-F(x_{0})}{h} = F'(x_{0}).$
 
 Es gilt also wie gewollt:
 
