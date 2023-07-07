@@ -32,9 +32,14 @@ Sei $x_{0}\in[a,~b]$ beliebig. Schauen wir uns die Fläche unter dem Graphen von
 
 ![[images/Beweis_Haupsatz_Analysis.png]]
 
-Nach der Definition des Integrals und von $F$ gilt also:
+Nach der Definition des Integrals und von $F$ gilt also für den gesuchten Flächeninhalt:
 
-$$\int\limits_{x_{0}}^{x_{0}+h} f(x)~\mathrm{d}x = \int\limits_{0}^{x_{0}+h} f(x)~\mathrm{d}x - \int\limits_{0}^{x_{0}} f(x)~\mathrm{d}x = F(x_{0}+h)-F(x_{0}).$$
+$$
+\begin{align*}
+\int\limits_{x_{0}}^{x_{0}+h} f(x)~\mathrm{d}x &= \int\limits_{0}^{x_{0}+h} f(x)~\mathrm{d}x - \int\limits_{0}^{x_{0}} f(x)~\mathrm{d}x\\\\
+&= F(x_{0}+h)-F(x_{0}).
+\end{align*}
+$$
 
 Wir können erkennen, dass wenn wir $h$ nur genügend klein wählen, die Funktion $f$ im Intervall $[x_{0},~x_{0}+h]$ entweder monoton steigend oder monoton fallend ist.
 

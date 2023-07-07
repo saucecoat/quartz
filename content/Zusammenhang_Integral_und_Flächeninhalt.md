@@ -80,8 +80,8 @@ $$f(x)=\int 2x~\mathrm{d}x$$
 
 >$$
 >\begin{align*}
->f(x) &= \int \mathrm{d}f \\
->f(x) &= \int f'(x)~\mathrm{d}x
+>\int \mathrm{d}f &= f(x)\\
+>\int f'(x)~\mathrm{d}x &= f(x)
 >\end{align*} 
 >$$
 
@@ -92,4 +92,4 @@ $$f(x)=\int 2x~\mathrm{d}x$$
 
 Der oben intuitiv veranschaulichte Zusammenhang zwischen Integral, Ableitung und Flächeninhalt ist so zentral für die Analysis, dass er den Namen **Hauptsatz der Differential- und Integralrechnung** trägt.
 
-Als mathematischer Beweis für diesen Zusammenhang reichen obige Überlegungen nicht aus. Ein Beweis für den Hauptsatz der Differential- und Integralrechnung ist [[Beweis_Hauptsatz_Analysis|hier]] zu finden.
+Als mathematischer Beweis für diesen Zusammenhang reichen obige Überlegungen jedoch nicht aus. Ein Beweis für den Hauptsatz der Differential- und Integralrechnung ist [[Beweis_Hauptsatz_Analysis|hier]] zu finden.
