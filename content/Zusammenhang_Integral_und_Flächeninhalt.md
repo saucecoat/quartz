@@ -87,4 +87,9 @@ $$f(x)=\int 2x~\mathrm{d}x$$
 
 
 ![[images/Integral_fläche_beide_2.png|800]]
- 
+
+## Beweis
+
+Der oben intuitiv veranschaulichte Zusammenhang zwischen Integral, Ableitung und Flächeninhalt ist so zentral für die Analysis, dass er den Namen **Hauptsatz der Differential- und Integralrechnung** trägt.
+
+Als mathematischer Beweis für diesen Zusammenhang reichen obige Überlegungen nicht aus. Ein Beweis für den Hauptsatz der Differential- und Integralrechnung ist [[Beweis_Hauptsatz_Analysis|hier]] zu finden.
