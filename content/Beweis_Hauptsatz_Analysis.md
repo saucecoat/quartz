@@ -7,7 +7,7 @@ tags: [alle, mathe, analysis, integral, integralrechnung, hauptsatz, stammfunkti
 ## Definition Integral
 
 Sei $f$ eine stetige Funktion für alle $x\in[a,~b]$.
-Seien $U_{n}$ und $O_{n}$ die Unter- bzw. Obersummen mit $n$ Teilintervallen auf $[a,~b]$. 
+Seien $U_{n}$ und $O_{n}$ die [[Entdeckung_Obersumme_Untersumme|Unter- bzw. Obersummen]] mit $n$ Teilintervallen auf $[a,~b]$. 
 Dann definieren wir das <u>**Integral**</u> von $f$ auf dem Intervall $[a,~b]$ wie folgt:
 
 $$\lim_{n\to\infty} U_{n} = \lim_{n\to\infty} O_{n} = \int_{a}^{b} f(x)~\mathrm{d}x$$
