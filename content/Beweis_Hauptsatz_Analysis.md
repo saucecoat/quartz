@@ -14,10 +14,10 @@ $$\lim_{n\to\infty} U_{n} = \lim_{n\to\infty} O_{n} = \int_{a}^{b} f(x)~\mathrm{
 
 ## Satz
 
-Sei $f$ eine stetige Funktion für alle $x\in[a,~b]$.
-Sei $F$ die Funktion, die einer Stelle $x_{0}$ die Fläche unter dem Graphen $f$ im Intervall $[0,~x_{0}]$ zuordnet.
+Sei $f$ eine stetige Funktion für alle $x\in[a,b]$.
+Sei $F$ die Funktion, die einer Stelle $x_{0}$ die Fläche unter dem Graphen $f$ im Intervall $[0,x_{0}]$ zuordnet.
 
-Dann gilt für alle $x\in[a,~b]$:
+Dann gilt für alle $x\in[a,b]$:
 >$$F'(x)=f(x).$$  
 
 Ferner gilt:
@@ -28,7 +28,7 @@ Ferner gilt:
 
 Die Funktion $F$ gibt uns die Fläche unter dem Graphen $f$; es ist jedoch noch nicht klar, dass diese Funktion $F$ auch tatsächlich die Stammfunktion von $f$ ist. Dies werden wir im Folgenden zeigen.
 
-Sei $x_{0}\in[a,~b]$ beliebig. Schauen wir uns die Fläche unter dem Graphen von $f$ im Intervall $[x_{0},~x_{0}+h]$ mit $h>0$ an. Der Flächeninhalt dieses Stücks ist per Definition gegeben durch $F(x_{0}+h)-F(x_{0})$. Das gesuchte Flächenstück ist in der untenstehenden Abbildungen in rot eingezeichnet.
+Sei $x_{0}\in[a,b]$ beliebig. Schauen wir uns die Fläche unter dem Graphen von $f$ im Intervall $[x_{0},x_{0}+h]$ mit $h>0$ an. Der Flächeninhalt dieses Stücks ist per Definition gegeben durch $F(x_{0}+h)-F(x_{0})$. Das gesuchte Flächenstück ist in der untenstehenden Abbildung in rot eingezeichnet.
 
 ![[images/Beweis_Haupsatz_Analysis.png]]
 
@@ -41,11 +41,11 @@ $$
 \end{align*}
 $$
 
-Wir können erkennen, dass wenn wir $h$ nur genügend klein wählen, die Funktion $f$ im Intervall $[x_{0},~x_{0}+h]$ entweder monoton steigend oder monoton fallend ist.
+Wir können erkennen, dass wenn wir $h$ nur genügend klein wählen, die Funktion $f$ im Intervall $[x_{0},x_{0}+h]$ entweder monoton steigend oder monoton fallend ist.
 
-Im Folgenden gehen wir davon aus, dass $f$ im Intervall $[x_{0},~x_{0}+h]$ monoton steigend ist. Der Beweis für den Fall monoton fallend verläuft analog, ist aber dem Leser als Aufgabe überlassen.
+Im Folgenden gehen wir davon aus, dass $f$ im Intervall $[x_{0},x_{0}+h]$ monoton steigend ist. Der Beweis für den Fall monoton fallend verläuft analog, ist aber dem Leser als Aufgabe überlassen.
 
-Wir schätzen nun ähnlich wie bei der Unter- und Obersumme die Fläche unter dem Graphen von $f$ im Intervall $[x_{0},~x_{0}+h]$ nach unten und nach oben ab:
+Wir schätzen nun ähnlich wie bei der Unter- und Obersumme die Fläche unter dem Graphen von $f$ im Intervall $[x_{0},x_{0}+h]$ nach unten und nach oben ab:
 
 
 Es ergibt sich:
@@ -83,9 +83,9 @@ Es gilt also wie gewollt:
 
 >[!task]- Aufgabe
 >
->Führen Sie das fehlende Beweisstück für den Fall, dass $f$ auf dem Intervall $[x_{0},~x_{0}+h]$ monoton fallend ist.
+>Führen Sie das fehlende Beweisstück für den Fall, dass $f$ auf dem Intervall $[x_{0},x_{0}+h]$ monoton fallend ist.
 
-Wir wissen also nun, dass die Stammfunktion von $f$ tatsächlich die Funktion ist, die uns die Fläche unter dem Graphen von $f$ liefert.
+Wir wissen nun also, dass die Stammfunktion von $f$ tatsächlich die Funktion ist, die uns die Fläche unter dem Graphen von $f$ liefert.
 
 Sei $F$ eine Stammfunktion von $f$.  Wir wissen, dass das Addieren einer Konstante $C$ zu einer Stammfunktion uns eine weitere Stammfunktion liefert. Es gilt also für eine beliebige andere Stammfunktion $G$ von $f$, dass $F(x)=G(x)+C$ mit $C\in \mathbb{R}$. 
 
