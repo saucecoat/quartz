@@ -30,7 +30,7 @@ Die Funktion $F$ gibt uns die Fläche unter dem Graphen $f$; es ist jedoch noch 
 
 Sei $x_{0}\in[a,b]$ beliebig. Schauen wir uns die Fläche unter dem Graphen von $f$ im Intervall $[x_{0},x_{0}+h]$ mit $h>0$ an. Der Flächeninhalt dieses Stücks ist per Definition gegeben durch $F(x_{0}+h)-F(x_{0})$. Das gesuchte Flächenstück ist in der untenstehenden Abbildung in rot eingezeichnet.
 
-![[images/Beweis_Haupsatz_Analysis.png]]
+![[images/Beweis_Haupsatz_Analysis.png|center]]
 
 Nach der Definition des Integrals und von $F$ gilt also für den gesuchten Flächeninhalt:
 
@@ -53,11 +53,11 @@ Es ergibt sich:
 >[!success]- Antwort
 >
 >$$f(x_{0}) \cdot h \leq F(x_{0}+h)-F(x_{0}) \leq f(x_{0}+h) \cdot h$$
->![[images/Beweis_Haupsatz_Analysis_unter.png|300]] 
+>![[images/Beweis_Haupsatz_Analysis_unter.png|center|300]] 
 >
->![[images/Beweis_Haupsatz_Analysis.png|300]] 
+>![[images/Beweis_Haupsatz_Analysis.png|center|300]] 
 >
->![[images/Beweis_Haupsatz_Analysis_ober.png|300]]
+>![[images/Beweis_Haupsatz_Analysis_ober.png|center|300]]
 
 Da $h>0$ folgt nach Division durch $h$:
 

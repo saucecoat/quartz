@@ -1,0 +1,7 @@
+img[alt*="center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Einfach beim Bild 'center' als Option einfügen: ![[image.png | center | 256]] */
