@@ -21,7 +21,7 @@ Als intuitives Mittel sind diese Überlegungen jedoch gerade wegen ihrer suggest
 Im Folgenden werden die zwei graphischen Interpretationen des Integrals an einem Funktionsgraphen bzw. an dessen Ableitungsgraphen dargestellt. 
 Exemplarisch dienen hierzu die Graphen der Funktionen $f(x)=x^{2}$ und $f'(x)=2x$.
 
-![[images/Integral_fläche_beide.png|center|400]]
+![[images/Integral_fläche_beide.png|400]]
 
 
 ## Integral am Funktionsgraphen
@@ -31,14 +31,14 @@ Mithilfe der Steigungen eines Graphen lässt sich der ursprüngliche Graph rekon
 Der Funktionswert $f(x)$ an einer Stelle $x$ lässt sich demnach bestimmen, indem man alle infinitesimalen Veränderungen des Funktionswerts $\mathrm{d}f$ aufsummiert.
 In den folgenden Abbildungen sind diese zur Veranschaulichung mit endlichen Längen dargestellt und nähern den eigentlichen Verlauf von $f(x)$ lediglich an. Wären die Steigungsdreiecke jedoch unendlich klein, so würden die den Verlauf von $f$ genau beschreiben.
 
-![[images/Integral_fläche_Funktion.png|center|600]]
+![[images/Integral_fläche_Funktion.png|600]]
 
 Beim Aufsummieren unendlich kleiner Größen verwendet man ein langgezogenes *S*, welches für das Wort *summa* steht.
 Rechnerisch ausgedrückt besagt obiges Bild demnach:
 
 >$$f(x) = \int \mathrm{d}f$$
 
-![[images/Integral_fläche_Funktion_2.png|center|600]]
+![[images/Integral_fläche_Funktion_2.png|600]]
 
 >Das Integral rekonstruiert aus den Steigungen eines Funktionsgraphen den ursprünglichen Funktionswert.
 
@@ -64,11 +64,11 @@ f(x) &= \int \mathrm{d}f\\
 
 Wir summieren also unendlich viele $f'(x) \cdot \mathrm{d}x$ auf. Graphisch entspricht das dem <u>**Flächeninhalt von feinen Rechtecken**</u> mit der Breite $\mathrm{d}x$ und der Höhe $f'(x)$. 
 
-![[images/Integral_fläche_Ableitung.png|center|600]]
+![[images/Integral_fläche_Ableitung.png|600]]
 
 Je feiner die Rechtecke sind, desto genauer wird die Fläche unter dem Ableitungsgraphen $f'(x)$ angenähert. Sind sie unendlich fein, so wird die Fläche genau beschrieben.
 
-![[images/Integral_fläche_fläche.png|center|600]]
+![[images/Integral_fläche_fläche.png|600]]
 
 >Das Integral beschreibt die Fläche unter dem Ableitungsgraphen $f'(x)$.
 
@@ -86,7 +86,7 @@ $$f(x)=\int 2x~\mathrm{d}x$$
 >$$
 
 
-![[images/Integral_fläche_beide_2.png|center|800]]
+![[images/Integral_fläche_beide_2.png|800]]
 
 ## Beweis
 

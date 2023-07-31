@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46b3cc08a13621b0",
+        "id": "db84465eb20bcdc4",
         "type": "tabs",
         "children": [
           {
-            "id": "2fc09dfe41fa63f3",
+            "id": "95897f1fd9a99766",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fc09dfe41fa63f3",
+  "active": "95897f1fd9a99766",
   "lastOpenFiles": [
     "content/Zusammenhang_Integral_und_Flächeninhalt.md",
     "content/Beweis_Hauptsatz_Analysis.md",
