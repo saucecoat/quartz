@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5615fb533cbe16ab",
+        "id": "f5136b6e78ee77e8",
         "type": "tabs",
         "children": [
           {
-            "id": "825fa590af42871f",
+            "id": "5dfd17ce99b9f91e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,12 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "825fa590af42871f",
+  "active": "5dfd17ce99b9f91e",
   "lastOpenFiles": [
+    "content/Sphäre_auf_links_drehen.md",
     "content/Henn_Filler_Vektorbegriff.md",
     "sync.ffs_lock",
     "content/Günther_Malle_Didaktisches_Vektorkonzept.md",
-    "content/Sphäre_auf_links_drehen.md",
     "content/Katzen.md",
     "content/Zusammenhang_Integral_und_Flächeninhalt.md",
     "content/Beweis_Hauptsatz_Analysis.md",
