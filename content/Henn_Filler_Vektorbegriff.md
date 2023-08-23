@@ -11,7 +11,7 @@ tags: [alle, vektor, vektorbegriff, grundvorstellung, punkt, addition, punkt_vek
 ## Punkt-Vektor-Addition & Ortsvektor
 
 **Punkt-Vektor-Addition**: Die dafür übliche Schreibweise $A+\vec{u}=B$ ist weder „falsch“ noch „ungenau“, sie lässt sich in affinen Punkträumen exakt fundieren, siehe etwa (Filler, 2011, S. 203), wenngleich eine derartige Exaktifizierung in der Schule nicht erfolgen wird. (Hell & Finner, S. 106)
-- **Ortsvektor**: Um die Unterscheidung zwischen einer Vektoraddition und einer „Punkt-Vektor-Addition“ zu umgehen, wird letztere in vielen Schulbüchern vermieden und stattdessen das Hilfskonstrukt „Ortsvektor“ eingeführt. Dieses Konstrukt wurde mehrfach kritisiert, siehe etwa ([ Malle, 2005b, S. 12f.](https://preview.tinyurl.com/MalleVektoren).  $\rightarrow$ Probleme mit dem Ortsvektor (Hell & Finner, S. 107 f.)
+- **Ortsvektor**: Um die Unterscheidung zwischen einer Vektoraddition und einer „Punkt-Vektor-Addition“ zu umgehen, wird letztere in vielen Schulbüchern vermieden und stattdessen das Hilfskonstrukt „Ortsvektor“ eingeführt. Dieses Konstrukt wurde mehrfach kritisiert, siehe etwa ([ Malle, 2005b, S. 12f.](https://t1p.de/25cop).  $\rightarrow$ Probleme mit dem Ortsvektor (Hell & Finner, S. 107 f.)
 
 ## Die Stellung von Vektoren als $n$-Tupel im Unterricht
 
@@ -26,7 +26,7 @@ tags: [alle, vektor, vektorbegriff, grundvorstellung, punkt, addition, punkt_vek
 ## Quellen
 
 - Hell & Filler - Didaktik der Analytischen Geometrie und Linearen Algebra (ISBN: 978-3-662-43434-5)
-- Günther Malle - Didaktisches Vektorkonzept (URL: https://preview.tinyurl.com/MalleVektoren)
+- Günther Malle - Didaktisches Vektorkonzept (Short-URL: https://t1p.de/25cop)
 
 
 
