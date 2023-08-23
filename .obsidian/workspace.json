@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db84465eb20bcdc4",
+        "id": "efd8f1e27675f4ea",
         "type": "tabs",
         "children": [
           {
-            "id": "95897f1fd9a99766",
+            "id": "8466d8591771065a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,8 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95897f1fd9a99766",
+  "active": "8466d8591771065a",
   "lastOpenFiles": [
+    "content/Günther_Malle_Didaktisches_Vektorkonzept.md",
+    "content/Henn_Filler_Vektorbegriff.md",
+    "sync.ffs_lock",
+    "Sphäre_auf_links_drehen.md",
+    "content/Katzen.md",
     "content/Zusammenhang_Integral_und_Flächeninhalt.md",
     "content/Beweis_Hauptsatz_Analysis.md",
     "content/images/Beweis_Haupsatz_Analysis_unter.png",
@@ -174,7 +179,6 @@
     "content/Ableitung_Wurzel_x.md",
     "content/Sammlung_Integralaufgaben.md",
     "content/Beliebige_Münzen_simulieren.md",
-    "content/Günther_Malle_Didaktisches_Vektorkonzept.md",
     "content/Datenschutzhinweise.md",
     "content/Approaches_to_the_Pink_Triangle_Problem.md",
     "content/images/Münze_Baumdiagramm.png",
@@ -189,9 +193,6 @@
     "content/Cereal_Box_Problem_Thinking_Task.md",
     "content/templates/geogebra.md",
     "Untitled 1.md",
-    "content/Funktionsscharen_als_3D-Funktionen.md",
-    "content/Vergleich_arithmetisches_geometrisches_Mittel.md",
-    "content/Warum_ist_das_Skalarprodukt_so_definiert.md",
     "content/images/Kürzester_Weg_Rätsel_3.png"
   ]
 }
