@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f5136b6e78ee77e8",
+        "id": "56c0d7ec0815d599",
         "type": "tabs",
         "children": [
           {
-            "id": "5dfd17ce99b9f91e",
+            "id": "279843845a60ae31",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md"
+              }
             }
           },
           {
@@ -156,11 +164,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dfd17ce99b9f91e",
+  "active": "279843845a60ae31",
   "lastOpenFiles": [
+    "sync.ffs_lock",
+    "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md",
+    "content/images/Extremwert_DINA4_Kleinstes_Rechteck_6.png",
+    "content/images/Extremwert_DINA4_Kleinstes_Rechteck_5.png",
     "content/Sphäre_auf_links_drehen.md",
     "content/Henn_Filler_Vektorbegriff.md",
-    "sync.ffs_lock",
     "content/Günther_Malle_Didaktisches_Vektorkonzept.md",
     "content/Katzen.md",
     "content/Zusammenhang_Integral_und_Flächeninhalt.md",
@@ -181,7 +192,6 @@
     "content/Beliebige_Münzen_simulieren.md",
     "content/Datenschutzhinweise.md",
     "content/Approaches_to_the_Pink_Triangle_Problem.md",
-    "content/images/Münze_Baumdiagramm.png",
     "content/Unterrichtsstunde_Erwartungswert_Zufallsvariable.md",
     "content/Briefumschlagparadoxon.md",
     "content/Unterrichtsmaterial_Fake_News.md",
@@ -191,8 +201,6 @@
     "content/Funktion_Maschine.md",
     "content/Riemannscher_Umordnungssatz.md",
     "content/Cereal_Box_Problem_Thinking_Task.md",
-    "content/templates/geogebra.md",
-    "Untitled 1.md",
-    "content/images/Kürzester_Weg_Rätsel_3.png"
+    "content/templates/geogebra.md"
   ]
 }

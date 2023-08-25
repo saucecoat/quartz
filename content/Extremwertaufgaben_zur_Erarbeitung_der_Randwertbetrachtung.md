@@ -105,3 +105,22 @@ A'(x) &= 0\\\\
 > Das globale Minimum befindet sich an der Stelle $x=0$.
 > 
 > <u>Weiterführende Frage:</u> Warum kann ein globales Extremum nur an den lokalen Extrema oder an den Rändern auftreten? 
+
+
+> [!success]- Alternative Lösung
+> 
+> Seien die Seitenlängen des grünen Rechtecks $a$ und $b$. Da der Schnitt in einem 45°-Winkel verläuft, bleibt der Umfang des Rechtecks konstant bei $72$. Denn wenn man die Höhe um eine Länge $x$ verlängert, so verringert sich die Breite um die gleiche Länge $x$.
+> 
+> ![[Extremwert_DINA4_Kleinstes_Rechteck_5.png]]
+> 
+> Für den Flächeninhalt gilt $A=a \cdot b$, für den Umfang gilt $2 \cdot (a+b)=72 \Rightarrow b = 36-a$. Einsetzen in die Flächeninhaltsformel liefert:
+> 
+> $$A(a)=a \cdot (36-a).$$
+>
+> Die Berechnung der Extremstellen liefert einen Hochpunkt bei $a=18$. Da wir allerdings nach einem Tiefpunkt suchen, bringt uns diese Entdeckung nicht weiter. Ein Blick auf den Graphen von $A$ zeigt uns, dass der kleinste Wert im Definitionsbereich $[6;~21]$ sich am linken Rand bei $a=6$ befindet.
+>
+> ![[Extremwert_DINA4_Kleinstes_Rechteck_6.png]]
+> 
+> Das globale Minimum befindet sich an der Stelle $a=6$.
+> 
+> *Quelle der Lösung:* ein LK-Schüler :)
