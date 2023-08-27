@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "56c0d7ec0815d599",
+        "id": "43ef223eb681ff4c",
         "type": "tabs",
         "children": [
           {
-            "id": "279843845a60ae31",
+            "id": "b6671466eef0be38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,10 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "279843845a60ae31",
+  "active": "b6671466eef0be38",
   "lastOpenFiles": [
-    "sync.ffs_lock",
+    "content/Zählen_im_Binärsystem.md",
     "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md",
+    "sync.ffs_lock",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_6.png",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_5.png",
     "content/Sphäre_auf_links_drehen.md",
