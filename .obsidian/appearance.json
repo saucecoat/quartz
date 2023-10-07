@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "centerImg"
   ],
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "theme": "moonstone"
 }

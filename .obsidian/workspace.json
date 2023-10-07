@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43ef223eb681ff4c",
+        "id": "1b45c29e2a07f38f",
         "type": "tabs",
         "children": [
           {
-            "id": "b6671466eef0be38",
+            "id": "2e98cceda30b0ffa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,11 +156,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6671466eef0be38",
+  "active": "2e98cceda30b0ffa",
   "lastOpenFiles": [
-    "content/Zählen_im_Binärsystem.md",
-    "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md",
+    "content/Vergleich_Pokémon_Typen.md",
     "sync.ffs_lock",
+    "content/Intro_Group_Theory_Crystals.md",
+    "content/Bézier_Curves.md",
+    "content/Falsche_Aussagen_Analysis_Gegenbeispiele.md",
+    "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md",
+    "content/Zählen_im_Binärsystem.md",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_6.png",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_5.png",
     "content/Sphäre_auf_links_drehen.md",
@@ -189,11 +193,6 @@
     "content/Briefumschlagparadoxon.md",
     "content/Unterrichtsmaterial_Fake_News.md",
     "content/Vorlagen Boxen basteln.md",
-    "content/Übersicht_p-adische_Zahlen.md",
-    "content/Gegenüberstellung_Grundbegriffe_Stochastik.md",
-    "content/Funktion_Maschine.md",
-    "content/Riemannscher_Umordnungssatz.md",
-    "content/Cereal_Box_Problem_Thinking_Task.md",
-    "content/templates/geogebra.md"
+    "content/Übersicht_p-adische_Zahlen.md"
   ]
 }
