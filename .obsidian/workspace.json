@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5ba60f5d776bab9",
+        "id": "828510e964b4de98",
         "type": "tabs",
         "children": [
           {
-            "id": "4e97490d389d261b",
+            "id": "6a4c04b5117badcd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1dc52949b1e6b056",
@@ -156,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e97490d389d261b",
+  "active": "6a4c04b5117badcd",
   "lastOpenFiles": [
     "content/Orthogonale_Vektoren.md",
     "sync.ffs_lock",
