@@ -27,22 +27,26 @@ Wie kann der rote Vektor auf der Hypotenuse mithilfe der anderen beiden Vektoren
 >[!success]- Antwort
 >
 >![[images/Orthogonale_Vektoren_2.png]]
+>
+>Wir gehen von der Spitze des Vektors $\vec{b}$ zur Spitze des Vektors $\vec{a}$. Dabei gehen wir zuerst in Richtung $-\vec{b}$ und anschließend in Richtung $\vec{a}$. Die gesamte Richtung ist also $-\vec{b}+\vec{a}$ oder auch $\vec{a}-\vec{b}$.
+>
+>Alternativ könnte der Hypotenusenvektor auch in die entgegengesetzte Richtung laufen, also von der Spitze von $\vec{a}$ zur Spitze von $\vec{b}$. Das entspräche dem Vektor $\vec{b}-\vec{a}$. Die anschließenden Rechnungen sind in beiden Fällen die gleichen. 
 
 Für die Länge des Vektors $\vec{a}$ gilt: $|\vec{a}|=\sqrt{a_{1}^{2}+a_{2}^{2}}$. Also gilt auch für die quadrierte Länge: $|\vec{a}|^{2}=a_{1}^{2}+a_{2}^{2}$.
 
-Mithilfe der Längen der drei obigen Vektoren können wir den Satz des Pythagoras anwenden. 
+Mithilfe der Längen der drei obigen Vektoren können wir den Satz des Pythagoras anwenden:
 >
 >[!success]- Antwort
 >
->$|\vec{a}-\vec{b}|^{2} = |\vec{a}|^{2}+|\vec{b}|^{2}$.
+>$$|\vec{a}-\vec{b}|^{2} = |\vec{a}|^{2}+|\vec{b}|^{2}$$
 
-Wir berechnen nun die quadrierte Länge der linken Seite:
+Wir berechnen nun die linke Seite:
 
 >[!success]- Antwort
 >
 >$|\vec{a}-\vec{b}|^{2} = (a_{1}-b_{1})^{2} + (a_{2}-b_{2})^{2}$
 >
->Ausmultiplizieren bzw. Binomische Formel anwenden:
+>Ausmultiplizieren bzw. binomische Formel anwenden und vereinfachen liefert:
 
 >[!success]- Antwort
 >
@@ -51,7 +55,7 @@ Wir berechnen nun die quadrierte Länge der linken Seite:
 \end{aligned}$ 
 
 
-Nun berechnen wir die quadrierte Länge der rechten Seite:
+Nun berechnen wir die rechte Seite:
 
 >[!success]- Antwort
 >

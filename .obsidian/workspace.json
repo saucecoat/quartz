@@ -11,8 +11,12 @@
             "id": "6a4c04b5117badcd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Orthogonale_Vektoren.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Orthogonale_Vektoren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Orthogonale_Vektoren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/Orthogonale_Vektoren.md"
+              }
             }
           },
           {
@@ -159,8 +167,8 @@
   },
   "active": "6a4c04b5117badcd",
   "lastOpenFiles": [
-    "content/Orthogonale_Vektoren.md",
     "sync.ffs_lock",
+    "content/Orthogonale_Vektoren.md",
     "content/images/Orthogonale_Vektoren_2.png",
     "content/images/Orthogonale_Vektoren_1.png",
     "content/Zählen_im_Binärsystem.md",
