@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "828510e964b4de98",
+        "id": "4f0d47c80283e83c",
         "type": "tabs",
         "children": [
           {
-            "id": "6a4c04b5117badcd",
+            "id": "70a0cf9ae9540320",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Orthogonale_Vektoren.md",
+                "file": "content/The_Easter_algorithm.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1dc52949b1e6b056",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Orthogonale_Vektoren.md",
+                "file": "content/The_Easter_algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Orthogonale_Vektoren.md",
+                "file": "content/The_Easter_algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Orthogonale_Vektoren.md"
+                "file": "content/The_Easter_algorithm.md"
               }
             }
           },
@@ -165,19 +164,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a4c04b5117badcd",
+  "active": "70a0cf9ae9540320",
   "lastOpenFiles": [
     "sync.ffs_lock",
     "content/Orthogonale_Vektoren.md",
-    "content/images/Orthogonale_Vektoren_2.png",
-    "content/images/Orthogonale_Vektoren_1.png",
-    "content/Zählen_im_Binärsystem.md",
-    "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md",
+    "content/The_Easter_algorithm.md",
     "content/Falsche_Aussagen_Analysis_Gegenbeispiele.md",
     "content/Bézier_Curves.md",
     "content/Intro_Group_Theory_Crystals.md",
     "content/Vergleich_Pokémon_Typen.md",
+    "content/Zählen_im_Binärsystem.md",
     "content/Sätze_generieren_Unterrichtsidee.md",
+    "content/Katzen.md",
+    "content/images/Orthogonale_Vektoren_2.png",
+    "content/images/Orthogonale_Vektoren_1.png",
+    "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md",
     "content/Pythagoras_mit_dem_Skalarprodukt.md",
     "content/Beweis_Hauptsatz_Analysis.md",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_6.png",
@@ -185,7 +186,6 @@
     "content/Sphäre_auf_links_drehen.md",
     "content/Henn_Filler_Vektorbegriff.md",
     "content/Günther_Malle_Didaktisches_Vektorkonzept.md",
-    "content/Katzen.md",
     "content/Zusammenhang_Integral_und_Flächeninhalt.md",
     "content/images/Beweis_Haupsatz_Analysis_unter.png",
     "content/images/Beweis_Haupsatz_Analysis_ober.png",
@@ -201,7 +201,6 @@
     "content/Beliebige_Münzen_simulieren.md",
     "content/Datenschutzhinweise.md",
     "content/Approaches_to_the_Pink_Triangle_Problem.md",
-    "content/Unterrichtsstunde_Erwartungswert_Zufallsvariable.md",
-    "content/Briefumschlagparadoxon.md"
+    "content/Unterrichtsstunde_Erwartungswert_Zufallsvariable.md"
   ]
 }
