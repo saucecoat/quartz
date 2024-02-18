@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4f0d47c80283e83c",
+        "id": "65599150b1bb492c",
         "type": "tabs",
         "children": [
           {
-            "id": "70a0cf9ae9540320",
+            "id": "afa39fac7e8a6595",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/The_Easter_algorithm.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/The_Easter_algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/The_Easter_algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/The_Easter_algorithm.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,11 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70a0cf9ae9540320",
+  "active": "afa39fac7e8a6595",
   "lastOpenFiles": [
+    "content/The_Easter_algorithm.md",
     "sync.ffs_lock",
     "content/Orthogonale_Vektoren.md",
-    "content/The_Easter_algorithm.md",
     "content/Falsche_Aussagen_Analysis_Gegenbeispiele.md",
     "content/Bézier_Curves.md",
     "content/Intro_Group_Theory_Crystals.md",

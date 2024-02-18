@@ -14,9 +14,14 @@ tags:
   - kalender
   - date
   - datum
+  - math_stackexchange
+  - moon
+  - mond
 ---
 
 
 Article: https://www.algorithm-archive.org/contents/computus/computus.html
 
 Video: https://yewtu.be/watch?v=x6Yud882QKE
+
+Math StackExchange: https://math.stackexchange.com/questions/896954/decoding-gauss-easter-algorithm
