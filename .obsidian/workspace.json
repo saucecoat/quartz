@@ -11,8 +11,12 @@
             "id": "afa39fac7e8a6595",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Proof_without_words_Alternating_harmonic_series_ln2.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Proof_without_words_Alternating_harmonic_series_ln2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Proof_without_words_Alternating_harmonic_series_ln2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/Proof_without_words_Alternating_harmonic_series_ln2.md"
+              }
             }
           },
           {
@@ -158,8 +166,9 @@
   },
   "active": "afa39fac7e8a6595",
   "lastOpenFiles": [
-    "content/The_Easter_algorithm.md",
     "sync.ffs_lock",
+    "content/Proof_without_words_Alternating_harmonic_series_ln2.md",
+    "content/The_Easter_algorithm.md",
     "content/Orthogonale_Vektoren.md",
     "content/Falsche_Aussagen_Analysis_Gegenbeispiele.md",
     "content/Bézier_Curves.md",
@@ -192,7 +201,6 @@
     "content/Sammlung_Integralaufgaben.md",
     "content/Beliebige_Münzen_simulieren.md",
     "content/Datenschutzhinweise.md",
-    "content/Approaches_to_the_Pink_Triangle_Problem.md",
-    "content/Unterrichtsstunde_Erwartungswert_Zufallsvariable.md"
+    "content/Approaches_to_the_Pink_Triangle_Problem.md"
   ]
 }
