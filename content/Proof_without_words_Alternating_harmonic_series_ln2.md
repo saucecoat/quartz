@@ -19,4 +19,6 @@ tags:
   - bild 
 ---
 
-https://maa.org/sites/default/files/Hudleson-MMz-201007804.pdf 
+Proof without words: https://maa.org/sites/default/files/Hudleson-MMz-201007804.pdf 
+
+Video: https://youtube.com/watch?v=09bqRIkjQhk
