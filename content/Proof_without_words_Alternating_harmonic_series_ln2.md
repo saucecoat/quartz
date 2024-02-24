@@ -22,3 +22,5 @@ tags:
 Proof without words: https://maa.org/sites/default/files/Hudleson-MMz-201007804.pdf 
 
 Video: https://youtube.com/watch?v=09bqRIkjQhk
+
+Alternierende harmonische Reihe als Beispiel für den [[Riemannscher_Umordnungssatz|Riemannschen Umordnungssatz]].
