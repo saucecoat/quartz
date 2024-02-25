@@ -25,7 +25,7 @@ $$\lim_{n\to\infty} U_{n} = \lim_{n\to\infty} O_{n} = \int_{a}^{b} f(x)~\mathrm{
 
 ## Satz
 
-Sei $f$ eine stetige ganzrationale^[Der Beweis für beliebige stetige Funktionen wird meist mithilfe des Mittelwertsatzes der Integralrechnung geführt.] Funktion für alle $x\in[a,b]$.
+Sei $f$ eine stetige ganzrationale[^1] Funktion für alle $x\in[a,b]$.
 Sei $F$ die Funktion, die einer Stelle $x_{0}$ die Fläche unter dem Graphen $f$ im Intervall $[0,x_{0}]$ zuordnet.
 
 Dann gilt für alle $x\in[a,b]$:
@@ -122,3 +122,5 @@ Für eine beliebige Stammfunktion $G$ bedeutet das:
 
 Der Hauptsatz der Differential- und Integralrechnung gilt also für alle Stammfunktionen von $f$.
 
+
+[^1]: Der Beweis für beliebige stetige Funktionen wird meist mithilfe des Mittelwertsatzes der Integralrechnung geführt.
