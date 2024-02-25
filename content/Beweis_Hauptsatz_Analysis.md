@@ -1,7 +1,18 @@
 ---
-title: "Beweis Hauptsatz der Differential- und Integralrechnung"
-date: "2023-07-07"
-tags: [alle, mathe, analysis, integral, integralrechnung, hauptsatz, stammfunktion, ableitung , differentialrechnung, flächeninhalt, beweis]
+title: Beweis Hauptsatz der Differential- und Integralrechnung für ganzrationale Funktionen
+date: 2023-07-07
+tags:
+  - alle
+  - mathe
+  - analysis
+  - integral
+  - integralrechnung
+  - hauptsatz
+  - stammfunktion
+  - ableitung
+  - differentialrechnung
+  - flächeninhalt
+  - beweis
 ---
 
 ## Definition Integral
@@ -14,7 +25,7 @@ $$\lim_{n\to\infty} U_{n} = \lim_{n\to\infty} O_{n} = \int_{a}^{b} f(x)~\mathrm{
 
 ## Satz
 
-Sei $f$ eine stetige Funktion für alle $x\in[a,b]$.
+Sei $f$ eine stetige ganzrationale^[Der Beweis für beliebige stetige Funktionen wird meist mithilfe des Mittelwertsatzes der Integralrechnung geführt.] Funktion für alle $x\in[a,b]$.
 Sei $F$ die Funktion, die einer Stelle $x_{0}$ die Fläche unter dem Graphen $f$ im Intervall $[0,x_{0}]$ zuordnet.
 
 Dann gilt für alle $x\in[a,b]$:
@@ -41,7 +52,7 @@ $$
 \end{align*}
 $$
 
-Wir können erkennen, dass wenn wir $h$ nur genügend klein wählen, die Funktion $f$ im Intervall $[x_{0},x_{0}+h]$ entweder monoton steigend oder monoton fallend ist.
+Wir können erkennen, dass wenn wir $h$ nur genügend klein wählen, die ganzrationale Funktion $f$ im Intervall $[x_{0},x_{0}+h]$ entweder monoton steigend oder monoton fallend ist.
 
 Im Folgenden gehen wir davon aus, dass $f$ im Intervall $[x_{0},x_{0}+h]$ monoton steigend ist. Der Beweis für den Fall monoton fallend verläuft analog, ist aber dem Leser als Aufgabe überlassen.
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "99cf3b9db8329b26",
+        "id": "a650770c8d60c007",
         "type": "tabs",
         "children": [
           {
-            "id": "43b9f2ee682cd18a",
+            "id": "e29d4b021bab5e34",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,12 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43b9f2ee682cd18a",
+  "active": "e29d4b021bab5e34",
   "lastOpenFiles": [
+    "content/Beweis_Hauptsatz_Analysis.md",
+    "sync.ffs_lock",
     "content/Proof_without_words_Alternating_harmonic_series_ln2.md",
     "content/Riemannscher_Umordnungssatz.md",
     "content/Untitled.md",
-    "sync.ffs_lock",
     "content/The_Easter_algorithm.md",
     "content/Orthogonale_Vektoren.md",
     "content/Falsche_Aussagen_Analysis_Gegenbeispiele.md",
@@ -175,7 +176,6 @@
     "content/images/Orthogonale_Vektoren_1.png",
     "content/Extremwertaufgaben_zur_Erarbeitung_der_Randwertbetrachtung.md",
     "content/Pythagoras_mit_dem_Skalarprodukt.md",
-    "content/Beweis_Hauptsatz_Analysis.md",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_6.png",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_5.png",
     "content/Sphäre_auf_links_drehen.md",
@@ -193,7 +193,6 @@
     "content/Entdeckung_Obersumme_Untersumme.md",
     "content/Ableitung_Wurzel_x.md",
     "content/Sammlung_Integralaufgaben.md",
-    "content/Beliebige_Münzen_simulieren.md",
-    "content/Datenschutzhinweise.md"
+    "content/Beliebige_Münzen_simulieren.md"
   ]
 }
