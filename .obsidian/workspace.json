@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4d337ea72ce86180",
+        "id": "94219f94d902e0d4",
         "type": "tabs",
         "children": [
           {
-            "id": "fff96531261223f3",
+            "id": "af7e60fed28e5d47",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fff96531261223f3",
+  "active": "af7e60fed28e5d47",
   "lastOpenFiles": [
     "content/Unterrichtsstunde_Gabriels_Horn.md",
     "sync.ffs_lock",

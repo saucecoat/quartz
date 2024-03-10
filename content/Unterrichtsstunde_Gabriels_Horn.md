@@ -76,9 +76,9 @@ Wenn die Frage nicht von selbst aufgeworfen wird, wird diskutiert, warum die ein
 
 ## Exkurs: Die alternierende harmonische Reihe
 
-Als Exkurs kann auch die alternierende harmonische Reihe $1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \frac{1}{5} - \frac{1}{6} + \ldots$ erwähnt werden. Der [Beweis ohne Worte](https://maa.org/sites/default/files/Hudleson-MMz-201007804.pdf), der zeigt, dass diese Reihe gegen $\log(2)$ konvergiert, wird als Angebot für einen Kurzvortrag in der folgenden Stunde ausgegeben.
+Als Exkurs kann auch die alternierende harmonische Reihe $1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \frac{1}{5} - \frac{1}{6} + \ldots$ erwähnt werden. Der [[Proof_without_words_Alternating_harmonic_series_ln2|Beweis ohne Worte]], der zeigt, dass diese Reihe gegen $\log(2)$ konvergiert, wird als Angebot für einen Kurzvortrag in der folgenden Stunde ausgegeben.
 
-Spaßeshalber kann noch erwähnt werden, dass die alternierende harmonische Reihe wegen des [[Riemannscher Umordnungssatz|Riemannschen Umordnungssatzes]] durch Vertauschen der Summanden jeden beliebigen Wert annehmen kann.
+Spaßeshalber kann noch erwähnt werden, dass die alternierende harmonische Reihe wegen des [[Riemannscher_Umordnungssatz|Riemannschen Umordnungssatzes]] durch Vertauschen der Summanden jeden beliebigen Wert annehmen kann.
 
 
 ## Volumen Gabriels Horn
@@ -125,7 +125,7 @@ Aus dem Einstieg wissen wir allerdings bereits, dass dieses Integral divergiert.
 
 Dieses Paradoxon wird den Schülern als philosophische Denkaufgabe gestellt.
 
-## Philosophie Schlussdiskussion
+## Philosophische Schlussdiskussion
 
 Zum Abschluss wird mit den Schülern über mögliche Lösungen der aufgeworfenen Paradoxa gesprochen.
 
