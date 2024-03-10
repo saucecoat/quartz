@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a650770c8d60c007",
+        "id": "4d337ea72ce86180",
         "type": "tabs",
         "children": [
           {
-            "id": "e29d4b021bab5e34",
+            "id": "fff96531261223f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Beweis_Hauptsatz_Analysis.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Beweis_Hauptsatz_Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Beweis_Hauptsatz_Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Beweis_Hauptsatz_Analysis.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,13 +156,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e29d4b021bab5e34",
+  "active": "fff96531261223f3",
   "lastOpenFiles": [
+    "content/Unterrichtsstunde_Gabriels_Horn.md",
     "sync.ffs_lock",
+    "content/Pi_ist_4.md",
+    "content/images/meme_pi_4.webp",
     "content/Beweis_Hauptsatz_Analysis.md",
     "content/Proof_without_words_Alternating_harmonic_series_ln2.md",
     "content/Riemannscher_Umordnungssatz.md",
-    "content/Untitled.md",
     "content/The_Easter_algorithm.md",
     "content/Orthogonale_Vektoren.md",
     "content/Falsche_Aussagen_Analysis_Gegenbeispiele.md",
@@ -197,10 +191,8 @@
     "content/Integration_durch_Substitution_Notiz.md",
     "content/images/Integral_fläche_Funktion.png",
     "content/images/Integral_fläche_Ableitung.png",
-    "content/images/Integral_fläche_beide_2.png",
     "content/Entdeckung_Obersumme_Untersumme.md",
     "content/Ableitung_Wurzel_x.md",
-    "content/Sammlung_Integralaufgaben.md",
-    "content/Beliebige_Münzen_simulieren.md"
+    "content/Sammlung_Integralaufgaben.md"
   ]
 }
