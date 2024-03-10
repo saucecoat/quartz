@@ -24,7 +24,7 @@ tags:
 ---
 
 
-# Was bisher geschah
+## Vorwissen - Was bisher geschah
 
 - Unter- und Obersummen
 - Hauptsatz der Differential- und Integralrechnung
@@ -34,9 +34,9 @@ tags:
 - Rotationskörper
 	- inkl. intuitiver Vorstellung von "unendlich feinen" Zylindern mit der Höhe $\mathrm{d}x$
 
-# Unterrichtsverlauf
+## Unterrichtsverlauf
 
-## Integral $\int_{1}^{\infty} \frac{1}{x}~\mathrm{d}x$
+### Integral $\int_{1}^{\infty} \frac{1}{x}~\mathrm{d}x$
 
 Schüler sollen das Integral $\int_{1}^{\infty} \frac{1}{x}~\mathrm{d}x$ bestimmen. Die Grundidee ist wieder eine Abschätzung. Es wird zunächst nach unten abgeschätzt.
 
@@ -65,7 +65,7 @@ $$\begin{aligned}
 
 Wenn die Untersumme bereits divergiert, dann muss auch unser ursprüngliches Integral divergieren.
 
-## Harmonische vs. geometrische Reihe
+### Harmonische vs. geometrische Reihe
 
 Es wird anschließend die obige harmonische Reihe $\frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \frac{1}{5} + \frac{1}{6} + \ldots$ mit der geometrischen Reihe $\frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \frac{1}{16} + \frac{1}{32} + \ldots$ kontrastiert.
 
@@ -74,14 +74,14 @@ Anschaulich wird gezeigt, dass die obige geometrische Reihe gegen $1$ geht.
 Wenn die Frage nicht von selbst aufgeworfen wird, wird diskutiert, warum die eine unendliche Summe divergiert, die andere wiederum konvergiert.
 
 
-## Exkurs: Die alternierende harmonische Reihe
+#### Exkurs: Die alternierende harmonische Reihe
 
 Als Exkurs kann auch die alternierende harmonische Reihe $1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \frac{1}{5} - \frac{1}{6} + \ldots$ erwähnt werden. Der [[Proof_without_words_Alternating_harmonic_series_ln2|Beweis ohne Worte]], der zeigt, dass diese Reihe gegen $\log(2)$ konvergiert, wird als Angebot für einen Kurzvortrag in der folgenden Stunde ausgegeben.
 
 Spaßeshalber kann noch erwähnt werden, dass die alternierende harmonische Reihe wegen des [[Riemannscher_Umordnungssatz|Riemannschen Umordnungssatzes]] durch Vertauschen der Summanden jeden beliebigen Wert annehmen kann.
 
 
-## Volumen Gabriels Horn
+### Volumen Gabriels Horn
 
 Nun drehen wir unser Integral $\int_{1}^{\infty} \frac{1}{x}~\mathrm{d}x$ um die $x$-Achse und die Schüler sollen in 3er-Gruppen das Volumen des resultierenden Rotationskörpers (auch *Gabriels Horn* genannt) berechnen.
 
@@ -104,7 +104,7 @@ Gabriels Horn, das aus der Rotation einer unendlichen Fläche entsteht, besitzt 
 
 Dieses Paradoxon wird den Schülern als philosophische Denkaufgabe gestellt.
 
-## Oberfläche Gabriels Horn
+### Oberfläche Gabriels Horn
 
 Die Schüler bekommen nun die Aufgabe die Oberfläche des Horns zu bestimmen. Hierzu sollen sie die Vorstellung der "unendlich feinen" Zylinder benutzen, die sie bereits von der Herleitung des Volumens von Rotationskörpern kennen. Allerdings müssen sie nun nicht mehr die Volumina der einzelnen Zylinder summieren, sondern deren Mantelflächen.
 
@@ -125,7 +125,7 @@ Aus dem Einstieg wissen wir allerdings bereits, dass dieses Integral divergiert.
 
 Dieses Paradoxon wird den Schülern als philosophische Denkaufgabe gestellt.
 
-## Philosophische Schlussdiskussion
+### Philosophische Schlussdiskussion
 
 Zum Abschluss wird mit den Schülern über mögliche Lösungen der aufgeworfenen Paradoxa gesprochen.
 
