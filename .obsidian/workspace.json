@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f6f4409947fe8bfe",
+        "id": "bba099060347c45b",
         "type": "tabs",
         "children": [
           {
-            "id": "53e51b2a82aaeabf",
+            "id": "cf9d87b96e133c97",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,10 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53e51b2a82aaeabf",
+  "active": "cf9d87b96e133c97",
   "lastOpenFiles": [
-    "content/Unterrichtsstunde_Gabriels_Horn.md",
+    "content/Rätselsammlung.md",
     "sync.ffs_lock",
+    "content/Unterrichtsstunde_Gabriels_Horn.md",
     "content/Pi_ist_4.md",
     "content/images/meme_pi_4.webp",
     "content/Beweis_Hauptsatz_Analysis.md",
@@ -192,7 +193,6 @@
     "content/images/Integral_fläche_Funktion.png",
     "content/images/Integral_fläche_Ableitung.png",
     "content/Entdeckung_Obersumme_Untersumme.md",
-    "content/Ableitung_Wurzel_x.md",
-    "content/Sammlung_Integralaufgaben.md"
+    "content/Ableitung_Wurzel_x.md"
   ]
 }
