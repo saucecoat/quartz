@@ -18,7 +18,7 @@ tags:
 > 
 >Eine Funktion $f(x)$ ist eine <u>**Exponentialfunktion**</u>, wenn sie folgende Form erfüllt:
 >
->$$f(x)=c \cdot a^{x}, \qquad \text{mit } c,~a \in \mathbb{R}\setminus\{0\} \text{ und } a\neq 1.$$
+>$$f(x)=c \cdot a^{x}, \qquad \text{mit } c,~a \in \mathbb{R}\setminus\\{0\\} \text{ und } a\neq 1.$$
 >
 >$c$ wird auch <u>**Startwert**</u> genannt und $a$ die <u>**Zuwachsrate**</u> oder <u>**Wachstumsfaktor**</u>.
 
@@ -49,7 +49,7 @@ tags:
 >
 >$$= \lim_{h\to 0} \frac{a^{x_{0}} \cdot \left(a^{h}-1\right)}{h}$$
 >
->Da $x_{0}$ unabhängig von $h$ ist, gilt:
+>Da $a^{x_{0}}$ unabhängig von $h$ ist, gilt:
 >
 >$$= a^{x_{0}} \cdot \lim_{h \to 0} \frac{a^{h}-1}{h}$$
 >

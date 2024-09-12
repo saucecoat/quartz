@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "85da30af9dd6789b",
+        "id": "6189950b5db14db2",
         "type": "tabs",
         "children": [
           {
-            "id": "14823c2ff0b78dc5",
+            "id": "2ec7903ba37998da",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14823c2ff0b78dc5",
+  "active": "2ec7903ba37998da",
   "lastOpenFiles": [
     "content/Skript_LK_Exponentialfunktionen.md",
     "sync.ffs_lock",
