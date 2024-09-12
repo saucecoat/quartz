@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6189950b5db14db2",
+        "id": "461a960b9a120d6c",
         "type": "tabs",
         "children": [
           {
-            "id": "2ec7903ba37998da",
+            "id": "dc661c218170b9df",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1dc52949b1e6b056",
@@ -157,10 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ec7903ba37998da",
+  "active": "dc661c218170b9df",
   "lastOpenFiles": [
-    "content/Skript_LK_Exponentialfunktionen.md",
     "sync.ffs_lock",
+    "content/Skript_LK_Exponentialfunktionen.md",
     "content/Pi_ist_4.md",
     "content/Rätselsammlung.md",
     "content/_index.md",

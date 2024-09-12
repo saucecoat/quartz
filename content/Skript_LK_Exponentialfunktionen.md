@@ -69,7 +69,7 @@ tags:
 > 
 >Die <u>**Eulersche Zahl $e$**</u> ist eine irrationale Zahl mit dem Wert 
 >
->$$e=2,718281845\ldots$$
+>$$e=2,71828182845\ldots$$
 >
 >Stellt $e$ die Basis einer Exponentialfunktion dar, so nennt man die Funktion $f(x)=e^{x}$ auch die <u>**natürliche Exponentialfunktion**</u> oder einfach <u>**$e$-Funktion**</u>. Für diese gilt $f'(x)=e^{x}$, da für die Zahl $e$ genau gilt, dass $f'(0)=1$.
 >
