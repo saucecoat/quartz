@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "461a960b9a120d6c",
+        "id": "481c91b7d4c68232",
         "type": "tabs",
         "children": [
           {
-            "id": "dc661c218170b9df",
+            "id": "68bee60a998008f6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,10 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc661c218170b9df",
+  "active": "68bee60a998008f6",
   "lastOpenFiles": [
-    "sync.ffs_lock",
     "content/Skript_LK_Exponentialfunktionen.md",
+    "sync.ffs_lock",
     "content/Pi_ist_4.md",
     "content/Rätselsammlung.md",
     "content/_index.md",

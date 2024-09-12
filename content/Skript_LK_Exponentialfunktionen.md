@@ -58,7 +58,7 @@ tags:
 >$$\begin{aligned}
 >&= a^{x_{0}} \cdot \lim_{h \to 0} \frac{a^{0+h}-a^{0}}{h}\\\\\\
 >&= a^{x_{0}} \cdot \lim_{h \to 0} \frac{f(0+h)-f(0)}{h}\\\\\\
->&=a^{x_{0}} \cdot f'(x_{0})
+>&=a^{x_{0}} \cdot f'(0)
 >\end{aligned}$$
 >
 >$$\tag*{$\square$}$$
