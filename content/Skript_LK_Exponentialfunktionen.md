@@ -154,7 +154,6 @@ tags:
 > F'(x)&=\frac{1}{k} \cdot k \cdot e^{kx}\\\\\\
 > &=e^{kx}
 > \end{aligned}$$
-> 
 > $$\tag*{$\square$}$$
 > &nbsp;
 
@@ -196,6 +195,5 @@ tags:
 > F'(x)&=\frac{1}{\ln(a)} \cdot \ln(a) \cdot a^{x}\\\\\\
 > &=a^{x}
 > \end{aligned}$$
-> 
 > $$\tag*{$\square$}$$
 > &nbsp;
