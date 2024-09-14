@@ -20,7 +20,7 @@ tags:
 >
 >$$f(x)=c \cdot a^{x},$$
 >
->mit $c$, $a \in \mathbb{R}\setminus\{0\}$ und $a\neq 1$.
+>mit $c$, $a \in \mathbb{R}\setminus\\{0\\}$ und $a\neq 1$.
 >
 >$c$ wird auch <u>**Startwert**</u> genannt und $a$ die <u>**Zuwachsrate**</u> oder <u>**Wachstumsfaktor**</u>.
 
@@ -140,7 +140,7 @@ tags:
 >&nbsp;
 
 
-> [!summary] Satz 2.2
+> [!tip] Satz 2.2
 > 
 > Es sei $f(x)=e^{kx}$ mit $k \neq 0$. Dann gilt:
 >
@@ -151,7 +151,7 @@ tags:
 > Nach Faktorregel und Satz 2 gilt:
 > 
 > $$\begin{aligned}
-> F'(x)&=\frac{1}{k} \cdot k \cdot e^{kx}\\\\
+> F'(x)&=\frac{1}{k} \cdot k \cdot e^{kx}\\\\\\
 > &=e^{kx}
 > \end{aligned}$$
 > 
@@ -182,7 +182,7 @@ tags:
 > &nbsp;
 
 
-> [!summary] Satz 3.2
+> [!tip] Satz 3.2
 > 
 > Es sei $f(x)=a^{x}$ mit $a>0$ eine beliebige Exponentialfunktion. Dann gilt:
 >
@@ -193,7 +193,7 @@ tags:
 > Nach Faktorregel und Satz 3 gilt:
 > 
 > $$\begin{aligned}
-> F'(x)&=\frac{1}{\ln(a)} \cdot \ln(a) \cdot a^{x}\\\\
+> F'(x)&=\frac{1}{\ln(a)} \cdot \ln(a) \cdot a^{x}\\\\\\
 > &=a^{x}
 > \end{aligned}$$
 > 

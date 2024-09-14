@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ba167a2b0d8ef598",
+        "id": "aa169098913961f3",
         "type": "tabs",
         "children": [
           {
-            "id": "2b701250ed24d90e",
+            "id": "de93fe144a082ca3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Skript_LK_Exponentialfunktionen.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Skript_LK_Exponentialfunktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Skript_LK_Exponentialfunktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/Skript_LK_Exponentialfunktionen.md"
+              }
             }
           },
           {
@@ -156,10 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b701250ed24d90e",
+  "active": "de93fe144a082ca3",
   "lastOpenFiles": [
-    "content/Skript_LK_Exponentialfunktionen.md",
     "sync.ffs_lock",
+    "content/Skript_LK_Exponentialfunktionen.md",
     "content/Pi_ist_4.md",
     "content/Rätselsammlung.md",
     "content/_index.md",
