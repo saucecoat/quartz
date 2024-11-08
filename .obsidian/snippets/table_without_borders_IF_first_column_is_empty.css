@@ -1,0 +1,15 @@
+/* Hide borders and first column only if the first column is empty */
+.markdown-preview-view table {
+    border-collapse: collapse;
+}
+
+/* Apply styles if the first column is empty */
+.markdown-preview-view table th:first-child:empty,
+.markdown-preview-view table td:first-child:empty {
+    display: none; /* Hide the first column */
+}
+
+.markdown-preview-view table th:first-child:empty ~ th,
+.markdown-preview-view table td:first-child:empty ~ td {
+    border: none; /* Remove borders for other cells */
+}

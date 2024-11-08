@@ -1,0 +1,15 @@
+/*Ich habe das center alignment beim Edit Modus als Kommentar gekennzeichnet. Wenn ich das wieder haben will, dann einfach Kommentarklammern wieder löschen.*/
+
+/* EDIT MODE */
+
+/*.HyperMD-header.HyperMD-header-1 {
+    text-align: center;
+}*/
+
+
+
+/* PREVIEW MODE */
+
+.markdown-preview-view h1 {
+    text-align: center;
+}
