@@ -183,9 +183,9 @@
   },
   "active": "4a11c0c0c8dc829b",
   "lastOpenFiles": [
+    "sync.ffs_lock",
     "content/Skript_LK_Exponentialfunktionen.md",
     "content/Ebenengleichung_bestimmen.md",
-    "sync.ffs_lock",
     "content/Pi_ist_4.md",
     "content/Rätselsammlung.md",
     "content/_index.md",
@@ -217,7 +217,6 @@
     "content/images/Beweis_Haupsatz_Analysis_ober.png",
     "content/images/Beweis_Haupsatz_Analysis.png",
     "content/Integration_als_Gegenteil_des_Ableitens.md",
-    "content/Integration_durch_Substitution_Notiz.md",
     "content/images/Integral_fläche_Funktion.png",
     "content/images/Integral_fläche_Ableitung.png"
   ]
