@@ -241,7 +241,7 @@ Gegenseitige Lage der beiden jeweiligen Geraden bestimmen.
 >
 >Die Lage der Geraden $g$ & $h$ wird wie gewohnt bestimmt. 
 >
->Sind $g$ & $h$ paralle, so kann eine eindeutige Ebenengleichung bestimmt werden.
+>Sind $g$ & $h$ parallel, so kann eine eindeutige Ebenengleichung bestimmt werden.
 
 >**Fall ②: Geraden schneiden sich**
 >
