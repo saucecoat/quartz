@@ -11,10 +11,14 @@
             "id": "6c407dc6028a7d7c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Ebenengleichung_bestimmen.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ebenengleichung_bestimmen"
             }
           }
         ]
@@ -83,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1dc52949b1e6b056",
@@ -179,8 +182,8 @@
   },
   "active": "6c407dc6028a7d7c",
   "lastOpenFiles": [
-    "content/Ebenengleichung_bestimmen.md",
     "sync.ffs_lock",
+    "content/Ebenengleichung_bestimmen.md",
     "content/Skript_LK_Exponentialfunktionen.md",
     "content/Pi_ist_4.md",
     "content/Rätselsammlung.md",

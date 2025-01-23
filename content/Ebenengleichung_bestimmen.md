@@ -34,8 +34,8 @@ Die grundsätzlichen Schritte zum Bestimmen einer Ebenengleichung sind stets die
 
 >**Schritt 1:** Gegenseitige Lage der gegebenen Objekte bestimmen
 >
->**Schritt 2:** Spannvektoren bestimmen
-**Schritt 2b (nur bei Koordinaten- und Normalenform):** Normalenvektor bestimmen
+>**Schritt 2:** Spannvektoren bestimmen<br>
+>**Schritt 2b (nur bei Koordinaten- und Normalenform):** Normalenvektor bestimmen
 >
 >**Schritt 3:** Geradengleichung aufstellen
 
