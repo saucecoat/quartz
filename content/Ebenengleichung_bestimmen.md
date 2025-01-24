@@ -345,3 +345,23 @@ d) $E \text{ enthält } g:X = \begin{pmatrix}1\\\\0\\\\1\end{pmatrix} + s \cdot\
 e) $E \text{ enthält } A(1|-1|4) \text{ und steht senkrecht auf } g:X = \begin{pmatrix}12\\\\4\\\\0\end{pmatrix} + s \cdot \begin{pmatrix}1\\\\1\\\\-4\end{pmatrix}$
 
 f) $E \text{ enthält } A(1|0|-3) \text{ und hat den Normalenvektor } \vec{n} = \begin{pmatrix}2\\\\-2\\\\3\end{pmatrix}$
+
+
+> [!success]- Lösungen
+>> a) **Normalenform:** $$\begin{pmatrix}0\\\\1\\\\0\end{pmatrix} \cdot \left[ X - \begin{pmatrix}0\\\\1\\\\2\end{pmatrix} \right]=0$$
+>>**Koordinatenform:** $$x_{2}=1$$
+>
+>>b) **Normalenform:** $$\begin{pmatrix}-4\\\\8\\\\1\end{pmatrix} \cdot \left[ X - \begin{pmatrix}12\\\\4\\\\0\end{pmatrix} \right]=0$$
+>>**Koordinatenform:** $$4x_{1}-8x_{2}-x_{3}=16$$
+>
+>>c) **Normalenform:** $$\begin{pmatrix}1\\\\-1\\\\-1\end{pmatrix} \cdot \left[ X - \begin{pmatrix}0\\\\0\\\\0\end{pmatrix} \right]=0$$
+>$$\Rightarrow \begin{pmatrix}1\\\\-1\\\\-1\end{pmatrix} \cdot X = 0$$
+>>**Koordinatenform:** $$x_{1}-x_{2}-x_{3}=0$$
+>
+>>d) $g$ & $h$ sind identisch, es gibt keine eindeutige Lösung.
+>
+>>e) **Normalenform:** $$\begin{pmatrix}1\\\\1\\\\-4\end{pmatrix} \cdot \left[ X - \begin{pmatrix}1\\\\-1\\\\-4\end{pmatrix} \right]=0$$
+>>**Koordinatenform:** $$x_{1}+x_{2}-4x_{3}=16$$
+>
+>>f) **Normalenform:** $$\begin{pmatrix}2\\\\-2\\\\3\end{pmatrix} \cdot \left[ X - \begin{pmatrix}1\\\\0\\\\-3\end{pmatrix} \right]=0$$
+>>**Koordinatenform:** $$2x_{1}-2x_{2}+3x_{3}=-7$$
