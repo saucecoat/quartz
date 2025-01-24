@@ -24,7 +24,7 @@ tags:
 
 - Die folgenden Beispiele beziehen sich auf den Vektorraum $\mathbb{R}^{3}$.
 - Im Folgenden bezeichnet $S_{g}$ den Stützvektor der Geraden $g$ und $\vec{r}\_{g}$ den Richtungsvektor der Geraden $g$.
-- Ebenengleichungen sind in ihrer Darstellung nicht eindeutig. Man könnte jeweils auch eine andere Geradengleichung bestimmen, indem man z.&nbsp;B. einen anderen Stützvektor als den im Beispiel verwendeten wählt. 
+- Geraden- und Ebenengleichungen sind in ihrer Darstellung nicht eindeutig. Man könnte jeweils auch eine andere Gleichung bestimmen, indem man z.&nbsp;B. einen anderen Stützvektor als den im Beispiel verwendeten wählt. 
 
 --- 
 
@@ -100,7 +100,7 @@ Die grundsätzlichen Schritte zum Bestimmen einer Ebenengleichung sind stets die
 
 >**Fall ①: Die Punkte liegen nicht auf einer gemeinsamen Geraden**
 >
->Laut Schritt 1 können $\vec{AB}=\begin{pmatrix}-2\\\\1\\\\2\end{pmatrix},~\vec{AC}=\begin{pmatrix}-1\\\\3\\\\2\end{pmatrix}$ als Spannvektoren verwendet werden.
+>Nach Schritt 1 können $\vec{AB}=\begin{pmatrix}-2\\\\1\\\\2\end{pmatrix},~\vec{AC}=\begin{pmatrix}-1\\\\3\\\\2\end{pmatrix}$ als Spannvektoren verwendet werden.
 
 ### **Schritt 2b (nur bei Koordinaten- und Normalenform):** Normalenvektor bestimmen
 
