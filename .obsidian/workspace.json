@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "214c9ed76e878f8a",
+        "id": "24d2fee96b953a43",
         "type": "tabs",
         "children": [
           {
-            "id": "bdab663b55bb84b7",
+            "id": "4922f9de645fa80d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdab663b55bb84b7",
+  "active": "4922f9de645fa80d",
   "lastOpenFiles": [
     "content/Ebenengleichung_bestimmen.md",
     "sync.ffs_lock",

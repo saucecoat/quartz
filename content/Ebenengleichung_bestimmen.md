@@ -360,8 +360,8 @@ f) $E \text{ enthält } A(1|0|-3) \text{ und hat den Normalenvektor } \vec{n} = 
 >
 >>d) $g$ & $h$ sind identisch, es gibt keine eindeutige Lösung.
 >
->>e) **Normalenform:** $$\begin{pmatrix}1\\\\1\\\\-4\end{pmatrix} \cdot \left[ X - \begin{pmatrix}1\\\\-1\\\\-4\end{pmatrix} \right]=0$$
->>**Koordinatenform:** $$x_{1}+x_{2}-4x_{3}=16$$
+>>e) **Normalenform:** $$\begin{pmatrix}1\\\\1\\\\-4\end{pmatrix} \cdot \left[ X - \begin{pmatrix}1\\\\-1\\\\4\end{pmatrix} \right]=0$$
+>>**Koordinatenform:** $$x_{1}+x_{2}-4x_{3}=-16$$
 >
 >>f) **Normalenform:** $$\begin{pmatrix}2\\\\-2\\\\3\end{pmatrix} \cdot \left[ X - \begin{pmatrix}1\\\\0\\\\-3\end{pmatrix} \right]=0$$
 >>**Koordinatenform:** $$2x_{1}-2x_{2}+3x_{3}=-7$$
