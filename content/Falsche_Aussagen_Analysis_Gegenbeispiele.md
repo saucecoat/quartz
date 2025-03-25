@@ -61,4 +61,12 @@ tags:
 > 
 > $f'(x)=2x$
 
+
+## Aussage 4
+
+> Wenn $f$ zwei Extremstellen hat, muss $f$ drei Wendestellen haben.
+
+> [!success]- Gegenbeispiel
+> $f(x)=x^{3}-x$
+
  

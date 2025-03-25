@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24d2fee96b953a43",
+        "id": "99a3d2936ede3f31",
         "type": "tabs",
         "children": [
           {
-            "id": "4922f9de645fa80d",
+            "id": "c388dc795c1e3bf1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -48,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "katzen",
+                "query": "vorzeichenwe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +80,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,8 +178,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4922f9de645fa80d",
+  "active": "c388dc795c1e3bf1",
   "lastOpenFiles": [
+    "content/Falsche_Aussagen_Analysis_Gegenbeispiele.md",
     "content/Ebenengleichung_bestimmen.md",
     "sync.ffs_lock",
     "content/Skript_LK_Exponentialfunktionen.md",
@@ -191,7 +194,6 @@
     "content/Riemannscher_Umordnungssatz.md",
     "content/The_Easter_algorithm.md",
     "content/Orthogonale_Vektoren.md",
-    "content/Falsche_Aussagen_Analysis_Gegenbeispiele.md",
     "content/Bézier_Curves.md",
     "content/Intro_Group_Theory_Crystals.md",
     "content/Vergleich_Pokémon_Typen.md",
