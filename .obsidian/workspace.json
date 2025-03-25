@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "99a3d2936ede3f31",
+        "id": "ae2529988ea928b6",
         "type": "tabs",
         "children": [
           {
-            "id": "c388dc795c1e3bf1",
+            "id": "5377f11116931d62",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -178,9 +178,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c388dc795c1e3bf1",
+  "active": "5377f11116931d62",
   "lastOpenFiles": [
-    "content/Falsche_Aussagen_Analysis_Gegenbeispiele.md",
+    "content/Falschaussagen_Analysis_Gegenbeispiele.md",
     "content/Ebenengleichung_bestimmen.md",
     "sync.ffs_lock",
     "content/Skript_LK_Exponentialfunktionen.md",

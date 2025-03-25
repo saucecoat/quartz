@@ -1,5 +1,5 @@
 ---
-title: Falsche Aussagen Analysis zum Finden von Gegenbeispielen
+title: Falschaussagen Analysis zum Finden von Gegenbeispielen
 date: 2023-10-07
 tags:
   - alle
@@ -67,6 +67,7 @@ tags:
 > Wenn $f$ zwei Extremstellen hat, muss $f$ drei Wendestellen haben.
 
 > [!success]- Gegenbeispiel
+> 
 > $f(x)=x^{3}-x$
 
  
