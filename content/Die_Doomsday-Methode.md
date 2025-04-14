@@ -85,9 +85,9 @@ Will man den Wochentag 3 Tage später wissen, so geht man mit dem Daumen drei Kn
 
 Kennt man also den Wochentag eines Tages, so kann man durch Vor- bzw. Zurückgehen den Wochentag jedes anderen Tages herausfinden.
 
-{{< video src="/images/doomsday_tage_vor.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_tage_vor.mp4" type="video/mp4" preload="false" >}}
 
-{{< video src="/images/doomsday_tage_zurueck.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_tage_zurueck.mp4" type="video/mp4" preload="false" >}}
 
 Je weiter jedoch der Tag, dessen Wochentag man kennt und der gesuchte Tag auseinanderliegen, umso umständlicher wird das Ermitteln. Kennt man bspw. den Wochentag des 01.01. und möchte den Wochentag des 11.11. wissen, so müsste man sehr viele Tage durchgehen. 
 Abhilfe schafft das Konzept der *Doomsdays*.
@@ -152,15 +152,15 @@ Wir werden den Wochentag für verschiedene Daten bestimmen, indem wir vom jeweil
 
 ##### 10.04.
 
-{{< video src="/images/doomsday_bsp_april.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_april.mp4" type="video/mp4" preload="false" >}}
 
 ##### 27.07.
 
-{{< video src="/images/doomsday_bsp_juli.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_juli.mp4" type="video/mp4" preload="false" >}}
 
 ##### 14.02. (Valentinstag)
 
-{{< video src="/images/doomsday_bsp_februar.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_februar.mp4" type="video/mp4" preload="false" >}}
 
 Kennt man also den Doomsday eines Jahres, so kann man den Wochentag jedes beliebigen Tages in diesem Jahr bestimmen. Die Frage ist nun, wie man den Doomsday eines beliebigen Jahres bestimmt.
 
@@ -200,7 +200,7 @@ Sehen wir uns alle Doomsdays von 2000 bis 2099 auf einen Blick an. Die Schaltjah
 
 Wie oben gesehen, springt der Doomsday jedes Jahr um 1 Tag vor, bei den Schaltjahren um 2 Tage. Wenn wir also beim Jahr 2000 mit dem Doomsday Dienstag anfangen, können wir den Doomsday aller anderen Jahre des Jahrhunderts bestimmen, indem wir den Daumen immer die entsprechende Anzahl nach vorne bewegen. Den Doomsday 2030 ermitteln wir demnach wie folgt:
 
-{{< video src="/images/doomsday_kal_2030.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_kal_2030.mp4" type="video/mp4" preload="false" >}}
 
 Man achte darauf, dass man bei jedem Schaltjahr mit dem Daumen um 2 vorangeht.
 
@@ -221,7 +221,7 @@ Wir können uns also unserem gewünschten Datum erst in 12er-Schritten nähern, 
 
 Den Doomsday von 2030 können wir so wesentlich schneller ermitteln als zuvor:
 
-{{< video src="/images/doomsday_kal_24_30.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_kal_24_30.mp4" type="video/mp4" preload="false" >}}
 
 #### Zusammenfassung
 
@@ -237,19 +237,19 @@ Hat man sich dem Jahr so weit es geht in 12er-Schritten genähert, so muss man d
 
 ##### Doomsday 2030
 
-{{< video src="/images/doomsday_bsp_2030.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_2030.mp4" type="video/mp4" preload="false" >}}
 
 ##### Doomsday 2050
 
-{{< video src="/images/doomsday_bsp_2050.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_2050.mp4" type="video/mp4" preload="false" >}}
 
 ##### Doomsday 2084
 
-{{< video src="/images/doomsday_bsp_2084.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_2084.mp4" type="video/mp4" preload="false" >}}
 
 ##### Doomsday 2095
 
-{{< video src="/images/doomsday_bsp_2095.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_2095.mp4" type="video/mp4" preload="false" >}}
 
 ### Den Wochentag eines beliebigen Datums bestimmen
 
@@ -265,13 +265,13 @@ Führen wir beides zusammen, so können wir tatsächlich den Wochentag jedes bel
 
 Die nächste totale Sonnenfinsternis, die man zumindest von Teilen Deutschlands aus beobachten kann, findet am 03.09.2081 statt. Welcher Wochentag ist das?
 
-{{< video src="/images/doomsday_bsp_20810903.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_20810903.mp4" type="video/mp4" preload="false" >}}
 
 ##### 18.02.2021
 
 Der Mars-Rover [*Perseverance*](https://de.wikipedia.org/wiki/Mars_2020) ist am 18.02.2021 auf dem Mars gelandet. Welcher Wochentag ist das?
 
-{{< video src="/images/doomsday_bsp_20210218.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_20210218.mp4" type="video/mp4" preload="false" >}}
 
 Wollen wir Daten in einem anderen Jahrhundert bestimmen, so brauchen wir lediglich den Doomsday des ersten Jahres dieses Jahrhunderts, z.&nbsp;B. 1900. Diesen nehmen wir dann als Start-Doomsday und machen dann alles weitere wie oben beschrieben. 
 
@@ -306,19 +306,19 @@ Um den Doomsday eines beliebigen Jahrhunderts (im gregorianischen Kalender) zu b
 
 ##### Doomsday 1800
 
-{{< video src="/images/doomsday_bsp_1800.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_1800.mp4" type="video/mp4" preload="false" >}}
 
 ##### Doomsday 1900
 
-{{< video src="/images/doomsday_bsp_1900.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_1900.mp4" type="video/mp4" preload="false" >}}
 
 ##### Doomsday 2400
 
-{{< video src="/images/doomsday_bsp_2400.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_2400.mp4" type="video/mp4" preload="false" >}}
 
 ##### Doomsday 2500
 
-{{< video src="/images/doomsday_bsp_2500.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_2500.mp4" type="video/mp4" preload="false" >}}
 
 #### Julianischer Kalender
 
@@ -345,15 +345,15 @@ Um den Doomsday eines Jahrhunderts im julianischen Kalender zu bestimmen, geht m
 
 ##### Doomsday 200
 
-{{< video src="/images/doomsday_bsp_200.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_200.mp4" type="video/mp4" preload="false" >}}
 
 ##### Doomsday 700
 
-{{< video src="/images/doomsday_bsp_700.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_700.mp4" type="video/mp4" preload="false" >}}
 
 ##### Doomsday 1500
 
-{{< video src="/images/doomsday_bsp_1500.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_1500.mp4" type="video/mp4" preload="false" >}}
 
 ### Zusammenfassung
 
@@ -367,33 +367,33 @@ Zur Bestimmung des Wochentags eines beliebigen Datums muss man die in den Kapite
 
 |                                    Schritt                                    |            Beispiel 23.09.1846           |
 |:-----------------------------------------------------------------------------:|:------------------------------:|
-| <u>**Start-Doomsday**</u> für das gewünschte <u>**Jahrhundert**</u> bestimmen | {{< video src="/images/doomsday_bsp_neptun_1.mp4" type="video/mp4" preload="true" >}} |
-|       <u>**Doomsday**</u> für das gewünschte <u>**Jahr**</u> bestimmen        | {{< video src="/images/doomsday_bsp_neptun_2.mp4" type="video/mp4" preload="true" >}} |
-|        Vom Doomsday des Monats <u>**zum gewünschten Datum gehen**</u>         | {{< video src="/images/doomsday_bsp_neptun_3.mp4" type="video/mp4" preload="true" >}} |
+| <u>**Start-Doomsday**</u> für das gewünschte <u>**Jahrhundert**</u> bestimmen | {{< video src="/images/doomsday_bsp_neptun_1.mp4" type="video/mp4" preload="false" >}} |
+|       <u>**Doomsday**</u> für das gewünschte <u>**Jahr**</u> bestimmen        | {{< video src="/images/doomsday_bsp_neptun_2.mp4" type="video/mp4" preload="false" >}} |
+|        Vom Doomsday des Monats <u>**zum gewünschten Datum gehen**</u>         | {{< video src="/images/doomsday_bsp_neptun_3.mp4" type="video/mp4" preload="false" >}} |
 
 #### Beispiel 14.07.1789
 
 An welchem Wochentag fand der Sturm auf die Bastille statt?
 
-{{< video src="/images/doomsday_bsp_17890714.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_17890714.mp4" type="video/mp4" preload="false" >}}
 
 
 #### Beispiel 20.07.1969
 
 An welchem Wochentag landete Apollo 11 auf dem Mond?
 
-{{< video src="/images/doomsday_bsp_19690720.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_19690720.mp4" type="video/mp4" preload="false" >}}
 
 
 #### Beispiel 01.01.2000
 
 An welchem Wochentag begann das neue Millenium?
 
-{{< video src="/images/doomsday_bsp_20000101.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_20000101.mp4" type="video/mp4" preload="false" >}}
 
 #### Beispiel 27.12.1571 (jul.)
 
 An welchem Wochentag wurde Johannes Kepler geboren?
 
-{{< video src="/images/doomsday_bsp_15711227_jul.mp4" type="video/mp4" preload="true" >}}
+{{< video src="/images/doomsday_bsp_15711227_jul.mp4" type="video/mp4" preload="false" >}}
 
