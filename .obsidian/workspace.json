@@ -11,10 +11,14 @@
             "id": "5377f11116931d62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Die_Doomsday-Methode.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Die_Doomsday-Methode"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vorzeichenwe",
+                "query": "mp4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,14 +184,18 @@
   },
   "active": "5377f11116931d62",
   "lastOpenFiles": [
-    "content/Falschaussagen_Analysis_Gegenbeispiele.md",
-    "content/Ebenengleichung_bestimmen.md",
     "sync.ffs_lock",
-    "content/Skript_LK_Exponentialfunktionen.md",
+    "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
+    "content/Die_Doomsday-Methode.md",
+    "content/images/doomsday_bsp_1500.mp4",
+    "content/images/doomsday_tage_vor.mp4",
     "content/Pi_ist_4.md",
+    "content/Unterrichtsstunde_Gabriels_Horn.md",
+    "content/Ebenengleichung_bestimmen.md",
+    "content/Falschaussagen_Analysis_Gegenbeispiele.md",
+    "content/Skript_LK_Exponentialfunktionen.md",
     "content/Rätselsammlung.md",
     "content/_index.md",
-    "content/Unterrichtsstunde_Gabriels_Horn.md",
     "content/images/meme_pi_4.webp",
     "content/Beweis_Hauptsatz_Analysis.md",
     "content/Proof_without_words_Alternating_harmonic_series_ln2.md",
@@ -209,11 +217,9 @@
     "content/Sphäre_auf_links_drehen.md",
     "content/Henn_Filler_Vektorbegriff.md",
     "content/Günther_Malle_Didaktisches_Vektorkonzept.md",
-    "content/Zusammenhang_Integral_und_Flächeninhalt.md",
     "content/images/Beweis_Haupsatz_Analysis_unter.png",
     "content/images/Beweis_Haupsatz_Analysis_ober.png",
     "content/images/Beweis_Haupsatz_Analysis.png",
-    "content/Integration_als_Gegenteil_des_Ableitens.md",
     "content/images/Integral_fläche_Funktion.png",
     "content/images/Integral_fläche_Ableitung.png"
   ]
