@@ -102,7 +102,7 @@ Das Konzept des *Doomsdays* geht auf den bereits erwähnten Mathematiker [John C
 > 
 >Der Doomsday eines Jahres ist per Definition der Wochentag des letzten Februartages. 
 
-Nehmen wir für ein Jahr an, dass der letzte Februartag — und damit der Doomsday — für dieses Jahr ein *Mittwoch* ist. Dann fallen auch alle folgenden Daten dieses Jahres auf einen Mittwoch. ^[In einem Schaltjahr sind die Tage im Januar und Februar jeweils um eins höher, da der letzte Februartag der 29. ist und nicht der 28. wie in einem "gewöhnlichen" Jahr.] 
+Nehmen wir für ein Jahr an, dass der letzte Februartag — und damit der Doomsday — für dieses Jahr ein *Mittwoch* ist. Dann fallen auch alle folgenden Daten dieses Jahres auf einen Mittwoch. [^1]
 
 ![[images/doomsday_kalender_mittwoch.png]]
 
@@ -112,7 +112,7 @@ Ist der Doomsday eines Jahres hingegen ein *Donnerstag*, so fallen alle diese Da
 #### Ein Datum pro Monat reicht
 
 Wie bereits gesehen, reicht es im Grunde aus, lediglich ein solches Datum pro Jahr zu kennen, da man von diesem ausgehend einfach zum gewünschten Datum vor- oder zurückgehen kann. Da die Wege wie gesehen dann allerdings recht lang werden können, ist es sinnvoller, **ein Datum pro Monat** zu kennen, das auf den Doomsday fällt.
-Conway hat die folgenden Daten als besonders einprägsam erachtet. ^[Man könnte auch andere Daten nehmen, die oben in rot eingezeichnet sind. Die hier gezeigten sind jedoch die gebräuchlichsten.] Die Daten im Januar und Februar in hellrot gelten nur für Schaltjahre. Was es mit dem März auf sich hat, wird weiter unten erklärt werden.
+Conway hat die folgenden Daten als besonders einprägsam erachtet. [^2] Die Daten im Januar und Februar in hellrot gelten nur für Schaltjahre. Was es mit dem März auf sich hat, wird weiter unten erklärt werden.
 
 ![[images/doomsday_kalender_rot.png]]
 
@@ -288,7 +288,7 @@ Für die Bestimmung der Wochentage des 21. Jahrhunderts haben wir immer mit dem 
 
 #### Gregorianischer Kalender
 
-Aufgrund der Schaltjahrregel im gregorianischen Kalender wiederholen sich die Start-Doomsdays alle 400 Jahre. Es gibt als nur vier mögliche Start-Doomsdays: *Dienstag*, *Mittwoch*, *Freitag* und *Sonntag*. ^[Wegen der Schaltregel haben drei von vier hintereinanderfolgenden Jahrhunderten je 24 Schaltjahre und eines 25. Die Jahrhunderte bestehen also dreimal aus 5.217 Wochen + 5 Tagen und einmal aus 5.217 Wochen + 6 Tagen. Zusammen also: 20.868 Wochen + 21 Tage bzw. genau 20.871 Wochen.<br>Nach 4 Jahrhunderten hat man also eine ganzzahlige Anzahl an Wochen durchlaufen und demnach wieder den gleichen Wochentag.]
+Aufgrund der Schaltjahrregel im gregorianischen Kalender wiederholen sich die Start-Doomsdays alle 400 Jahre. Es gibt als nur vier mögliche Start-Doomsdays: *Dienstag*, *Mittwoch*, *Freitag* und *Sonntag*. [^3]
 
 Schaut man sich diese auf der Hand an, so ergeben sie die Form eines Häkchens ✔️.
 
@@ -397,3 +397,9 @@ An welchem Wochentag wurde Johannes Kepler geboren?
 
 {{< video src="/images/doomsday_bsp_15711227_jul.mp4" type="video/mp4" preload="false" >}}
 
+
+
+
+[^1]: In einem Schaltjahr sind die Tage im Januar und Februar jeweils um eins höher, da der letzte Februartag der 29. ist und nicht der 28. wie in einem "gewöhnlichen" Jahr.
+[^2]: Man könnte auch andere Daten nehmen, die oben in rot eingezeichnet sind. Die hier gezeigten sind jedoch die gebräuchlichsten.
+[^3]: Wegen der Schaltregel haben drei von vier hintereinanderfolgenden Jahrhunderten je 24 Schaltjahre und eines 25. Die Jahrhunderte bestehen also dreimal aus 5.217 Wochen + 5 Tagen und einmal aus 5.217 Wochen + 6 Tagen. Zusammen also: 20.868 Wochen + 21 Tage bzw. genau 20.871 Wochen.<br>Nach 4 Jahrhunderten hat man also eine ganzzahlige Anzahl an Wochen durchlaufen und demnach wieder den gleichen Wochentag.
