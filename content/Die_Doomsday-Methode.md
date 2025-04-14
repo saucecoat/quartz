@@ -14,6 +14,8 @@ tags:
   - julianisch
 ---
 
+> **HINWEIS:** Bitte die Seite <u>**ein zweites Mal laden**</u>. Die Animationen laden momentan leider noch nicht, wie sie sollen.
+
 
 ## Einleitung
 
