@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a2fdfb67f5444a15",
+        "id": "75daa377563a2cd6",
         "type": "tabs",
         "children": [
           {
-            "id": "9012cd842560e630",
+            "id": "075928fc70796e1d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,18 +177,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9012cd842560e630",
+  "active": "075928fc70796e1d",
   "lastOpenFiles": [
-    "content/Ebenengleichung_bestimmen.md",
-    "content/Die_Doomsday-Methode.md",
     "sync.ffs_lock",
+    "content/Warum_sich_der_Kalender_alle_28_Jahre_wiederholt.md",
+    "content/Ebenengleichung_bestimmen.md",
+    "content/Falschaussagen_Analysis_Gegenbeispiele.md",
+    "content/Die_Doomsday-Methode.md",
     "content/Beliebige_Münzen_simulieren.md",
     "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
     "content/images/doomsday_bsp_1500.mp4",
     "content/images/doomsday_tage_vor.mp4",
     "content/Pi_ist_4.md",
     "content/Unterrichtsstunde_Gabriels_Horn.md",
-    "content/Falschaussagen_Analysis_Gegenbeispiele.md",
     "content/Skript_LK_Exponentialfunktionen.md",
     "content/Rätselsammlung.md",
     "content/_index.md",
@@ -211,7 +212,6 @@
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_6.png",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_5.png",
     "content/Sphäre_auf_links_drehen.md",
-    "content/Henn_Filler_Vektorbegriff.md",
     "content/images/Beweis_Haupsatz_Analysis_unter.png",
     "content/images/Beweis_Haupsatz_Analysis_ober.png",
     "content/images/Beweis_Haupsatz_Analysis.png",
