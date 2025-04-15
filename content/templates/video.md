@@ -1,1 +1,1 @@
-`{{< video src="/VIDEONAME.mp4" type="video/mp4" preload="true" >}}`
+{{< video src="/VIDEONAME.mp4" type="video/mp4" preload="auto" >}}

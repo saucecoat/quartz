@@ -71,7 +71,7 @@ An dieser Stelle reicht uns jedoch folgende Anschauung:
 
 Die folgende Animation zeigt dies beispielhaft:
 
-{{< gif src="/images/Matrix1.mp4" type="video/mp4" preload="true" >}}
+{{< gif src="/images/Matrix1.mp4" type="video/mp4" preload="auto" >}}
 
 ### Abbildungsmatrizen
 
@@ -82,7 +82,7 @@ Es genügt bereits sich anzusehen, auf welche Vektoren die Einheitsvektoren $\ve
 
 Schauen wir uns die oben gezeigte Abbildung erneut an, sehen wir, dass $\vec{e}\_{1}$ auf den Vektor $\begin{pmatrix} \textcolor{red}{3} \\ \textcolor{red}{-1} \end{pmatrix}$ geschickt wird und der Vektor $\vec{e}\_{2}$ auf den Vektor $\begin{pmatrix} \textcolor{turquoise}{-1} \\ \textcolor{turquoise}{2} \end{pmatrix}$.
 
-{{< gif src="/images/Matrix0.mp4" type="video/mp4" preload="true" >}}
+{{< gif src="/images/Matrix0.mp4" type="video/mp4" preload="auto" >}}
 
 Die gesamt lineare Abbildung lässt sich dann mithilfe der Matrix $\begin{pmatrix} \textcolor{red}{3} & \textcolor{turquoise}{-1} \\ \textcolor{red}{-1} & \textcolor{turquoise}{2} \end{pmatrix}$ beschreiben.
 
@@ -112,7 +112,7 @@ Wollen wir z. B. herausfinden, was mit dem Vektor $\begin{pmatrix} 2 \\ 1 \end{p
 
 $$\begin{pmatrix} \textcolor{red}{3} & \textcolor{turquoise}{-1} \\ \textcolor{red}{-1} & \textcolor{turquoise}{2} \end{pmatrix} \cdot \begin{pmatrix} 2 \\ 1 \end{pmatrix} = 2 \cdot \begin{pmatrix} \textcolor{red}{3} \\ \textcolor{red}{-1} \end{pmatrix} + 1 \cdot \begin{pmatrix} \textcolor{turquoise}{-1} \\ \textcolor{turquoise}{2} \end{pmatrix} = \begin{pmatrix} 5 \\ 0 \end{pmatrix}$$
 
-{{< gif src="/images/Matrix2.mp4" type="video/mp4" preload="true" >}}
+{{< gif src="/images/Matrix2.mp4" type="video/mp4" preload="auto" >}}
 
 Durch die lineare Abbildung wird der Vektor $\begin{pmatrix} 2 \\ 1 \end{pmatrix}$ also auf den Vektor $\begin{pmatrix} 5 \\ 0 \end{pmatrix}$ geschickt.
 
@@ -145,7 +145,7 @@ Um zu verstehen, warum die lineare Abbildung $\begin{pmatrix} 3 & 4 \end{pmatrix
 
 Legen wir eine Gerade in das zweidimensionale Koordinatensystem, die in Richtung des Vektors $\begin{pmatrix}3\\\\4\end{pmatrix}$ verläuft. Untersuchen wir nun die lineare Abbildung, die alle Punkte der Ebene auf diese Gerade projiziert. 
 
-{{< gif src="/images/Matrix3.mp4" type="video/mp4" preload="true" >}}
+{{< gif src="/images/Matrix3.mp4" type="video/mp4" preload="auto" >}}
 
 Um diese Abbildung mithilfe einer Matrix auszudrücken, müssen wir, wie oben gesehen, lediglich herausfinden, auf welche Vektoren die Abbildung die beiden Basisvektoren $\vec{e}\_{1}$ und $\vec{e}\_{2}$ schickt.
 
@@ -183,7 +183,7 @@ $$\begin{pmatrix} \textcolor{red}{{}^3{\mskip -5mu/\mskip -3mu}_5} & \textcolor{
 
 Der Vektor müsste also nach der Projektion auf die Zahlengerade auf der $2$ landen. 
 
-{{< gif src="/images/Matrix4.mp4" type="video/mp4" preload="true" >}}
+{{< gif src="/images/Matrix4.mp4" type="video/mp4" preload="auto" >}}
 
 ### Streckung
 
