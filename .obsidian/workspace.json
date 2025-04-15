@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cff473dae21586c7",
+        "id": "a2fdfb67f5444a15",
         "type": "tabs",
         "children": [
           {
-            "id": "94e7f8793fe9496a",
+            "id": "9012cd842560e630",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,8 +177,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94e7f8793fe9496a",
+  "active": "9012cd842560e630",
   "lastOpenFiles": [
+    "content/Ebenengleichung_bestimmen.md",
     "content/Die_Doomsday-Methode.md",
     "sync.ffs_lock",
     "content/Beliebige_Münzen_simulieren.md",
@@ -187,7 +188,6 @@
     "content/images/doomsday_tage_vor.mp4",
     "content/Pi_ist_4.md",
     "content/Unterrichtsstunde_Gabriels_Horn.md",
-    "content/Ebenengleichung_bestimmen.md",
     "content/Falschaussagen_Analysis_Gegenbeispiele.md",
     "content/Skript_LK_Exponentialfunktionen.md",
     "content/Rätselsammlung.md",

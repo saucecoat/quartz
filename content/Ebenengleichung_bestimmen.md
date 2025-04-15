@@ -259,7 +259,7 @@ Gegenseitige Lage der beiden jeweiligen Geraden bestimmen.
 >
 >Die Lage der Geraden $g$ & $h$ wird wie gewohnt bestimmt. 
 >
->Sind $g$ & $h$ windschief, so liegen sie nicht auf einer gemeinsamen Geraden und es kann <u>**keine**</u> Ebenengleichung bestimmt werden.
+>Sind $g$ & $h$ windschief, so liegen sie nicht auf einer gemeinsamen Ebene und es kann <u>**keine**</u> Ebenengleichung bestimmt werden.
 
 ### **Schritt 2:** Spannvektoren bestimmen
 
