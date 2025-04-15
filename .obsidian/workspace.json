@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1dc52949b1e6b056",
@@ -184,12 +185,13 @@
   "active": "075928fc70796e1d",
   "lastOpenFiles": [
     "sync.ffs_lock",
+    "layouts/shortcodes/video.md",
+    "content/Die_Doomsday-Methode.md",
     "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
     "content/templates/post.md",
     "content/templates/youtube.md",
     "content/templates/gif.md",
     "content/templates/video.md",
-    "content/Die_Doomsday-Methode.md",
     "content/Ebenengleichung_bestimmen.md",
     "content/Warum_sich_der_Kalender_alle_28_Jahre_wiederholt.md",
     "content/Falschaussagen_Analysis_Gegenbeispiele.md",
@@ -211,7 +213,6 @@
     "content/Intro_Group_Theory_Crystals.md",
     "content/Vergleich_Pokémon_Typen.md",
     "content/Zählen_im_Binärsystem.md",
-    "content/Sätze_generieren_Unterrichtsidee.md",
     "content/images/Orthogonale_Vektoren_2.png",
     "content/images/Orthogonale_Vektoren_1.png",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_6.png",
