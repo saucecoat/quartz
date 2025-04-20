@@ -269,6 +269,7 @@ Das war's :)
 Keine Regel ohne Ausnahme, so auch bei der Osterberechnung. Vor der gregorianischen Kalenderreform war der 25.04. der letztmögliche Ostertermin. Dies sollte auch nach der Reform so bleiben, allerdings konnte es nun sein, dass Ostern nach den Berechnungsregeln in seltenen Fällen auch am 26.04. stattfinden hätte müssen. Dies sollte auf jeden Fall verhindert werden und deshalb gibt es zwei Ausnahmeregeln:
 
 - **Ausnahmeregel 1**: Fällt Ostern laut Berechnung auf den 26.04., so wird es stattdessen eine Woche nach hinten verschoben auf den 19.04.
+
 - **Ausnahmeregel 2**: Fällt Ostern laut Berechnung auf den 25.04. **UND** ist der Vollmond an einem Sonntag **UND** ist $a > 10$, dann wird es stattdessen eine Woche nach hinten verschoben auf den 18.04. (Ist auch nur eine der 3 Bedingungen nicht erfüllt, so bleibt es bei dem errechneten Osterdatum.)
 
 ## Beispiele 
