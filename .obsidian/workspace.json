@@ -4,18 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "f7b7b9d860550a90",
+        "id": "ee24ea672eb7d270",
         "type": "tabs",
         "children": [
           {
-            "id": "d15ad266cf40446c",
+            "id": "0ea65c96dd01eb47",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Osterdatum_im_Kopf_berechnen.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Osterdatum_im_Kopf_berechnen"
+            },
+            "group": "a8679a9613ffc9a7"
+          },
+          {
+            "id": "244c480f62009cfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Die_Doomsday-Methode.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Die_Doomsday-Methode"
             }
+          }
+        ]
+      },
+      {
+        "id": "afb06397a473955f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f572e2ca39efd693",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Osterdatum_im_Kopf_berechnen.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Osterdatum_im_Kopf_berechnen"
+            },
+            "group": "a8679a9613ffc9a7"
           }
         ]
       }
@@ -84,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1dc52949b1e6b056",
@@ -177,11 +218,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d15ad266cf40446c",
+  "active": "0ea65c96dd01eb47",
   "lastOpenFiles": [
     "sync.ffs_lock",
-    "layouts/shortcodes/video.md",
     "content/Die_Doomsday-Methode.md",
+    "content/Osterdatum_im_Kopf_berechnen.md",
+    "content/images/ostern_tage_vor_modulo_7.mp4",
+    "content/images/ostern_tage_vor.mp4",
+    "content/images/ostern_fruehlingsbeginn_2045.mp4",
+    "content/images/ostern_fruehlingsbeginn_1965.mp4",
+    "content/images/ostern_fruehlingsbeginn_1789.mp4",
+    "content/images/ostern_fruehlingsbeginn_1981.mp4",
+    "content/images/ostern_fruehlingsbeginn_2106.mp4",
+    "layouts/shortcodes/video.md",
     "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
     "content/templates/post.md",
     "content/templates/youtube.md",
@@ -207,7 +256,6 @@
     "content/Bézier_Curves.md",
     "content/Intro_Group_Theory_Crystals.md",
     "content/Vergleich_Pokémon_Typen.md",
-    "content/Zählen_im_Binärsystem.md",
     "content/images/Orthogonale_Vektoren_2.png",
     "content/images/Orthogonale_Vektoren_1.png",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_6.png",
