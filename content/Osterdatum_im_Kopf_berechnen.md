@@ -67,6 +67,7 @@ $100 \div 7 = {\color{blue}{14}} \text{ Rest } {\color{red}{2}}$
 Es gibt in der Mathematik zwei verschiedene Schreibweisen um nur das maximal passende Vielfache bzw. nur den Rest zu betrachten:
 
 $\lfloor \frac{100}{7} \rfloor = {\color{blue}{14}}$
+
 $100 \pmod{7} = {\color{red}{2}}$
 
 Die zweite Schreibweise für den Rest wird $\text{modulo}$ ausgesprochen und man kann sich vorstellen, dass man in unserem Beispiel so lange $7$ von der $100$ abzieht, bis man eine positive Zahl erreicht hat, die kleiner als $7$ ist.
