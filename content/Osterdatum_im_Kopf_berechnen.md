@@ -122,7 +122,7 @@ Will man den Wochentag 4 Tage später wissen, so geht man mit dem Daumen vier Kn
 
 {{< video src="/images/ostern_tage_vor.mp4" >}}
 
-Wenn wir mehr als 7 Tage vorwärts gehen müssen, dann können wir Vielfache von 7 abziehen — nach 7 Tagen kommen wir nämlich wieder am selben Wochentag an. Wenn wir also z.&nbsp;B. 18 Tage vorwärts gehen müssen, dann ist das dasselbe, als wenn wir 11 Tage vorwärts gehen. Das ist wiederum dasselbe, als wenn wir 4 Tage vorwärts gehen. Wir müssen also nur $18 \pmod{7} = 4$ Tage vorwärts gehen.
+Wenn wir mehr als 7 Tage vorwärts gehen müssen, dann können wir Vielfache von 7 abziehen — nach 7 Tagen kommen wir nämlich wieder am selben Wochentag an. Wenn wir also z.&nbsp;B. 18 Tage vorwärts gehen müssen, dann ist das dasselbe, als wenn wir 11 Tage vorwärts gehen. Das ist wiederum dasselbe, als wenn wir 4 Tage vorwärts gehen. Wir müssen also nur $18 \pmod{7} = 4$ Tage vorwärts gehen. 
 
 {{< video src="/images/ostern_tage_vor_modulo_7.mp4" >}}
 
@@ -236,7 +236,7 @@ Hier ein paar Werte für $D$:
 
 #### 2. Wochentag des Vollmondes bestimmen
 
-Wir gehen nun also mit dem Daumen $c$ Tage nach vorne, um den Wochentag des Vollmondes zu erhalten. Hierbei kann man wie in "[[#Die Wochentage auf der Hand]]" gesehen auch Vielfache von $7$ abziehen. 
+	Wir gehen nun also mit dem Daumen $c$ Tage nach vorne, um den Wochentag des Vollmondes zu erhalten. Hierbei kann man wie im Theorieteil gesehen auch Vielfache von $7$ abziehen. 
 Wenn ich z.&nbsp;B. $23$ Tage nach vorne gehe, dann kann ich auch einfach nur $2$ Tage nach vorne gehen, da $23 \pmod{7} = 2$.
 
 #### 3. Datum des Vollmondes bestimmen
