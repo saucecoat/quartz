@@ -144,7 +144,7 @@ Als Mond wird nicht der echte Himmelskörper zurate gezogen, sondern der eben be
 
 Das Datum des Frühlingsbeginns für die Osterberechnung ist der 21. März. Es bleibt also nur noch den Wochentag dieses Tages für ein bestimmtes Jahr herauszufinden.
 
-Hier bedienen wir uns eines Verfahrens, das ich im Rahmen der [[Den Wochentag jedes beliebigen Datums bestimmen — Die Doomsday-Methode|Doomsday-Methode]] entwickelt habe. Mit der Doomsday-Methode kann man den Wochentag eines beliebigen Datums bestimmen. Wen die Hintergründe interessieren, warum das gezeigte Verfahren den Wochentag des Frühlingsbeginns bestimmen kann, der liest am besten den Artikel zur Doomsday-Methode. So viel sei gesagt, der 21. März ist zufälligerweise genau ein Doomsday ;)
+Hier bedienen wir uns eines Verfahrens, das ich im Rahmen der [[Die_Doomsday-Methode|Doomsday-Methode]] entwickelt habe. Mit der Doomsday-Methode kann man den Wochentag eines beliebigen Datums bestimmen. Wen die Hintergründe interessieren, warum das gezeigte Verfahren den Wochentag des Frühlingsbeginns bestimmen kann, der liest am besten den Artikel zur Doomsday-Methode. So viel sei gesagt, der 21. März ist zufälligerweise genau ein Doomsday ;)
 
 Im Folgenden werde ich lediglich das Verfahren ohne Erklärung geben.
 
