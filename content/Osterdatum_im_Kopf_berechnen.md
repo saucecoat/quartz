@@ -97,15 +97,15 @@ Die Multiplikation mit 11 ist für Zahlen zwischen 1 und 18 besonders einfach.
 
 **Einstellige Zahlen** werden einfach verdoppelt:
 
-$11 \cdot 4 = 44$
-$11 \cdot 7 = 77$
+$11 \cdot 4 = 44$<br>
+$11 \cdot 7 = 77$<br>
 etc.
 
 Bei **zweistelligen Zahlen** bleiben die beiden Ziffern links und rechts stehen und zwischen diese schreibt man die Summe der beiden Ziffern:
 
-$11 \cdot 13 = 1(1+3)3 = 143$
-$11 \cdot 15 = 1(1+5)5 = 165$
-$11 \cdot 17 = 1(1+7)7 = 187$
+$11 \cdot 13 = 1(1+3)3 = 143$<br>
+$11 \cdot 15 = 1(1+5)5 = 165$<br>
+$11 \cdot 17 = 1(1+7)7 = 187$<br>
 etc.
 
 
@@ -153,12 +153,17 @@ Wir denken uns auf unser Hand ein bei Dienstag beginnendes Häkchen ✔️.
 
 Wir gehen zunächst wie folgt vor:
 
-1. Wir denken uns die **ersten beiden Ziffern der gewünschten Jahreszahl** und setzen den Daumen auf **Dienstag**.
-2. In 1er-Schritten **entlang des Häkchens** gehen, bis zum nächsten **Vielfachen von 4**. 
-3. Dort bleibt der Daumen und wir denken uns die **letzten beiden Ziffern der gewünschten Jahreszahl**.
-4. Bei 0 beginnend **nähern wir uns nun dieser Zahl** so weit es geht in **12er-Schritten** und gehen pro 12er-Schritt mit dem Daumen um einen Knöchel vor.
-5. Wir schauen **wie viel jetzt noch zur gewünschten Zahl fehlt**. Bei der 0 beginnend gehen wir so viele Male **1 Knöchel vorwärts**. **Bei der 4 und 8 jedoch gehen wir um 2 Knöchel** vorwärts.
-6. Der Wochentag auf dem der Daumen jetzt liegt ist, der Wochentag des 21.03.
+>1. Wir denken uns die **ersten beiden Ziffern der gewünschten Jahreszahl** und setzen den Daumen auf **Dienstag**.
+>
+>2. In 1er-Schritten **entlang des Häkchens** gehen, bis zum nächsten **Vielfachen von 4**. 
+>
+>3. Dort bleibt der Daumen und wir denken uns die **letzten beiden Ziffern der gewünschten Jahreszahl**.
+>
+>4. Bei 0 beginnend **nähern wir uns nun dieser Zahl** so weit es geht in **12er-Schritten** und gehen pro 12er-Schritt mit dem Daumen um einen Knöchel vor.
+>
+>5. Wir schauen **wie viel jetzt noch zur gewünschten Zahl fehlt**. Bei der 0 beginnend gehen wir so viele Male **1 Knöchel vorwärts**. **Bei der 4 und 8 jedoch gehen wir um 2 Knöchel** vorwärts.
+>
+>6. Der Wochentag auf dem der Daumen jetzt liegt, ist der Wochentag des 21.03.
 
 #### Beispiel 2045
 
@@ -207,7 +212,8 @@ Die Variable $D$ ist für ein ganzes Jahrhundert immer gleich, sodass man sich d
 
 >$D = H - \lfloor \frac{H}{3} \rfloor - \lfloor \frac{H}{4} \rfloor +15$ [^3]
 
-Der Wert für $D$ steigt also jedes Jahrhundert um $1$. Wenn das Jahrhundert bzw. die ersten beiden Ziffern des Jahres ($H$) durch $3$ oder $4$ teilbar sind, dann bleibt der Wert, wie er ist. Ist $H$ sogar durch $12$ teilbar, also sowohl durch $3$ und $4$ teilbar, dann verringert sich der Wert von $D$ sogar um $1$.<br> 
+Der Wert für $D$ steigt also jedes Jahrhundert um $1$. Wenn das Jahrhundert bzw. die ersten beiden Ziffern des Jahres ($H$) durch $3$ oder $4$ teilbar sind, dann bleibt der Wert, wie er ist. Ist $H$ sogar durch $12$ teilbar, also sowohl durch $3$ und $4$ teilbar, dann verringert sich der Wert von $D$ sogar um $1$.
+
 Hier ein paar Werte für $D$:
 
 | **$H$** | **$D$** | 
@@ -296,7 +302,7 @@ c &= 24 - 12 \pmod{30}\\
 &= 12 
 \end{align*}$$
 
-**Vollmond ist also 12 Tage nach dem 21.03., also am 02.04. **
+Vollmond ist also 12 Tage nach dem 21.03., also am 02.04.
 
 Der 21.03. ist wie in Schritt 1 gesehen ein Dienstag. 12 Tage später ist also ein **Sonntag**, da man von Dienstag $12 \pmod{7} = 5$ Tage vorwärts gehen muss.
 
@@ -341,7 +347,7 @@ c &= 24 - 25 \pmod{30}\\
 &= 29
 \end{align*}$$
 
-**Vollmond ist also 29 Tage nach dem 21.03., also am 19.04. **
+Vollmond ist also 29 Tage nach dem 21.03., also am 19.04. 
 
 Der 21.03. ist wie in Schritt 1 gesehen ein Samstag. 29 Tage später ist also ein **Sonntag**, da man von Samstag $29 \pmod{7} = 1$ Tag vorwärts gehen muss.
 
@@ -369,7 +375,7 @@ $a$ berechnen
 $$
 \begin{matrix}
   & 2 & 1 & 0 & 6 & & \longrightarrow & & 2 & 0 & 6 & & \longrightarrow & & 1 & 6  \\\\
-  \- & 1 & 9 & & & & & \- & 1 & 9 & & & & & &  \\\\
+	  \- & 1 & 9 & & & & & \- & 1 & 9 & & & & & &  \\\\
 \end{matrix}
 $$
 
@@ -389,7 +395,7 @@ c &= 24 - 26 \pmod{30}\\
 &= 28
 \end{align*}$$
 
-**Vollmond ist also 28 Tage nach dem 21.03., also am 18.04. **
+Vollmond ist also 28 Tage nach dem 21.03., also am 18.04. 
 
 Der 21.03. ist wie in Schritt 1 gesehen ein Sonntag. 28 Tage später ist also ein **Sonntag**, da man von Samstag $28 \pmod{7} = 0$ Tage vorwärts gehen muss.
 
