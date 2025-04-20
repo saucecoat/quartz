@@ -259,7 +259,8 @@ Ist $c = 21$, dann ist der Vollmond am 11.04.
 
 ### Schritt 3 - Datum des folgenden Sonntags bestimmen
 
-Wir kennen nun also den Wochentag und das Datum des ersten Frühlingsvollmondes. Den darauffolgenden Sonntag zu finden ist ein Leichtes. Wir gehen schlicht mit dem Daumen zum nächsten Sonntag und zählen dabei beim Datum pro Knöchel, den wir voranschreiten, 1 dazu. Ist der Vollmond an einem Sonntag, so gehen wir zum nächsten Sonntag
+Wir kennen nun also den Wochentag und das Datum des ersten Frühlingsvollmondes. Den darauffolgenden Sonntag zu finden ist ein Leichtes. Wir gehen schlicht mit dem Daumen zum nächsten Sonntag und zählen dabei beim Datum pro Knöchel, den wir voranschreiten, 1 dazu. Ist der Vollmond an einem Sonntag, so gehen wir zum nächsten Sonntag.
+
 Das war's :)
 
 ### Zwei Ausnahmen
