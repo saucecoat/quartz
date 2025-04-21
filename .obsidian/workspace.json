@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "532b2ed614762a3c",
+        "id": "197a8190dae2814f",
         "type": "tabs",
         "children": [
           {
-            "id": "27e6b127cc3b5454",
+            "id": "4ac1926c2ac8889c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Osterdatum_im_Kopf_berechnen.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Osterdatum_im_Kopf_berechnen"
             }
           }
         ]
@@ -177,10 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27e6b127cc3b5454",
+  "active": "4ac1926c2ac8889c",
   "lastOpenFiles": [
-    "content/Osterdatum_im_Kopf_berechnen.md",
     "sync.ffs_lock",
+    "content/Osterdatum_im_Kopf_berechnen.md",
     "content/Die_Doomsday-Methode.md",
     "content/images/ostern_tage_vor_modulo_7.mp4",
     "content/images/ostern_tage_vor.mp4",

@@ -19,7 +19,7 @@ tags:
 
 Ostern ist ein beweglicher Feiertag. Das Osterfest scheint von Jahr zu Jahr recht zufällig hin und her zu springen. Zu erklären warum und wie man das Osterdatum im Kopf berechnen kann, ist das Ziel dieses Artikels. 
 
-Zunächst werde ich im Theorieteil die historischen, mathematischen und astronomischen (Ostern hat schließlich etwas mit den Mondphasen zu tun) erklären. Anschließend werde ich die Rechenmethode vorstellen, welche zu großen Teilen auf der [Osterformel von Carl Friedrich Gauß](https://de.wikipedia.org/wiki/Gau%C3%9Fsche_Osterformel) fußt und abschließend folgen noch 3 Beispiele samt Empfehlungen für weiterführende Literatur.
+Zunächst werde ich im Theorieteil die historischen, mathematischen und astronomischen (Ostern hat schließlich etwas mit den Mondphasen zu tun) erklären. Anschließend werde ich die Rechenmethode vorstellen, welche zu großen Teilen auf der [Osterformel von Carl Friedrich Gauß](https://de.wikipedia.org/wiki/Gau%C3%9Fsche_Osterformel) fußt und abschließend folgen noch ein paar Rechenbeispiele samt Empfehlungen für weiterführende Literatur.
 
 Im Kapitel der Rechenmethode wird die Herkunft der verwendeten Formel zwar nicht explizit erklärt, jedoch finden sich im Theorieteil einige unterstrichene Zahlen. Die Theorie hinter diesen Zahlen liefert eine Idee, warum die Formel, die diese Zahlen enthalten, so sind wie sie sind. 
 
@@ -317,6 +317,49 @@ Der folgende Sonntag ist 7 Tage später, also am 09.04.
 
 **<u>Ostersonntag 2045 ist also der 09.04.</u>**
 
+### Jahr 1801
+
+#### Schritt 1
+
+{{< video src="/images/ostern_fruehlingsbeginn_1801.mp4" >}}
+
+#### Schritt 2
+
+$a$ berechnen
+
+$$
+\begin{matrix}
+  & 1 & 8 & 0 & 1 & & \longrightarrow & & 1 & 0 & 4 & 1 & & \longrightarrow & & & 9 & 1 & & \longrightarrow & & 1 & 5 \\\\
+  \- & & 7 & 9 & & & & \- & & 9 & 5 & & & & \- & & 7 & 6 & & & & & \\\\
+\end{matrix}
+$$
+
+$b$ berechnen
+
+$$\begin{align*}
+b &= 1(1+5)5 \pmod{30}\\
+&= 165 \pmod{30}\\
+&= 15
+\end{align*}$$
+
+$c$ berechnen
+
+$$\begin{align*}
+c &= 23 - 15 \pmod{30}\\
+&= 8
+\end{align*}$$
+
+**Vollmond ist also 8 Tage nach dem 21.03., also am 29.03. **
+
+Der 21.03. ist wie in Schritt 1 gesehen ein Samstag. 8 Tage später ist also ein **Sonntag**, da man von Samstag $8 \pmod{7} = 1$ Tag vorwärts gehen muss.
+
+Der Vollmond findet also am Sonntag, den 29.03. statt.
+
+#### Schritt 3
+
+Der folgende Sonntag ist 7 Tage später, also am 05.04.
+
+**<u>Ostersonntag 1801 ist also der 05.04.</u>**
 
 ### Jahr 1981
 
