@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "02e873852410244a",
+        "id": "532b2ed614762a3c",
         "type": "tabs",
         "children": [
           {
-            "id": "3b262b2d82d616c1",
+            "id": "27e6b127cc3b5454",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b262b2d82d616c1",
+  "active": "27e6b127cc3b5454",
   "lastOpenFiles": [
     "content/Osterdatum_im_Kopf_berechnen.md",
     "sync.ffs_lock",
