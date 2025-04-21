@@ -349,7 +349,7 @@ c &= 23 - 15 \pmod{30}\\
 &= 8
 \end{align*}$$
 
-**Vollmond ist also 8 Tage nach dem 21.03., also am 29.03. **
+Vollmond ist also 8 Tage nach dem 21.03., also am 29.03.
 
 Der 21.03. ist wie in Schritt 1 gesehen ein Samstag. 8 Tage später ist also ein **Sonntag**, da man von Samstag $8 \pmod{7} = 1$ Tag vorwärts gehen muss.
 
