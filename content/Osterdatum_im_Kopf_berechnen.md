@@ -236,7 +236,7 @@ Hier ein paar Werte für $D$:
 
 #### 2. Wochentag des Vollmondes bestimmen
 
-	Wir gehen nun also mit dem Daumen $c$ Tage nach vorne, um den Wochentag des Vollmondes zu erhalten. Hierbei kann man wie im Theorieteil gesehen auch Vielfache von $7$ abziehen. 
+Wir gehen nun also mit dem Daumen $c$ Tage nach vorne, um den Wochentag des Vollmondes zu erhalten. Hierbei kann man wie im Theorieteil gesehen auch Vielfache von $7$ abziehen. 
 Wenn ich z.&nbsp;B. $23$ Tage nach vorne gehe, dann kann ich auch einfach nur $2$ Tage nach vorne gehen, da $23 \pmod{7} = 2$.
 
 #### 3. Datum des Vollmondes bestimmen
