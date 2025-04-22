@@ -258,13 +258,13 @@ Ist $c = 13$, dann ist der Vollmond am 03.04.
 Ist $c = 21$, dann ist der Vollmond am 11.04.
 
 
-## Schritt 3 - Datum des folgenden Sonntags bestimmen
+### Schritt 3 - Datum des folgenden Sonntags bestimmen
 
 Wir kennen nun also den Wochentag und das Datum des ersten Frühlingsvollmondes. Den darauffolgenden Sonntag zu finden ist ein Leichtes. Wir gehen schlicht mit dem Daumen zum nächsten Sonntag und zählen dabei beim Datum pro Knöchel, den wir voranschreiten, 1 Tag weiter. Ist der Vollmond an einem Sonntag, so gehen wir zum nächsten Sonntag.
 
 Das war's :)
 
-## Zwei Ausnahmen
+### Zwei Ausnahmen
 
 Keine Regel ohne Ausnahme, so auch bei der Osterberechnung. Vor der gregorianischen Kalenderreform war der 25.04. der letztmögliche Ostertermin. Dies sollte auch nach der Reform so bleiben, allerdings konnte es nun sein, dass Ostern nach den Berechnungsregeln in seltenen Fällen auch am 26.04. stattfinden hätte müssen. Dies sollte auf jeden Fall verhindert werden. Der Grund der zweiten Ausnahmeregel wird an dieser Stelle nicht erklärt. Hierfür wird auf eine [externe Quelle](http://nabkal.de/ostern.html) verwiesen. Die Ausnahmeregeln lauten:
 
