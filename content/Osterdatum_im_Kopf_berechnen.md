@@ -42,7 +42,7 @@ $$\begin{align*}
 235 \cdot 29,53 &= 6939,55  \text{\quad(235 Mondmonate)}\\
 \end{align*}$$
 
-Das bedeutet, dass sich die Mondphasen alle 19 Kalenderjahre wieder (mehr oder weniger) genau an derselben Stelle im Kalender liegen. 
+Das bedeutet, dass sich die Mondphasen alle 19 Kalenderjahre wieder (mehr oder weniger) genau an derselben Stelle im Kalender befinden. 
 
 
 ### Gregorianische Kalenderreform
@@ -260,7 +260,8 @@ Ist $c = 21$, dann ist der Vollmond am 11.04.
 
 ## Schritt 3 - Datum des folgenden Sonntags bestimmen
 
-Wir kennen nun also den Wochentag und das Datum des ersten Frühlingsvollmondes. Den darauffolgenden Sonntag zu finden ist ein Leichtes. Wir gehen schlicht mit dem Daumen zum nächsten Sonntag und zählen dabei beim Datum pro Knöchel, den wir voranschreiten, 1 Tag weiter. Ist der Vollmond an einem Sonntag, so gehen wir zum nächsten Sonntag
+Wir kennen nun also den Wochentag und das Datum des ersten Frühlingsvollmondes. Den darauffolgenden Sonntag zu finden ist ein Leichtes. Wir gehen schlicht mit dem Daumen zum nächsten Sonntag und zählen dabei beim Datum pro Knöchel, den wir voranschreiten, 1 Tag weiter. Ist der Vollmond an einem Sonntag, so gehen wir zum nächsten Sonntag.
+
 Das war's :)
 
 ## Zwei Ausnahmen
