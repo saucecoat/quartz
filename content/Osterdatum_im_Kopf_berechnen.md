@@ -21,7 +21,7 @@ Ostern ist ein beweglicher Feiertag. Das Osterfest scheint von Jahr zu Jahr rech
 
 Zunächst werde ich im Theorieteil die historischen, mathematischen und astronomischen (Ostern hat schließlich etwas mit den Mondphasen zu tun) erklären. Anschließend werde ich die Rechenmethode vorstellen, welche zu großen Teilen auf der [Osterformel von Carl Friedrich Gauß](https://de.wikipedia.org/wiki/Gau%C3%9Fsche_Osterformel) fußt und abschließend folgen noch ein paar Rechenbeispiele samt Empfehlungen für weiterführende Literatur.
 
-Im Kapitel der Rechenmethode wird die Herkunft der verwendeten Formel zwar nicht explizit erklärt, jedoch finden sich im Theorieteil einige unterstrichene Zahlen. Die Theorie hinter diesen Zahlen liefert eine Idee, warum die Formel, die diese Zahlen enthalten, so sind wie sie sind. 
+Im Kapitel der Rechenmethode wird die Herkunft der verwendeten Formel zwar nicht explizit erklärt, jedoch finden sich im Theorieteil einige unterstrichene Zahlen. Die Theorie hinter diesen Zahlen liefert eine Idee, warum die Formeln, die diese Zahlen enthalten, so sind wie sie sind. 
 
 ## Theorie
 
@@ -30,9 +30,9 @@ Im Kapitel der Rechenmethode wird die Herkunft der verwendeten Formel zwar nicht
 Die Erde bewegt sich in rund 365,242 Tagen einmal um die Sonne — auch *tropisches Jahr* genannt.
 Das *Kalenderjahr* hat jedoch nur 365 Tage und ist damit etwas zu kurz. Aus diesem Grund wurden schon in dem von Julius Caesar eingeführten julianischen Kalender gelegentlich Schalttage eingefügt, um die durchschnittliche Länge des Kalenders näher an den tatsächlichen Wert zu bringen. Jedes vierte Jahr wurde der 29. Februar eingefügt. Damit betrug die durchschnittliche Länge des Kalenderjahres 365,25 Tage, was 365,242 Tagen sehr nahe kommt.
 
-Der Mond durchläuft von Neumond zu Neumond verschiedene Phasen. Ein solcher Durchgang — auch *Lunation* genannt — dauert durchschnittlich 29,53 Tage. Diese Dauer nennt man *synodischer Monat*, bzw. für unsere Zwecke einfach *Mondmonat*. Für die Osterberechnung, für die Mondphasen entscheidend sind, wurde mit der Näherung 29,5 Tage (gerundet <u>**30 Tage**</u>) gerechnet.
-Es fällt auf, dass 12 Mondmonate kürzer sind als 12 Monate, nämlich nur rund 354 Tage lang und damit gut **<u>11 Tage</u>** kürzer als ein Kalenderjahr.
+Der Mond durchläuft von Neumond zu Neumond verschiedene Phasen. Ein solcher Durchgang — auch *Lunation* genannt — dauert durchschnittlich 29,53 Tage. Diese Dauer nennt man *synodischer Monat*, bzw. für unsere Zwecke einfach *Mondmonat*. Bei der Osterberechnung, für die Mondphasen entscheidend sind, wird mit der Näherung 29,5 Tage (gerundet <u>**30 Tage**</u>) gerechnet.
 
+Es fällt auf, dass 12 Mondmonate kürzer sind als 12 Monate, nämlich nur rund 354 Tage lang und damit gut **<u>11 Tage</u>** kürzer als ein Kalenderjahr.
 Ist also an einem bestimmten Datum Neumond, so ist im darauffolgenden Jahr 11 Kalendertage früher Neumond. Im Kalender gesehen wandert der Mond quasi jedes Jahr um 11 Tage nach vorne (Richtung Jahresbeginn).
 
 Interessanterweise sind **<u>19 Kalenderjahre</u>** beinahe genau so lang sind wie 235 Mondmonate.
