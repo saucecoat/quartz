@@ -356,7 +356,7 @@ c &= 23 - 14 \pmod{30}\\
 
 Vollmond ist also 9 Tage nach dem 21.03., also am 30.03.
 
-Der 21.03. ist wie in Schritt 1 gesehen ein Dienstag. 9 Tage später ist also ein **Donnerstag**, da man von Samstag $9 \pmod{7} = 2$ Tage vorwärts gehen muss.
+Der 21.03. ist wie in Schritt 1 gesehen ein Dienstag. 9 Tage später ist also ein **Donnerstag**, da man von Dienstag $9 \pmod{7} = 2$ Tage vorwärts gehen muss.
 
 Der Vollmond findet also am Donnerstag, den 30.03. statt.
 
