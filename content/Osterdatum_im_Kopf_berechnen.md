@@ -64,7 +64,7 @@ Bei der Division mit Rest schreibt man sowohl auf, wie oft eine Zahl in eine and
 
 $100 \div 7 = {\color{blue}{14}} \text{ Rest } {\color{red}{2}}$
 
-Es gibt in der Mathematik zwei verschiedene Schreibweisen um nur das maximal passende Vielfache bzw. nur den Rest zu betrachten:
+Es gibt in der Mathematik zwei verschiedene Schreibweisen, um jeweils nur das maximal passende Vielfache bzw. nur den Rest zu betrachten:
 
 $\lfloor \frac{100}{7} \rfloor = {\color{blue}{14}}$
 
@@ -72,7 +72,7 @@ $100 \pmod{7} = {\color{red}{2}}$
 
 Die zweite Schreibweise für den Rest wird $\text{modulo}$ ausgesprochen und man kann sich vorstellen, dass man in unserem Beispiel so lange $7$ von der $100$ abzieht, bis man eine positive Zahl erreicht hat, die kleiner als $7$ ist.
 
-Da wir die Division mit Rest für die Zahl $19$ brauchen werden, schauen wir uns diese kurz genauer an. Vielfache von $19$, die man sich merken sollte sind: $19$, $38$, $57$, $76$, $95$. 
+Da wir die Rechnen $\text{modulo } 19$ brauchen werden, schauen wir uns dies kurz genauer an. Vielfache von $19$, die man sich hierfür merken sollte sind: $19$, $38$, $57$, $76$, $95$. 
 Diese ziehen wir an beliebigen Stellen einer Jahreszahl so lange ab, bis wir eine positive Zahl kleiner als $19$ erreicht haben. Beispiel für das Jahr $2070$:
 
 $$
@@ -82,7 +82,7 @@ $$
 \end{matrix}
 $$
 
-Wenn man $95$ abzieht, kann man sich stattdessen auch denken, dass man $100$ abzieht und $5$ addiert. Also $1$ weniger und zwei Stellen rechts davon $5$ mehr. So wurde aus $113$ die $18$. Man hätte auch die $170$ zu $75$ verändern können:
+Wenn man $95$ abzieht, kann man sich stattdessen auch denken, dass man $100$ abzieht und $5$ addiert. Also $1$ weniger und zwei Stellen rechts davon $5$ mehr. So wurde aus $113$ die $18$.<br>Man hätte also auch die $170$ zu $75$ verändern können:
 
 $$
 \begin{matrix}
@@ -93,11 +93,13 @@ $$
 
 Viele Wege führen zum Rest ;)
 
+Da das Rechnen $\text{modulo } 19$ immer eine positive Zahl zum Ergebnis hat, die kleiner als $19$ ist, sind somit nur Zahlen von $0$ bis $18$ als Rest möglich.
+
 #### Multiplikation mit 11
 
-Die Multiplikation mit 11 ist für Zahlen zwischen 1 und 18 besonders einfach. 
+Die Multiplikation mit $11$ ist für Zahlen von $0$ und $18$ besonders einfach. 
 
-**Einstellige Zahlen** werden einfach verdoppelt:
+**Einstellige Zahlen** werden schlicht verdoppelt:
 
 $11 \cdot 4 = 44$<br>
 $11 \cdot 7 = 77$<br>
@@ -136,7 +138,7 @@ Die Bestimmung des Osterdatums ist historisch sehr turbulent und wurde im [1. Ko
 
 >Ostern fällt auf den ersten Sonntag nach dem Tag des ersten Vollmondes nach Frühlingsbeginn. [^2]
 
-Um also das Osterdatum für ein Jahr berechnen zu können, müssen wir zunächst herausfinden, an welchem Tag der Frühling beginnt. Anschließend müssen wir bestimmen, an welchem Tag der nächstfolgende Vollmond stattfindet und zum Schluss den darauffolgenden Sonntag berechnen.
+Um also das Osterdatum für ein Jahr berechnen zu können, müssen wir zunächst herausfinden, an welchem Tag der Frühling beginnt. Anschließend müssen wir berechnen, an welchem Tag der nächstfolgende Vollmond stattfindet und zum Schluss den darauffolgenden Sonntag bestimmen.
 
 Wichtig hierbei ist, dass es sich hierbei nicht um die tatsächlichen astronomischen Zeitpunkte von Frühlingsbeginn und Vollmond handelt. Als Frühlingsbeginn wurde fix der **21. März** gewählt — der tatsächliche Frühlingsbeginn ist teilweise auch 1 bis 2 Tage früher. 
 Als Mond wird nicht der echte Himmelskörper zurate gezogen, sondern der eben beschriebene errechnete Mond.
@@ -163,7 +165,7 @@ Wir gehen zunächst wie folgt vor:
 >
 >4. Bei 0 beginnend **nähern wir uns nun dieser Zahl** so weit es geht in **12er-Schritten** und gehen pro 12er-Schritt mit dem Daumen um einen Knöchel vor.
 >
->5. Wir schauen **wie viel jetzt noch zur gewünschten Zahl fehlt**. Bei der 0 beginnend gehen wir so viele Male **1 Knöchel vorwärts**. **Bei der 4 und 8 jedoch gehen wir um 2 Knöchel** vorwärts.
+>5. Wir schauen, **wie viel jetzt noch zur gewünschten Zahl fehlt**. Bei der 0 beginnend gehen wir so viele Male **1 Knöchel vorwärts**. **Bei der 4 und 8 jedoch gehen wir um 2 Knöchel** vorwärts.
 >
 >6. Der Wochentag auf dem der Daumen jetzt liegt, ist der Wochentag des 21.03.
 
@@ -218,7 +220,7 @@ Der Wert für $D$ steigt also jedes Jahrhundert um $1$. Wenn das Jahrhundert bzw
 
 Hier ein paar Werte für $D$:
 
-| **$H$** | **$D$** | 
+| **$H$** | **$D$** |
 |:-------:|:-------:|
 |  $15$   |  $22$   |
 |  $16$   |  $22$   |
@@ -231,6 +233,8 @@ Hier ein paar Werte für $D$:
 |  $23$   |  $26$   |
 |  $24$   |  $25$   |
 |  $25$   |  $26$   |
+|  $26$   |  $27$   |
+|  $27$   |  $27$   | 
 
 >**Vollmond ist dann $c$ Tage nach dem 21.03.**
 
@@ -241,7 +245,8 @@ Wenn ich z.&nbsp;B. $23$ Tage nach vorne gehe, dann kann ich auch einfach nur $2
 
 #### 3. Datum des Vollmondes bestimmen
 
-Um das Datum des Vollmondes zu bestimmen, muss man schlicht zum 21.03. $c$ Tage hinzuzählen. Wir können uns allerdings einen Umstand zunutze machen. $11$ Tage nach dem 21.03. ist der 1. April. Wenn also $c>10$ ist, dann müssen wir von $c$ einfach $10$ abziehen und erhalten den Tag des Datums im April.
+Um das Datum des Vollmondes zu bestimmen, muss man schlicht zum 21.03. $c$ Tage hinzuzählen. Wir können uns dabei den folgenden Umstand zunutze machen:<br>
+Ist $c$ nicht größer als $10$, so liegt das Vollmonddatum im März, ist $c$ größer als $10$, so liegt es im April. $11$ Tage nach dem 21.03. ist der 1. April. Wenn also $c>10$ ist, dann müssen wir von $c$ einfach $10$ abziehen und erhalten den Tag des Datums im April.
 
 >Wenn $c \leq 10$, dann ist der Vollmond am ($21 + c$). März.
 >
@@ -318,11 +323,11 @@ Der folgende Sonntag ist 7 Tage später, also am 09.04.
 
 **<u>Ostersonntag 2045 ist also der 09.04.</u>**
 
-### Jahr 1801
+### Jahr 1809
 
 #### Schritt 1
 
-{{< video src="/images/ostern_fruehlingsbeginn_1801.mp4" >}}
+{{< video src="/images/ostern_fruehlingsbeginn_1809.mp4" >}}
 
 #### Schritt 2
 
@@ -330,37 +335,36 @@ $a$ berechnen
 
 $$
 \begin{matrix}
-  & 1 & 8 & 0 & 1 & & \longrightarrow & & 1 & 0 & 4 & 1 & & \longrightarrow & & & 9 & 1 & & \longrightarrow & & 1 & 5 \\\\
-  \- & & 7 & 9 & & & & \- & & 9 & 5 & & & & \- & & 7 & 6 & & & & & \\\\
+  & 1 & 8 & 0 & 9 & & \longrightarrow & & 1 & 0 & 4 & 9 & & \longrightarrow & & & 9 & 9 & & \longrightarrow & & & 4 \\\\
+  \- & & 7 & 6 & & & & \- & & 9 & 5 & & & & \- & & 9 & 5 & & & & & \\\\
 \end{matrix}
 $$
 
 $b$ berechnen
 
 $$\begin{align*}
-b &= 1(1+5)5 \pmod{30}\\
-&= 165 \pmod{30}\\
-&= 15
+b &= 44 \pmod{30}\\
+&= 14 
 \end{align*}$$
 
 $c$ berechnen
 
 $$\begin{align*}
-c &= 23 - 15 \pmod{30}\\
-&= 8
+c &= 23 - 14 \pmod{30}\\
+&= 9
 \end{align*}$$
 
-Vollmond ist also 8 Tage nach dem 21.03., also am 29.03.
+Vollmond ist also 9 Tage nach dem 21.03., also am 30.03.
 
-Der 21.03. ist wie in Schritt 1 gesehen ein Samstag. 8 Tage später ist also ein **Sonntag**, da man von Samstag $8 \pmod{7} = 1$ Tag vorwärts gehen muss.
+Der 21.03. ist wie in Schritt 1 gesehen ein Dienstag. 9 Tage später ist also ein **Donnerstag**, da man von Samstag $9 \pmod{7} = 2$ Tage vorwärts gehen muss.
 
-Der Vollmond findet also am Sonntag, den 29.03. statt.
+Der Vollmond findet also am Donnerstag, den 30.03. statt.
 
 #### Schritt 3
 
-Der folgende Sonntag ist 7 Tage später, also am 05.04.
+Der folgende Sonntag ist 3 Tage später, also am 02.04.
 
-**<u>Ostersonntag 1801 ist also der 05.04.</u>**
+**<u>Ostersonntag 1809 ist also der 02.04.</u>**
 
 ### Jahr 1981
 

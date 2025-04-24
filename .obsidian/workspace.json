@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e67fb39882a1a2ad",
+        "id": "e3eda8f6186e4060",
         "type": "tabs",
         "children": [
           {
-            "id": "c6ec6f0f03a73ebd",
+            "id": "86e0ce68a76569ed",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1dc52949b1e6b056",
@@ -177,10 +178,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6ec6f0f03a73ebd",
+  "active": "86e0ce68a76569ed",
   "lastOpenFiles": [
     "content/Osterdatum_im_Kopf_berechnen.md",
     "sync.ffs_lock",
+    "content/images/ostern_fruehlingsbeginn_1809.mp4",
     "content/Die_Doomsday-Methode.md",
     "content/images/ostern_tage_vor_modulo_7.mp4",
     "content/images/ostern_tage_vor.mp4",
@@ -200,7 +202,6 @@
     "content/Falschaussagen_Analysis_Gegenbeispiele.md",
     "content/Beliebige_Münzen_simulieren.md",
     "content/images/doomsday_bsp_1500.mp4",
-    "content/images/doomsday_tage_vor.mp4",
     "content/Pi_ist_4.md",
     "content/Unterrichtsstunde_Gabriels_Horn.md",
     "content/Skript_LK_Exponentialfunktionen.md",
