@@ -140,6 +140,10 @@ Die Bestimmung des Osterdatums ist historisch sehr turbulent und wurde im [1. Ko
 
 Um also das Osterdatum für ein Jahr berechnen zu können, müssen wir demnach zunächst herausfinden, an welchem Tag der Frühling beginnt. Anschließend müssen wir berechnen, an welchem Tag der nächstfolgende Vollmond stattfindet und zum Schluss den darauffolgenden Sonntag bestimmen.
 
+Wichtig hierbei ist, dass es sich hierbei nicht um die tatsächlichen astronomischen Zeitpunkte von Frühlingsbeginn und Vollmond handelt.<br>
+Als Frühlingsbeginn wurde fix der **21. März** gewählt — der tatsächliche Frühlingsbeginn ist teilweise auch 1 bis 2 Tage früher. 
+Als Mond wird nicht der echte Himmelskörper zurate gezogen, sondern der eben beschriebene errechnete Mond.
+
 Wir unterteilen das Finden des Osterdatums also in 3 Schritte:
 
 >**Schritt 1:** Wochentag des Frühlingsbeginns bestimmen
@@ -148,9 +152,6 @@ Wir unterteilen das Finden des Osterdatums also in 3 Schritte:
 >
 >**Schritt 3:** Datum des folgenden Sonntags bestimmen
 
-Wichtig hierbei ist, dass es sich hierbei nicht um die tatsächlichen astronomischen Zeitpunkte von Frühlingsbeginn und Vollmond handelt.<br>
-Als Frühlingsbeginn wurde fix der **21. März** gewählt — der tatsächliche Frühlingsbeginn ist teilweise auch 1 bis 2 Tage früher. 
-Als Mond wird nicht der echte Himmelskörper zurate gezogen, sondern der eben beschriebene errechnete Mond.
 
 ### Schritt 1 - Wochentag des Frühlingsbeginns bestimmen
 
