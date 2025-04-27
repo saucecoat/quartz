@@ -52,7 +52,7 @@ Da das Kalenderjahr etwas zu lang ist, lief der Kalender im Jahr 1582 dem tatsä
 
 Die von Papst Gregor XIII. in diesem Jahre angestoßene Kalenderreform sollte dies beheben. Den entstandenen *gregorianische Kalender* benutzen wir in dieser Form noch heute. 
 Zur Korrektur des Sonnenjahres wurden einmalig 10 Tage ausgelassen und es werden fortan innerhalb eines Zeitraums von **<u>400 Jahren</u>** immer jeweils 3 Schalttage ausgelassen (z.&nbsp;B. sind die Jahre 1700, 1800, 1900 nach der neuen Regel keine Schaltjahre mehr, das Jahr 2000 hingegen bleibt ein Schaltjahr). 
-Zur Korrektur des Mondzyklen setzte man den errechneten Mond einmalig um drei Tage zurück, um fortan den errechneten Mond alle **<u>300 Jahre</u>** um einen Tag zurückzusetzen. [^1]
+Zur Korrektur der Mondzyklen setzte man den errechneten Mond einmalig um drei Tage zurück, um fortan den errechneten Mond alle **<u>300 Jahre</u>** um einen Tag zurückzusetzen. [^1]
 
 ### Rechengrundlagen
 
@@ -138,9 +138,18 @@ Die Bestimmung des Osterdatums ist historisch sehr turbulent und wurde im [1. Ko
 
 >Ostern fällt auf den ersten Sonntag nach dem Tag des ersten Vollmondes nach Frühlingsbeginn. [^2]
 
-Um also das Osterdatum für ein Jahr berechnen zu können, müssen wir zunächst herausfinden, an welchem Tag der Frühling beginnt. Anschließend müssen wir berechnen, an welchem Tag der nächstfolgende Vollmond stattfindet und zum Schluss den darauffolgenden Sonntag bestimmen.
+Um also das Osterdatum für ein Jahr berechnen zu können, müssen wir demnach zunächst herausfinden, an welchem Tag der Frühling beginnt. Anschließend müssen wir berechnen, an welchem Tag der nächstfolgende Vollmond stattfindet und zum Schluss den darauffolgenden Sonntag bestimmen.
 
-Wichtig hierbei ist, dass es sich hierbei nicht um die tatsächlichen astronomischen Zeitpunkte von Frühlingsbeginn und Vollmond handelt. Als Frühlingsbeginn wurde fix der **21. März** gewählt — der tatsächliche Frühlingsbeginn ist teilweise auch 1 bis 2 Tage früher. 
+Wir unterteilen das Finden des Osterdatums also in 3 Schritte:
+
+>**Schritt 1:** Wochentag des Frühlingsbeginns bestimmen
+>
+>**Schritt 2:** Wochentag und Datum des Vollmondes berechnen
+>
+>**Schritt 3:** Datum des folgenden Sonntags bestimmen
+
+Wichtig hierbei ist, dass es sich hierbei nicht um die tatsächlichen astronomischen Zeitpunkte von Frühlingsbeginn und Vollmond handelt.<br>
+Als Frühlingsbeginn wurde fix der **21. März** gewählt — der tatsächliche Frühlingsbeginn ist teilweise auch 1 bis 2 Tage früher. 
 Als Mond wird nicht der echte Himmelskörper zurate gezogen, sondern der eben beschriebene errechnete Mond.
 
 ### Schritt 1 - Wochentag des Frühlingsbeginns bestimmen
