@@ -72,7 +72,7 @@ $100 \pmod{7} = {\color{red}{2}}$
 
 Die zweite Schreibweise für den Rest wird $\text{modulo}$ ausgesprochen und man kann sich vorstellen, dass man in unserem Beispiel so lange $7$ von der $100$ abzieht, bis man eine positive Zahl erreicht hat, die kleiner als $7$ ist.
 
-Da wir die Rechnen $\text{modulo } 19$ brauchen werden, schauen wir uns dies kurz genauer an. Vielfache von $19$, die man sich hierfür merken sollte sind: $19$, $38$, $57$, $76$, $95$. 
+Da wir das Rechnen $\text{modulo } 19$ brauchen werden, schauen wir uns dies kurz genauer an. Vielfache von $19$, die man sich hierfür merken sollte sind: $19$, $38$, $57$, $76$, $95$. 
 Diese ziehen wir an beliebigen Stellen einer Jahreszahl so lange ab, bis wir eine positive Zahl kleiner als $19$ erreicht haben. Beispiel für das Jahr $2070$:
 
 $$
@@ -93,7 +93,7 @@ $$
 
 Viele Wege führen zum Rest ;)
 
-Da das Rechnen $\text{modulo } 19$ immer eine positive Zahl zum Ergebnis hat, die kleiner als $19$ ist, sind somit nur Zahlen von $0$ bis $18$ als Rest möglich.
+In der Modulo-Schreibweise bedeutet das also: $2070 \pmod{19} = 18$. Da das Rechnen $\text{modulo } 19$ immer eine positive Zahl zum Ergebnis hat, die kleiner als $19$ ist, sind somit nur Zahlen von $0$ bis $18$ als Rest möglich.
 
 #### Multiplikation mit 11
 
