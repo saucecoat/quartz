@@ -212,7 +212,7 @@ Für das Jahr $2045$ wäre also $J = 2045$ und $H = 20$.
 
 Für die Berechnung des Vollmondes müssen wir ein paar Zwischenergebnisse ausrechnen und diese jeweils weiterverarbeiten. Die Zwischenergebnisse $a$ und $b$ braucht man, um $c$ auszurechnen. 
 
-Bei der Berechnung der Variablen $a$ und $b$ helfen uns unsere Rechentipps aus [obigem Kapitel](#Rechengrundlagen).
+Bei der Berechnung der Variablen $a$ und $b$ helfen uns unsere Rechentipps von oben.
 
 >$a = J \pmod{19}$
 >
