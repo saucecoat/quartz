@@ -161,23 +161,22 @@ Hier bedienen wir uns eines Verfahrens, das ich im Rahmen der [[Die_Doomsday-Met
 
 Im Folgenden werde ich lediglich das Verfahren ohne Erklärung geben.
 
-Wir denken uns auf unser Hand ein bei Dienstag beginnendes Häkchen ✔️.
+Wir denken uns auf unserer Hand ein bei Dienstag beginnendes Häkchen ✔️.
 
 ![[images/doomsday_hand_haken.png]]
 
 Wir gehen zunächst wie folgt vor:
 
->1. Wir denken uns die **ersten beiden Ziffern der gewünschten Jahreszahl** und setzen den Daumen auf **Dienstag**.
+>1. Wir setzen den Daumen auf **Dienstag** und denken uns die **ersten beiden Ziffern der gewünschten Jahreszahl**.
 >
->2. In 1er-Schritten **entlang des Häkchens** gehen, bis zum nächsten **Vielfachen von 4**. 
->
+>2. Bei 0 beginnend **nähern wir uns nun dieser Zahl** in 1er-Schritten **entlang des Häkchens** gehen, bis zum nächsten **Vielfachen von 4**. 
 >3. Dort bleibt der Daumen und wir denken uns die **letzten beiden Ziffern der gewünschten Jahreszahl**.
 >
 >4. Bei 0 beginnend **nähern wir uns nun dieser Zahl** so weit es geht in **12er-Schritten** und gehen pro 12er-Schritt mit dem Daumen um einen Knöchel vor.
 >
 >5. Wir schauen, **wie viel jetzt noch zur gewünschten Zahl fehlt**. Bei der 0 beginnend gehen wir so viele Male **1 Knöchel vorwärts**. **Bei der 4 und 8 jedoch gehen wir um 2 Knöchel** vorwärts.
 >
->6. Der Wochentag auf dem der Daumen jetzt liegt, ist der Wochentag des 21.03.
+>6. Der Wochentag auf dem der Daumen jetzt liegt ist, der Wochentag des 21.03.
 
 #### Beispiel 2045
 
@@ -220,7 +219,7 @@ Bei der Berechnung der Variablen $a$ und $b$ helfen uns unsere Rechentipps von o
 >
 >$c = D - b \pmod{30}$
 
-Sollte bei der Berechnung von $c$ ein negatives Ergebnis auftauchen, addiert man einfach einmal $30$ damit man wieder eine positive Zahl erhält.
+Sollte bei der Berechnung von $c$ ein negatives Ergebnis auftauchen, addiert man einfach einmal $30$, damit man wieder eine positive Zahl erhält.
 
 Die Variable $D$ ist für ein ganzes Jahrhundert immer gleich, sodass man sich dieses auch einfach merken kann. Für die Jahrhunderte, die an $1900$, $2000$ und $2100$ beginnen ist der Wert für $D = 24$. Für andere Jahrhunderte berechnet man $D$ wie folgt:
 
