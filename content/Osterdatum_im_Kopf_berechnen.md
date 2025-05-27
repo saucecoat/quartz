@@ -245,7 +245,7 @@ Hier ein paar Werte für $D$:
 |  $26$   |  $27$   |
 |  $27$   |  $27$   | 
 
->**Vollmond ist dann $c$ Tage nach dem 21.03.**
+>Vollmond ist dann $c$ Tage nach dem 21.03.
 
 #### 2. Wochentag des Vollmondes bestimmen
 
@@ -486,5 +486,5 @@ Der folgende Sonntag ist 7 Tage später, also am 25.04.
 
 [^2]: Ist der Vollmond an einem Sonntag, so findet Ostern am darauffolgenden Sonntag statt. (siehe auch das Unterkapitel "Zwei Ausnahmen")
 
-[^3]: Die 3 und die 4 in den Rechnungen kommen durch die Korrekturen in der gregorianischen Kalenderreform alle 300 bzw. 400 Jahre. $\lfloor \frac{H}{3} \rfloor$ ist die Korrektur für den Mond und $\lfloor \frac{H}{4} \rfloor$ für die Sonne.
+[^3]: Die 3 und die 4 in den Rechnungen kommen durch die Korrekturen in der gregorianischen Kalenderreform alle 300 bzw. 400 Jahre.<br>$-\lfloor \frac{H}{3} \rfloor$ ist die Korrektur für den Mond und $H - \lfloor \frac{H}{4} \rfloor$ für die Sonne.
 
