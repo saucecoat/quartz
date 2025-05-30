@@ -346,7 +346,7 @@ Ist $d = 21$, dann ist der Ostersonntag am 11.04.
 
 Das war's :)
 <br><br>
-Nehmen an, dass der Frühlingsbeginn am Donnerstag liegt und $c = 19$:
+Nehmen wir an, dass der Frühlingsbeginn am Donnerstag liegt und $c = 19$:
 
 {{< video src="/images/ostern_tage_vor_ostersonntag.mp4" >}}
 
