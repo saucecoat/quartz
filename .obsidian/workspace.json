@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e24479060c6e3c0",
+        "id": "744d76d53b988634",
         "type": "tabs",
         "children": [
           {
-            "id": "6753a62ee01feb69",
+            "id": "47d745fd7c5a294c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -178,19 +178,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6753a62ee01feb69",
+  "active": "47d745fd7c5a294c",
   "lastOpenFiles": [
     "content/Osterdatum_im_Kopf_berechnen.md",
     "sync.ffs_lock",
-    "content/images/ostern_fruehlingsbeginn_1809.mp4",
+    "content/images/ostern_mod19_1500.mp4",
+    "content/images/ostern_mod19_2045.mp4",
+    "content/images/ostern_mod19_1809.mp4",
+    "content/images/ostern_mod19_1981.mp4",
+    "content/images/ostern_mod19_2106.mp4",
+    "content/images/ostern_mod19_1995.mp4",
+    "content/images/ostern_mod19_260.mp4",
+    "content/images/ostern_mod19_70.mp4",
+    "content/images/ostern_tage_vor_ostersonntag.mp4",
     "content/Die_Doomsday-Methode.md",
-    "content/images/ostern_tage_vor_modulo_7.mp4",
-    "content/images/ostern_tage_vor.mp4",
-    "content/images/ostern_fruehlingsbeginn_2045.mp4",
-    "content/images/ostern_fruehlingsbeginn_1965.mp4",
-    "content/images/ostern_fruehlingsbeginn_1789.mp4",
-    "content/images/ostern_fruehlingsbeginn_1981.mp4",
-    "content/images/ostern_fruehlingsbeginn_2106.mp4",
     "layouts/shortcodes/video.md",
     "content/Die_zwei_Darstellungsarten_des_Skalarprodukts.md",
     "content/templates/post.md",
@@ -201,7 +202,6 @@
     "content/Warum_sich_der_Kalender_alle_28_Jahre_wiederholt.md",
     "content/Falschaussagen_Analysis_Gegenbeispiele.md",
     "content/Beliebige_Münzen_simulieren.md",
-    "content/images/doomsday_bsp_1500.mp4",
     "content/Pi_ist_4.md",
     "content/Unterrichtsstunde_Gabriels_Horn.md",
     "content/Skript_LK_Exponentialfunktionen.md",

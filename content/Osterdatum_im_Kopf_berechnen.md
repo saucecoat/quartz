@@ -72,28 +72,104 @@ $100 \pmod{7} = {\color{red}{2}}$
 
 Die zweite Schreibweise für den Rest wird $\text{modulo}$ ausgesprochen und man kann sich vorstellen, dass man in unserem Beispiel so lange $7$ von der $100$ abzieht, bis man eine positive Zahl erreicht hat, die kleiner als $7$ ist.
 
-Da wir das Rechnen $\text{modulo } 19$ brauchen werden, schauen wir uns dies kurz genauer an. Vielfache von $19$, die man sich hierfür merken sollte sind: $19$, $38$, $57$, $76$, $95$. 
-Diese ziehen wir an beliebigen Stellen einer Jahreszahl so lange ab, bis wir eine positive Zahl kleiner als $19$ erreicht haben. Beispiel für das Jahr $2070$:
+Da wir das Rechnen $\text{modulo } 19$ brauchen werden, schauen wir uns dies kurz genauer an. 
+
+##### Rechnen $\text{modulo } 19$ 
+
+Wenn man bei einer Zahl $19$ abzieht, so hat diese immer noch denselben Rest beim Teilen durch $19$ wie zuvor. Ähnlich wie man beim Zurückdrehen einer Uhr um 12 Stunden, wieder auf derselben Zahl landet. 
+
+Natürlich kann man auch Vielfache von $19$ abziehen. So haben z.&nbsp;B. $260$ und $260-19$ denselben Rest $\text{modulo } 19$, aber auch $260$ und $260-190$. 
+
+Letzteres können wir auch wie folgt darstellen:
 
 $$
 \begin{matrix}
-  & 2 & 0 & 7 & 0 & & \longrightarrow & & 1 & 7 & 0 & & \longrightarrow & & 1 & 1 & 3 & & \longrightarrow & & 1 & 8 \\\\
-  \- & 1 & 9 & & & & & \- & & 5 & 7 & & & \- & & 9 & 5 & & & & & \\\\
+  & 2 & 6 & 0 \\ 
+\- & 1 & 9 & 
 \end{matrix}
 $$
 
-Wenn man $95$ abzieht, kann man sich stattdessen auch denken, dass man $100$ abzieht und $5$ addiert. Also $1$ weniger und zwei Stellen rechts davon $5$ mehr. So wurde aus $113$ die $18$.<br>Man hätte also auch die $170$ zu $75$ verändern können:
+Im Kopf lässt sich $-19$ leichter als $-20$ und $+1$ rechnen:
 
 $$
 \begin{matrix}
-  & 2 & 0 & 7 & 0 & & \longrightarrow & & 1 & 7 & 0 & & \longrightarrow & &  & 7 & 5 & & \longrightarrow & & 1 & 8 \\\\
-  \- & 1 & 9 & & & & & \- & & 9 & 5 & & & \- & & 5 & 7 & & & & & \\\\
+  & 2 & 6 & 0 \\ 
+\- & 2 & 0 &   \\ 
+  & \+ & 1 & 
 \end{matrix}
 $$
 
-Viele Wege führen zum Rest ;)
+Sprich man zieht an einer Stelle $2$ ab und addiert $1$ zur Stelle rechts daneben:
 
-In der Modulo-Schreibweise bedeutet das also: $2070 \pmod{19} = 18$. Da das Rechnen $\text{modulo } 19$ immer eine positive Zahl zum Ergebnis hat, die kleiner als $19$ ist, sind somit nur Zahlen von $0$ bis $18$ als Rest möglich.
+$$
+\begin{matrix}
+  & \phantom{-}2 & \phantom{+}6 & 0 \\ 
+  & \-2 & \+1 & 
+\end{matrix}
+$$
+
+Dieser Prozess lässt sich auch wie folgt beschreiben: 
+
+Man zieht an einer Stelle $2$ ab, halbiert diese und addiert das Ergebnis zur Stelle rechts daneben.
+
+{{< video src="/images/ostern_mod19_260.mp4" >}}
+
+Es gilt also: $260 \pmod{19} = 70 \pmod{19}$, d.&nbsp;h. $260$ und $70$ haben beim Teilen durch $19$ den gleichen Rest. 
+
+Da man beliebige Vielfache von $19$ abziehen kann, kann man auch $3 \cdot 19 = 57$ abziehen. 
+
+$$
+\begin{matrix}
+  &  & 7 & 0 \\ 
+  & \- & 5 & 7 
+\end{matrix}
+$$
+
+Im Kopf leichter zu rechnen als:
+
+$$
+\begin{matrix}
+  &  & 7 & 0 \\ 
+  & \- & 6 & 0 \\ 
+  &   & \+ & 3
+\end{matrix}
+$$
+
+Oder auch:
+
+$$
+\begin{matrix}
+  &  & \phantom{-}7 & \phantom{+}0 \\ 
+  &  & \-6 & \+3 
+\end{matrix}
+$$
+
+Dieser Prozess lässt sich abermals wie folgt beschreiben: 
+
+Man zieht an einer Stelle $6$ ab, halbiert diese und addiert das Ergebnis zur Stelle rechts daneben.
+
+Diese Vorgehensweise gilt jedoch nicht nur für $2$ und $6$, sondern ganz allgemein für jede beliebige gerade Zahl:
+
+>Man zieht an einer Stelle eine gerade Zahl ab, halbiert diese und addiert das Ergebnis zur Stelle rechts daneben.
+
+Ist die Stelle, bei der man die gerade Zahl abziehen will, eine ungerade Zahl, so bleibt $1$ als Rest stehen:
+
+{{< video src="/images/ostern_mod19_70.mp4" >}}
+
+Also ist $260 \pmod{19} = 13$. Das gleiche Ergebnis hätte man auch — und sogar schneller — erhalten, wenn man zu Beginn direkt die zweistellige Zahl $26$ abgezogen hätte:
+
+{{< video src="/images/ostern_mod19_260_2.mp4" >}}
+
+Hier ein Beispiel mit ungeraden zweistelligen Zahlen:
+
+{{< video src="/images/ostern_mod19_1500.mp4" >}}
+
+Also gilt: $1500 \pmod{19} = 18$.
+
+ Begegnet man auf dem Weg des Kopfrechnens einer $19$ so kann man diese direkt durch Nullen ersetzen. Dies verkürzt oft die Rechnung. 
+ Bleibt am Ende der Rechnung $19$ übrig, so **muss** man diese gar durch $0$ ersetzen, da das Rechnen $\text{modulo } 19$ immer eine positive Zahl zum Ergebnis hat, die kleiner als $19$ ist. Somit sind nur Zahlen von $0$ bis $18$ als Rest möglich.
+
+{{< video src="/images/ostern_mod19_1995.mp4" >}}
 
 #### Multiplikation mit 11
 
@@ -124,11 +200,14 @@ Will man den Wochentag 4 Tage später wissen, so geht man mit dem Daumen vier Kn
 
 {{< video src="/images/ostern_tage_vor.mp4" >}}
 
-Wenn wir mehr als 7 Tage vorwärts gehen müssen, dann können wir Vielfache von 7 abziehen — nach 7 Tagen kommen wir nämlich wieder am selben Wochentag an. Wenn wir also z.&nbsp;B. 18 Tage vorwärts gehen müssen, dann ist das dasselbe, als wenn wir 11 Tage vorwärts gehen. Das ist wiederum dasselbe, als wenn wir 4 Tage vorwärts gehen. Wir müssen also nur $18 \pmod{7} = 4$ Tage vorwärts gehen. 
+Wenn wir mehr als 7 Tage vorwärts gehen müssen, dann können wir den Daumen dort lassen, wo er ist und solange Vielfache von 7 addieren, bis wir möglichst nah an der gewünschten Zahl sind — nach 7 Tagen kommen wir nämlich ohnehin wieder am selben Wochentag aus.<br> 
+Wenn wir also z.&nbsp;B. 18 Tage vorwärts gehen müssen, dann sind wir nach 7 Tagen wieder beim selben Wochentag, nach 14 Tagen auch. Um nun zu den gewünschten 18 Tagen zu kommen, müssen wir nur noch 4 Tage vorwärts gehen. Also $18 \pmod{7} = 4$.
+
+> Man nähert sich also einfach in 7er-Schritten der gewünschten Anzahl an Tagen und lässt den Daumen währenddessen, wo er ist. Die fehlenden Tag geht man dann in Einzelschritten weiter.
 
 {{< video src="/images/ostern_tage_vor_modulo_7.mp4" >}}
 
-Müssten wir 100 Tage vorwärts gehen, dann wäre das wie oben gesehen dasselbe wie $100 \pmod{7} = 2$ Tage. 
+Müssten wir 100 Tage vorwärts gehen, dann wären wir nach 7, 14, 21,...., 70, 77, 84, 91, 98 Tagen wieder am selben Wochentag. Wir müssen also insgesamt nur 2 Wochentage vorwärts gehen. Es ist also wie bereits oben gesehen, $100 \pmod{7} = 2$. 
 
 ## Osterberechnung
 
@@ -148,7 +227,7 @@ Wir unterteilen das Finden des Osterdatums also in 3 Schritte:
 
 >**Schritt 1:** Wochentag des Frühlingsbeginns bestimmen
 >
->**Schritt 2:** Wochentag und Datum des Vollmondes berechnen
+>**Schritt 2:** Abstand zwischen Frühlingsbeginn und Vollmond berechnen
 >
 >**Schritt 3:** Datum des folgenden Sonntags bestimmen
 
@@ -190,18 +269,10 @@ Wir gehen zunächst wie folgt vor:
 
 {{< video src="/images/ostern_fruehlingsbeginn_1789.mp4" >}}
 
-### Schritt 2 - Wochentag und Datum des Vollmondes berechnen
+### Schritt 2 - Abstand zwischen Frühlingsbeginn und Vollmond berechnen
 
 
-Der schwierigste Schritt ist die Berechnung des Wochentags und des Datums des Vollmondes. Diese erfolgt in 3 Schritten:
-
-1.  Abstand des Vollmondes vom 21.03. berechnen
-2. Wochentag des Vollmondes bestimmen
-3. Datum des Vollmondes bestimmen 
-
-#### 1. Abstand des Vollmondes vom 21.03. berechnen
-
-Wir führen hierfür zunächst zwei Schreibweisen ein:
+Der schwierigste Schritt ist die Berechnung des Abstands zwischen dem Frühlingsbeginn und dem nächsten Vollmond zu berechnen. Wir führen hierfür zunächst zwei Schreibweisen ein:
 
 $J$: Jahreszahl
 
@@ -247,36 +318,37 @@ Hier ein paar Werte für $D$:
 
 >Vollmond ist dann $c$ Tage nach dem 21.03.
 
-#### 2. Wochentag des Vollmondes bestimmen
-
-Wir gehen nun also mit dem Daumen $c$ Tage nach vorne, um den Wochentag des Vollmondes zu erhalten. Hierbei kann man wie im Theorieteil gesehen auch Vielfache von $7$ abziehen. 
-Wenn ich z.&nbsp;B. $23$ Tage nach vorne gehe, dann kann ich auch einfach nur $2$ Tage nach vorne gehen, da $23 \pmod{7} = 2$.
-
-#### 3. Datum des Vollmondes bestimmen
-
-Um das Datum des Vollmondes zu bestimmen, muss man schlicht zum 21.03. $c$ Tage hinzuzählen. Wir können uns dabei den folgenden Umstand zunutze machen:<br>
-Ist $c$ nicht größer als $10$, so liegt das Vollmonddatum im März, ist $c$ größer als $10$, so liegt es im April. $11$ Tage nach dem 21.03. ist der 1. April. Wenn also $c>10$ ist, dann müssen wir von $c$ einfach $10$ abziehen und erhalten den Tag des Datums im April.
-
->Wenn $c \leq 10$, dann ist der Vollmond am ($21 + c$). März.
->
->Wenn $c > 10$, dann ist der Vollmond am ($c-10)$. April.
-
-**Beispiele:**
-
-Ist $c = 4$, dann ist der Vollmond am 25.03.
-
-Ist $c =10$, dann ist der Vollmond am 31.03.
-
-Ist $c = 13$, dann ist der Vollmond am 03.04.
-
-Ist $c = 21$, dann ist der Vollmond am 11.04.
-
 
 ### Schritt 3 - Datum des folgenden Sonntags bestimmen
 
-Wir kennen nun also den Wochentag und das Datum des ersten Frühlingsvollmondes. Den darauffolgenden Sonntag zu finden ist ein Leichtes. Wir gehen schlicht mit dem Daumen zum nächsten Sonntag und zählen dabei beim Datum pro Knöchel, den wir voranschreiten, 1 Tag weiter. Ist der Vollmond an einem Sonntag, so gehen wir zum nächsten Sonntag.
+Wir wissen nun, an welchem Datum und Wochentag der Frühlingsbeginn (21.03.) stattfindet und wie viele Tage später der Vollmond stattfindet. Wir gehen nun also mit dem Daumen vom in Schritt 1 berechneten Wochentag des Frühlingsbeginns $c$ Tage nach vorne, um den Wochentag des Vollmondes zu erhalten.<br> 
+Wie im obigen Kapitel *Die Wochentage auf der Hand* gesehen kann man hierbei auch in 7er-Schritten nähern. So finden wir schließlich den Wochentag des ersten Frühlingsvollmondes der $c$ Tage nach dem Frühlingsbeginn liegt. Den Abstand des darauffolgenden Sonntags zum 21.03. zu finden ist ein Leichtes. Wir gehen schlicht mit dem Daumen zum nächsten Sonntag und zählen dabei von $c$ beginnend immer um 1 Tag weiter. Ist der Vollmond an einem Sonntag, so gehen wir zum nächsten Sonntag. Nennen wir den Abstand von Frühlingsbeginn und dem Ostersonntag $d$.
+
+Um zu wissen, welches Datum dieser Sonntag hat, können uns den folgenden Umstand zunutze machen: 
+
+Ist $d$ nicht größer als $10$, so liegt das Osterdatum im März, ist $d$ größer als $10$, so liegt es im April. $11$ Tage nach dem 21.03. ist der 1. April. <br>
+Wenn also $d>10$ ist, dann müssen wir von $d$ einfach $10$ abziehen und erhalten den Tag des Datums im April.
+
+>Wenn $d \leq 10$, dann ist der Ostersonntag am ($21 + d$). März.
+>
+>Wenn $d > 10$, dann ist der Ostersonntag am ($d - 10)$. April.
+
+**Beispiele:**
+
+Ist $d = 4$, dann ist der Ostersonntag am 25.03. 
+
+Ist $d = 10$, dann ist der Ostersonntag am 31.03.
+
+Ist $d = 13$, dann ist der Ostersonntag am 03.04.
+
+Ist $d = 21$, dann ist der Ostersonntag am 11.04.
+
 
 Das war's :)
+<br><br>
+Nehmen an, dass der Frühlingsbeginn am Donnerstag liegt und $c = 19$:
+
+{{< video src="/images/ostern_tage_vor_ostersonntag.mp4" >}}
 
 ### Zwei Ausnahmen
 
@@ -298,12 +370,12 @@ Keine Regel ohne Ausnahme, so auch bei der Osterberechnung. Vor der gregorianisc
 
 $a$ berechnen
 
-$$
-\begin{matrix}
-  & 2 & 0 & 4 & 5 & & \longrightarrow & & 1 & 4 & 5 & & \longrightarrow & & 1 & 0 & 7 & & \longrightarrow & & 1 & 2 \\\\
-  \- & 1 & 9 & & & & & \- & & 3 & 8 & & & \- & & 9 & 5 & & & & & \\\\
-\end{matrix}
-$$
+{{< video src="/images/ostern_mod19_2045.mp4" >}}
+
+$$\begin{align*}
+a &= 2045 \pmod{19}\\
+&= 12
+\end{align*}$$
 
 $b$ berechnen
 
@@ -320,15 +392,9 @@ c &= 24 - 12 \pmod{30}\\
 &= 12 
 \end{align*}$$
 
-Vollmond ist also 12 Tage nach dem 21.03., also am 02.04.
-
-Der 21.03. ist wie in Schritt 1 gesehen ein Dienstag. 12 Tage später ist also ein **Sonntag**, da man von Dienstag $12 \pmod{7} = 5$ Tage vorwärts gehen muss.
-
-Der Vollmond findet also am Sonntag, den 02.04. statt.
-
 #### Schritt 3
 
-Der folgende Sonntag ist 7 Tage später, also am 09.04.
+{{< video src="/images/ostern_tage_vor_ostersonntag_2045.mp4" >}}
 
 **<u>Ostersonntag 2045 ist also der 09.04.</u>**
 
@@ -342,12 +408,12 @@ Der folgende Sonntag ist 7 Tage später, also am 09.04.
 
 $a$ berechnen
 
-$$
-\begin{matrix}
-  & 1 & 8 & 0 & 9 & & \longrightarrow & & 1 & 0 & 4 & 9 & & \longrightarrow & & & 9 & 9 & & \longrightarrow & & & 4 \\\\
-  \- & & 7 & 6 & & & & \- & & 9 & 5 & & & & \- & & 9 & 5 & & & & & \\\\
-\end{matrix}
-$$
+{{< video src="/images/ostern_mod19_1809.mp4" >}}
+
+$$\begin{align*}
+a &= 1809 \pmod{19}\\
+&= 4
+\end{align*}$$
 
 $b$ berechnen
 
@@ -363,15 +429,9 @@ c &= 23 - 14 \pmod{30}\\
 &= 9
 \end{align*}$$
 
-Vollmond ist also 9 Tage nach dem 21.03., also am 30.03.
-
-Der 21.03. ist wie in Schritt 1 gesehen ein Dienstag. 9 Tage später ist also ein **Donnerstag**, da man von Dienstag $9 \pmod{7} = 2$ Tage vorwärts gehen muss.
-
-Der Vollmond findet also am Donnerstag, den 30.03. statt.
-
 #### Schritt 3
 
-Der folgende Sonntag ist 3 Tage später, also am 02.04.
+{{< video src="/images/ostern_tage_vor_ostersonntag_1809.mp4" >}}
 
 **<u>Ostersonntag 1809 ist also der 02.04.</u>**
 
@@ -385,12 +445,12 @@ Der folgende Sonntag ist 3 Tage später, also am 02.04.
 
 $a$ berechnen
 
-$$
-\begin{matrix}
-  & 1 & 9 & 8 & 1 & & \longrightarrow & &  & 8 & 1 & & \longrightarrow & & 5 \\\\
-  \- & 1 & 9 & & & & & \- & & 7 & 6 & & & & \\\\
-\end{matrix}
-$$
+{{< video src="/images/ostern_mod19_1981.mp4" >}}
+
+$$\begin{align*}
+a &= 1981 \pmod{19}\\
+&= 5
+\end{align*}$$
 
 $b$ berechnen
 
@@ -407,15 +467,12 @@ c &= 24 - 25 \pmod{30}\\
 &= 29
 \end{align*}$$
 
-Vollmond ist also 29 Tage nach dem 21.03., also am 19.04. 
-
-Der 21.03. ist wie in Schritt 1 gesehen ein Samstag. 29 Tage später ist also ein **Sonntag**, da man von Samstag $29 \pmod{7} = 1$ Tag vorwärts gehen muss.
-
-Der Vollmond findet also am Sonntag, den 19.04. statt.
 
 #### Schritt 3
 
-Der folgende Sonntag ist 7 Tage später, also am 26.04.
+{{< video src="/images/ostern_tage_vor_ostersonntag_1981.mp4" >}}
+
+Der errechnete Ostersonntag ist der 26.04.
 
 **Ausnahmeregel 1**: Ostern fällt zurück auf den 19.04.
 
@@ -432,12 +489,12 @@ Der folgende Sonntag ist 7 Tage später, also am 26.04.
 
 $a$ berechnen
 
-$$
-\begin{matrix}
-  & 2 & 1 & 0 & 6 & & \longrightarrow & & 2 & 0 & 6 & & \longrightarrow & & 1 & 6  \\\\
-	  \- & 1 & 9 & & & & & \- & 1 & 9 & & & & & &  \\\\
-\end{matrix}
-$$
+{{< video src="/images/ostern_mod19_2106.mp4" >}}
+
+$$\begin{align*}
+a &= 2106 \pmod{19}\\
+&= 16
+\end{align*}$$
 
 $b$ berechnen
 
@@ -455,15 +512,11 @@ c &= 24 - 26 \pmod{30}\\
 &= 28
 \end{align*}$$
 
-Vollmond ist also 28 Tage nach dem 21.03., also am 18.04. 
-
-Der 21.03. ist wie in Schritt 1 gesehen ein Sonntag. 28 Tage später ist also ein **Sonntag**, da man von Samstag $28 \pmod{7} = 0$ Tage vorwärts gehen muss.
-
-Der Vollmond findet also am Sonntag, den 18.04. statt.
-
 #### Schritt 3
 
-Der folgende Sonntag ist 7 Tage später, also am 25.04.
+{{< video src="/images/ostern_tage_vor_ostersonntag_2106.mp4" >}}
+
+Der errechnete Ostersonntag ist der 25.04.
 
 **Ausnahmeregel 2**: Ostern fällt laut Berechnung auf den 25.04. **UND** der Vollmond ist an einem Sonntag **UND** $a > 10$. Ostern fällt also zurück auf den 18.04.
 
