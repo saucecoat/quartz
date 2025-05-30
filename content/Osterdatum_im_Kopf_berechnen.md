@@ -207,7 +207,7 @@ Wenn wir also z.&nbsp;B. 18 Tage vorwärts gehen müssen, dann sind wir nach 7 T
 
 {{< video src="/images/ostern_tage_vor_modulo_7.mp4" >}}
 
-Müssten wir 100 Tage vorwärts gehen, dann wären wir nach 7, 14, 21,...., 70, 77, 84, 91, 98 Tagen wieder am selben Wochentag. Wir müssen also insgesamt nur 2 Wochentage vorwärts gehen. Es ist also wie bereits oben gesehen, $100 \pmod{7} = 2$. 
+Müssten wir 100 Tage vorwärts gehen, dann wären wir nach 7, 14, 21,..., 70, 77, 84, 91, 98 Tagen wieder am selben Wochentag. Wir müssen also insgesamt nur 2 Wochentage vorwärts gehen. Es ist also wie bereits oben gesehen, $100 \pmod{7} = 2$. 
 
 ## Osterberechnung
 
