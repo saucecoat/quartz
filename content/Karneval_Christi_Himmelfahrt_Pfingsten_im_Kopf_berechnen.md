@@ -12,18 +12,18 @@ tags:
   - karneval
 ---
 
-# Karnevalssonntag 
+## Karnevalssonntag 
 
 1. [[Osterdatum_im_Kopf_berechnen|Ostern berechnen]] und Variable $d$ merken
 2. Karnevalssonntag ist der $d$-te Februar, in Schaltjahren der $(d+1)$-te Februar
 3. Karneval beginnt 3 Tage vor dem Sonntag (*Weiberfastnacht*) und endet 3 Tage später (*Aschermittwoch*)
 
-# Christi Himmelfahrt
+## Christi Himmelfahrt
 
 1. [[Osterdatum_im_Kopf_berechnen|Ostern berechnen]] und Variable $d$ merken
 2. Christi Himmelfahrt ist der $(d-1)$-te Mai
 
-# Pfingsten
+## Pfingsten
 
 1. [[Osterdatum_im_Kopf_berechnen|Ostern berechnen]] und Variable $d$ merken
 2. Pfingstsonntag ist der $(d+9)$-te Mai 
