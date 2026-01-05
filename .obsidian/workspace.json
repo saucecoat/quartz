@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "410adcc8cc9310a4",
+        "id": "24f2ec74259fe958",
         "type": "tabs",
         "children": [
           {
-            "id": "902eca43506a8083",
+            "id": "e4e55f4c3285a7b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Karneval_Christi_Himmelfahrt_Pfingsten_im_Kopf_berechnen.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Karneval_Christi_Himmelfahrt_Pfingsten_im_Kopf_berechnen"
             }
           }
         ]
@@ -66,8 +70,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -168,6 +172,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -177,11 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "902eca43506a8083",
+  "active": "e4e55f4c3285a7b3",
   "lastOpenFiles": [
+    "content/Karneval_Christi_Himmelfahrt_Pfingsten_im_Kopf_berechnen.md",
     "sync.ffs_lock",
-    "layouts/shortcodes/video.md",
     "content/Osterdatum_im_Kopf_berechnen.md",
+    "layouts/shortcodes/video.md",
     "content/images/ostern_mod19_1500.mp4",
     "content/images/ostern_mod19_2045.mp4",
     "content/images/ostern_mod19_1809.mp4",
@@ -214,7 +220,6 @@
     "content/Orthogonale_Vektoren.md",
     "content/Bézier_Curves.md",
     "content/Intro_Group_Theory_Crystals.md",
-    "content/Vergleich_Pokémon_Typen.md",
     "content/images/Orthogonale_Vektoren_2.png",
     "content/images/Orthogonale_Vektoren_1.png",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_6.png",
