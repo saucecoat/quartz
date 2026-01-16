@@ -1,6 +1,6 @@
 ---
-title: "Karneval, Christi Himmelfahrt & Pfingsten im Kopf berechnen"
-date: "2026-01-05"
+title: Karneval, Christi Himmelfahrt, Pfingsten & Fronleichnam im Kopf berechnen
+date: 2026-01-05
 tags:
   - alle
   - ostern
@@ -45,5 +45,5 @@ Ist die Tageszahl höher als die des letzten Tages in diesem Monat, so ist das D
 >
 >Karnevalssonntag: 34.02./35.02. (Schaltjahr) → 06.03.<br>
 >Christi Himmelfahrt: 33.05. → 02.06.<br>
->Pfingsten: 43.05. → 12.06.
+>Pfingsten: 43.05. → 12.06.<br>
 >Fronleichnam: 54.05. → 23.06.

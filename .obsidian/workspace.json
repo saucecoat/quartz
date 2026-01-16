@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0907a2cf83d5ff76",
+        "id": "3e40efaa3eccfabb",
         "type": "tabs",
         "children": [
           {
-            "id": "679270ac34320d64",
+            "id": "1541489ef70387cc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,9 +179,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "679270ac34320d64",
+  "active": "1541489ef70387cc",
   "lastOpenFiles": [
-    "content/Karneval_Christi_Himmelfahrt_Pfingsten_im_Kopf_berechnen.md",
+    "content/Feiertage_abhängig_von_Ostern_im_Kopf_berechnen.md",
     "sync.ffs_lock",
     "content/Osterdatum_im_Kopf_berechnen.md",
     "layouts/shortcodes/video.md",
