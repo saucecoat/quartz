@@ -10,6 +10,9 @@ tags:
   - pfingsten
   - christi_himmelfahrt
   - karneval
+  - fronleichnam
+  - christentum
+  - feiertag
 ---
 
 ## Karnevalssonntag 
@@ -21,12 +24,18 @@ tags:
 ## Christi Himmelfahrt
 
 1. [[Osterdatum_im_Kopf_berechnen|Ostern berechnen]] und Variable $d$ merken
-2. Christi Himmelfahrt ist der $(d-1)$-te Mai
+2. Christi Himmelfahrt ist der $(d-1)$-te Mai, also 10 Tage nach Christi Himmelfahrt.
 
 ## Pfingsten
 
 1. [[Osterdatum_im_Kopf_berechnen|Ostern berechnen]] und Variable $d$ merken
 2. Pfingstsonntag ist der $(d+9)$-te Mai 
+
+## Fronleichnam 
+
+1. [[Osterdatum_im_Kopf_berechnen|Ostern berechnen]] und Variable $d$ merken
+2. Fronleichnam ist der $(d+20)$-te Mai, also 11 Tage nach Pfingstsonntag.
+	- Alternativ rechnet man ausgehend vom Osterdatum -1 beim Tag und +2 beim Monat. Ostern am 14.04. bedeutet Fronleichnam am 13.06.
 
 ---
 
@@ -37,3 +46,4 @@ Ist die Tageszahl höher als die des letzten Tages in diesem Monat, so ist das D
 >Karnevalssonntag: 34.02./35.02. (Schaltjahr) → 06.03.<br>
 >Christi Himmelfahrt: 33.05. → 02.06.<br>
 >Pfingsten: 43.05. → 12.06.
+>Fronleichnam: 54.05. → 23.06.

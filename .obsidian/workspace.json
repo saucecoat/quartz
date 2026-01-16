@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cd1a464f5a22a84d",
+        "id": "0907a2cf83d5ff76",
         "type": "tabs",
         "children": [
           {
-            "id": "d7a05970cab657dd",
+            "id": "679270ac34320d64",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1dc52949b1e6b056",
@@ -178,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7a05970cab657dd",
+  "active": "679270ac34320d64",
   "lastOpenFiles": [
     "content/Karneval_Christi_Himmelfahrt_Pfingsten_im_Kopf_berechnen.md",
     "sync.ffs_lock",
