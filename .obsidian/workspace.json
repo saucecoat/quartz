@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e40efaa3eccfabb",
+        "id": "7c1d5a192616f3fa",
         "type": "tabs",
         "children": [
           {
-            "id": "1541489ef70387cc",
+            "id": "2e5ca6e12610aff7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,11 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1541489ef70387cc",
+  "active": "2e5ca6e12610aff7",
   "lastOpenFiles": [
     "content/Feiertage_abhängig_von_Ostern_im_Kopf_berechnen.md",
-    "sync.ffs_lock",
     "content/Osterdatum_im_Kopf_berechnen.md",
+    "sync.ffs_lock",
     "layouts/shortcodes/video.md",
     "content/images/ostern_mod19_1500.mp4",
     "content/images/ostern_mod19_2045.mp4",
