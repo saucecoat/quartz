@@ -327,7 +327,7 @@ while any(len(categories[i]) < tasks_per_category for i in categories):
     terms = []
 
    
-  -  --------- Fall a = 0 ---------
+  #  --------- Fall a = 0 ---------
     if a == 0:
         A = Fraction(1, 3) * m
         B = Fraction(b + c, 2) * m
@@ -349,7 +349,7 @@ while any(len(categories[i]) < tasks_per_category for i in categories):
                 parts.append(f"c={-c}")
 
    
-  -  --------- Fall a ≠ 0 ---------
+  #  --------- Fall a ≠ 0 ---------
     else:
         zero_count = (b == 0) + (c == 0)
         n_final = exp + zero_count
