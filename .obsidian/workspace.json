@@ -11,10 +11,14 @@
             "id": "2e5ca6e12610aff7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Übungsaufgaben_Extremstellen_berechnen.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Übungsaufgaben_Extremstellen_berechnen"
             }
           }
         ]
@@ -84,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1dc52949b1e6b056",
@@ -181,9 +184,10 @@
   },
   "active": "2e5ca6e12610aff7",
   "lastOpenFiles": [
+    "sync.ffs_lock",
+    "content/Übungsaufgaben_Extremstellen_berechnen.md",
     "content/Feiertage_abhängig_von_Ostern_im_Kopf_berechnen.md",
     "content/Osterdatum_im_Kopf_berechnen.md",
-    "sync.ffs_lock",
     "layouts/shortcodes/video.md",
     "content/images/ostern_mod19_1500.mp4",
     "content/images/ostern_mod19_2045.mp4",
@@ -216,7 +220,6 @@
     "content/The_Easter_algorithm.md",
     "content/Orthogonale_Vektoren.md",
     "content/Bézier_Curves.md",
-    "content/Intro_Group_Theory_Crystals.md",
     "content/images/Orthogonale_Vektoren_2.png",
     "content/images/Orthogonale_Vektoren_1.png",
     "content/images/Extremwert_DINA4_Kleinstes_Rechteck_6.png",
