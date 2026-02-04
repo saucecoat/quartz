@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be25f6ec3aff2d0d",
+        "id": "6600d18688c6710f",
         "type": "tabs",
         "children": [
           {
-            "id": "2a5e51c429073867",
+            "id": "716b56e1dcb4fbfe",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -178,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a5e51c429073867",
+  "active": "716b56e1dcb4fbfe",
   "lastOpenFiles": [
     "content/Übungsaufgaben_Extremstellen_berechnen.md",
     "sync.ffs_lock",

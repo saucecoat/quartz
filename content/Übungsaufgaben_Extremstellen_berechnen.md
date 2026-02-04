@@ -23,7 +23,7 @@ $a, b, c$ geben die Nullstellen der Ableitungsfunktion $f'(x)=m \cdot \left( a^{
 Die Exponenten geben die Vielfachheit der Nullstellen an.<br>
 Falls Exponent vorhanden $\rightarrow$ VZW-Kriterium nötig.<br>
 Gerader Exponent $\rightarrow$ Sattelpunkt.<br>
-Ungerade Exponent $\rightarrow$ Extrempunkt.
+Ungerader Exponent $\rightarrow$ Extrempunkt.
 
 
 ## Aufgaben
